@@ -1,7 +1,9 @@
 {
-  "updated": "2026-08-17T22:34:14+00:00",
-  "source": "ESPN",
-  "date": "20260115",
+  "updated": "2026-08-17T22:52:56+00:00",
+  "source": "NBA",
+  "season": "",
+  "scheduleGames": 0,
+  "mode": "today+3",
   "count": 0,
   "error": "HTTPError: HTTP Error 403: Forbidden",
   "games": []
