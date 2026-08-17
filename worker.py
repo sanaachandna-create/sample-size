@@ -22,7 +22,16 @@ NATIONAL = {"ESPN", "ESPN2", "ABC", "TNT", "NBC", "Peacock",
 
 def fetch(date=None):
     url = ESPN + (f"?dates={date}" if date else "")
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    headers = {
+        "User-Agent": ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+                       "AppleWebKit/537.36 (KHTML, like Gecko) "
+                       "Chrome/122.0.0.0 Safari/537.36"),
+        "Accept": "application/json, text/plain, */*",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://www.espn.com/nba/scoreboard",
+        "Origin": "https://www.espn.com",
+    }
+    req = urllib.request.Request(url, headers=headers)
     with urllib.request.urlopen(req, timeout=20) as r:
         return json.load(r)
 
