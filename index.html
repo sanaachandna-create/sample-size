@@ -28,15 +28,17 @@
     --r:14px;
   }
   *{box-sizing:border-box;margin:0;padding:0}
+  html{height:100%}
   html,body{background:var(--bg);color:var(--ink);font-family:var(--f-sans);-webkit-font-smoothing:antialiased}
-  body{max-width:440px;margin:0 auto;padding:0 16px 96px;padding-top:env(safe-area-inset-top)}
+  body{max-width:440px;margin:0 auto;height:100vh;height:100dvh;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top)}
+  #scroll{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 16px 18px}
   .mono{font-family:var(--f-mono)}
   /* structural label = Helvetica caps, tracked */
   .lbl-caps{font-weight:700;text-transform:uppercase;letter-spacing:.16em}
 
   /* ---------- TOP BAR ---------- */
-  header{position:sticky;top:0;z-index:20;background:linear-gradient(var(--bg) 80%,transparent);
-    padding:18px 0 12px;display:flex;align-items:center;justify-content:space-between}
+  header{flex-shrink:0;background:var(--bg);z-index:20;
+    padding:16px 16px 12px;display:flex;align-items:center;justify-content:space-between}
   .brand-wrap{display:flex;flex-direction:column;gap:5px}
   .brand{font-weight:700;font-size:24px;letter-spacing:.06em;line-height:1;cursor:pointer;flex:1;text-align:center;white-space:nowrap}
   .brand .w{color:var(--ink)} .brand .o{color:var(--orange)} .brand .qm{color:var(--orange)}
@@ -265,8 +267,7 @@
   .slip-foot .pnl{margin-left:auto;font-weight:700;font-size:14px}
 
   /* ---------- BOTTOM NAV ---------- */
-  nav{position:fixed;bottom:0;left:0;right:0;max-width:440px;margin:0 auto;
-    background:rgba(10,10,11,.92);backdrop-filter:blur(14px);border-top:1px solid var(--line);
+  nav{flex-shrink:0;background:var(--bg);border-top:1px solid var(--line);
     display:grid;grid-template-columns:repeat(5,1fr);padding:8px 6px calc(8px + env(safe-area-inset-bottom))}
   nav button{background:0;border:0;color:var(--faint);font-family:var(--f-sans);font-size:8.5px;font-weight:700;
     letter-spacing:.06em;text-transform:uppercase;padding:6px 0;cursor:pointer;display:flex;flex-direction:column;
@@ -333,10 +334,42 @@
   #games .day-head:first-child{margin-top:2px}
   .home-date{font-family:var(--f-mono);font-size:12.5px;font-weight:700;color:var(--ink);letter-spacing:.04em;margin:2px 2px 12px}
   .game.future{opacity:.92}
+  #splash{position:fixed;inset:0;z-index:100;background:var(--bg);transition:opacity .45s ease;overflow:hidden}
+  #splash.hide{opacity:0;pointer-events:none}
+  .zip-hang{position:absolute;top:calc(env(safe-area-inset-top) - 2px);left:50%;width:80px;margin-left:-40px;
+    transform-origin:50% 0;animation:swingdamp 1.7s cubic-bezier(.36,.07,.3,1) forwards}
+  .zip-hang svg{width:80px;height:auto;display:block}
+  .splash-word2{position:absolute;left:0;right:0;top:60%;text-align:center;font-weight:700;font-size:22px;
+    letter-spacing:.08em;opacity:0;animation:fadein .5s ease 1s forwards}
+  .splash-word2 .w{color:var(--ink)} .splash-word2 .o{color:var(--orange)} .splash-word2 .qm{color:var(--orange)}
+  @keyframes swingdamp{0%{transform:rotate(-15deg)}18%{transform:rotate(12deg)}36%{transform:rotate(-9deg)}
+    54%{transform:rotate(6deg)}72%{transform:rotate(-3.5deg)}86%{transform:rotate(1.5deg)}100%{transform:rotate(0deg)}}
+  @keyframes fadein{to{opacity:1}}
+  @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
+  .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
+  .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
+  .sample-banner{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.03em;color:var(--faint);
+    border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 2px 12px;line-height:1.55}
   @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
 </head>
 <body>
+<div id="splash">
+  <div class="zip-hang"><svg viewBox="0 0 100 252" xmlns="http://www.w3.org/2000/svg">
+    <rect x="42" y="6" width="14" height="66" rx="7" fill="#F48328"/>
+    <circle cx="49" cy="18" r="2.3" fill="#0A0A0B"/>
+    <circle cx="49" cy="29" r="2.3" fill="#0A0A0B"/>
+    <circle cx="49" cy="40" r="2.3" fill="#0A0A0B"/>
+    <circle cx="49" cy="51" r="2.3" fill="#0A0A0B"/>
+    <circle cx="49" cy="62" r="2.3" fill="#0A0A0B"/>
+    <rect x="34" y="66" width="30" height="22" rx="4" fill="#F48328"/>
+    <rect x="44" y="71" width="10" height="11" rx="2" fill="#0A0A0B"/>
+    <rect x="20" y="82" width="58" height="158" rx="11" fill="#F48328"/>
+    <text x="49" y="152" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-weight="700" font-size="11.5" fill="#120a02">SAMPLE</text>
+    <text x="49" y="170" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-weight="700" font-size="11.5" fill="#120a02">SIZE</text>
+    <text x="49" y="190" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-size="7" letter-spacing="1" fill="#120a02">C/O SANAA</text>
+  </svg></div>
+</div>
 <header>
   <button class="menu-btn" id="menuBtn" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
   <div class="brand" id="homeLink"><span class="qm">"</span><span class="w">SAMPLE</span> <span class="o">SIZE</span><span class="qm">"</span></div>
@@ -352,6 +385,7 @@
   <button class="drawer-item" data-soon="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings<span class="soon">soon</span></button>
 </aside>
 
+<main id="scroll">
 <section class="view on" id="v-home">
   <div class="eyebrow"><span class="q">"</span>HOME<span class="q">"</span> <span class="eb-count">— YOUR NIGHT AT A GLANCE</span></div>
   <div id="home"></div>
@@ -412,6 +446,7 @@
   <div class="soon-view"><b id="soon-title">Coming soon</b>
     This lives here in Phase C, once live data is wired — full rosters, positions, season stats the way ESPN lays them out, and depth charts.</div>
 </section>
+</main>
 
 <nav>
   <button data-v="slate"><svg class="g" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="16" rx="2"/><path d="M3 9h18"/></svg>"THE CARD"</button>
@@ -534,6 +569,14 @@ function dayLabel(k,tip){const dd=new Date(tip),md=dd.toLocaleDateString('en-US'
   if(k<=0)return 'TODAY'; if(k===1)return 'TOMORROW · '+md; return dd.toLocaleDateString('en-US',{weekday:'short'}).toUpperCase()+' · '+md;}
 function renderGames(){
   const wrap=$('#games');wrap.innerHTML='';
+  if(DATA._live && !DATA.games.length){
+    $('#slate-count').textContent='— 0 TODAY';
+    wrap.innerHTML=`<div class="empty-note"><b>No NBA games right now.</b>The season tips off Oct 20 — this fills in automatically once games are on the board.</div>`;
+    return;
+  }
+  if(!DATA._live){
+    wrap.appendChild(el(`<div class="sample-banner">◇ SAMPLE DATA — example games shown because no live feed is reachable here. Your hosted app shows the real slate (or “no games” in the offseason).</div>`));
+  }
   $('#slate-count').textContent=`— ${DATA.games.filter(x=>dayKey(x.tip)===0).length} TODAY`;
   let lastK=null;
   DATA.games.map((g,i)=>({g,i})).sort((a,b)=>a.g.tip-b.g.tip).forEach(({g,i})=>{
@@ -755,7 +798,7 @@ function setView(id){
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('on'));
   const sec=document.getElementById('v-'+id); if(sec) sec.classList.add('on');
   document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x.dataset.v===id));
-  window.scrollTo({top:0,behavior:'smooth'});
+  const sc=document.getElementById('scroll'); if(sc) sc.scrollTo({top:0,behavior:'smooth'});
 }
 document.querySelectorAll('nav button').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.v)));
 
@@ -824,13 +867,14 @@ async function loadRealData(){
     const res=await fetch('data/today.json',{cache:'no-store'});
     if(!res.ok) return;
     const d=await res.json();
-    if(d && Array.isArray(d.games) && d.games.length){
-      DATA.games=d.games;
+    if(d && Array.isArray(d.games)){
+      DATA.games=d.games; DATA._live=true;
       renderGames(); renderHome(); tickClock();
     }
   }catch(e){/* offline or file missing — keep the sample */}
 }
 loadRealData();
+setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},1950);
 </script>
 </body>
 </html>
