@@ -1,13 +1,11 @@
 name: Update NBA data
 
 on:
-  # lets you run it by hand from the Actions tab (with an optional date for testing)
   workflow_dispatch:
     inputs:
       date:
         description: "Optional date YYYYMMDD (leave blank for today)"
         required: false
-  # runs automatically every 30 minutes
   schedule:
     - cron: "*/30 * * * *"
 
@@ -27,6 +25,7 @@ jobs:
       - name: Run the worker
         env:
           GAME_DATE: ${{ github.event.inputs.date }}
+          BDL_KEY: ${{ secrets.BDL_KEY }}
         run: python worker.py
 
       - name: Commit the data if it changed
