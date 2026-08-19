@@ -31,7 +31,8 @@
   *{box-sizing:border-box;margin:0;padding:0}
   html{height:100%}
   html,body{background:var(--bg);color:var(--ink);font-family:var(--f-sans);-webkit-font-smoothing:antialiased}
-  body{position:fixed;top:0;left:0;right:0;bottom:0;max-width:440px;margin:0 auto;overflow:hidden;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top)}
+  body{height:100%;margin:0;overflow:hidden}
+  #app{height:100%;max-width:440px;margin:0 auto;overflow:hidden;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top)}
   #scroll{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 16px 18px}
   .mono{font-family:var(--f-mono)}
   /* structural label = Helvetica caps, tracked */
@@ -375,6 +376,7 @@
     <text x="49" y="190" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-size="7" letter-spacing="1" fill="#120a02">C/O SANAA</text>
   </svg></div>
 </div>
+<div id="app">
 <header>
   <button class="menu-btn" id="menuBtn" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
   <div class="brand" id="homeLink"><span class="qm">"</span><span class="w">SAMPLE</span> <span class="o">SIZE</span><span class="qm">"</span></div>
@@ -388,7 +390,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings<span class="soon">soon</span></button>
-  <div class="drawer-foot">BUILD 08-18 · NAV-FIX-4</div>
+  <div class="drawer-foot">BUILD 08-18 · NAV-FIX-6</div>
 </aside>
 
 <main id="scroll">
@@ -463,9 +465,14 @@
   <button data-v="bag"><svg class="g" viewBox="0 0 24 24"><path d="M5 4h12a1 1 0 0 1 1 1v15H7a2 2 0 0 1-2-2z"/><path d="M9 4v14"/></svg>"THE BOOK"</button>
   <button data-v="watch"><svg class="g" viewBox="0 0 24 24"><path d="M18 8a6 6 0 0 0-12 0c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.7 21a2 2 0 0 1-3.4 0"/></svg>"THE WIRE"</button>
 </nav>
+</div>
 
 <script>
 const now = Date.now();
+function fitApp(){var a=document.getElementById('app');if(a)a.style.height=window.innerHeight+'px';}
+fitApp();
+window.addEventListener('resize',fitApp);
+window.addEventListener('orientationchange',function(){setTimeout(fitApp,250);});
 const mins = m => now + m*60000;
 const atDay = (off,h,m)=>{const d=new Date();d.setDate(d.getDate()+off);d.setHours(h,m,0,0);return d.getTime();};
 const TZ = (()=>{try{return new Intl.DateTimeFormat('en-US',{timeZoneName:'short'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName').value;}catch(e){return '';}})();
