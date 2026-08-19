@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#0A0A0B">
 <title>SAMPLE SIZE</title>
@@ -311,6 +312,9 @@
   .st-row .wl{margin-left:auto;font-family:var(--f-mono);font-size:11px;color:var(--ink)}
   .st-row .arr{color:var(--faint);font-size:13px;padding-left:4px}
   .soon-view{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:44px 24px}
+  .back-btn{background:0;border:0;color:var(--muted);font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;
+    cursor:pointer;padding:8px 2px;margin:6px 0 4px;display:inline-flex;align-items:center;gap:6px}
+  .back-btn:active{color:var(--ink)}
   .soon-view b{color:var(--ink);display:block;margin-bottom:8px;font-size:16px}
   .home-strip{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;color:var(--muted);
     text-transform:uppercase;margin:2px 2px 14px;line-height:1.7}
@@ -434,6 +438,7 @@
 </section>
 
 <section class="view" id="v-standings">
+  <button class="back-btn" data-back>&#8592; BACK</button>
   <div class="eyebrow"><span class="q">"</span>STANDINGS<span class="q">"</span> <span class="eb-count">— 2026-27</span></div>
   <div class="conf-tabs">
     <button class="conf-tab on" data-conf="east">East</button>
@@ -443,6 +448,7 @@
 </section>
 
 <section class="view" id="v-soon">
+  <button class="back-btn" data-back>&#8592; BACK</button>
   <div class="soon-view"><b id="soon-title">Coming soon</b>
     This lives here in Phase C, once live data is wired — full rosters, positions, season stats the way ESPN lays them out, and depth charts.</div>
 </section>
@@ -793,13 +799,16 @@ function tickClock(){
     const pill=card.querySelector('.pill');pill.className='pill '+ws.pill;pill.textContent=ws.label;
   });
 }
+let curView='home', lastView='home';
 function setView(id){
+  if(id!==curView){ lastView=curView; curView=id; }
   document.querySelectorAll('.view').forEach(v=>v.classList.remove('on'));
   const sec=document.getElementById('v-'+id); if(sec) sec.classList.add('on');
   document.querySelectorAll('nav button').forEach(x=>x.classList.toggle('on',x.dataset.v===id));
   const sc=document.getElementById('scroll'); if(sc) sc.scrollTo({top:0,behavior:'smooth'});
 }
 document.querySelectorAll('nav button').forEach(b=>b.addEventListener('click',()=>setView(b.dataset.v)));
+document.querySelectorAll('[data-back]').forEach(b=>b.addEventListener('click',()=>setView(lastView)));
 
 // menu drawer
 const drawer=document.getElementById('drawer'), back=document.getElementById('drawerBack');
