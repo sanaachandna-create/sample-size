@@ -798,7 +798,7 @@ function renderBag(){
 
 function tickClock(){
   const d=new Date();
-  const hd=$('#homedate'); if(hd) hd.textContent=d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric'})+' · '+d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true})+' '+TZ;
+  const hd=$('#homedate'); if(hd) hd.textContent=d.toLocaleDateString('en-US',{weekday:'long',month:'short',day:'numeric',year:'numeric'})+' · '+d.toLocaleTimeString('en-US',{hour:'numeric',minute:'2-digit',hour12:true})+' '+TZ;
   document.querySelectorAll('[data-cd]').forEach(n=>{
     const g=DATA.games[+n.dataset.cd];
     const ws=windowState(g.tip), card=n.closest('.game');
