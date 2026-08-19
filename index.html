@@ -318,6 +318,30 @@
   .back-btn{background:0;border:0;color:var(--muted);font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;
     cursor:pointer;padding:8px 2px;margin:6px 0 4px;display:inline-flex;align-items:center;gap:6px}
   .back-btn:active{color:var(--ink)}
+  .book-actions{display:flex;gap:8px;margin:0 0 14px}
+  .btn{font-family:var(--f-sans);font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+    padding:10px 14px;border-radius:9px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer}
+  .btn.act{background:var(--orange);border-color:var(--orange);color:#120a02}
+  .btn:active{opacity:.85}
+  .logform,.setform{background:var(--surface);border:1px solid var(--line);border-radius:13px;padding:14px;margin-bottom:16px}
+  .logform{display:none} .logform.on{display:block}
+  .logform label,.set-lbl{display:block;font-family:var(--f-mono);font-size:9px;letter-spacing:.14em;color:var(--faint);text-transform:uppercase;margin:10px 0 5px}
+  .set-lbl{margin-top:0}
+  .logform input,.logform textarea,.setform input{width:100%;background:var(--bg);border:1px solid var(--line);border-radius:8px;color:var(--ink);
+    font-family:var(--f-sans);font-size:13px;padding:9px 10px;box-sizing:border-box}
+  .logform textarea{resize:vertical;min-height:46px;line-height:1.4}
+  .type-row{display:flex;gap:6px}
+  .type-btn{flex:1;font-family:var(--f-mono);font-size:10px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;
+    padding:9px;border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
+  .type-btn.on{border-color:var(--orange);color:var(--orange)}
+  .settle-row{display:flex;gap:6px;margin-top:9px}
+  .settle-btn{flex:1;font-family:var(--f-mono);font-size:10px;font-weight:700;letter-spacing:.04em;padding:8px;border-radius:8px;
+    border:1px solid var(--line);background:var(--bg);cursor:pointer;color:var(--muted)}
+  .settle-btn.win{color:var(--green-ink);border-color:var(--green-ink)}
+  .settle-btn.loss{color:var(--red-ink);border-color:var(--red-ink)}
+  .form-msg{font-family:var(--f-mono);font-size:10px;margin-top:9px;min-height:12px;line-height:1.4}
+  .set-help{font-family:var(--f-mono);font-size:9.5px;color:var(--faint);line-height:1.7;margin-top:14px}
+  .set-help b{color:var(--muted)}
   .soon-view b{color:var(--ink);display:block;margin-bottom:8px;font-size:16px}
   .home-strip{font-family:var(--f-mono);font-size:10.5px;letter-spacing:.05em;color:var(--muted);
     text-transform:uppercase;margin:2px 2px 14px;line-height:1.7}
@@ -390,7 +414,7 @@
   <button class="drawer-item" data-soon="Teams & Rosters"><svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0M17 6a3 3 0 0 1 0 6M21 20a6 6 0 0 0-4-5.6"/></svg>Teams &amp; Rosters<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
-  <button class="drawer-item" data-soon="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings<span class="soon">soon</span></button>
+  <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings</button>
   <div class="drawer-foot">BUILD 08-18 · NAV-FIX-7</div>
 </aside>
 
@@ -428,6 +452,26 @@
 
 <section class="view" id="v-bag">
   <div class="eyebrow"><span class="q">"</span>THE BOOK<span class="q">"</span> <span class="eb-count">— PROFIT & LOSS</span></div>
+  <div class="book-actions"><button class="btn act" id="logToggle">+ Log a bet</button></div>
+  <div class="logform" id="logform">
+    <label>The picks — one per line, or comma-separated</label>
+    <textarea id="f-legs" placeholder="LeBron o25.5 pts&#10;Tatum o27.5 pts"></textarea>
+    <label>Type</label>
+    <div class="type-row">
+      <button class="type-btn on" data-type="Power">Power</button>
+      <button class="type-btn" data-type="Flex">Flex</button>
+      <button class="type-btn" data-type="Team">Team</button>
+    </div>
+    <div style="display:flex;gap:10px">
+      <div style="flex:1"><label>Stake ($)</label><input id="f-stake" type="number" inputmode="decimal" placeholder="20"></div>
+      <div style="flex:1"><label>Multiplier</label><input id="f-mult" type="number" inputmode="decimal" placeholder="3"></div>
+    </div>
+    <div class="book-actions" style="margin-top:12px">
+      <button class="btn act" id="f-save">Save bet</button>
+      <button class="btn" id="f-cancel">Cancel</button>
+    </div>
+    <div class="form-msg" id="f-msg"></div>
+  </div>
   <div class="pnl-hero" id="pnl-hero"></div>
   <div class="pnl-row" id="pnl-row"></div>
   <div class="card-lite"><p class="sub">Equity curve — cumulative profit</p><div id="equity"></div></div>
@@ -450,6 +494,21 @@
     <button class="conf-tab" data-conf="west">West</button>
   </div>
   <div id="standings"></div>
+</section>
+
+<section class="view" id="v-settings">
+  <button class="back-btn" data-back>&#8592; BACK</button>
+  <div class="eyebrow"><span class="q">"</span>SETTINGS<span class="q">"</span> <span class="eb-count">— SYNC</span></div>
+  <div class="setform">
+    <label class="set-lbl">GitHub token — syncs your bets across phone &amp; Mac</label>
+    <input id="s-token" type="password" placeholder="github_pat_…">
+    <div class="book-actions" style="margin-top:12px">
+      <button class="btn act" id="s-save">Save token</button>
+      <button class="btn" id="s-test">Test connection</button>
+    </div>
+    <div class="form-msg" id="s-msg"></div>
+    <div class="set-help">Stored only on this device — never in your public code. Create a <b>fine-grained</b> token scoped to the <b>sample-size</b> repo with <b>Contents: Read and write</b>.</div>
+  </div>
 </section>
 
 <section class="view" id="v-soon">
@@ -788,13 +847,15 @@ function renderBag(){
   [...b.slips].reverse().forEach(s=>{
     const pend=s.res==='PEND';
     sw.appendChild(el(`<div class="slip ${pend?'pending':''}">
-      <div class="slip-top"><span class="slip-type">${s.type} · ${s.mult}x</span><span class="slip-date">Aug ${s.day}</span></div>
+      <div class="slip-top"><span class="slip-type">${s.type} · ${s.mult}x</span><span class="slip-date">day ${s.day}</span></div>
       <div class="slip-legs">${s.legs.map(l=>`<span class="leg">${l}</span>`).join('')}</div>
       <div class="slip-foot"><span class="res ${pend?'P':s.res}">${pend?'LIVE':s.res}</span>
         <span>$${s.stake} → $${s.payout}</span>
         <span class="pnl ${pend?'':(s.pnl>=0?'up':'down')}">${pend?'…':sgn(s.pnl)}</span></div>
+      ${pend?`<div class="settle-row"><button class="settle-btn win" data-settle="${s.id}" data-res="WIN">Won</button><button class="settle-btn loss" data-settle="${s.id}" data-res="LOSS">Lost</button><button class="settle-btn void" data-settle="${s.id}" data-res="VOID">Void</button></div>`:''}
     </div>`));
   });
+  sw.querySelectorAll('[data-settle]').forEach(b=>b.addEventListener('click',()=>settleBet(Number(b.dataset.settle),b.dataset.res)));
 }
 
 function tickClock(){
@@ -829,9 +890,27 @@ document.getElementById('menuBtn').addEventListener('click',()=>openDrawer(true)
 back.addEventListener('click',()=>openDrawer(false));
 document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click',()=>{
   openDrawer(false);
-  if(it.dataset.view) setView(it.dataset.view);
+  if(it.dataset.view){ setView(it.dataset.view); if(it.dataset.view==='settings'){const t=$('#s-token'); if(t) t.value=ghToken();} }
   else { document.getElementById('soon-title').textContent=it.dataset.soon; setView('soon'); }
 }));
+(function(){
+  const lt=$('#logToggle'); if(lt) lt.addEventListener('click',()=>$('#logform').classList.toggle('on'));
+  const fc=$('#f-cancel'); if(fc) fc.addEventListener('click',()=>$('#logform').classList.remove('on'));
+  const fs=$('#f-save'); if(fs) fs.addEventListener('click',saveBet);
+  document.querySelectorAll('.type-btn').forEach(b=>b.addEventListener('click',()=>{
+    document.querySelectorAll('.type-btn').forEach(x=>x.classList.remove('on')); b.classList.add('on');
+  }));
+  const ss=$('#s-save'); if(ss) ss.addEventListener('click',()=>{
+    const t=$('#s-token').value.trim(); const m=$('#s-msg');
+    if(ghSetToken(t)){m.style.color='var(--green-ink)';m.textContent='Saved on this device ✓';}
+    else{m.style.color='var(--red-ink)';m.textContent='Storage is blocked in this preview — works on your hosted app.';}
+  });
+  const stt=$('#s-test'); if(stt) stt.addEventListener('click',async()=>{
+    const m=$('#s-msg'); m.style.color='var(--muted)'; m.textContent='Testing…';
+    try{await ghGet(); m.style.color='var(--green-ink)'; m.textContent='Connected ✓ — bets will sync to your repo.';}
+    catch(e){m.style.color='var(--red-ink)'; m.textContent='Failed: '+e.message;}
+  });
+})();
 
 // home dashboard
 function renderHome(){
@@ -894,9 +973,69 @@ setInterval(tickClock,1000);
 
 // Pull the live schedule the worker publishes. If it's reachable and has
 // games, use real data; otherwise the sample above stays on screen.
+// ===== SYNCED LEDGER — bets saved to your GitHub repo =====
+const GH={owner:'sanaachandna-create',repo:'sample-size',path:'data/bets.json',branch:'main'};
+function ghToken(){try{return localStorage.getItem('ss_token')||'';}catch(e){return '';}}
+function ghSetToken(t){try{localStorage.setItem('ss_token',t);return true;}catch(e){return false;}}
+function b64e(s){return btoa(unescape(encodeURIComponent(s)));}
+function b64d(b){return decodeURIComponent(escape(atob((b||'').replace(/\s/g,''))));}
+function ghHeaders(){return {'Authorization':'Bearer '+ghToken(),'Accept':'application/vnd.github+json','Content-Type':'application/json'};}
+function normalizeBag(d){const now=new Date();d=d||{};return {start:d.start||0,today:now.getDate(),
+  slips:(d.slips||[]).map(s=>({id:s.id,type:s.type||'Power',mult:s.mult||1,day:s.day||now.getDate(),
+  legs:s.legs||[],stake:s.stake||0,payout:s.payout||0,res:s.res||'PEND',pnl:s.pnl||0,ts:s.ts||0}))};}
+async function ghGet(){
+  const url=`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}?ref=${GH.branch}&t=${Date.now()}`;
+  const r=await fetch(url,{headers:ghHeaders(),cache:'no-store'});
+  if(r.status===404) return {data:{start:0,slips:[]},sha:null};
+  if(r.status===401) throw new Error('token rejected (401) — check it in Settings');
+  if(!r.ok) throw new Error('read failed ('+r.status+')');
+  const j=await r.json();
+  let data; try{data=JSON.parse(b64d(j.content));}catch(e){data={start:0,slips:[]};}
+  if(!Array.isArray(data.slips)) data.slips=[];
+  return {data,sha:j.sha};
+}
+async function ghPut(data,sha,msg){
+  const body={message:msg||'bets: update',content:b64e(JSON.stringify(data,null,2)),branch:GH.branch};
+  if(sha) body.sha=sha;
+  const r=await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}`,
+    {method:'PUT',headers:ghHeaders(),body:JSON.stringify(body)});
+  if(!r.ok){const t=await r.text();throw new Error('save failed ('+r.status+') '+t.slice(0,100));}
+  return (await r.json()).content.sha;
+}
+async function mutateBets(fn,msg){
+  if(!ghToken()) throw new Error('No token yet — add one in the menu → Settings.');
+  const {data,sha}=await ghGet();
+  fn(data);
+  await ghPut(data,sha,msg);
+  DATA.bag=normalizeBag(data); DATA._betsLive=true;
+  renderBag(); renderHome();
+}
+async function saveBet(){
+  const legs=$('#f-legs').value.split(/[\n,]/).map(x=>x.trim()).filter(Boolean);
+  const type=(document.querySelector('.type-btn.on')||{}).dataset?.type||'Power';
+  const stake=parseFloat($('#f-stake').value)||0, mult=parseFloat($('#f-mult').value)||0;
+  const m=$('#f-msg');
+  if(!legs.length||!stake){m.style.color='var(--red-ink)';m.textContent='Add at least one pick and a stake.';return;}
+  const bet={id:Date.now(),ts:Date.now(),day:new Date().getDate(),type,mult,legs,
+    stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0};
+  m.style.color='var(--muted)';m.textContent='Saving to your repo…';
+  try{
+    await mutateBets(d=>{d.slips=d.slips||[];d.slips.push(bet);},'bets: log '+type);
+    m.style.color='var(--green-ink)';m.textContent='Saved ✓ — synced to all your devices.';
+    $('#f-legs').value='';$('#f-stake').value='';$('#f-mult').value='';
+    setTimeout(()=>{$('#logform').classList.remove('on');m.textContent='';},1100);
+  }catch(e){m.style.color='var(--red-ink)';m.textContent=e.message;}
+}
+async function settleBet(id,res){
+  try{await mutateBets(d=>{const s=(d.slips||[]).find(x=>x.id===id);if(s){s.res=res;
+    s.pnl=res==='WIN'?+(s.payout-s.stake).toFixed(2):res==='LOSS'?-s.stake:0;}},'bets: settle');
+  }catch(e){alert(e.message);}
+}
+
 async function loadLive(){
   const grab=(u)=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
-  const [gd,st]=await Promise.all([grab('data/today.json'),grab('data/standings.json')]);
+  const raw=`https://raw.githubusercontent.com/${GH.owner}/${GH.repo}/${GH.branch}/`;
+  const [gd,st,bt]=await Promise.all([grab('data/today.json'),grab('data/standings.json'),grab(raw+'data/bets.json?t='+Date.now())]);
   if(st && (st.east||st.west)){
     DATA.standings=st;
     const lbl=document.getElementById('st-label'); if(lbl && st.label) lbl.textContent='— '+st.label;
@@ -909,9 +1048,12 @@ async function loadLive(){
       if(a){g.arec=a.w+'-'+a.l; g.arank=String(a.seed);}
       if(h){g.hrec=h.w+'-'+h.l; g.hrank=String(h.seed);}
     });
-    renderGames(); renderHome();
+    renderGames();
   }
-  tickClock();
+  if(DATA._live){            // hosted app → bets are real (empty until you log one)
+    DATA.bag=normalizeBag(bt||{start:0,slips:[]}); DATA._betsLive=true; renderBag();
+  }
+  renderHome(); tickClock();
 }
 loadLive();
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},1950);
