@@ -30,7 +30,7 @@
   *{box-sizing:border-box;margin:0;padding:0}
   html{height:100%}
   html,body{background:var(--bg);color:var(--ink);font-family:var(--f-sans);-webkit-font-smoothing:antialiased}
-  body{max-width:440px;margin:0 auto;height:100vh;height:100dvh;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top)}
+  body{max-width:440px;margin:0 auto;height:100vh;height:100dvh;overflow:hidden;display:flex;flex-direction:column;padding-top:env(safe-area-inset-top)}
   #scroll{flex:1;min-height:0;overflow-y:auto;-webkit-overflow-scrolling:touch;padding:0 16px 18px}
   .mono{font-family:var(--f-mono)}
   /* structural label = Helvetica caps, tracked */
@@ -569,13 +569,12 @@ function dayLabel(k,tip){const dd=new Date(tip),md=dd.toLocaleDateString('en-US'
   if(k<=0)return 'TODAY'; if(k===1)return 'TOMORROW · '+md; return dd.toLocaleDateString('en-US',{weekday:'short'}).toUpperCase()+' · '+md;}
 function renderGames(){
   const wrap=$('#games');wrap.innerHTML='';
-  if(DATA._live && !DATA.games.length){
+  if(!DATA._live || !DATA.games.length){
     $('#slate-count').textContent='— 0 TODAY';
-    wrap.innerHTML=`<div class="empty-note"><b>No NBA games right now.</b>The season tips off Oct 20 — this fills in automatically once games are on the board.</div>`;
+    wrap.innerHTML = DATA._live
+      ? `<div class="empty-note"><b>No NBA games right now.</b>The season tips off Oct 20 — this fills in automatically once games are on the board.</div>`
+      : `<div class="empty-note"><b>Waiting on live data.</b>This is just the preview. Your hosted app pulls the real schedule — no placeholder games are ever shown there.</div>`;
     return;
-  }
-  if(!DATA._live){
-    wrap.appendChild(el(`<div class="sample-banner">◇ SAMPLE DATA — example games shown because no live feed is reachable here. Your hosted app shows the real slate (or “no games” in the offseason).</div>`));
   }
   $('#slate-count').textContent=`— ${DATA.games.filter(x=>dayKey(x.tip)===0).length} TODAY`;
   let lastK=null;
@@ -823,9 +822,14 @@ function renderHome(){
   const wl=settled.reduce((a,s)=>{a[s.res]=(a[s.res]||0)+1;return a},{});
   const today=settled.filter(s=>s.day===b.today).reduce((a,s)=>a+s.pnl,0);
   const total=settled.reduce((a,s)=>a+s.pnl,0);
-  let html=`<div id="homedate" class="home-date"></div><div class="home-strip">Tonight · <b>${g.filter(x=>dayKey(x.tip)===0).length}</b> games · <b>${live.length}</b> live · next tip ${up[0]?tipET(up[0].tip):'—'}</div>`;
-  if(live.length) html+=`<div class="hcard live"><div class="hc-lbl"><span class="d"></span>Live now</div>`+
+  let html=`<div id="homedate" class="home-date"></div>`;
+  if(DATA._live){
+    html+=`<div class="home-strip">Tonight · <b>${g.filter(x=>dayKey(x.tip)===0).length}</b> games · <b>${live.length}</b> live · next tip ${up[0]?tipET(up[0].tip):'—'}</div>`;
+    if(live.length) html+=`<div class="hcard live"><div class="hc-lbl"><span class="d"></span>Live now</div>`+
     live.map(x=>`<div class="hrow"><span class="mono">${x.ha}</span> @ <span class="mono">${x.hh}</span><span class="mm">${x.sec!=null?liveClock(x):'live'}</span></div>`).join('')+`</div>`;
+  } else {
+    html+=`<div class="home-strip">Games · waiting on live data — preview only</div>`;
+  }
   if(pend.length) html+=`<div class="hcard"><div class="hc-lbl">Your live bets</div>`+
     pend.map(s=>`<div class="hrow">${s.legs.join(' · ')}<span class="mm">$${s.stake}→$${s.payout}</span></div>`).join('')+`</div>`;
   html+=`<div class="hcard"><div class="hc-lbl">Today</div>
