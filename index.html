@@ -8,7 +8,8 @@
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="theme-color" content="#0A0A0B">
 <title>SAMPLE SIZE</title>
-<link rel="apple-touch-icon" href="icon.png">
+<link rel="apple-touch-icon" href="icon.png?v=2">
+<link rel="icon" type="image/png" href="icon.png?v=2">
 <meta name="apple-mobile-web-app-title" content="SAMPLE SIZE">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -850,15 +851,22 @@ function renderHome(){
   } else {
     html+=`<div class="home-strip">Games · waiting on live data — preview only</div>`;
   }
-  if(pend.length) html+=`<div class="hcard"><div class="hc-lbl">Your live bets</div>`+
-    pend.map(s=>`<div class="hrow">${s.legs.join(' · ')}<span class="mm">$${s.stake}→$${s.payout}</span></div>`).join('')+`</div>`;
-  html+=`<div class="hcard"><div class="hc-lbl">Today</div>
-    <div class="hrow"><span class="hbig ${today>=0?'up':'down'}">${sgn(today)}</span>
-    <span class="mm">${wl.W||0}-${wl.L||0} · ${sgn(total)} all-time</span></div></div>`;
-  const a=DATA.alerts[0];
-  if(a) html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
-    <div style="font-size:12.5px;font-weight:700;margin-bottom:3px">${a.title}</div>
-    <div style="font-size:11.5px;color:var(--muted);line-height:1.4">${a.p}</div></div>`;
+  if(DATA._live){
+    html+=`<div class="hcard"><div class="hc-lbl">Today</div>
+      <div class="hrow" style="color:var(--muted);font-size:12px">No bets logged yet — log picks in THE BOOK and today's total shows here.</div></div>`;
+    html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
+      <div class="hrow" style="color:var(--muted);font-size:12px">No alerts yet — these fire on game nights once you're on a game.</div></div>`;
+  } else {
+    if(pend.length) html+=`<div class="hcard"><div class="hc-lbl">Your live bets</div>`+
+      pend.map(s=>`<div class="hrow">${s.legs.join(' · ')}<span class="mm">$${s.stake}→$${s.payout}</span></div>`).join('')+`</div>`;
+    html+=`<div class="hcard"><div class="hc-lbl">Today</div>
+      <div class="hrow"><span class="hbig ${today>=0?'up':'down'}">${sgn(today)}</span>
+      <span class="mm">${wl.W||0}-${wl.L||0} · ${sgn(total)} all-time</span></div></div>`;
+    const a=DATA.alerts[0];
+    if(a) html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
+      <div style="font-size:12.5px;font-weight:700;margin-bottom:3px">${a.title}</div>
+      <div style="font-size:11.5px;color:var(--muted);line-height:1.4">${a.p}</div></div>`;
+  }
   html+=`<div style="text-align:center;font-family:var(--f-mono);font-size:8.5px;letter-spacing:.24em;color:var(--faint);text-transform:uppercase;margin-top:20px">"SAMPLE SIZE" c/o SANAA</div>`;
   h.innerHTML=html;
 }
