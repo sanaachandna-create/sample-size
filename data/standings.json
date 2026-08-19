@@ -1,0 +1,401 @@
+{
+  "updated": "2026-08-19T03:51:00+00:00",
+  "season": 2025,
+  "error": null,
+  "east": [
+    {
+      "r": 1,
+      "ab": "DET",
+      "nm": "Pistons",
+      "w": 67,
+      "l": 29
+    },
+    {
+      "r": 2,
+      "ab": "NYK",
+      "nm": "Knicks",
+      "w": 70,
+      "l": 32
+    },
+    {
+      "r": 3,
+      "ab": "BOS",
+      "nm": "Celtics",
+      "w": 59,
+      "l": 30
+    },
+    {
+      "r": 4,
+      "ab": "CLE",
+      "nm": "Cavaliers",
+      "w": 60,
+      "l": 40
+    },
+    {
+      "r": 5,
+      "ab": "TOR",
+      "nm": "Raptors",
+      "w": 49,
+      "l": 40
+    },
+    {
+      "r": 6,
+      "ab": "ATL",
+      "nm": "Hawks",
+      "w": 48,
+      "l": 40
+    },
+    {
+      "r": 7,
+      "ab": "ORL",
+      "nm": "Magic",
+      "w": 49,
+      "l": 42
+    },
+    {
+      "r": 8,
+      "ab": "CHA",
+      "nm": "Hornets",
+      "w": 45,
+      "l": 39
+    },
+    {
+      "r": 9,
+      "ab": "PHI",
+      "nm": "76ers",
+      "w": 50,
+      "l": 44
+    },
+    {
+      "r": 10,
+      "ab": "MIA",
+      "nm": "Heat",
+      "w": 43,
+      "l": 40
+    },
+    {
+      "r": 11,
+      "ab": "MIL",
+      "nm": "Bucks",
+      "w": 32,
+      "l": 50
+    },
+    {
+      "r": 12,
+      "ab": "CHI",
+      "nm": "Bulls",
+      "w": 31,
+      "l": 51
+    },
+    {
+      "r": 13,
+      "ab": "BKN",
+      "nm": "Nets",
+      "w": 20,
+      "l": 62
+    },
+    {
+      "r": 14,
+      "ab": "IND",
+      "nm": "Pacers",
+      "w": 19,
+      "l": 63
+    },
+    {
+      "r": 15,
+      "ab": "WAS",
+      "nm": "Wizards",
+      "w": 17,
+      "l": 65
+    }
+  ],
+  "west": [
+    {
+      "r": 1,
+      "ab": "OKC",
+      "nm": "Thunder",
+      "w": 75,
+      "l": 22
+    },
+    {
+      "r": 2,
+      "ab": "SAS",
+      "nm": "Spurs",
+      "w": 75,
+      "l": 31
+    },
+    {
+      "r": 3,
+      "ab": "DEN",
+      "nm": "Nuggets",
+      "w": 56,
+      "l": 32
+    },
+    {
+      "r": 4,
+      "ab": "LAL",
+      "nm": "Lakers",
+      "w": 57,
+      "l": 35
+    },
+    {
+      "r": 5,
+      "ab": "HOU",
+      "nm": "Rockets",
+      "w": 54,
+      "l": 34
+    },
+    {
+      "r": 6,
+      "ab": "MIN",
+      "nm": "Timberwolves",
+      "w": 55,
+      "l": 39
+    },
+    {
+      "r": 7,
+      "ab": "PHX",
+      "nm": "Suns",
+      "w": 46,
+      "l": 42
+    },
+    {
+      "r": 8,
+      "ab": "LAC",
+      "nm": "Clippers",
+      "w": 42,
+      "l": 41
+    },
+    {
+      "r": 9,
+      "ab": "POR",
+      "nm": "Trail Blazers",
+      "w": 44,
+      "l": 44
+    },
+    {
+      "r": 10,
+      "ab": "GSW",
+      "nm": "Warriors",
+      "w": 38,
+      "l": 46
+    },
+    {
+      "r": 11,
+      "ab": "DAL",
+      "nm": "Mavericks",
+      "w": 26,
+      "l": 56
+    },
+    {
+      "r": 12,
+      "ab": "NOP",
+      "nm": "Pelicans",
+      "w": 26,
+      "l": 56
+    },
+    {
+      "r": 13,
+      "ab": "MEM",
+      "nm": "Grizzlies",
+      "w": 25,
+      "l": 57
+    },
+    {
+      "r": 14,
+      "ab": "UTA",
+      "nm": "Jazz",
+      "w": 22,
+      "l": 60
+    },
+    {
+      "r": 15,
+      "ab": "SAC",
+      "nm": "Kings",
+      "w": 22,
+      "l": 60
+    }
+  ],
+  "byTeam": {
+    "DET": {
+      "w": 67,
+      "l": 29,
+      "seed": 1,
+      "conf": "East"
+    },
+    "NYK": {
+      "w": 70,
+      "l": 32,
+      "seed": 2,
+      "conf": "East"
+    },
+    "BOS": {
+      "w": 59,
+      "l": 30,
+      "seed": 3,
+      "conf": "East"
+    },
+    "CLE": {
+      "w": 60,
+      "l": 40,
+      "seed": 4,
+      "conf": "East"
+    },
+    "TOR": {
+      "w": 49,
+      "l": 40,
+      "seed": 5,
+      "conf": "East"
+    },
+    "ATL": {
+      "w": 48,
+      "l": 40,
+      "seed": 6,
+      "conf": "East"
+    },
+    "ORL": {
+      "w": 49,
+      "l": 42,
+      "seed": 7,
+      "conf": "East"
+    },
+    "CHA": {
+      "w": 45,
+      "l": 39,
+      "seed": 8,
+      "conf": "East"
+    },
+    "PHI": {
+      "w": 50,
+      "l": 44,
+      "seed": 9,
+      "conf": "East"
+    },
+    "MIA": {
+      "w": 43,
+      "l": 40,
+      "seed": 10,
+      "conf": "East"
+    },
+    "MIL": {
+      "w": 32,
+      "l": 50,
+      "seed": 11,
+      "conf": "East"
+    },
+    "CHI": {
+      "w": 31,
+      "l": 51,
+      "seed": 12,
+      "conf": "East"
+    },
+    "BKN": {
+      "w": 20,
+      "l": 62,
+      "seed": 13,
+      "conf": "East"
+    },
+    "IND": {
+      "w": 19,
+      "l": 63,
+      "seed": 14,
+      "conf": "East"
+    },
+    "WAS": {
+      "w": 17,
+      "l": 65,
+      "seed": 15,
+      "conf": "East"
+    },
+    "OKC": {
+      "w": 75,
+      "l": 22,
+      "seed": 1,
+      "conf": "West"
+    },
+    "SAS": {
+      "w": 75,
+      "l": 31,
+      "seed": 2,
+      "conf": "West"
+    },
+    "DEN": {
+      "w": 56,
+      "l": 32,
+      "seed": 3,
+      "conf": "West"
+    },
+    "LAL": {
+      "w": 57,
+      "l": 35,
+      "seed": 4,
+      "conf": "West"
+    },
+    "HOU": {
+      "w": 54,
+      "l": 34,
+      "seed": 5,
+      "conf": "West"
+    },
+    "MIN": {
+      "w": 55,
+      "l": 39,
+      "seed": 6,
+      "conf": "West"
+    },
+    "PHX": {
+      "w": 46,
+      "l": 42,
+      "seed": 7,
+      "conf": "West"
+    },
+    "LAC": {
+      "w": 42,
+      "l": 41,
+      "seed": 8,
+      "conf": "West"
+    },
+    "POR": {
+      "w": 44,
+      "l": 44,
+      "seed": 9,
+      "conf": "West"
+    },
+    "GSW": {
+      "w": 38,
+      "l": 46,
+      "seed": 10,
+      "conf": "West"
+    },
+    "DAL": {
+      "w": 26,
+      "l": 56,
+      "seed": 11,
+      "conf": "West"
+    },
+    "NOP": {
+      "w": 26,
+      "l": 56,
+      "seed": 12,
+      "conf": "West"
+    },
+    "MEM": {
+      "w": 25,
+      "l": 57,
+      "seed": 13,
+      "conf": "West"
+    },
+    "UTA": {
+      "w": 22,
+      "l": 60,
+      "seed": 14,
+      "conf": "West"
+    },
+    "SAC": {
+      "w": 22,
+      "l": 60,
+      "seed": 15,
+      "conf": "West"
+    }
+  }
+}
