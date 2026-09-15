@@ -407,6 +407,15 @@
   .mt-game{display:flex;align-items:center;justify-content:space-between;padding:11px 4px;border-bottom:1px solid var(--line)}
   .mt-game .mono{font-family:var(--f-mono);font-weight:700;font-size:13px}
   .mt-game .mm{font-family:var(--f-mono);font-size:11.5px;color:var(--muted)}
+  .log-select{width:100%;background:var(--bg);border:1px solid var(--line);border-radius:8px;color:var(--ink);
+    font-family:var(--f-sans);font-size:13px;padding:9px 10px;box-sizing:border-box;-webkit-appearance:none;appearance:none}
+  .fan-grid{display:flex;gap:10px;margin:12px 0 12px}
+  .fan-col{flex:1;border:1px solid var(--line);border-radius:11px;padding:12px 10px}
+  .fan-h{font-family:var(--f-mono);font-size:10px;font-weight:700;letter-spacing:.08em;color:var(--muted);margin-bottom:8px}
+  .fan-stat{display:flex;align-items:baseline;justify-content:space-between;padding:3px 0}
+  .fan-stat b{font-size:15px}
+  .fan-stat span{font-family:var(--f-mono);font-size:8.5px;letter-spacing:.1em;color:var(--faint);text-transform:uppercase}
+  .fan-read{font-size:12px;color:var(--muted);line-height:1.5;padding:2px 2px 2px}
   @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
   .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
@@ -499,6 +508,8 @@
       <div style="flex:1"><label>Stake ($)</label><input id="f-stake" type="number" inputmode="decimal" placeholder="20"></div>
       <div style="flex:1"><label>Multiplier</label><input id="f-mult" type="number" inputmode="decimal" placeholder="3"></div>
     </div>
+    <label>Team (for your fandom tracker)</label>
+    <select id="f-team" class="log-select"></select>
     <div class="book-actions" style="margin-top:12px">
       <button class="btn act" id="f-save">Save bet</button>
       <button class="btn" id="f-cancel">Cancel</button>
@@ -507,6 +518,7 @@
   </div>
   <div class="pnl-hero" id="pnl-hero"></div>
   <div class="pnl-row" id="pnl-row"></div>
+  <div id="fandom"></div>
   <div class="card-lite"><p class="sub">Equity curve — cumulative profit</p><div id="equity"></div></div>
   <div class="card-lite"><p class="sub">This month <span class="tag-ctx">P&L by day</span></p><div id="cal"></div></div>
   <div class="eyebrow" style="margin-top:20px"><span class="q">"</span>SLIPS<span class="q">"</span> <span class="eb-count">— YOUR ENTRIES</span></div>
@@ -620,8 +632,14 @@ function renderMyTeam(){
   html+=`<div class="eyebrow" style="margin-top:20px"><span class="q">"</span>TEAM NEWS<span class="q">"</span></div>`;
   html+= news.length ? news.map(n=>`<a class="news-item" href="${n.link}" target="_blank" rel="noopener"><div class="news-body"><div class="news-title">${n.title}</div><div class="news-meta">${n.source||''}<span>${timeAgo(n.ts)}</span></div></div><span class="news-arr">↗</span></a>`).join('')
     : `<div class="empty-note" style="padding:20px 4px">No team headlines yet — the news worker pulls these every few hours.</div>`;
-  html+=`<div class="eyebrow" style="margin-top:20px"><span class="q">"</span>YOUR RECORD ON THE ${t.n}<span class="q">"</span></div>
-    <div class="hcard"><div class="hc-lbl">Fandom check</div><div class="hrow" style="color:var(--muted);font-size:12px;line-height:1.5">Log a bet on a ${t.n} game and this becomes your fandom-bias tracker — whether you're sharper or softer betting your own team.</div></div>`;
+  const fs=fandomStats().mine, sgn=n=>(n>=0?'+':'')+n;
+  html+=`<div class="eyebrow" style="margin-top:20px"><span class="q">"</span>YOUR RECORD ON THE ${t.n}<span class="q">"</span></div>`;
+  html+= fs.n ? `<div class="hcard"><div class="fan-grid"><div class="fan-col" style="border-color:${t.c}">
+      <div class="fan-stat"><b>${fs.w}-${fs.l}</b><span>REC</span></div>
+      <div class="fan-stat"><b class="${fs.roi>=0?'up':'down'}">${sgn(fs.roi)}%</b><span>ROI</span></div>
+      <div class="fan-stat"><b>${fs.hit}%</b><span>HIT</span></div></div></div>
+      <div style="font-family:var(--f-mono);font-size:9px;color:var(--faint);text-align:center;margin-top:8px">Full breakdown in THE BOOK</div>`
+    : `<div class="hcard"><div class="hc-lbl">Fandom check</div><div class="hrow" style="color:var(--muted);font-size:12px;line-height:1.5">Tag a bet with ${t.n} in THE BOOK and your fandom record shows here — sharper or softer on your own team?</div></div>`;
   h.innerHTML=html;
 }
 updateTeamNav();
@@ -922,6 +940,31 @@ document.querySelectorAll('.wire-tab').forEach(t=>t.addEventListener('click',()=
   document.getElementById('alerts').style.display=news?'none':'block';
 }));
 
+function fandomStats(){
+  const f=favTeam();
+  const settled=((DATA.bag&&DATA.bag.slips)||[]).filter(s=>s.res==='WIN'||s.res==='LOSS');
+  const calc=arr=>{const w=arr.filter(s=>s.res==='WIN').length,l=arr.filter(s=>s.res==='LOSS').length;
+    const staked=arr.reduce((a,s)=>a+s.stake,0),pnl=arr.reduce((a,s)=>a+s.pnl,0);
+    return {w,l,n:arr.length,pnl,roi:staked?Math.round(pnl/staked*100):0,hit:(w+l)?Math.round(w/(w+l)*100):0};};
+  return {f, mine:calc(settled.filter(s=>f&&s.team===f)), field:calc(settled.filter(s=>!f||s.team!==f))};
+}
+function fandomCard(){
+  const f=favTeam(); if(!f) return '';
+  const t=TEAMS[f], {mine,field}=fandomStats(), sgn=n=>(n>=0?'+':'')+n;
+  if(!mine.n && !field.n) return `<div class="hcard"><div class="hc-lbl">Fandom check</div><div class="hrow" style="color:var(--muted);font-size:12px;line-height:1.5">Tag bets with a team when you log them — your ${t.n} record vs the field lands here. Are you sharper or softer on your own team?</div></div>`;
+  let read;
+  if(mine.n<3) read=`Only ${mine.n} ${t.n} bet${mine.n===1?'':'s'} logged — too small to call yet. Keep going.`;
+  else if(mine.roi>field.roi+3) read=`You're <b style="color:var(--green-ink)">sharper</b> on the ${t.n} — +${mine.roi-field.roi}% ROI over the field.`;
+  else if(mine.roi<field.roi-3) read=`You're <b style="color:var(--red-ink)">softer</b> on the ${t.n} — ${mine.roi-field.roi}% ROI vs the field. Fandom tax is real.`;
+  else read=`About even on the ${t.n} vs the field — no measurable bias.`;
+  const col=(h,c,d)=>`<div class="fan-col"${c?` style="border-color:${c}"`:''}><div class="fan-h"${c?` style="color:${c}"`:''}>${h}</div>
+    <div class="fan-stat"><b>${d.w}-${d.l}</b><span>REC</span></div>
+    <div class="fan-stat"><b class="${d.roi>=0?'up':'down'}">${sgn(d.roi)}%</b><span>ROI</span></div>
+    <div class="fan-stat"><b>${d.hit}%</b><span>HIT</span></div></div>`;
+  return `<div class="hcard"><div class="hc-lbl">Fandom check — ${t.n} vs the field</div>
+    <div class="fan-grid">${col(t.n,t.c,mine)}${col('THE FIELD','',field)}</div>
+    <div class="fan-read">${read}</div></div>`;
+}
 function renderBag(){
   const b=DATA.bag, sgn=n=>(n>=0?'+$':'−$')+Math.abs(n);
   const settled=b.slips.filter(s=>s.res!=='PEND');
@@ -940,6 +983,7 @@ function renderBag(){
     <div class="stat"><div class="n">${wr}<span style="font-size:12px">%</span></div><div class="l">WIN RATE</div></div>
     <div class="stat"><div class="n up">${sgn(bigW)}</div><div class="l">BIGGEST WIN</div></div>
     <div class="stat"><div class="n down">${sgn(bigL)}</div><div class="l">BIGGEST LOSS</div></div>`;
+  $('#fandom').innerHTML=fandomCard();
   // equity curve
   let cum=0; const pts=[0]; settled.forEach(s=>{cum+=s.pnl;pts.push(cum);});
   const W=300,H=64,pad=8,max=Math.max(...pts,1),min=Math.min(...pts,0),rng=(max-min)||1;
@@ -968,7 +1012,7 @@ function renderBag(){
   [...b.slips].reverse().forEach(s=>{
     const pend=s.res==='PEND';
     sw.appendChild(el(`<div class="slip ${pend?'pending':''}">
-      <div class="slip-top"><span class="slip-type">${s.type} · ${s.mult}x</span><span class="slip-date">day ${s.day}</span></div>
+      <div class="slip-top"><span class="slip-type">${s.type} · ${s.mult}x${s.team?` · <b style="color:${(TEAMS[s.team]||{}).c||'var(--muted)'}">${s.team}</b>`:''}</span><span class="slip-date">day ${s.day}</span></div>
       <div class="slip-legs">${s.legs.map(l=>`<span class="leg">${l}</span>`).join('')}</div>
       <div class="slip-foot"><span class="res ${pend?'P':s.res}">${pend?'LIVE':s.res}</span>
         <span>$${s.stake} → $${s.payout}</span>
@@ -1014,7 +1058,8 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
   if(it.dataset.view){ if(it.dataset.view==='myteam')renderMyTeam(); setView(it.dataset.view); if(it.dataset.view==='settings'){const t=$('#s-token'); if(t) t.value=ghToken();} }
   else { document.getElementById('soon-title').textContent=it.dataset.soon; setView('soon'); }
 }));
-(function(){const g=document.getElementById('teamGrid');if(g){Object.keys(TEAMS).forEach(ab=>{const b=el(`<button class="team-chip" data-team="${ab}">${ab}</button>`);b.style.setProperty('--tc',TEAMS[ab].c);b.addEventListener('click',()=>{setFav(ab);markTeamGrid();applyFav();});g.appendChild(b);});markTeamGrid();}})();
+(function(){const g=document.getElementById('teamGrid');if(g){Object.keys(TEAMS).forEach(ab=>{const b=el(`<button class="team-chip" data-team="${ab}">${ab}</button>`);b.style.setProperty('--tc',TEAMS[ab].c);b.addEventListener('click',()=>{setFav(ab);markTeamGrid();applyFav();const ft=document.getElementById('f-team');if(ft&&!ft.value)ft.value=ab;});g.appendChild(b);});markTeamGrid();}
+  const ft=document.getElementById('f-team');if(ft){ft.innerHTML='<option value="">— none / multi-team —</option>'+Object.keys(TEAMS).map(ab=>`<option value="${ab}">${ab} · ${TEAMS[ab].n}</option>`).join('');ft.value=favTeam()||'';}})();
 (function(){
   const lt=$('#logToggle'); if(lt) lt.addEventListener('click',()=>$('#logform').classList.toggle('on'));
   const fc=$('#f-cancel'); if(fc) fc.addEventListener('click',()=>$('#logform').classList.remove('on'));
@@ -1127,7 +1172,7 @@ function b64d(b){return decodeURIComponent(escape(atob((b||'').replace(/\s/g,'')
 function ghHeaders(){return {'Authorization':'Bearer '+ghToken(),'Accept':'application/vnd.github+json','Content-Type':'application/json'};}
 function normalizeBag(d){const now=new Date();d=d||{};return {start:d.start||0,today:now.getDate(),
   slips:(d.slips||[]).map(s=>({id:s.id,type:s.type||'Power',mult:s.mult||1,day:s.day||now.getDate(),
-  legs:s.legs||[],stake:s.stake||0,payout:s.payout||0,res:s.res||'PEND',pnl:s.pnl||0,ts:s.ts||0}))};}
+  legs:s.legs||[],stake:s.stake||0,payout:s.payout||0,res:s.res||'PEND',pnl:s.pnl||0,ts:s.ts||0,team:s.team||''}))};}
 async function ghGet(){
   const url=`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}?ref=${GH.branch}&t=${Date.now()}`;
   const r=await fetch(url,{headers:ghHeaders(),cache:'no-store'});
@@ -1173,7 +1218,7 @@ async function saveBet(){
   const m=$('#f-msg');
   if(!legs.length||!stake){m.style.color='var(--red-ink)';m.textContent='Add at least one pick and a stake.';return;}
   const bet={id:Date.now(),ts:Date.now(),day:new Date().getDate(),type,mult,legs,
-    stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0};
+    stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0,team:($('#f-team')||{}).value||''};
   m.style.color='var(--muted)';m.textContent='Saving to your repo…';
   try{
     await mutateBets(d=>{d.slips=d.slips||[];d.slips.push(bet);},'bets: log '+type);
