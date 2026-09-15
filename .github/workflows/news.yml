@@ -3,14 +3,17 @@ name: Update news
 on:
   workflow_dispatch:
     inputs:
+      test:
+        description: "Send a test push to Discord? (type yes)"
+        required: false
       team:
-        description: "Favorite team full name, e.g. Atlanta Hawks"
+        description: "Favorite team full name (optional)"
         required: false
       watchlist:
         description: "Players, comma-separated (optional)"
         required: false
   schedule:
-    - cron: "0 */4 * * *"   # every 4 hours
+    - cron: "*/10 * * * *"
 
 permissions:
   contents: write
@@ -23,10 +26,12 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Pull headlines
+      - name: Pull headlines + push breaking news
         env:
           FAV_TEAM: ${{ github.event.inputs.team || 'Atlanta Hawks' }}
           WATCHLIST: ${{ github.event.inputs.watchlist }}
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          TEST_PUSH: ${{ github.event.inputs.test == 'yes' && '1' || '' }}
         run: python news.py
       - name: Commit the data if it changed
         run: |
