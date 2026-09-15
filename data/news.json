@@ -1,36 +1,64 @@
 {
-  "updated": "2026-09-15T18:35:05+00:00",
+  "updated": "2026-09-15T21:21:43+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "NBA Foundation hosts inaugural Sports & Arts Symposium in Phoenix - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkVVTXFVcEcyT0szR2FDdHRaUFd4bzZXRlM1dEZMRDRyejBxdlVPVTNCVnlRZUVoek92WHkxNHVPVk1aTXZEUW43M2Z0OGFocGtidUhXQlpkZTVGVG1JZzFpblpSTm02ZFhSLVZSYV9oNk80ZUExaG84TDNSM05jV0hDbWJBb2V4TWFFOTlZMGpIZw?oc=5",
-      "source": "NBA.com",
-      "ts": 1789495594000,
-      "tag": "league"
-    },
-    {
-      "title": "Draymond Green opens up on the luxury NBA teams get on the road: \"There's food everywhere\" - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOTgzMEhOTmlXWTZaWmNnOFEzb19aN01zSThVVjRobHI0UlZlT2l1U1g3cUtVdXFMTzBDb0RNdngydjBZRE5fTG1MTTBkTnk4cWpYeDBaRkt1Y2hBRm5MT0w3Y1FQYjFybG1RWWZ4NnN1b2JCWWtKZUo3ZXhLTU1ucUozZnFLR1k?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1789485597000,
-      "tag": "league"
-    },
-    {
-      "title": "Shams Charania on why Kawhi Leonard pushed for a return to Toronto: \"This is a complete legacy play\" - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQelZnTE5PcUJSNWp6ajlDSHVpMnlQOWlRQ0VZcDN4ZjJSamd4ZUFET3lUdVFnOU9Lc0NHUE5mbzI3OC0ycDRZQ3FudDlLZVVHcURMZFlPMlh3WnNId3E2UGxUQ01nUDF1UlVxY0hsRDVNNXc3YTJ4RVlrZHh1YVlhVmppR0dtcnJL?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1789482028000,
-      "tag": "league"
-    },
-    {
-      "title": "The Bounce: Donovan Mitchell\u2019s Cavaliers arrival stems from a 15-year-old trade - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZk1ZSmJ0a0dsVzhVYVQxTElMR0NzTzFpUXVRVnJLei10c1A0eHlUb2ZEWXplM1B0VzlyVHp5N0VlalZOM1Y0cGpSX2lhcE9kMFBUeElaM2FHM0hfVXJRa3BaUzVnc1BnV1FHZy04REF6MmdSQ1VVTjgzVTg1SndkdGVkYWhPeWpkNUtCWHBiVVZOblRWYXFEd2F6RUtrSjZTTWc?oc=5",
+      "title": "Blazers leaving Portland would be \u2018a failure\u2019 as Silver calls for state-of-art arena - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOVhJbS0yQlJwemc3Mm5ORTdQX1VWZ2VBNHZRb1dEcmx0YWl0dGt2S05WY3hNa1JMY01sLUY3TGJaYkstOGZJamxaaWc3QU1hR0VMQXNyZUxYeXRTWld2eU83QkhGT2FXSEkzRXluSWNQZVJLTmljZnJMVXRqSEF0TU9sTWJPeDBTNUhMbWQ4NEF4STVLcnpvbkdLSldyUQ?oc=5",
       "source": "The New York Times",
-      "ts": 1789481704000,
+      "ts": 1789506380000,
+      "tag": "league"
+    },
+    {
+      "title": "\"Plastic surgery for his girlfriend\" - How an ex-NBA All-Star used his charity donations to fund his private expenses - sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbDd0YW9ESWVUTnZwVlYyb2xZM0UxblBpUVFLR2NnM24yTlBJa29KWU1oQjVpbW1fcU9xb0ZBbjRURDV0aUtYNW1WdGEtRTRBUGRPaENySDY0djdLYTNIUnM0WmJpOVp5WHB1U2J1YTFLNlg0Y0RjX1NmckNETGduajRNSUxMR0o4Qmc?oc=5",
+      "source": "sports.yahoo.com",
+      "ts": 1789506000000,
+      "tag": "league"
+    },
+    {
+      "title": "Warriors icon could be dealt in seismic midseason reset: insider - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcjV1T0RrVnZLNHBSaE9uZXEwaFg0QWhUNnUzTW5lbkFCOHRoUXJVVm9lWHlELWJGb2V5YVFka3NVOWY4Nm5MZ3ctUzVRTm5DaG5lWVZ6M2V2dWhhc21Bc0x4dGgwbThDYU5hX0wtYkZ5TlB2bDh3SWF2TDVBZFVMV3BUR3RHQ1l2RHNQV014ZUZuMWE4Y2tIdmNB?oc=5",
+      "source": "New York Post",
+      "ts": 1789505040000,
+      "tag": "league"
+    },
+    {
+      "title": "Three Bold Predictions for the Atlanta Hawks 2026-27 Season - si.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb3hsd0o5T1haUmN2YTNDWkZCYVhxMldNakhqWncwdC02V0NuNHRlaUFzbHR3NUZmY2lOdHkzbkxSclozSW9Yd0F4T3d4aXh3Y1N2Zi1DUEFMUVBfWV9DdzZsMTcyWl9maWhCXzNsVXZ6RWtzQkNDbkZvZGdhc2hXTzJQdHQ3SEYzUFlpM2hnS1BBSS02SnFITlM3RmJaMjFjNkd1UXpNMTh5UQ?oc=5",
+      "source": "si.com",
+      "ts": 1789502258000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA says league has toured Climate Pledge, Seattle expansion decision by end of year - KOMO",
+      "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNOW91c3JsckhPdzh6REFZcm5vUGF3YVlOcE9xOHNxM2NxXzhDNEtONV9NMk4yVk1FcVh0NG8tbU52WS1mX0dLZExnX1JiTVdBZjdkRVRoN1RwM3B0MWlRcl9SMnBvZTFna2t5TVBjLWZZdEhrV1VLUm5FN1JnZ2lvdHNEMkY4Z2RreklaSXhPb1RwWDVlRFMzbGhCQUI4UVFYQXo3aEtkdThsbVprYWt4T3ZuWUVRVmdaQmxCdmNlRXpicm5mZDdETzd0UHl4ZjJWU2hWb3NyT2tyeHE4dEtqVzVJWkVMSVpkcUhlRHRmLVhUb1lFY3Y2UmlQek1ZcGJkYjNvc01YaGc5LUZXOFVJOW9scUlBY0Jla0hyNlRpY2pONlBoTzM0c1czTQ?oc=5",
+      "source": "KOMO",
+      "ts": 1789501204000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA weighed precedent before punishing Clippers in salary cap case - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOGw5Vnl5ZUVkTUJYSnFqbF9UZHJDY3U0Tld2RjhiX2dxMHdMV0tCR2pCdmVyNllFZk9DTWRxT3VVMlVMeW9kRk9hckhHS2VZdEZfYVhvMFlDdExESHBOdi1GZV92VmMtcFphTWVIT1RkRE5RTEJjc0pNcmk1NF9WUVFlaFVib3FPR21BRTc5U3UxZXRLNmdaalhrbElGZjFKWmRR?oc=5",
+      "source": "ESPN",
+      "ts": 1789499520000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Your Team Can Plunder Clippers With Kawhi Leonard Deal Done - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUNENlBlbndadkRkMU55ZERlaXA0ZkJmbl92aTZ1TVlXM2xUTFpucnRpcHJWOHlnTHBTUnl6WmlHVTdUdi01RGhLZFNXMzJGNkhLTnl1ZnBtTXV4V0w0VWdSLU1YNjZIaWtUZkNLQWFmbEhfR2U2c1FDOG0zaElBSE5PU1FmX3Z6OS1nR2x1T0NfUnJRUzJNMlZ6ZlJ2NUoxWTRyaHNDTjg4Qkh3M0NsbURwZ2ZHQ3hRZlhz?oc=5",
+      "source": "heavy.com",
+      "ts": 1789498521000,
+      "tag": "league"
+    },
+    {
+      "title": "Stephen A. Smith eviscerates Kawhi Leonard in world-class Clippers scandal rant - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQW9KWjU0VVRKVXEwc3Vzd0xBQkZLSlg2RU42aFhueGZnRHdHNExNalRDYVVaY3IyVThBb2lNWmhtOGZNcVRfXzJjbU5XejRtT2MzQVR0eTV6OFA2SjAyN0g0YmpnVE8wMDlOc21TVlVfZnZYb0VpZEt6YzhOcmxlTjFDckE0dy0yZlRuMkJFX0IyRVFZenF4Rw?oc=5",
+      "source": "New York Post",
+      "ts": 1789494660000,
       "tag": "league"
     },
     {
@@ -41,38 +69,24 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks Sign Will Baker to Exhibit 10 Contract - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdHR3YkFNb2VtcjJXUHFRRy1MZFlJZWw5OG9BN0VnOHdPZUNaM0U3VTBjX0dUUTZCUkJFYzZGUkxQSV9BT1BQTDY5OFdBbDBrRWdkalh1NWpubWRrM0ttdHQ4X0dYQmVjbFZtYmo0ZE9LWnhMODJEQVB0czJDM3otcHphQXVOQUF6?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1789478556000,
+      "title": "The Atlanta Hawks have signed center Will Baker to an \u2026 - HoopsHype",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkZkeVVIRWxlWE1DclJfU3Y3LXVLaTRDZ0dMQ0pLb0NWM3lMdVZrZ1lWX29ITDM2blRiZHNzN1dXOVF4c0FzeGNsd3l4NjM0Nk9rZEhYQ3VHLWx0ajN4VTlhZ2c4YmtZUkpLTWdtVXM1LUc4bWhOMzB2WDB6REVWNGwwVGQzaE5TaXZSWWpZUFRqQWdXVnA3U0lQaXlETG1EamoyTGFRekNBeUJ2d2x3SkthY0NRMnZHQ2N1aFA0QmJoUkhTZXc?oc=5",
+      "source": "HoopsHype",
+      "ts": 1789479000000,
       "tag": "team"
     },
     {
-      "title": "NBA Trade Rumors: Your Team Can Plunder Clippers With Kawhi Leonard Deal Done - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSUNENlBlbndadkRkMU55ZERlaXA0ZkJmbl92aTZ1TVlXM2xUTFpucnRpcHJWOHlnTHBTUnl6WmlHVTdUdi01RGhLZFNXMzJGNkhLTnl1ZnBtTXV4V0w0VWdSLU1YNjZIaWtUZkNLQWFmbEhfR2U2c1FDOG0zaElBSE5PU1FmX3Z6OS1nR2x1T0NfUnJRUzJNMlZ6ZlJ2NUoxWTRyaHNDTjg4Qkh3M0NsbURwZ2ZHQ3hRZlhz?oc=5",
-      "source": "heavy.com",
-      "ts": 1789477790000,
-      "tag": "league"
-    },
-    {
-      "title": "Will the Atlanta Hawks' Biggest Roster Issue Be Too Much For Them to Overcome? - Sports Illustrated",
+      "title": "Will the Atlanta Hawks' Biggest Roster Issue Be Too Much For Them to Overcome? - si.com",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaFJaZnFkMWFoQUh6OVJ2YWVrRFc3YlF4SlRPc25ZTGRYWF9YbVhLcEdEZEFENDFsQmhSUDI4bVRMcmpSa2JwRmxtWVp1Ui1LS2pNNjZFeC1ISnFJZUFxSUlRMGRGbHlfN1dWa2w4M0dBUGNUdUlmd0FQNzI0SXNobXY1WFJabXJFb3ZidzEzbjJnbW1hdmpBbzlDaTZ1dnhGcmhBTUZTWlZWelpLNks4Y0JmU2o5N21xLWhidmF4NC0?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1789477203000,
       "tag": "team"
     },
     {
-      "title": "Domantas Sabonis Trade? Kalshi Says Not Before Season - Sports Illustrated",
+      "title": "Domantas Sabonis Trade? Kalshi Says Not Before Season - si.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOREJpWDZMYmMwRHZIczlfYVNreHBXSUtaMk5PNHJFNUNUQlZMSWQybFpfT2lZWmF1ckY2d3c2djJUa0JraDVJeXhxeEZQb0phLUNDQmFPcE5VV2pfemhQSnJHYmFMV0JIUHJtV1Y3Nzk4MlE2cE5QVmhrWVBoVFhlWW9nWHNpU3AzWWx2dTNLWnF2azBHTnlMcjNyOHBmRVhHbzdoTDBR?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1789477200000,
-      "tag": "league"
-    },
-    {
-      "title": "Why Jon Scheyer is coaching college basketball at Duke and not in the NBA - Raleigh News & Observer",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBHZjdwcm42a2s2bF94YWQyLUhjbVQyVUI1S2xERWdNRG9sbDJ1TC15MzlrWHd1TF9TNzkwbXNmUDhXUHN4SkhBM1V4SmVlZklDOWgweV96bGlhcXYzdDBHSXc3ZWJqMlZFS2E1U2NDUUp5b0xjSnJJUEgtY2hFQUHSAX9BVV95cUxOSTJ6eEZ5dkMwNTBJN0xiMHVXNXpVajRCeThMYXR6WkJxdVg3djlTQ1NCeGM3cDhZNmNGWmxjQURjdzNMMVk3ZExQRnh1cU5jd0tvSHppam9uSkhrT1E3M2ZJNjJpQlJhMW52QUI2Tnc3a1BOSkZnMlE5TDBFRF9Z?oc=5",
-      "source": "Raleigh News & Observer",
-      "ts": 1789477162000,
       "tag": "league"
     },
     {
@@ -97,6 +111,13 @@
       "tag": "league"
     },
     {
+      "title": "Clippers, Raptors complete Kawhi Leonard trade after NBA doles out punishment - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0JkdFhhcmpOR2QtRUhkOW5QOUpGNEhsN1ZCZHRSTVVqblAwcTdFZ1BDc3J6Y1NmeUc2aTZ0aTl5OUQ4bjhjRmh5bFlKNjd6WElMVS1pa05BbjZwX0FHaG9ldTc2ZHkxcGFqVElfaXl0M0xTSm9wak9xNV9ZYjg0VGYteXJGTnVnRF9XREwxTmFwSjYtX3BFeTV5bWRHdEppa1E?oc=5",
+      "source": "The New York Times",
+      "ts": 1789445023000,
+      "tag": "league"
+    },
+    {
       "title": "Kawhi Leonard trade to Raptors completed after NBA punishes Clippers for breaking salary cap rules - sports.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNVWJMaXNQN1RJT0tJczdUdm5JQ2phYmJwLXVwYlZlTjF0SG85V1dHQXFTcjdfbmw3Q0s0OGMwdnpvekdpdzBHbnRTdVVHS3lPUzZGUmhyTXZkejAxcjc2MGw5dlRBc252Z1Z0di05VlFmcTY2c0hsMGhpeGloRkdRMjhwbkNrb0NiV01DaTJTSTF2ZXowZTh6cE55SW5oci16RmdjNUhIVkFkSG1UUEdBa1J3UGN4YWZEYUtQWkthXzVnUWNIOXNDdnVrUkk0UGp5TmtqYXh4TjhBS3ROMjRlN0ltSHhUcmNNenY4MFRVVFUzaHNfd2tOWHJrQ0RtZw?oc=5",
       "source": "sports.yahoo.com",
@@ -118,24 +139,17 @@
       "tag": "team"
     },
     {
-      "title": "Atlanta Hawks Roster Outlook: Core Players, Trade Chips, or On the Cusp? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMG95X25yRlJxZlFFUU9XOTUwNmFtUTFPV3g0ejlBUUtmeHVSb2FGZTd0WHlxa2UxbWRJNGN4NlQwaVlQZkpSSzBxTHFFb1hnbTZKQnExQUJxbnYtWEwxemZhLUlPc2JMZXY0SmhJLXliQ2hhTW56M1ZPN192TTk4a1NkR2VuVURGZEVfbFVqd2Z6WGZ3QzBpNlZ3cnY1NEFpVm1nWmtYajBoVFd0N3p6TkxKdTBHdw?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1789426800000,
-      "tag": "team"
+      "title": "\"Afraid to hurt his feelings\" - Olden Polynice says the Lakers are going to have real problems with Luka Doncic following LeBron James' departure - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTDNWUTBSZ1pSMk1yam5lOEpLVXMteThoX2ZQNF9qYVpCdkFSbkdJQ1Zlc3VSaHdDdVVyWE1TaENBblc1R3NjRjBBUTVGTkEzNVdDcXhURUdaVnZkdHJ1QnJSMVBJbUNJQXdfOUM2WkdCZGlYaURjNURXcnVFTmdHcEJhdTRYMGJWNWJUV1Q2Y2IwdkxrZWtBWEFmMXdyczF0R3ZPV2tzMnhJSFZTM0d2WTlzVnlzSGxFZHVYdXhrSnpiN2xaNjVsS0lqNlZuaGV4RElhaVBfeExEdzUxNm41YlZrRF9MWEc0cUxacWxqOA?oc=5",
+      "source": "Basketball Network",
+      "ts": 1789425120000,
+      "tag": "league"
     },
     {
       "title": "Clippers rumor opens door to reacquiring first-round picks stripped by NBA - New York Post",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTldTWm81VjFUU3MtSkRsZXJTSEV5a0lOWVZkdWluVnZKdk1XSXg3UjFRaEQwWTV6RnFyWUFUR1dVd2FaUEhqRnk3bnh1WlRaa3pRNXdTZTQ3SGVXUEJodGt2UThGMlcyVG9qS3FvLTA1NzFMNC0xUHo2SmFQdlI3eWVhUWJON3V3UG93aWVISXpGa3FVZjFB?oc=5",
       "source": "New York Post",
       "ts": 1789423980000,
-      "tag": "league"
-    },
-    {
-      "title": "Jon Scheyer reveals why he turned down Mavericks interest, stayed at Duke despite NBA buzz - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORmJ1ekY4ZWN2akpKOHh0ZnRJS2hSbjF4RHUwOVRVRTVUZFFtaWFfWVdhbEhCM3BuMXJZMmJQcEN1SnhBX0FDSkp5TVZEZHdBRGlLdEVTVnFaNTRKcHJ3Q3pKa0Z2cHJiTFk2S0llNkk4UjByUTV4YjEyQ1BzYkRpcU9QUW9YelN6?oc=5",
-      "source": "CBS Sports",
-      "ts": 1789423641000,
       "tag": "league"
     },
     {
@@ -146,17 +160,10 @@
       "tag": "league"
     },
     {
-      "title": "Clippers, Raptors complete Kawhi Leonard trade after NBA doles out punishment - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM0JkdFhhcmpOR2QtRUhkOW5QOUpGNEhsN1ZCZHRSTVVqblAwcTdFZ1BDc3J6Y1NmeUc2aTZ0aTl5OUQ4bjhjRmh5bFlKNjd6WElMVS1pa05BbjZwX0FHaG9ldTc2ZHkxcGFqVElfaXl0M0xTSm9wak9xNV9ZYjg0VGYteXJGTnVnRF9XREwxTmFwSjYtX3BFeTV5bWRHdEppa1E?oc=5",
-      "source": "The New York Times",
-      "ts": 1789411800000,
-      "tag": "league"
-    },
-    {
-      "title": "Lakers Trade Idea Lands 3-Time All-Star Forward Next To Luka Doncic - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPU3YxRU9EYk5lRnY2WHBHMUkwcUVnQkUtQnM5NExCZnhnVTRXU2VDcGhsbElHUzgwUGRNb2NGaFZqOC1YWGJJYWlna0VCXzYtWGZPdEpqN2haUjNZREhiaEQ4WHkwOWszaWV6UlEyb05TRWgxaGtCUVdfbXQxeGQwWHZ2RlJlekQ0bmIxYkE5ZmpDMkhlNHpDVTJR?oc=5",
-      "source": "heavy.com",
-      "ts": 1789410731000,
+      "title": "Where Sonics\u2019 return, NBA expansion sit as Board of Governors meet - The Seattle Times",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSjlvVkdhclpBYTVNUHN4dmt6UzFKTFRnNE5YQnVWcmVKdUZ1WHI5UHNGbWM3OHBQY2l6a0M0dzZlUkQxTHRPRk1IUFVaUXc1SXJWdnc3TTJMRzRvX2Z6VlBWTV93bDQ3bzBqMXV4VzFGbVptenZxNzRfd1lLYVFyQjVpWHdGdWY5SUNwQkdhS29XZWdFajRuS3lmUVRnc1A0Z0hRNkVCU0ZYc1lN?oc=5",
+      "source": "The Seattle Times",
+      "ts": 1789410127000,
       "tag": "league"
     },
     {
@@ -167,17 +174,10 @@
       "tag": "league"
     },
     {
-      "title": "The NBA trade market is suddenly full of fits for the Pistons - PistonPowered",
+      "title": "The NBA trade market is suddenly full of fits for the Pistons - pistonpowered.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTzF6SlBYT3daSk1SeUk1d2NvcTV6Q3J6U3VYTUxRWHFwekhBX0I2T2hsM3doY3pZTnF3WmFqVDl5aDZrMzAwcENaQUNuSHF2NTRqdkp5czQyTWRJMl9QczJ6Z2FfbHR4Z2tscF81aFM0SDV0Tmt0bGx6MUdzVWNPTlRoRQ?oc=5",
-      "source": "PistonPowered",
+      "source": "pistonpowered.com",
       "ts": 1789386501000,
-      "tag": "league"
-    },
-    {
-      "title": "Ballmer to accept NBA's punishment, has 'sincere regrets' - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN2dZNjMtNDVCa01mT1FaLUJwM0dqXzQ5QmFmQndpbnhaeG9XWk9iVUVUV0Q0ckZuazc2RzdPeWNTcEpCb2ZpWlBCUjRjWmFoNlJ5N1p0NUxQaEN3bnZjNUJxX1c3NTJGMXc2SzVybDNnYmFWbHcyUFJnZ0pmTnBBN0FhZTlGdU5HZmhKbUxZZDZTdW5R?oc=5",
-      "source": "ESPN",
-      "ts": 1789356420000,
       "tag": "league"
     },
     {
@@ -209,11 +209,11 @@
       "tag": "team"
     },
     {
-      "title": "Devin Carter Waived By Hawks, Celtics Register Interest - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWWZvR3lRcnByLU5YS1JDd2Q1U3R5allPeGJiRm1pNnNlVUh5dl80RDAyRmdvSHlRc0VQcVdUQWdSak1OUnRkZjNRdXdlSEF5UUpwUFNObm9kZnhneW8wQl8tR1BXRU8xZ0tCSkpvWjhhLUVuUWZnbVhJQXJjR0VJUG9XUEJoWGJXR3BYVmFoSWpXSmFldUtiazVsNnhfbGYz?oc=5",
-      "source": "RealGM",
-      "ts": 1789193940000,
-      "tag": "team"
+      "title": "Fred VanVleet Injury: Progressing in ACL rehab - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODktdnpsXzhmSVE5VUxLOHZ1LW9TcWtMei16MmtPMTRDbjc4VzIzeGtnN3RJZUxxRGJGVmx5eFVrb1F5TVItc0NvV090T3QwQ2ZTQ21vOWRtODhhcEh1b3k0SEw4MFM0TmMwcmFkVDlCdlNEQWQwbGN1ajNBUzNGTFNNSVFyRFphQzFzS3d4QnlqZ0lJU0dYZ2ZfQlpiNXM?oc=5",
+      "source": "RotoWire",
+      "ts": 1789159576000,
+      "tag": "league"
     }
   ],
   "pushed": [
@@ -231,6 +231,11 @@
     "nbatradeidealandslakersapaintanchorfordaltonknechtandjarredv",
     "thenbatrademarketissuddenlyfulloffitsforthepistonspistonpowe",
     "gradingtheatlantahawksdecisiontowaivedevincartersportsyahooc",
-    "devincarterwaivedbyhawkscelticsregisterinterestrealgm"
+    "devincarterwaivedbyhawkscelticsregisterinterestrealgm",
+    "plasticsurgeryforhisgirlfriendhowanexnbaallstarusedhischarit",
+    "domantassabonistradekalshisaysnotbeforeseasonsicom",
+    "fredvanvleetinjuryprogressinginaclrehabrotowire",
+    "2026nbabuzzlatestfreeagencyandtradeupdatesespn",
+    "tyresehaliburtondropscrushingadmissiononnbafinalsgame7injury"
   ]
 }
