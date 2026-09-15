@@ -457,7 +457,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 09-15 · NATIVE-READY</div>
+  <div class="drawer-foot">BUILD 09-15 · NATIVE-2</div>
 </aside>
 
 <main id="scroll">
@@ -1260,6 +1260,11 @@ async function loadLive(){
   const on=document.querySelector('.conf-tab.on'); renderStandings(on?on.dataset.conf:'east');
   renderGames(); renderBag(); renderNews(); renderHome(); renderMyTeam(); tickClock();
 }
+// open external links in the system browser (native app) or a new tab (web)
+document.addEventListener('click',function(e){
+  const a=e.target.closest&&e.target.closest('a[href^="http"]');
+  if(a){e.preventDefault();window.open(a.href,'_blank');}
+});
 loadLive();
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
 </script>
