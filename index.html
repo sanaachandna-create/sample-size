@@ -376,6 +376,17 @@
   @keyframes swingdamp{0%{transform:rotate(-15deg)}18%{transform:rotate(12deg)}36%{transform:rotate(-9deg)}
     54%{transform:rotate(6deg)}72%{transform:rotate(-3.5deg)}86%{transform:rotate(1.5deg)}100%{transform:rotate(0deg)}}
   @keyframes fadein{to{opacity:1}}
+  .splash-team{position:absolute;left:0;right:0;top:58%;text-align:center;font-weight:800;font-size:34px;
+    letter-spacing:.05em;opacity:0;transform:translateY(8px)}
+  .splash-team.show{animation:teamin .55s cubic-bezier(.2,.7,.3,1) 1.05s forwards}
+  @keyframes teamin{to{opacity:1;transform:none}}
+  .team-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:6px}
+  .team-chip{font-family:var(--f-mono);font-size:10px;font-weight:700;letter-spacing:.02em;padding:9px 2px;
+    border-radius:8px;border:1px solid var(--line);background:var(--bg);color:var(--muted);cursor:pointer}
+  .team-chip.on{border-color:var(--tc);color:var(--tc);box-shadow:inset 0 0 0 1px var(--tc)}
+  .st-row.fav{background:var(--surface)}
+  .fav-dot{width:7px;height:7px;border-radius:50%;margin-left:6px;flex-shrink:0}
+  .game.favgame .rail{background:var(--tc)}
   @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
   .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
@@ -400,6 +411,7 @@
     <text x="49" y="170" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-weight="700" font-size="11.5" fill="#120a02">SIZE</text>
     <text x="49" y="190" text-anchor="middle" font-family="Arimo,Helvetica,sans-serif" font-size="7" letter-spacing="1" fill="#120a02">C/O SANAA</text>
   </svg></div>
+  <div class="splash-team" id="splashTeam"></div>
 </div>
 <div id="app">
 <header>
@@ -500,6 +512,10 @@
   <button class="back-btn" data-back>&#8592; BACK</button>
   <div class="eyebrow"><span class="q">"</span>SETTINGS<span class="q">"</span> <span class="eb-count">— SYNC</span></div>
   <div class="setform">
+    <label class="set-lbl">Your team — personalizes the whole app</label>
+    <div class="team-grid" id="teamGrid"></div>
+  </div>
+  <div class="setform">
     <label class="set-lbl">GitHub token — syncs your bets across phone &amp; Mac</label>
     <input id="s-token" type="password" placeholder="github_pat_…">
     <div class="book-actions" style="margin-top:12px">
@@ -535,6 +551,16 @@ window.addEventListener('load',fitApp);
 window.addEventListener('resize',fitApp);
 window.addEventListener('orientationchange',function(){setTimeout(fitApp,250);});
 setTimeout(fitApp,300);setTimeout(fitApp,900);
+
+// ===== FAVORITE TEAM =====
+const TEAMS={ATL:{n:'HAWKS',c:'#E03A3E',conf:'East'},BOS:{n:'CELTICS',c:'#1CAE57',conf:'East'},BKN:{n:'NETS',c:'#FFFFFF',conf:'East'},CHA:{n:'HORNETS',c:'#00A2B3',conf:'East'},CHI:{n:'BULLS',c:'#CE1141',conf:'East'},CLE:{n:'CAVALIERS',c:'#C8102E',conf:'East'},DAL:{n:'MAVERICKS',c:'#3E7DD6',conf:'West'},DEN:{n:'NUGGETS',c:'#FEC524',conf:'West'},DET:{n:'PISTONS',c:'#E4022A',conf:'East'},GSW:{n:'WARRIORS',c:'#FDB927',conf:'West'},HOU:{n:'ROCKETS',c:'#E03A3E',conf:'West'},IND:{n:'PACERS',c:'#FDBB30',conf:'East'},LAC:{n:'CLIPPERS',c:'#E4022A',conf:'West'},LAL:{n:'LAKERS',c:'#FDB927',conf:'West'},MEM:{n:'GRIZZLIES',c:'#6189C4',conf:'West'},MIA:{n:'HEAT',c:'#E4295D',conf:'East'},MIL:{n:'BUCKS',c:'#00A85A',conf:'East'},MIN:{n:'TIMBERWOLVES',c:'#48A9C5',conf:'West'},NOP:{n:'PELICANS',c:'#B4975A',conf:'West'},NYK:{n:'KNICKS',c:'#1D8FE1',conf:'East'},OKC:{n:'THUNDER',c:'#007AC1',conf:'West'},ORL:{n:'MAGIC',c:'#0B77C2',conf:'East'},PHI:{n:'76ERS',c:'#1D8FE1',conf:'East'},PHX:{n:'SUNS',c:'#8B6DC8',conf:'West'},POR:{n:'TRAIL BLAZERS',c:'#E03A3E',conf:'West'},SAC:{n:'KINGS',c:'#9E7BD6',conf:'West'},SAS:{n:'SPURS',c:'#C4CED4',conf:'West'},TOR:{n:'RAPTORS',c:'#E03A3E',conf:'East'},UTA:{n:'JAZZ',c:'#5CADE0',conf:'West'},WAS:{n:'WIZARDS',c:'#E4325B',conf:'East'}};
+function favTeam(){try{return localStorage.getItem('ss_fav')||'';}catch(e){return '';}}
+function setFav(t){try{localStorage.setItem('ss_fav',t);}catch(e){}}
+function isFav(g){const f=favTeam();return !!f&&(g.ha===f||g.hh===f);}
+function applyFav(){const on=(document.querySelector('.conf-tab.on')||{}).dataset;renderStandings(on&&on.conf?on.conf:'east');renderGames();renderHome();}
+function markTeamGrid(){const f=favTeam();document.querySelectorAll('.team-chip').forEach(b=>b.classList.toggle('on',b.dataset.team===f));}
+function revealTeam(){const t=TEAMS[favTeam()],e=document.getElementById('splashTeam');if(e&&t){e.textContent=t.n;e.style.color=t.c;e.classList.add('show');}}
+revealTeam();
 const mins = m => now + m*60000;
 const atDay = (off,h,m)=>{const d=new Date();d.setDate(d.getDate()+off);d.setHours(h,m,0,0);return d.getTime();};
 const TZ = (()=>{try{return new Intl.DateTimeFormat('en-US',{timeZoneName:'short'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName').value;}catch(e){return '';}})();
@@ -649,13 +675,13 @@ function renderGames(){
   if(!DATA._live || !DATA.games.length){
     $('#slate-count').textContent='— 0 TODAY';
     wrap.innerHTML = DATA._live
-      ? `<div class="empty-note"><b>No NBA games right now.</b>The season tips off Oct 20 — this fills in automatically once games are on the board.</div>`
+      ? `<div class="empty-note"><b>No NBA games right now.</b>Preseason opens Oct 3, regular season Oct 20 — this fills in automatically once games post.</div>`
       : `<div class="empty-note"><b>Waiting on live data.</b>This is just the preview. Your hosted app pulls the real schedule — no placeholder games are ever shown there.</div>`;
     return;
   }
   $('#slate-count').textContent=`— ${DATA.games.filter(x=>dayKey(x.tip)===0).length} TODAY`;
   let lastK=null;
-  DATA.games.map((g,i)=>({g,i})).sort((a,b)=>a.g.tip-b.g.tip).forEach(({g,i})=>{
+  DATA.games.map((g,i)=>({g,i})).sort((a,b)=>{const dk=dayKey(a.g.tip)-dayKey(b.g.tip);if(dk)return dk;const fa=isFav(a.g)?0:1,fb=isFav(b.g)?0:1;if(fa!==fb)return fa-fb;return a.g.tip-b.g.tip;}).forEach(({g,i})=>{
     const k=dayKey(g.tip);
     if(k!==lastK){wrap.appendChild(el(`<div class="day-head">${dayLabel(k,g.tip)}</div>`));lastK=k;}
     const ws=windowState(g.tip);
@@ -663,7 +689,8 @@ function renderGames(){
     const lu=g.lineups||{away:[],home:[]};
     const hasDetail=injCount || (g.injuries&&g.injuries.length) || (lu.away&&lu.away.length) || (lu.home&&lu.home.length) || (g.players&&g.players.length) || (g.ref&&Object.keys(g.ref).length) || g.h2h;
     if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><span class="chan ${g.national?'':'local'}">${g.channel}</span></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
-    const node=el(`<div class="game ${ws.cls}" data-i="${i}">
+    const fav=isFav(g);
+    const node=el(`<div class="game ${ws.cls}${fav?' favgame':''}"${fav?` style="--tc:${(TEAMS[favTeam()]||{}).c}"`:''} data-i="${i}">
       <div class="rail"></div>
       <div class="g-top">
         <div class="teams">
@@ -893,6 +920,7 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
   if(it.dataset.view){ setView(it.dataset.view); if(it.dataset.view==='settings'){const t=$('#s-token'); if(t) t.value=ghToken();} }
   else { document.getElementById('soon-title').textContent=it.dataset.soon; setView('soon'); }
 }));
+(function(){const g=document.getElementById('teamGrid');if(g){Object.keys(TEAMS).forEach(ab=>{const b=el(`<button class="team-chip" data-team="${ab}">${ab}</button>`);b.style.setProperty('--tc',TEAMS[ab].c);b.addEventListener('click',()=>{setFav(ab);markTeamGrid();applyFav();});g.appendChild(b);});markTeamGrid();}})();
 (function(){
   const lt=$('#logToggle'); if(lt) lt.addEventListener('click',()=>$('#logform').classList.toggle('on'));
   const fc=$('#f-cancel'); if(fc) fc.addEventListener('click',()=>$('#logform').classList.remove('on'));
@@ -923,6 +951,10 @@ function renderHome(){
   const today=settled.filter(s=>s.day===b.today).reduce((a,s)=>a+s.pnl,0);
   const total=settled.reduce((a,s)=>a+s.pnl,0);
   let html=`<div id="homedate" class="home-date"></div>`;
+  const ft=TEAMS[favTeam()];
+  if(ft){const stt=(DATA.standings&&DATA.standings.byTeam||{})[favTeam()];
+    html+=`<div class="hcard" style="border-color:${ft.c}"><div class="hc-lbl" style="color:${ft.c}">Your team</div>
+      <div class="hrow"><b style="font-size:15px">${ft.n}</b><span class="mm">${stt?`#${stt.seed} ${ft.conf} · ${stt.w}-${stt.l}`:'Preseason opens Oct 3'}</span></div></div>`;}
   if(DATA._live){
     html+=`<div class="home-strip">Tonight · <b>${g.filter(x=>dayKey(x.tip)===0).length}</b> games · <b>${live.length}</b> live · next tip ${up[0]?tipET(up[0].tip):'—'}</div>`;
     if(live.length) html+=`<div class="hcard live"><div class="hc-lbl"><span class="d"></span>Live now</div>`+
@@ -931,8 +963,13 @@ function renderHome(){
     html+=`<div class="home-strip">Games · waiting on live data — preview only</div>`;
   }
   if(DATA._live){
-    html+=`<div class="hcard"><div class="hc-lbl">Today</div>
-      <div class="hrow" style="color:var(--muted);font-size:12px">No bets logged yet — log picks in THE BOOK and today's total shows here.</div></div>`;
+    if(pend.length) html+=`<div class="hcard"><div class="hc-lbl">Your live bets</div>`+
+      pend.map(s=>`<div class="hrow">${s.legs.join(' · ')}<span class="mm">$${s.stake}→$${s.payout}</span></div>`).join('')+`</div>`;
+    if(settled.length) html+=`<div class="hcard"><div class="hc-lbl">Today</div>
+      <div class="hrow"><span class="hbig ${today>=0?'up':'down'}">${sgn(today)}</span>
+      <span class="mm">${wl.W||0}-${wl.L||0} · ${sgn(total)} all-time</span></div></div>`;
+    else html+=`<div class="hcard"><div class="hc-lbl">Today</div>
+      <div class="hrow" style="color:var(--muted);font-size:12px">No bets logged yet — log picks in THE BOOK.</div></div>`;
     html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
       <div class="hrow" style="color:var(--muted);font-size:12px">No alerts yet — these fire on game nights once you're on a game.</div></div>`;
   } else {
@@ -955,9 +992,10 @@ document.getElementById('searchBtn').addEventListener('click',()=>{document.getE
 // standings
 function renderStandings(conf){
   const list=DATA.standings[conf], w=$('#standings'); w.innerHTML='';
-  list.forEach(t=>w.appendChild(el(`<div class="st-row">
-    <span class="r">${t.r}</span><span class="ab">${t.ab}</span><span class="nm">${t.nm}</span>
-    <span class="wl">${t.w}-${t.l}</span><span class="arr">›</span></div>`)));
+  list.forEach(t=>{const fav=t.ab===favTeam();
+    w.appendChild(el(`<div class="st-row${fav?' fav':''}">
+    <span class="r">${t.r}</span><span class="ab">${t.ab}</span><span class="nm">${t.nm}</span>${fav?`<span class="fav-dot" style="background:${(TEAMS[t.ab]||{}).c}"></span>`:''}
+    <span class="wl">${t.w}-${t.l}</span><span class="arr">›</span></div>`));});
   document.querySelectorAll('.st-row').forEach(r=>r.addEventListener('click',()=>{
     document.getElementById('soon-title').textContent='Team page'; setView('soon');
   }));
@@ -1056,7 +1094,7 @@ async function loadLive(){
   renderHome(); tickClock();
 }
 loadLive();
-setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},1950);
+setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?2400:1950);
 </script>
 </body>
 </html>
