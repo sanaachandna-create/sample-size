@@ -387,6 +387,19 @@
   .st-row.fav{background:var(--surface)}
   .fav-dot{width:7px;height:7px;border-radius:50%;margin-left:6px;flex-shrink:0}
   .game.favgame .rail{background:var(--tc)}
+  .wire-tabs{display:flex;gap:8px;margin:0 0 14px}
+  .wire-tab{font-family:var(--f-sans);font-weight:700;font-size:11px;letter-spacing:.06em;text-transform:uppercase;
+    padding:8px 16px;border-radius:20px;border:1px solid var(--line);background:var(--surface);color:var(--muted);cursor:pointer}
+  .wire-tab.on{border-color:var(--orange);color:var(--orange)}
+  .news-item{display:flex;align-items:center;gap:10px;padding:13px 2px;border-bottom:1px solid var(--line);
+    text-decoration:none;color:inherit}
+  .news-item:active{opacity:.7}
+  .news-body{flex:1;min-width:0}
+  .news-title{font-size:13.5px;font-weight:600;line-height:1.35;color:var(--ink)}
+  .news-meta{display:flex;align-items:center;gap:8px;margin-top:5px;font-family:var(--f-mono);font-size:9.5px;
+    letter-spacing:.04em;color:var(--faint);text-transform:uppercase}
+  .news-tag{border:1px solid;border-radius:4px;padding:1px 5px;font-weight:700}
+  .news-arr{color:var(--faint);font-size:15px;flex-shrink:0}
   @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
   .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
@@ -493,8 +506,10 @@
 </section>
 
 <section class="view" id="v-watch">
-  <div class="eyebrow"><span class="q">"</span>THE WIRE<span class="q">"</span> <span class="eb-count">— ALERT FEED</span></div>
+  <div class="eyebrow"><span class="q">"</span>THE WIRE<span class="q">"</span> <span class="eb-count">— ALERTS &amp; NEWS</span></div>
+  <div class="wire-tabs"><button class="wire-tab on" data-wire="alerts">Alerts</button><button class="wire-tab" data-wire="news">News</button></div>
   <div id="alerts"></div>
+  <div id="news" style="display:none"></div>
   <div class="discord">Mirrors to <b>#sample-size</b> on Discord — morning card · lineup changes · tip-30 place-bet ping</div>
 </section>
 
@@ -514,6 +529,15 @@
   <div class="setform">
     <label class="set-lbl">Your team — personalizes the whole app</label>
     <div class="team-grid" id="teamGrid"></div>
+  </div>
+  <div class="setform">
+    <label class="set-lbl">Watchlist — players to track in the news feed (comma-separated)</label>
+    <input id="s-watch" type="text" placeholder="Trae Young, Jalen Johnson">
+    <div class="book-actions" style="margin-top:12px">
+      <button class="btn act" id="s-sync">Sync team &amp; watchlist to news</button>
+    </div>
+    <div class="form-msg" id="s-msg2"></div>
+    <div class="set-help">Sends your team + players to the news worker (needs the token below). It then pulls headlines for them every few hours.</div>
   </div>
   <div class="setform">
     <label class="set-lbl">GitHub token — syncs your bets across phone &amp; Mac</label>
@@ -561,6 +585,10 @@ function applyFav(){const on=(document.querySelector('.conf-tab.on')||{}).datase
 function markTeamGrid(){const f=favTeam();document.querySelectorAll('.team-chip').forEach(b=>b.classList.toggle('on',b.dataset.team===f));}
 function revealTeam(){const t=TEAMS[favTeam()],e=document.getElementById('splashTeam');if(e&&t){e.textContent=t.n;e.style.color=t.c;e.classList.add('show');}}
 revealTeam();
+const CITY={ATL:'Atlanta',BOS:'Boston',BKN:'Brooklyn',CHA:'Charlotte',CHI:'Chicago',CLE:'Cleveland',DAL:'Dallas',DEN:'Denver',DET:'Detroit',GSW:'Golden State',HOU:'Houston',IND:'Indiana',LAC:'LA',LAL:'Los Angeles',MEM:'Memphis',MIA:'Miami',MIL:'Milwaukee',MIN:'Minnesota',NOP:'New Orleans',NYK:'New York',OKC:'Oklahoma City',ORL:'Orlando',PHI:'Philadelphia',PHX:'Phoenix',POR:'Portland',SAC:'Sacramento',SAS:'San Antonio',TOR:'Toronto',UTA:'Utah',WAS:'Washington'};
+function teamFull(){const f=favTeam();return f&&TEAMS[f]?`${CITY[f]} ${TEAMS[f].n}`:'';}
+function watchList(){try{return (localStorage.getItem('ss_watch')||'').split(',').map(x=>x.trim()).filter(Boolean);}catch(e){return [];}}
+function setWatch(v){try{localStorage.setItem('ss_watch',v);}catch(e){}}
 const mins = m => now + m*60000;
 const atDay = (off,h,m)=>{const d=new Date();d.setDate(d.getDate()+off);d.setHours(h,m,0,0);return d.getTime();};
 const TZ = (()=>{try{return new Intl.DateTimeFormat('en-US',{timeZoneName:'short'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName').value;}catch(e){return '';}})();
@@ -822,11 +850,41 @@ function renderLog(){
 
 function renderAlerts(){
   const w=$('#alerts');w.innerHTML='';
+  if(DATA._live && !(DATA.alerts&&DATA.alerts.length && DATA._alertsLive)){
+    w.innerHTML=`<div class="empty-note"><b>No alerts yet.</b>Lineup changes and tip-30 place-bet pings show here on game nights.</div>`;
+    return;
+  }
   DATA.alerts.forEach(a=>w.appendChild(el(`<div class="alert ${a.k==='hot'?'hot':a.k}">
     <div class="ic">${a.tag}</div>
     <div class="body"><b>${a.title}</b><p>${a.p}</p></div>
     <span class="t">${a.t}</span></div>`)));
 }
+function timeAgo(ts){if(!ts)return '';const m=Math.floor((Date.now()-ts)/60000);
+  if(m<1)return 'now';if(m<60)return m+'m';const h=Math.floor(m/60);if(h<24)return h+'h';return Math.floor(h/24)+'d';}
+function renderNews(){
+  const w=$('#news');if(!w)return;w.innerHTML='';
+  const items=(DATA.news&&DATA.news.items)||[];
+  if(!items.length){
+    w.innerHTML=`<div class="empty-note"><b>No news yet.</b>Headlines for the league, your team, and your watchlist land here — run the news worker or wait for the next pull.</div>`;
+    return;
+  }
+  const f=favTeam(), tc=(TEAMS[f]||{}).c||'var(--royal)';
+  items.forEach(n=>{
+    const badge=n.tag==='team'?`<span class="news-tag" style="color:${tc};border-color:${tc}">TEAM</span>`
+      :n.tag==='player'?`<span class="news-tag" style="color:var(--royal);border-color:var(--royal)">WATCH</span>`:'';
+    const a=el(`<a class="news-item" href="${n.link}" target="_blank" rel="noopener">
+      <div class="news-body"><div class="news-title">${n.title}</div>
+      <div class="news-meta">${badge}${n.source?`<span>${n.source}</span>`:''}<span>${timeAgo(n.ts)}</span></div></div>
+      <span class="news-arr">↗</span></a>`);
+    w.appendChild(a);
+  });
+}
+document.querySelectorAll('.wire-tab').forEach(t=>t.addEventListener('click',()=>{
+  document.querySelectorAll('.wire-tab').forEach(x=>x.classList.remove('on'));t.classList.add('on');
+  const news=t.dataset.wire==='news';
+  document.getElementById('news').style.display=news?'block':'none';
+  document.getElementById('alerts').style.display=news?'none':'block';
+}));
 
 function renderBag(){
   const b=DATA.bag, sgn=n=>(n>=0?'+$':'−$')+Math.abs(n);
@@ -938,6 +996,15 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
     try{await ghGet(); m.style.color='var(--green-ink)'; m.textContent='Connected ✓ — bets will sync to your repo.';}
     catch(e){m.style.color='var(--red-ink)'; m.textContent='Failed: '+e.message;}
   });
+  const sw=$('#s-watch'); if(sw) sw.value=(function(){try{return localStorage.getItem('ss_watch')||'';}catch(e){return '';}})();
+  const sy=$('#s-sync'); if(sy) sy.addEventListener('click',async()=>{
+    const m=$('#s-msg2'); const wv=$('#s-watch').value.trim(); setWatch(wv);
+    if(!favTeam()){m.style.color='var(--red-ink)';m.textContent='Pick your team first.';return;}
+    m.style.color='var(--muted)';m.textContent='Syncing to the news worker…';
+    try{await ghWriteFile('data/config.json',{team:teamFull(),watchlist:watchList()},'config: news prefs');
+      m.style.color='var(--green-ink)';m.textContent='Synced ✓ — run the news worker to pull these.';}
+    catch(e){m.style.color='var(--red-ink)';m.textContent=e.message;}
+  });
 })();
 
 // home dashboard
@@ -970,7 +1037,11 @@ function renderHome(){
       <span class="mm">${wl.W||0}-${wl.L||0} · ${sgn(total)} all-time</span></div></div>`;
     else html+=`<div class="hcard"><div class="hc-lbl">Today</div>
       <div class="hrow" style="color:var(--muted);font-size:12px">No bets logged yet — log picks in THE BOOK.</div></div>`;
-    html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
+    const topNews=(DATA.news&&DATA.news.items&&DATA.news.items[0]);
+    if(topNews) html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
+      <div style="font-size:12.5px;font-weight:700;margin-bottom:3px">${topNews.title}</div>
+      <div style="font-size:11px;color:var(--faint);font-family:var(--f-mono)">${topNews.source||''} · ${timeAgo(topNews.ts)}</div></div>`;
+    else html+=`<div class="hcard"><div class="hc-lbl">Latest from the wire</div>
       <div class="hrow" style="color:var(--muted);font-size:12px">No alerts yet — these fire on game nights once you're on a game.</div></div>`;
   } else {
     if(pend.length) html+=`<div class="hcard"><div class="hc-lbl">Your live bets</div>`+
@@ -1005,7 +1076,7 @@ document.querySelectorAll('.conf-tab').forEach(t=>t.addEventListener('click',()=
   t.classList.add('on'); renderStandings(t.dataset.conf);
 }));
 
-renderGames();renderCands();renderLog();renderAlerts();renderBag();renderStandings('east');renderHome();tickClock();
+renderGames();renderCands();renderLog();renderAlerts();renderNews();renderBag();renderStandings('east');renderHome();tickClock();
 document.getElementById('nval').textContent=sampleN;
 setInterval(tickClock,1000);
 
@@ -1040,6 +1111,17 @@ async function ghPut(data,sha,msg){
   if(!r.ok){const t=await r.text();throw new Error('save failed ('+r.status+') '+t.slice(0,100));}
   return (await r.json()).content.sha;
 }
+async function ghWriteFile(path,obj,msg){
+  if(!ghToken()) throw new Error('Add a GitHub token first (above).');
+  let sha=null;
+  const g=await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${path}?t=${Date.now()}`,{headers:ghHeaders(),cache:'no-store'});
+  if(g.status===401) throw new Error('token rejected (401)');
+  if(g.ok) sha=(await g.json()).sha;
+  const body={message:msg,content:b64e(JSON.stringify(obj,null,2)),branch:GH.branch};
+  if(sha) body.sha=sha;
+  const r=await fetch(`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${path}`,{method:'PUT',headers:ghHeaders(),body:JSON.stringify(body)});
+  if(!r.ok) throw new Error('save failed ('+r.status+')');
+}
 async function mutateBets(fn,msg){
   if(!ghToken()) throw new Error('No token yet — add one in the menu → Settings.');
   const {data,sha}=await ghGet();
@@ -1073,7 +1155,8 @@ async function settleBet(id,res){
 async function loadLive(){
   const grab=(u)=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
   const raw=`https://raw.githubusercontent.com/${GH.owner}/${GH.repo}/${GH.branch}/`;
-  const [gd,st,bt]=await Promise.all([grab('data/today.json'),grab('data/standings.json'),grab(raw+'data/bets.json?t='+Date.now())]);
+  const [gd,st,bt,nw]=await Promise.all([grab('data/today.json'),grab('data/standings.json'),grab(raw+'data/bets.json?t='+Date.now()),grab(raw+'data/news.json?t='+Date.now())]);
+  if(nw && Array.isArray(nw.items)){ DATA.news=nw; renderNews(); }
   if(st && (st.east||st.west)){
     DATA.standings=st;
     const lbl=document.getElementById('st-label'); if(lbl && st.label) lbl.textContent='— '+st.label;
