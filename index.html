@@ -400,6 +400,13 @@
     letter-spacing:.04em;color:var(--faint);text-transform:uppercase}
   .news-tag{border:1px solid;border-radius:4px;padding:1px 5px;font-weight:700}
   .news-arr{color:var(--faint);font-size:15px;flex-shrink:0}
+  .team-dot{width:11px;height:11px;border-radius:50%;background:var(--muted);flex-shrink:0;margin:0 6px 0 2px}
+  .mt-hero{border:1px solid var(--line);border-radius:14px;padding:18px;margin-bottom:20px}
+  .mt-name{font-weight:800;font-size:30px;letter-spacing:.03em;line-height:1}
+  .mt-sub{font-family:var(--f-mono);font-size:11px;color:var(--muted);margin-top:9px;letter-spacing:.04em}
+  .mt-game{display:flex;align-items:center;justify-content:space-between;padding:11px 4px;border-bottom:1px solid var(--line)}
+  .mt-game .mono{font-family:var(--f-mono);font-weight:700;font-size:13px}
+  .mt-game .mm{font-family:var(--f-mono);font-size:11.5px;color:var(--muted)}
   @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
   .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
@@ -435,12 +442,13 @@
 <div class="drawer-back" id="drawerBack"></div>
 <aside class="drawer" id="drawer">
   <div class="drawer-head">"MENU"</div>
+  <button class="drawer-item" data-view="myteam" id="teamNavItem"><span class="team-dot" id="teamNavDot"></span><span id="teamNavLabel">MY TEAM</span></button>
   <button class="drawer-item" data-view="standings"><svg viewBox="0 0 24 24"><path d="M4 20V10M10 20V4M16 20v-8M20 20H2"/></svg>Standings</button>
   <button class="drawer-item" data-soon="Teams & Rosters"><svg viewBox="0 0 24 24"><circle cx="9" cy="8" r="3"/><path d="M3 20a6 6 0 0 1 12 0M17 6a3 3 0 0 1 0 6M21 20a6 6 0 0 0-4-5.6"/></svg>Teams &amp; Rosters<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 08-18 · NAV-FIX-7</div>
+  <div class="drawer-foot">BUILD 09-15 · TEAM-HUB</div>
 </aside>
 
 <main id="scroll">
@@ -513,6 +521,11 @@
   <div class="discord">Mirrors to <b>#sample-size</b> on Discord — morning card · lineup changes · tip-30 place-bet ping</div>
 </section>
 
+<section class="view" id="v-myteam">
+  <button class="back-btn" data-back>&#8592; BACK</button>
+  <div id="myteam"></div>
+</section>
+
 <section class="view" id="v-standings">
   <button class="back-btn" data-back>&#8592; BACK</button>
   <div class="eyebrow"><span class="q">"</span>STANDINGS<span class="q">"</span> <span class="eb-count" id="st-label">— 2026-27</span></div>
@@ -581,7 +594,7 @@ const TEAMS={ATL:{n:'HAWKS',c:'#E03A3E',conf:'East'},BOS:{n:'CELTICS',c:'#1CAE57
 function favTeam(){try{return localStorage.getItem('ss_fav')||'';}catch(e){return '';}}
 function setFav(t){try{localStorage.setItem('ss_fav',t);}catch(e){}}
 function isFav(g){const f=favTeam();return !!f&&(g.ha===f||g.hh===f);}
-function applyFav(){const on=(document.querySelector('.conf-tab.on')||{}).dataset;renderStandings(on&&on.conf?on.conf:'east');renderGames();renderHome();}
+function applyFav(){const on=(document.querySelector('.conf-tab.on')||{}).dataset;renderStandings(on&&on.conf?on.conf:'east');renderGames();renderHome();updateTeamNav();renderMyTeam();}
 function markTeamGrid(){const f=favTeam();document.querySelectorAll('.team-chip').forEach(b=>b.classList.toggle('on',b.dataset.team===f));}
 function revealTeam(){const t=TEAMS[favTeam()],e=document.getElementById('splashTeam');if(e&&t){e.textContent=t.n;e.style.color=t.c;e.classList.add('show');}}
 revealTeam();
@@ -589,6 +602,29 @@ const CITY={ATL:'Atlanta',BOS:'Boston',BKN:'Brooklyn',CHA:'Charlotte',CHI:'Chica
 function teamFull(){const f=favTeam();return f&&TEAMS[f]?`${CITY[f]} ${TEAMS[f].n}`:'';}
 function watchList(){try{return (localStorage.getItem('ss_watch')||'').split(',').map(x=>x.trim()).filter(Boolean);}catch(e){return [];}}
 function setWatch(v){try{localStorage.setItem('ss_watch',v);}catch(e){}}
+function updateTeamNav(){const t=TEAMS[favTeam()];const l=document.getElementById('teamNavLabel'),d=document.getElementById('teamNavDot');
+  if(l)l.textContent=t?t.n:'MY TEAM'; if(d)d.style.background=t?t.c:'var(--muted)';}
+function renderMyTeam(){
+  const h=document.getElementById('myteam'); if(!h)return;
+  const f=favTeam(), t=TEAMS[f];
+  if(!t){h.innerHTML=`<div class="empty-note"><b>No team picked yet.</b>Choose your team in ☰ menu → Settings to unlock your hub.</div>`;return;}
+  const st=(DATA.standings&&DATA.standings.byTeam||{})[f];
+  const games=(DATA.games||[]).filter(g=>isFav(g)).sort((a,b)=>(a.tip||0)-(b.tip||0));
+  const news=(((DATA.news||{}).items)||[]).filter(n=>n.tag==='team').slice(0,6);
+  let html=`<div class="mt-hero" style="border-color:${t.c}">
+    <div class="mt-name" style="color:${t.c}">${t.n}</div>
+    <div class="mt-sub">${st?`#${st.seed} ${t.conf} · ${st.w}-${st.l}`:'Preseason opens Oct 3 · season Oct 20'}</div></div>`;
+  html+=`<div class="eyebrow"><span class="q">"</span>NEXT UP<span class="q">"</span></div>`;
+  html+= games.length ? games.slice(0,6).map(g=>`<div class="mt-game"><span class="mono">${g.ha} @ ${g.hh}</span><span class="mm">${tipET(g.tip)}</span></div>`).join('')
+    : `<div class="empty-note" style="padding:20px 4px"><b>No games scheduled yet.</b>Fills in when preseason posts (Oct 3).</div>`;
+  html+=`<div class="eyebrow" style="margin-top:20px"><span class="q">"</span>TEAM NEWS<span class="q">"</span></div>`;
+  html+= news.length ? news.map(n=>`<a class="news-item" href="${n.link}" target="_blank" rel="noopener"><div class="news-body"><div class="news-title">${n.title}</div><div class="news-meta">${n.source||''}<span>${timeAgo(n.ts)}</span></div></div><span class="news-arr">↗</span></a>`).join('')
+    : `<div class="empty-note" style="padding:20px 4px">No team headlines yet — the news worker pulls these every few hours.</div>`;
+  html+=`<div class="eyebrow" style="margin-top:20px"><span class="q">"</span>YOUR RECORD ON THE ${t.n}<span class="q">"</span></div>
+    <div class="hcard"><div class="hc-lbl">Fandom check</div><div class="hrow" style="color:var(--muted);font-size:12px;line-height:1.5">Log a bet on a ${t.n} game and this becomes your fandom-bias tracker — whether you're sharper or softer betting your own team.</div></div>`;
+  h.innerHTML=html;
+}
+updateTeamNav();
 const mins = m => now + m*60000;
 const atDay = (off,h,m)=>{const d=new Date();d.setDate(d.getDate()+off);d.setHours(h,m,0,0);return d.getTime();};
 const TZ = (()=>{try{return new Intl.DateTimeFormat('en-US',{timeZoneName:'short'}).formatToParts(new Date()).find(p=>p.type==='timeZoneName').value;}catch(e){return '';}})();
@@ -975,7 +1011,7 @@ document.getElementById('menuBtn').addEventListener('click',()=>openDrawer(true)
 back.addEventListener('click',()=>openDrawer(false));
 document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click',()=>{
   openDrawer(false);
-  if(it.dataset.view){ setView(it.dataset.view); if(it.dataset.view==='settings'){const t=$('#s-token'); if(t) t.value=ghToken();} }
+  if(it.dataset.view){ if(it.dataset.view==='myteam')renderMyTeam(); setView(it.dataset.view); if(it.dataset.view==='settings'){const t=$('#s-token'); if(t) t.value=ghToken();} }
   else { document.getElementById('soon-title').textContent=it.dataset.soon; setView('soon'); }
 }));
 (function(){const g=document.getElementById('teamGrid');if(g){Object.keys(TEAMS).forEach(ab=>{const b=el(`<button class="team-chip" data-team="${ab}">${ab}</button>`);b.style.setProperty('--tc',TEAMS[ab].c);b.addEventListener('click',()=>{setFav(ab);markTeamGrid();applyFav();});g.appendChild(b);});markTeamGrid();}})();
@@ -1076,7 +1112,7 @@ document.querySelectorAll('.conf-tab').forEach(t=>t.addEventListener('click',()=
   t.classList.add('on'); renderStandings(t.dataset.conf);
 }));
 
-renderGames();renderCands();renderLog();renderAlerts();renderNews();renderBag();renderStandings('east');renderHome();tickClock();
+renderGames();renderCands();renderLog();renderAlerts();renderNews();renderBag();renderStandings('east');renderMyTeam();renderHome();tickClock();
 document.getElementById('nval').textContent=sampleN;
 setInterval(tickClock,1000);
 
@@ -1174,7 +1210,7 @@ async function loadLive(){
   if(DATA._live){            // hosted app → bets are real (empty until you log one)
     DATA.bag=normalizeBag(bt||{start:0,slips:[]}); DATA._betsLive=true; renderBag();
   }
-  renderHome(); tickClock();
+  renderHome(); renderMyTeam(); tickClock();
 }
 loadLive();
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
