@@ -1,50 +1,85 @@
 {
-  "updated": "2026-09-18T15:10:01+00:00",
+  "updated": "2026-09-18T18:23:43+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 1,
+  "pushed_this_run": 4,
   "error": null,
   "items": [
     {
-      "title": "\"First of all, don't touch me. Security!\" - Giannis Antetokounmpo got upset after a rich kid wanted to move him out of his seat during dinner in Miami - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZWZiS1NJOW4xWnczR3piQVJiWVBFYzY3Mnp2ZGIzbElHUWprazZkZVdnOWlzeU0ybmxIeGUxS281OTBFUWl4VTJUTGd3Q2laNy1RY2xDaGl3dklYZ3VsWGFGWnB5U3NHVVY3cGlIY2MwWU9wYlpXVk1VeVhwVEhVWW56dEFEenhtRUE?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1789738875000,
+      "title": "Star Boston Celtics forward Jayson Tatum shed more light on Achilles return - sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVFreWdPZ0dPeFZlZzRFSjZhVUV2VUZRanJBcXpyclZtREZGakswOFd6bzM1b2NSTE8zZ0hMdDEwbEJ5a0NiSVdrc0F1R2l6b0VVY2dCYWFUTi03SkRqNjBYT0hKd3lPd3VsbG1tN3NaaF9TOWhLMkRrNXBoSzRYYV9jVGNfaUZtLWFr?oc=5",
+      "source": "sports.yahoo.com",
+      "ts": 1789752605000,
       "tag": "league"
     },
     {
-      "title": "NBA Trade Rumors: Miami Heat Can Land Kyrie Irving in 3-Team Blockbuster - Yahoo Sports",
+      "title": "'Single AF' night coming to Atlanta Hawks. Here's what to expect - sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0FwV1gtZFZSZVhMLTlYX3FGeEVuV1RURVV1Um9MRWlhUHpGUW9aakp3cjFJYmVFV29HVGFGRk81b0QtdHpiTFh3cWNodGVzaFg4VFd4aGltMnQ1RUE0b0c4RTBDOHZlWFg5dUFpZ1JGb25CblZYVFRCZFBiMURUSW5DYzMyUQ?oc=5",
+      "source": "sports.yahoo.com",
+      "ts": 1789750341000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA Power Rankings: Are The Hawks Secret Contenders Heading Into Training Camp? - si.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRHZGTkhHTmd6LWpHU1E2RnhPeGhCRGJQWHBqemRMWkNnTjhFZmlQYkNRMV9CNDNmNnRoQkt3ODF6a0dfWUZITlZQZ1o3cGNYLUwzXzJhekdzeVptcjQ0WFMxekxBMjdsQ2RyalZtXzdDd0xwRjZiRzBTeDNDU0pmekJ5VHltSEtxVjJrcGxhWWpYd0RzeDRDWTlFU2gzSHN2UDdJN2MwN0pIQWt2SVdEN1Z4SVNHWnU1a3Myd2JDc2xLZw?oc=5",
+      "source": "si.com",
+      "ts": 1789747202000,
+      "tag": "team"
+    },
+    {
+      "title": "Reports: Keyonte George agrees to five-year extension with Jazz - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEa2NpRDNrOHBaYWxpbUR1V3VDSU1YMTVNSUJlQk9iR0JvZVVVVEJrT1BQOEZOWnpaMmd5T0Vic1NadHN3b1pJaXd3ZHdBWXJqb2FzbnpJNW9QbWJCdzdaNGpGaVQxVUtCQWtGc0V3?oc=5",
+      "source": "NBA.com",
+      "ts": 1789746969000,
+      "tag": "league"
+    },
+    {
+      "title": "Sacramento Kings Rumors: Insider Reveals Big Hurdle Preventing Domantas Sabonis Trade - Sportsnaut",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTzViQkllNWpWZmFsNUtOZ3ZuOWNfcnFhSzduYWJJUjlkbmpZVEtlbzlVUmxNUkprSWZiV091N0pUMjd5NDkzaERjaldZeFVzV2RCREFEd3Fvb1FQZkJLS2toMkVwV2RzdVlsd3FnaWZYNzZkeEtSUFlsNFllakFUeDZNREx3VFdRWE5jZ09uQQ?oc=5",
+      "source": "Sportsnaut",
+      "ts": 1789746251000,
+      "tag": "league"
+    },
+    {
+      "title": "Cleveland Cavaliers promote Brandon Weems to General Manager - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9yVWo5cU05cFNqUjBFdEdDT0FwbGQzV1RlOGQ0bjA5ZEh0NVdBMnhtdVFkZVVwMWtyU25lekwzVGpuYV9JamhqNGstVGJqNXphWUZJUi1IQVNteERQdjRCWjV4aWJ4ODYzN2FVb192NDBuQm8tcUJyQldHWG91bTA?oc=5",
+      "source": "NBA.com",
+      "ts": 1789746129000,
+      "tag": "league"
+    },
+    {
+      "title": "Former Knicks Player Mike Sweetney Remembered For Impact On Yeshiva Basketball - VINnews",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGJBMG1KR0NoTjBCeG9XVElwdllneUdqU1VIbldBYkhMTUdDNHFfUG9sOHpyS3k2b01adGJ1MUhkUi1KVE5IQkx3TjdYc2VzU1lOS3FVdlpqWEZBSzBPX2k5UG5yYldiSUNjdHI1S1hmelBjMVRfTFRRNElSa3phNU5USDVjdndrSnZmWS1HTXEyTUpmUzNGeWlMSlhZQnZOWTlyMnhXRTh3RXN0Z1gw?oc=5",
+      "source": "VINnews",
+      "ts": 1789745368000,
+      "tag": "league"
+    },
+    {
+      "title": "Report: Cavaliers promoting Brandon Weems to GM - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9rMDV4NG53YXNYS1d2dWp6RTZfSXRXaFlId3plRFRpNUp6OWsyZXVIU3RvUDRnQ09Jd3F6a1RhczNkUEd5TGw2aVdmVGdFZnlSRWRMOERqc25zcHJTR0NHMGFWX0dUdmVyTXJTNQ?oc=5",
+      "source": "Miami Herald",
+      "ts": 1789744020000,
+      "tag": "league"
+    },
+    {
+      "title": "Pacific Division: Summer recap and a look ahead - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NVFNdkJKbFlGVzJnMjlXM3pOWTJRZl9XaUpNa1llT1dncUh0TFRGR3NBT1kxQlJQbUtRT3hqUHM4Sm9BWHd6MWpaV19RRTh5dmdESHZOUXJyeTM1VUw2Y3kwd2tMdzhOV3NKTE1JekI4SkRJWXRj?oc=5",
+      "source": "NBA.com",
+      "ts": 1789741166000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Miami Heat Can Land Kyrie Irving in 3-Team Blockbuster - sports.yahoo.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFRYZjZMazBQWDhLa1hrdXZWV0hCNnpyMk02S29zRzI3RDF3OVp3REozZ1ZrLS1SZ1d0c2daUGxPY01RUUhraVdjaG9JY040aVhSSGZhckthVlRIRC04RU1nY0NKbzBqRm5oREVKUmdtdVM4QVpvMEU2QWRyOFQwZGtB?oc=5",
-      "source": "Yahoo Sports",
+      "source": "sports.yahoo.com",
       "ts": 1789738333000,
       "tag": "league"
     },
     {
-      "title": "Cavaliers promoting Brandon Weems to GM, sources say - ESPN",
+      "title": "Cavaliers promote Brandon Weems to general manager - ESPN",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHpGNEdfZzhvM200UWpkVnZYRU9yeGg2SEdReFVUWE1pLUVkVVBsVXJVRTlBT0JONUVUbmVIeHhUWHRpa0hWYlhoS3NVZ01oclV3d3IxRlpRUzRrSGxoZlhzNElxSHlRZllmeWpsWU11eG15OWlFYlVsUnBla1JRZjVvUl9jR3MwTGM4YVpkYjlqR0Z2cy10cGRTQkxabjZodHRrWnZHQQ?oc=5",
       "source": "ESPN",
       "ts": 1789736580000,
-      "tag": "league"
-    },
-    {
-      "title": "What We Learned From the Atlanta Hawks Offseason (and What Comes Next) - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQel9qaDhCU0p1Zkk4dFJKRGliRy1PeHIyazV2QklJSUc3RzBZcFMzejBWWHhUUW9ld3ZidHRQTzlfWURUeUJmOEhSVjJsX29wQUQyV1h2REphMHJpNWxpZ0xjaE5pWTdJT3JtSDV4ZVpLY1VOV2daX2MyRkpNcHJPNTM1NXNQVEZSWnhqaHVLYnA0a3NXeGF3ZXV5T0kycTd4WTVNZ3A3bEZwNTdtMTRuVjBuOElCUQ?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1789736403000,
-      "tag": "team"
-    },
-    {
-      "title": "Why free agents showed less interest in Lakers this offseason than usual - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS21iWmVhSTJNbTFNZi1TTUtVa2JqaEZkcGc1aE85REp5QWd2Q2tmNlV6OGU4T1Q5NmxTYS13U1R4elo3V1hXQkpyWXZZTmwzeEU3XzVnOUpFX2tZb2d4dS1xeE1aVVVYOFh6ZHlWYzhORXJ6N0lGVTQ1T3I1M3pHX2pTaHN3Tkhlcm9NczU3aHpuN19NLUxEcWZFM0ctMHc?oc=5",
-      "source": "New York Post",
-      "ts": 1789732800000,
-      "tag": "league"
-    },
-    {
-      "title": "New York Knicks offseason recap, early 2026-27 season preview - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlpld0VRT2xRRnVQdlIwdU93alRPMExWc3BiWmM1dXJmMHNmZWlrajJIY1E1U3YyTHBacjlHYVktaWlqR19MX1BnNVBrbkd5R0hrRmVDZm84aUhwN3RzQS1QcUpBRnFNZlJBSnE0cmFoblJVN2F6dlJrUGhNajU3dElwU3dsZTJMbVIwNHdDU0t3X3BEaHA0NzJwUXcwajJNNXREN2Y1cjk1RTk2NjQtV0hKVFdrejBLa1Z3?oc=5",
-      "source": "ESPN",
-      "ts": 1789730400000,
       "tag": "league"
     },
     {
@@ -53,6 +88,13 @@
       "source": "Sun Sentinel",
       "ts": 1789726079000,
       "tag": "team"
+    },
+    {
+      "title": "NBA commissioner\u2019s power only grows as owners flip franchises and continuity lessens - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWDNyY1dNZzV1eUppYWxNVy1aanRtOWJmQ0J3X1pyWUhLNWtqQURkRjBHbVFEVTFmZU0xVUNWMEZpOEtrSjRoaGZVNTgzVnN5eDI5NHRSUFgwYUJZb09makw5cGxPQUIwZUVHTll0eHpYT05BYmdDcEN1UHFKZGNnM2R2SkczOEhsdUJteVoweks4bW9mcnQwZUVBOWFqMzc5VVE?oc=5",
+      "source": "The New York Times",
+      "ts": 1789723371000,
+      "tag": "league"
     },
     {
       "title": "Former NBA player Michael Sweetney passes away at age 43 - NBA.com",
@@ -76,20 +118,6 @@
       "tag": "league"
     },
     {
-      "title": "Two Position Battles That Will Define Atlanta Hawks Training Camp - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOTNwVkVFQUtseVA5aXNEZ2ltVmNiU25kOTNRZmVqaWxPbGVlWDJlR3lIMXBxQUp5azI3M0VDZ0s2bk9nN1BjOXF5N3VUN2l5WUttMndEbWhVVHZwTlFWMmcyZDE4dC1peld5TXhndTNzdTdBRndnNXdBYnNqazZzU21leWVZcG44TnBxUQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1789689371000,
-      "tag": "team"
-    },
-    {
-      "title": "Two Position Battles That Will Define Atlanta Hawks Training Camp - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZkI2Nm05YzZpVnZyUzh6RkgzOHJVbldPMm4xVk81a3d1dUVtaXd4Ym9wc3BMR29aTVVNd1RhZUhUbWxodWdqcV85QWJnWHd5RGlpLUdlaGI3QUFRZHQzUlhpQ0xxbFVydWRaQUt2blNEVnZjTGp6MzJxNEhIcTUxM3dNV0xZU2hNMnBtZlE0M1JtUWJjWVd0SVYxV2tRY3l2aG5seWlWQVdyTHZHRmpta2F3?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1789689370000,
-      "tag": "team"
-    },
-    {
       "title": "2026 NBA buzz: Latest free agency and trade updates - ESPN",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmNfamNVbTdidmxKNmM1NzM0Z2E4amJQdVJ3S1lEaEhDQktwMlF3TW9hUmZSUG9RNjFsaWl2VU1qNGwzMGVtY01Sc2FZU1ZSSVY5Sm1UZ3B2cFJFTVBTVmdZQjVaQmFlaGxQMU95akwzMG5TdEl6SWRVaFhDQmdnTmxXYzJGQU1aYU8tb3EwOGphZ2tGNDFEX0FBTnppNmRUT1FMMndFSHNFYWY5Zmc?oc=5",
       "source": "ESPN",
@@ -111,59 +139,45 @@
       "tag": "league"
     },
     {
-      "title": "NBA 2026 Offseason Check-In: Cleveland Cavaliers - hoopsrumors.com",
+      "title": "NBA 2026 Offseason Check-In: Cleveland Cavaliers - Hoops Rumors",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGFSTU1MTW1nZndPdGYwZE04dHpzOEFuLTU5bXAtcE9GeWlWcEJRUlRRcUpqZFhSZjNmWHUtQi12OGxQTWE3Q1JPVzktXzBaQzUtaG1DUFhrcHMtVFoxYmxDUnR1VnpnSmZ1WmxKVDhna3VvR0cwbVlNSDlqLVVzNHlvOHdWS1JJbU1Na0VWam9lUQ?oc=5",
-      "source": "hoopsrumors.com",
+      "source": "Hoops Rumors",
       "ts": 1789672098000,
       "tag": "league"
     },
     {
-      "title": "Former NBA first-round pick dies a month after taking HS basketball coaching job - NJ.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekpkUWRJdFZkWnZvMGpNTGZLZThsd0RjNWdxUVhrMFd5T1pYWmFiN2Y5Q2RObHFacG9vbnNaaHhYY0VmTUQyS196YUxMUHJ2ajBNVTVFWjdudm4waXRzNGpjN1g1ZmtYMWUwZE10S3ltS3g5S2pSXzA0ZnpLY0hGMzIxY0N5emluYl92Yzh6bUJLay1YbHEzMDdnX1RlOElDbjVobDAwTGFmUldib3lRWGRCTGc0Q3Jn?oc=5",
-      "source": "NJ.com",
-      "ts": 1789671660000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Fantasy: Guard tiers rankings for 2026-27 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1HRU00LW1DVEZhaHNuWXBOMjB4Qnc3LXY3RUNzcVlhZEFveDlSWjJia2otZ2ZJcEN2Z0N3aWRrcmowa1VjZjc0NWtQSUlsTmxuM3V4TEo2U3c1SDR2ai1mV3FBSUxmRXVFUzI0SjJTWUYweUt2NUhkaw?oc=5",
-      "source": "NBA.com",
-      "ts": 1789669579000,
-      "tag": "league"
-    },
-    {
-      "title": "Cade Cunningham Is Ranked Too High in Fantasy Basketball - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQU29RbDVXZ2lWZkJUdUhGMWNYdk9CdEJxZHh3RVduLTJiMDVPQ19QLU5mZnRpQ2RYaTlUUUJOX1BrN0ZYWWt2ZjdEUXlSaTRvbkNUZUFrTVZfSTk4SVVFN1pJZEtXdDdYRmRBTk5vNDJjMEpTd2g3ZGZSZDFjT1JzWm1wOV9Ec3c?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1789668600000,
-      "tag": "league"
-    },
-    {
-      "title": "\"This guy is making $26M, and he won't pay the bill?\" - Ex-NBA player recalls paying for team dinner on $2.4M rookie deal - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFhvaTFEN1JFbklUM0RQbVg4aXJDVUt0WThTU2RCeDFZeGM1SVdDQ0o1al9wOHpQQW9nX3d3TjZ5cnpRNzVtQVBKb0E0MWQybko1Z0R0T2ZyaHlsbFlkaUpIZklUWFBtbUR1OU5DUHhZck9yTi1Cb3ByZVVvQ0M2YnZvVHVxc1NFS2J1UV9pVU9WZDVmX0UtSFJNQjIyaVY4aVBYeVV4a1JreFkwR0lNbUo2RzN5Q3FNZnc?oc=5",
-      "source": "Basketball Network",
-      "ts": 1789657740000,
+      "title": "\"This guy is making $26M, and he won't pay the bill?\" - Ex-NBA player recalls paying for team dinner on $2.4M rookie deal - sports.yahoo.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5iZTVkTnRxY2xrR085ZHVUMnRYR0pETjRRM3VYVGY2aGpDRE9EYThvSHlfZC1PZk9ieHJBbDlMLUNkMGI3RFl2QXpaZ0ZXeW1Fcm9TMDhIUVBublgzazk0cXlZekF6bjNiajhFaXdpcm56VEpKM1JOdEZMRlQ?oc=5",
+      "source": "sports.yahoo.com",
+      "ts": 1789669904000,
       "tag": "team"
     },
     {
-      "title": "Is Amen Thompson Untouchable on the NBA Trade Market? - Sports Illustrated",
+      "title": "Is Amen Thompson Untouchable on the NBA Trade Market? - si.com",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUkViZmQ2UXhLUmE4d1dPVGdOU2t6MXRxWE1DSVFtVTFnZ3Z0dHZnYnZ5ZWVENXlBRFpxWWMzUDdMZU1JaElsbTM2U21TeVc4VTNpREhfVE5BTGNPa09MSDdjbkFWTlE5QkVQWm1raURLc3BTcjhldTlzbV96T1Y5Z1ZDdW1xUE4tdnJNZU13RGc0aDFQMl83OFozZDVGUGVXaC1R?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1789657338000,
       "tag": "league"
     },
     {
-      "title": "Pacific Division: Summer recap and a look ahead - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03NVFNdkJKbFlGVzJnMjlXM3pOWTJRZl9XaUpNa1llT1dncUh0TFRGR3NBT1kxQlJQbUtRT3hqUHM4Sm9BWHd6MWpaV19RRTh5dmdESHZOUXJyeTM1VUw2Y3kwd2tMdzhOV3NKTE1JekI4SkRJWXRj?oc=5",
-      "source": "NBA.com",
-      "ts": 1789656795000,
-      "tag": "league"
+      "title": "Every NBA Team's Top Breakout Candidate In 2026-27 - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdy1CV3RBNFdHVVNjMFVQNkpnN0N3d3Y4cHpZTC1qWmVEcW5YU1dITVpzVUJ2R2h0aFZRQkN1VWoxalVRYnFfYkh2OUNOclMwNU9XenFrQkdMcFVWcjRBOHpjcGY0RnR4LXhGejN5bG43d2d1eEo2SFZxNWktMjMySVQyQjJHYkhWbG81enBnekZKTFNkb3c?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1789650670000,
+      "tag": "team"
     },
     {
       "title": "Phoenix Suns sign C Duop Reath for depth after Mark Williams injury - Arizona Sports",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVUlncmxTb3dXUVQzTEN2NzI1U3JNazBWdkR5a2VnM3RNbzJzbkRVZFBRU0NnaHhQZ0h3RmdPcDdHbFRmUmN5N3YzXzNrQVdTVTBxalNHdExTREFVZFFJenh0SkFuR3ZJMW5wS3V1YVZackZteDFGRWRPMS1zel9fT2Jjc2hSempPTUt4RjZLelVzTHFvcW8tQXoteVRlOGtlcTRwXzJHQlBZSURZ?oc=5",
       "source": "Arizona Sports",
       "ts": 1789612510000,
+      "tag": "league"
+    },
+    {
+      "title": "Duop Reath Injury: Inks pact with Phoenix - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM0VvaGhUclFWal90V0g3VHR1LUloajJHeklLRVVvU1oyaEtaU3djWFk3ekdqaUN3X09oWkVKMUZHc21YY05GNFpHX2l1LUlVaUEtczJzaFUwVDl6bU5wV0N5bXJpWDk5OWJjajlERmRUT1ZrZV9La3RCTVBDOGZ6OVVJNU9RRHQtZkxHa2pFdDdMR1RjeHFjQw?oc=5",
+      "source": "RotoWire",
+      "ts": 1789612256000,
       "tag": "league"
     },
     {
@@ -178,13 +192,6 @@
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNEViUld5cHFCT08tT2xCdWV3aHl6THQ0V0tEWGd2NWZKVEloX2JFQTZCM0lJb0FRLWszR3Q0bmFPNkxYY1U5cnN5ekZZM2tiRXR4X1lHcDVTeWR4OTB0YWRaV2xxTDVmRnJGVDRMYmdzTldSRVQ5OVdTYTh6WDhURUdlN0tvTEZNM0tUa2RvQTlpNFhJR3VSb1pHd2NMT19DaXo3VnJPV3pNMzQ5Y2JpX3FNWkVoemc1QXhtTnd5QUdLQzJRNWNNd1ZCSnJyNFE?oc=5",
       "source": "HoopsHype",
       "ts": 1789595940000,
-      "tag": "league"
-    },
-    {
-      "title": "Fantasy basketball points league rankings: Cade Cunningham, Jalen Johnson are first-rounders - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOblNSSWo1SldmekljN0hRTXRDbjdYZDlHMmZXdVRnd2UybENFckFYclE3MzdGSDJvNm90VWczSFZmcmxIRTFmaVhDQlpnczExYURUeGFEaUlwbWhqcEdOT1V4bUVTamJveWJ0X0lCWDNNamN0YjNBRl9heXNJMkxFaVdWNi1fWVJqdlJlV2FiWjRxR2VzUThlWG0wWHBtcDNYVWxXVFJKWm1MWkhMLXR0MjdyOG5WMUttN1FTTA?oc=5",
-      "source": "ESPN",
-      "ts": 1789592400000,
       "tag": "league"
     },
     {
@@ -207,13 +214,6 @@
       "source": "heavy.com",
       "ts": 1789584601000,
       "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks, led by Jalen Johnson, to hold NBA training camp at Vanderbilt - The Tennessean",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdWtYZWNPdHVnbHBUMnI1UGkzSTVnMm45bUhNanBmaExZVHNrcExkS1lMOXQ1MmdKNGMwbFpGTlZvdHFnNWxMZzdlVEZIWkowV0NyS3hkRW5VWmdEVVloVFMxUlFhdUZLaVhCRkZCSXdkWHRyeXVTbUlYemI2dDY4cG92bnQtV0t5NFZ2R00wUW9MSmRTaEg4TllEaUhqczdBcDhYWmZLQ0VhREZqNGJWNFJRT05BbGV2U0Ewbw?oc=5",
-      "source": "The Tennessean",
-      "ts": 1789582560000,
-      "tag": "team"
     }
   ],
   "pushed": [
@@ -293,6 +293,10 @@
     "itriedoutfortheminnesotatimberwolvesyesthebasketballteamrack",
     "pelicanstradejordanhawkinstogrizzliesin4playerdealespn",
     "nbateamspaidstunning13billionforinjuredplayerssportsyahoocom",
-    "nbatraderumorsmiamiheatcanlandkyrieirvingin3teamblockbustery"
+    "nbatraderumorsmiamiheatcanlandkyrieirvingin3teamblockbustery",
+    "reportskeyontegeorgeagreestofiveyearextensionwithjazznbacom",
+    "sacramentokingsrumorsinsiderrevealsbighurdlepreventingdomant",
+    "nbatraderumorsmiamiheatcanlandkyrieirvingin3teamblockbusters",
+    "isamenthompsonuntouchableonthenbatrademarketsicom"
   ]
 }
