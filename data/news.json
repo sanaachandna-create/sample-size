@@ -1,64 +1,50 @@
 {
-  "updated": "2026-09-19T16:40:00+00:00",
+  "updated": "2026-09-19T18:52:45+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 1,
+  "pushed_this_run": 0,
   "error": null,
   "items": [
     {
-      "title": "Three Biggest X-Factors For The Atlanta Hawks Next Season - Sports Illustrated",
+      "title": "Three Biggest X-Factors For The Atlanta Hawks Next Season - si.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWTEzM0U5VEU3TTVTWFVGS2JOV1BNUTNNWnFKTm94Mjh4d05DUndKeFRHWGtveHpWeFRfTmxQQng0VGxoODJna1djMTUzUi1OeTN1UTZBSTFxNlQ3aElZeUV3ZHNabXJhQjFxNUZseExtNzlZWVFvQURtbmZ6VGJNeU5sQnFZWXIzNXdFeWhsSGVpeEdKVHBCTE9jQ0lIdDU1MUZWT3hpNA?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1789833171000,
       "tag": "team"
     },
     {
-      "title": "\"Primed to make a trade\": Brian Windhorst predicted another blockbuster move for the Houston Rockets - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORnZHRkpLMkFtcFFsRjdyUFRESktIelNEY1VZUU5zUTJnMTdScTlEekFVdzk3Qzl3LXZmc3p1d01FNVg0UVlUT0JyakJvc3Nid3hCUldvNzJ5RUlHTUItSEtiSUpVTFN4Mmo4OVVhNVdBQ3NYQzFydGJ4YnRaR2swcE83TUtXaUZiVFM2RGRkc2I?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1789832669000,
+      "title": "Cooper Flagg's billion-dollar NBA earning ceiling has Dennis Schroder stunned: \"That's unbelievable\u201d - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUHYyT1BNbnpwYXJKY3p6UDg4RUF3ZWttc01zRENQSTRGY1ZQaV9zM2ptR0xYelktbkRvWndhamxhMGh2c0JOb2tRd1E5R3l6UGZQMWRySzk3TWhKSFl5ekY3VnQ2cVdKVkQwR29TaThnbFBUYjdhZUU5bkxOUDczQU1HMEVocnZvVVVnT0FaQWdSZXpxTE01X1BGZ0VSV1Fsd3Eta05BLVlRaVVydnFXUGtZdVpxek9xa3MwOTdtVQ?oc=5",
+      "source": "Basketball Network",
+      "ts": 1789818360000,
       "tag": "league"
     },
     {
       "title": "Commissioner Adam Silver, NBA focus on starting new league \u2014 \u2018a once-in-forever opportunity\u2019 \u2014 in Europe - The Boston Globe",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMHgwczB5UU5zMDk0UFA1Z01oSktSN2RaUUdQUzVEbUxhWVFfeEhpbUNpYkdtbjI3YjVzUldBX0xHV2xEVU5zRkRpa0hUcURPemhsZjNHVEZkT2sxTVNadFBud1EzTmVlaXB2ZXNNSmdUc2pUZFZjX0hWaUNtVFkyT3dRYzJiTVM3?oc=5",
       "source": "The Boston Globe",
-      "ts": 1789831646000,
+      "ts": 1789815480000,
       "tag": "league"
     },
     {
-      "title": "Pistons and Ausar Thompson agree to a 5-year, $155 million contract extension, AP source says - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qRVhrbW9XWkMzN0NSYmI1Z09SdWU4X1V1UkRmN0VGYmZxNFdFWVBkZlNneVFSeVFUZGJNUmZzdGtUd05ZZFU1aU0zWUFoQ3NLZmVvV2thR0dWY1V5Nlh5OHFuVk9IcE9HMkg2VGZJbDhuN1ZkYnN3cXZGMA?oc=5",
-      "source": "Newsday",
-      "ts": 1789831601000,
-      "tag": "league"
-    },
-    {
-      "title": "Ex-Kentucky staffer Brandon Weems becomes NBA GM - A Sea Of Blue",
+      "title": "Ex-Kentucky staffer Brandon Weems becomes NBA GM - aseaofblue.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzFnemRtNG4xa0RIam5kWkpaa2pZeDFqbWJ0MTc5TDJJLTRzcG9GeUJpQjhqak1oa0RJR2h5cEVxc1JkblVLSFdnTW9Rd1BtWTJkeGVjNzVWVUc2Q2E4UkREM0JJV2xEdTZnMHVWM2JnS3VPcFFQbGx4UUhmNlpSUlJfT2VrN0RHQVpEUDVMSWVUUklJU2NFTDhrZHE2a2I1aW1tLUlR?oc=5",
-      "source": "A Sea Of Blue",
+      "source": "aseaofblue.com",
       "ts": 1789812300000,
       "tag": "league"
     },
     {
-      "title": "Keyonte George agrees to 5-year extension with Jazz - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBEa2NpRDNrOHBaYWxpbUR1V3VDSU1YMTVNSUJlQk9iR0JvZVVVVEJrT1BQOEZOWnpaMmd5T0Vic1NadHN3b1pJaXd3ZHdBWXJqb2FzbnpJNW9QbWJCdzdaNGpGaVQxVUtCQWtGc0V3?oc=5",
-      "source": "NBA.com",
-      "ts": 1789782879000,
+      "title": "Nigerian-Canadian NBA executive backs $294 million sports and entertainment hub in Nairobi - Business Insider Africa",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaUtEcy1iOWRyS2lNZ0FXeERCZnFPb1UzWHRQOFdDQmFOZWhCTGNJcTN1WmEwRFl5ZnRYcUJucHZDWGJTZGNXeW1FMk4tLWxEUDdGenc0LXViRDBFSGJ0QjBUVUZ2X0tfVWdCWVhTUjRuWEVybFVUNU5SbG9rWFR3aTlWWjdfanRmaFJ6elVvbmQ2WUVZaXk1dVRGZk5BN2V0T3lwdE0teDRpWEZ3Z3RoMEJBUjJnU1drdmo3QktkeFhKMHk4bDNFWFllT29mNVpQdDNhTk5UUWc?oc=5",
+      "source": "Business Insider Africa",
+      "ts": 1789811311000,
       "tag": "league"
     },
     {
-      "title": "Reports: Ausar Thompson signs 5-year, $155 million rookie-scale extension with Pistons - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1UTFNKSDRubUZ6U2xleTNFNGV3T25MYllDRWhpd2VoSkdkMWIwWGlqclNDWlhaOU1iYmJzN2VrVjQ5TmZHNFUxTU5SdV9uQmV6ckNRMGhoOGREaFlKRTRLdUVtOHZGTkVBYUpXQkNDdEctQQ?oc=5",
+      "title": "Reports: Pelle Larsson agrees to multi-year extension with Heat - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9VeThDanNMX1hQVlVaMVhpbU9taFVmMkpxZHJ4dlhqeGdRVkR6aF9ZbDJVV2xFdzFYd2hYUnFYNW1CVVUtTFRESnNkTGdTTVZTZjNHQ096TkhoMWd5dklUem95cw?oc=5",
       "source": "NBA.com",
-      "ts": 1789776099000,
-      "tag": "league"
-    },
-    {
-      "title": "Jazz, Keyonte George agree to multi-year extension - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUTI3WThkVEVEMGRQenJyOUN4VG1VbHNJOWdBbXhTNEVINDF3bXE1dS05endSWGswVXJYOVBsSTlTQ0JnQklzRm91dWcyX1VWekN1LUJ3MU9CNC1CU3cxUmRoNVRoaUpWSGdkNEdRRnI3WDF2N0c2aE9TUWVHem9hVnVEaWd6TWpWWjFDaDdLMXYxalVkaVppWWg4T0VRWms?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1789772940000,
+      "ts": 1789774495000,
       "tag": "league"
     },
     {
@@ -104,17 +90,10 @@
       "tag": "league"
     },
     {
-      "title": "Secondary market pushing Knicks home opener tickets to historic levels - New York Daily News",
+      "title": "Secondary market pushing Knicks home opener tickets to historic levels - nydailynews.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd1hnY0JGZXRNdmE1QkRXMjZzWEdpRzVsY3B6TWFmUWM5SlFWWXJDYjlRQ095LXF3aEl5QThkeFhwcVZvU0pBMUJ4WGZSdVp3R1RpV1F6R2dCank4LVhwZF9aeWRhM0g5WnpPa0RJMWY2bGo4ZnpzblRzMDk2T2JsdS1xaC1TSUhVRUgyQWY3LWZ2X1hqTzg3ZnBlWkFKUG5LdkYwc3lnZEVJZ09od3JzVERMYw?oc=5",
-      "source": "New York Daily News",
+      "source": "nydailynews.com",
       "ts": 1789761262000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Fantasy: Top 150 for 2026-27 category leagues - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZVEs3T2Y5OHQ2SVJqbGhtc0IzY3RfT01wYWszX0FDckRxVXVlMUxRVUZIQzZTWHR1am1YUVhWaUJ4M3VrTHZMNHNZejJFQmMwb3RjR1VFcmRqRDgtRTJSeEpSMFpDdEMyd043S2paSl9KTnFVMmY5NW9tVmhfUQ?oc=5",
-      "source": "NBA.com",
-      "ts": 1789760514000,
       "tag": "league"
     },
     {
@@ -132,10 +111,10 @@
       "tag": "league"
     },
     {
-      "title": "Jazz, Keyonte George agree on extension; 5 years, $157.5M, sources say - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdTJUc19hR1BMZnBZYWc4X1VTNkY5N0FvQ3FfOE04bUF2OXR1WVRya1lYVmJwbTZheEVzUnVoWi1JSWhQMmw2YnZRUE8xMFk4VktCSUtGVkgzTjRFcGg0TVNlYkNMbDRuRTF3WkxHd2pzdW00d2VnT2xZU1ozT3B1RnFsb2VFVW5RdXF1VVlOemFrWDRZaldJVHZiWGgwbENXakJ3?oc=5",
-      "source": "ESPN",
-      "ts": 1789745040000,
+      "title": "BRANDON WEEMS PROMOTED TO GENERAL MANAGER OF CLEVELAND CAVALIERS - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtUDE4M25fRU5fSVcweG94SjNYQkdIbnY2V0NoUVliR3FXV3FvMUd5NzFzbWtxSmRlTmpkMllxdkZ6N3hZNS1Nb2I5YUJYY3hKRDVpYVpNbVB0QXVRNGx3QQ?oc=5",
+      "source": "NBA.com",
+      "ts": 1789741980000,
       "tag": "league"
     },
     {
@@ -150,6 +129,13 @@
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaFRYZjZMazBQWDhLa1hrdXZWV0hCNnpyMk02S29zRzI3RDF3OVp3REozZ1ZrLS1SZ1d0c2daUGxPY01RUUhraVdjaG9JY040aVhSSGZhckthVlRIRC04RU1nY0NKbzBqRm5oREVKUmdtdVM4QVpvMEU2QWRyOFQwZGtB?oc=5",
       "source": "Yahoo Sports",
       "ts": 1789738333000,
+      "tag": "league"
+    },
+    {
+      "title": "Cavaliers promote Brandon Weems to general manager - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdHpGNEdfZzhvM200UWpkVnZYRU9yeGg2SEdReFVUWE1pLUVkVVBsVXJVRTlBT0JONUVUbmVIeHhUWHRpa0hWYlhoS3NVZ01oclV3d3IxRlpRUzRrSGxoZlhzNElxSHlRZllmeWpsWU11eG15OWlFYlVsUnBla1JRZjVvUl9jR3MwTGM4YVpkYjlqR0Z2cy10cGRTQkxabjZodHRrWnZHQQ?oc=5",
+      "source": "ESPN",
+      "ts": 1789736580000,
       "tag": "league"
     },
     {
@@ -188,10 +174,24 @@
       "tag": "league"
     },
     {
+      "title": "Warriors add NBA title-winning coach to Kerr\u2019s staff for \u2018special opportunity\u2019 - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMGFRREdFTTVBZWtJUnRKZjJ3ZUtWa003UVd1cFJSS0VSamptVTA2M2hXcGFBMTc3dDVpb2hLN3VKelBHTGZ2TV9tTkUzRmk5VmFaS04zYzhpLUR2MG5XenpqT1RzdV9XUFZBSnA3bUEteG5qb2dCeGNqVFIyQ2JUd0l3V0ZtcVB3Tk5XSXRGQ2pvSE44dUQ2UXJLLUVKUVdiQ0RmUtIBqgFBVV95cUxOc1hSMnY3dHhwNVhNb2dKSDdLaHVPQW1YZ2xCOGNCdzQtZWNkWDM2T09hNUpQQjlQRjRoR2lWXzVhMjg5RFV6U3U0RGRpeUlfdEpyOGlNUEVyZW1IZkpVQ0FrQTlleFhiMVhaNmFCVExOWTB6M0JvTnRlc2tsSW9XZGZkVEM4N2xQQVhCb0ZyLU5QcjAyTV9pRHJPN0FkbG5UTEVxRUJJVG8xQQ?oc=5",
+      "source": "The Mercury News",
+      "ts": 1789675614000,
+      "tag": "league"
+    },
+    {
       "title": "\"This guy is making $26M, and he won't pay the bill?\" - Ex-NBA player recalls paying for team dinner on $2.4M rookie deal - Basketball Network",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZFhvaTFEN1JFbklUM0RQbVg4aXJDVUt0WThTU2RCeDFZeGM1SVdDQ0o1al9wOHpQQW9nX3d3TjZ5cnpRNzVtQVBKb0E0MWQybko1Z0R0T2ZyaHlsbFlkaUpIZklUWFBtbUR1OU5DUHhZck9yTi1Cb3ByZVVvQ0M2YnZvVHVxc1NFS2J1UV9pVU9WZDVmX0UtSFJNQjIyaVY4aVBYeVV4a1JreFkwR0lNbUo2RzN5Q3FNZnc?oc=5",
       "source": "Basketball Network",
       "ts": 1789657740000,
+      "tag": "team"
+    },
+    {
+      "title": "Every NBA Team's Top Breakout Candidate In 2026-27 - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdy1CV3RBNFdHVVNjMFVQNkpnN0N3d3Y4cHpZTC1qWmVEcW5YU1dITVpzVUJ2R2h0aFZRQkN1VWoxalVRYnFfYkh2OUNOclMwNU9XenFrQkdMcFVWcjRBOHpjcGY0RnR4LXhGejN5bG43d2d1eEo2SFZxNWktMjMySVQyQjJHYkhWbG81enBnekZKTFNkb3c?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1789650670000,
       "tag": "team"
     },
     {
