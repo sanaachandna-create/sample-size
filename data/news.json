@@ -1,16 +1,16 @@
 {
-  "updated": "2026-09-21T22:15:30+00:00",
+  "updated": "2026-09-22T00:50:50+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 5,
+  "pushed_this_run": 3,
   "error": null,
   "items": [
     {
-      "title": "NBA lifer Doc Rivers says he's 'absolutely retired.' Here's what's next - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LWnkwMXRoM1BValVkanhHbUFmT3ZtdkdxeEJJaHpBWXdiWFVISWMxWl9peUhuRk5hc0h1ZG9ZOTFLTW5OTncwb1U1LXRoTktXRWpyUWlHWWRwemY2dzZ6MnhuMDRYUElmdWh1dGhFbGFvdWNyM3ZzOGRSUFR1eHM?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790026453000,
-      "tag": "league"
+      "title": "Three Veteran Targets For Atlanta's Center Rotation Following Henri Veesaar's Injury - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObjd3dmRoMGo2M2xuT2Fad1NJczZuVUMtckxEX1FNV1hfYXQ5QUMySTNidHFlWDVGZWtkaUxOWXlROE5wMGtkYVJXOURqWi1QanQ3ZFRtbnRobzBKZnF3NTU2Vi1waU9yYTZGZmJxbEJEN1BINkd5eFIwUDk3V05XZ2xZSmFzaWU3di1UTlUtbF9XVVpBYk9LN0tpaXhKZ3BSbjAxZnlqMllkbW95U0Mxd1JRbU9lbnZjU3dzSk90WmJhRW95MjhPeDQ4QQ?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790033408000,
+      "tag": "team"
     },
     {
       "title": "The Atlanta Hawks have signed guard Isaac McKneely to \u2026 - HoopsHype",
@@ -20,31 +20,38 @@
       "tag": "team"
     },
     {
-      "title": "Hawks news: Atlanta loses rookie center to torn ACL days before training camp - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOGo1THRDY1BQc0o4a0RKOUQtUjR2WWdOUkRnd0Z6djJ4SFJhaWFpeXFNSTBhemYtWi0zeTJNQ0xzRVlKQzY1aGZoZjFiWkVIOHVaNzF4NWRxc1owWWg4UHBjTUxfTUZlTlFSR3BROGhueWNJcGpYdFl0UHVOa3pFeWlXcG9rNjA?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790024493000,
+      "title": "Hawks rookie center Henri Veesaar suffers injury, expected to miss season - The Atlanta Journal-Constitution",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnhqa0tmOHRDZXgzTDRXRlNmYmgya1ZhZjNrWEdPVmJRbDFTZmg4VzRTRy13UjZiUEdWNmFBX0o1aXdaUkFYTVlvYVptWkZ1MTd5SGpmdVdZNkVrSVppRm5UMVZWN3dEYjZsTGkwUC11R3FjbFBVdXJBQWFJa2cxeEZ3dUhYTUZ6bW1BaGJianhlWVhuUkhFaExZT3NBNXFZVkJrZDMtWjF2WTdxblE?oc=5",
+      "source": "The Atlanta Journal-Constitution",
+      "ts": 1790025884000,
       "tag": "team"
+    },
+    {
+      "title": "Why are Shaquille O\u2019Neal cards suddenly jumping in value? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVFoSXJTR1BpV2YtZXZPZC12NXBHcjJySGxtOUJhUjFsOTNQUnE1NEl5LXgwQ0NFWHEyMmxRLVlyLWtfWERGcWNtM2NyRWF1dzItaW41U1ltclAtNGstdUFfVEV1ZmluSWJncHZLQUdYMElEYl9rbTRsN3lpSm1Lbi1rWXhRQnlzemVWQmlGWG9sMGpLb2c?oc=5",
+      "source": "The New York Times",
+      "ts": 1790025659000,
+      "tag": "league"
+    },
+    {
+      "title": "Doc Rivers, retired from coaching, steps back into TV booth for NBC Sports - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGxKWno4VnJDWjc5Wm9QY1o0cTdyOFh3N0JwcW5PTVF3cjlRYXp2bGVFTmtkUVZiYnJiN1hCbEtCSG52RG1aQVFjYXY4T2REWklHenVPNUJ4Nkx0NGN1OFZzYVZWWjhFb2hIV2VDb1NRejc4SnN2Zl94ME11OVdXM1hSVmp6eVBKU285X24tT3lTUWs?oc=5",
+      "source": "The New York Times",
+      "ts": 1790025441000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Fantasy: Forward tiers rankings for 2026-27 - nba.com",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE81ejZUUy1WZGtLMHloVzZTZnZURHlIMlhYNnVNOHBGNGRjS1R6U05Ea1dSMnNvRXFqejBvYWY0cGJSOGlTOHdzcVBpeE1NNUlhTkxyNmlZZV9ITHM2N0RFaGFoVDlrVWtRbDRIbFRtNFF5UHhQUkI5YjBiYw?oc=5",
+      "source": "nba.com",
+      "ts": 1790024645000,
+      "tag": "league"
     },
     {
       "title": "Hawks rookie Henri Veesaar (ACL) expected to miss season - ESPN",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUDM2RS1qRjc2cENKRGdjOElacm54UVRKRGNPRUdoRktuNWZWb0RoYUZDLXFZVUI2UlVVZlFadkFGNGJaWldGa0hTOUtNSWdlUE1GazVFaHZFVFNGcEFPNi0wYmZuUnRCd2wwbFktekVOLVpReE1DTTBBTW9OXzZ5cUdPSjNkekhOWWxJblJyVHFRWnNSREJkMFhzb2s?oc=5",
       "source": "ESPN",
       "ts": 1790023140000,
-      "tag": "team"
-    },
-    {
-      "title": "Hawks rookie center Henri Veesaar suffers injury, expected to miss season - The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnhqa0tmOHRDZXgzTDRXRlNmYmgya1ZhZjNrWEdPVmJRbDFTZmg4VzRTRy13UjZiUEdWNmFBX0o1aXdaUkFYTVlvYVptWkZ1MTd5SGpmdVdZNkVrSVppRm5UMVZWN3dEYjZsTGkwUC11R3FjbFBVdXJBQWFJa2cxeEZ3dUhYTUZ6bW1BaGJianhlWVhuUkhFaExZT3NBNXFZVkJrZDMtWjF2WTdxblE?oc=5",
-      "source": "The Atlanta Journal-Constitution",
-      "ts": 1790022926000,
-      "tag": "team"
-    },
-    {
-      "title": "Hawks Announce Brutal Injury News Amid Reported Trade Talks - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbHFIQmxQVE1NM1hyalRGT0ZQbDhGbVpLYUdOVUdXckR2eDJBS1BWTVh5LWN3MjhVVUpmSUstdEluLXA1Uk4waG41bDF2TS15NlRhcXhvLXpyb05RX21DNGdGLXhDZ25vcUZtMnl1TkR1REEtdldvNndxMjI5WlRONXRNR01DNTdUbzNYRnRYN21ZWVFBY3c?oc=5",
-      "source": "heavy.com",
-      "ts": 1790022806000,
       "tag": "team"
     },
     {
@@ -55,17 +62,10 @@
       "tag": "team"
     },
     {
-      "title": "Atlanta Hawks Rookie Henri Veesaar Out for the Season: Why It Matters and What Comes Next - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbmhCZTRiaDljZVdkQTdSNlhCUXFLempORjl3T3JfOFFiTzBHR045X0hlVDdkN0FCMmRSOUQwREZ0Ulktd1lGOWRrOW51MDdYRUlROUg4M2pzNHhqOGx3WkxBT3BtVVkzSkhKNGE3R2hxSnpGeEJhN1VsNExyLXlWOEdsZmR1THNNaXVqRTk2RkRVSG1aSnNyYTFUOGpfQWRCUGZuWkZhd2lEOFZ0SW45TjJ4ejYxeEpDSVVENTFVdWVrTGRlbC0wOURuWWg0dnFx?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790022273000,
-      "tag": "team"
-    },
-    {
-      "title": "Clippers hire John S. Gibson as interim CEO and governor after Steve Ballmer's NBA ban - newsday.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWd4cGxVbnZMbE5lckhFVk5aaF9OQ1lHWmRaaXhmRDRMMzJQY1JkNEpmVVptTnluQlk3RTNYWkY2OGRxLVFLV3c0X3ZrYkpwa0dtNENLWm9UTWJIQS1mWW44LWl6WVlaaTZuZjVld2xwb0JOTngwOEF6YzhCTFR2b2RiTQ?oc=5",
-      "source": "newsday.com",
-      "ts": 1790022082000,
+      "title": "Report: Clippers name lawyer John Gibson interim governor and CEO - Sportsnet.ca",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWNZSzFYZU5JRUNWLVU2eTV5M2w1N2VMaEIzWjFFUmlvVElhakZUb0RjbE13c1FmcGdXaDRvMjV0R0tNeC1FZkQ3c3FpUjI2Vll1M1FPZ09PUkRhSnJYNHlsS3pHRWdZQWN3Ql9PeHQ2TWpwSC1sLVo2RGdhd1RHOWgybHpoaElnc25Ic2N0VnRqREFqdnpzb0E3cE5XbWNsYVRwRw?oc=5",
+      "source": "Sportsnet.ca",
+      "ts": 1790022360000,
       "tag": "league"
     },
     {
@@ -76,17 +76,24 @@
       "tag": "team"
     },
     {
-      "title": "Arizona basketball: Raptors convert Jaden Bradley\u2019s two-way deal to multiyear contract - azdesertswarm.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2JaUVB2UDRBaTkwMXRiRjRHZ01UbW5kbjNZd01Hd19QR29YSTNNbUprTW5aWVhldEIwazhPOVhRX21xZnlTYTUwUE04Y0xIcnhGTUhDNXNicTlTc09uaXV2LUF5V2lwMUNSdUt5S21wVmNPWm9zWXRvWmFJelZucmFqNTFLYTFOSTVmYWZfTEFOcEp6NDV6SnViLXhNNnlTVW9oSGhJODUzNnI4UnFxdnZpY2lVWU9OT3l5aHNSbw?oc=5",
-      "source": "azdesertswarm.com",
-      "ts": 1790020800000,
+      "title": "Doc Rivers joins NBC Sports' NBA coverage as game analyst - nba.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNFZDczQxZklRVUFSYjhadDIzSXZkaTV5LTBWOGU2U1JGWUdycHdBUWxJdFV4R1NZMFdnUGl2QjdZYXIzcW84dkxodzFGWHBEQWQ5ZXV2S0ROQlRUWHpnWnNyenp1X3lPZkVNX2pYOTZzek5ZNF9ZYkt2aFozbWpraGRGaEE4cU5j?oc=5",
+      "source": "nba.com",
+      "ts": 1790020373000,
       "tag": "league"
     },
     {
-      "title": "Clippers name interim CEO amid Steve Ballmer\u2019s suspension - KTLA",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nZ2RDWnR2Y2ZXZ24xZzdXeWNHa2QyTUF1MFlKWVlRVnlJdlJMTTJSQ0hNOXNISTVLZVlJd01WV3NfQ3lsUEFSRHFRQjBOUzI5ZHRxWnljNWpmOEIxN3hIRHdya21kTFBOMEJOWGJ0OGlmem56RnfSAXtBVV95cUxPUXBwckVBcjdacHNJSVBiZmhXcGU2TldqYVBudHhaWUIzaGNJNGhaQ2c4dWlheHRwaVFaajVtRzMxTEdCZXFsUWlHWklMYkwza2FjVC13X0ktd2NId2dwLS0tSC1fZUYyUFdyTnZac3BncGVVeDJXUUZCX0k?oc=5",
-      "source": "KTLA",
-      "ts": 1790016928000,
+      "title": "Clippers name new boss, interim Governor to replace Steve Ballmer - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0Z2a1BnUjVYQ2RBeEN4LWk1ZzFidUZOZlU1YjZ6cWFLQTQwTkU3RTdxVHJBNk5CcE1MMzlveGZydU1jMmhRNkFtWUZoSDVHb2ZobzVDLVZMRHN3MzJyZkdTTGxfLWxaaFhwNWtHeE00a281M21sRlgxVFoycXRYcW1ST3VZd1U3WGFqMHRzTVdGZw?oc=5",
+      "source": "New York Post",
+      "ts": 1790018457000,
+      "tag": "league"
+    },
+    {
+      "title": "Former Clippers Forward Announces Retirement After 18 NBA Seasons - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekw3eHN6NDNXRjlZN1pGZ1NqcXBOd2FaRndqYlByZWpoM1BpZGJDQ3FULWs3ZVJZTUxhcGpWdlo2bjIta2F5dExWQ0xuWklRSlBNUDU4a1VxYVE2TlRfbWpJaldnRjVPQmN0Y3ZIdVBqY0NTMHdPZ3Z0OF9yUDllTGFzeUo5QW01Z0NvcEJqZmFjaDRkY2VJMA?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790018322000,
       "tag": "league"
     },
     {
@@ -118,20 +125,6 @@
       "tag": "league"
     },
     {
-      "title": "Doc Rivers joins NBC as analyst, says coaching career over - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb1VMTmhPUzR4Yk1QZ1hkRlQ4YkxTQ0RVaGFzSU4xLXF4NVQwY283UERxZFRpcGo3Y1JjYVV2ZGJ5Wm5vWTVfQzFYRWdDNTQwbGFMTW11ci1FMlpBZkVaN1ZBbXNUVnZSLWh4b21fRGlsUEZxaURGOXVROHB4NnhLZFhZVU40LW1ZaWp0WVMza3ZLZFI5a1B3RXNaTzJnbjdr?oc=5",
-      "source": "ESPN",
-      "ts": 1790014320000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA veteran Nicolas Batum announces retirement - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVEFwY1hjbmItRkNZbUYtZW5BTGo5aVlxTmNiM0xNY25KUkxBV1hiM2Vvd1Bhc2JRd2pYYWNoVGZLWm9DM1FQQVhTcU44V3BJNktqLUZvUFB5dFFTbG91WW1BVHRvVy00aklF?oc=5",
-      "source": "NBA.com",
-      "ts": 1790013934000,
-      "tag": "league"
-    },
-    {
       "title": "Nicolas Batum announces retirement after 18 seasons in the NBA - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOE5OQnRtMU16N3ZKRndCQnpIRmNzaG4xT2NMTG5wa0dKMVhQRWZjSUs2aGY0TndDVGR4YVBVcXozUUIyak5rb0JWSlc4QXhidlhRSTRUbXp5Q0pQT19wNzQxeUxzQjBjUk5McXA4V1lQOUw3WjZ3U1hXZXM1MmNwNE5qdDdnMHlxRzJ3WVRvLXg?oc=5",
       "source": "The New York Times",
@@ -139,18 +132,11 @@
       "tag": "league"
     },
     {
-      "title": "Crafting a Three-Team Trade The Fixes Atlanta's Biggest Roster Issue and Sends Trey Murphy III To Houston - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOZ3F1c0k2S05WeUVMV0d2d3c5Tk9ZVDB6b1dNak0zSXJqNWtNT2tYTmExWmhxZkE1TDlBUWlUYXh5SkVWMjd0cXFCUVJGdlpTWC1mWjhPYmJOeVltNTkwejJvbGZERzU5OXEyUm5XZ2xOX2NEU2N0cXhSb1NLZ1BUYnpfV0c4NFdPTG9HZVBOS1ZxRDNPV1RnSG85bHgyWGRRb3ZpVXNtdi1BTFZtQ1c4cHZIeXRvaF9GSVowbEE5QnJoZVZKNC0tZ3g4Vi1Tdi1RT0VHV1M4RkpGRE05V3BLd3N5RGQ4ZEU?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790011070000,
+      "title": "Crafting a Three-Team Trade The Fixes Atlanta's Biggest Roster Issue and Sends Trey Murphy III To Houston - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORUJ4Z0o3bGdzdkQ2NW5aRExCeFM3eS1iT1VSRjREY2RyaTB2NWltNlNBU0N2dzBsX25YM1lFaEdVY09jVTJ3YVE1WEtXZUNKMUdxdFpIZVkyQndRUGVJZFh2NVpKanA0dzV6Z3BueDZnS0laMjdraU5uTHl6blZ5S0J4NlRSWkE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790011071000,
       "tag": "team"
-    },
-    {
-      "title": "Report: Clippers name lawyer John Gibson interim governor and CEO - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQWNZSzFYZU5JRUNWLVU2eTV5M2w1N2VMaEIzWjFFUmlvVElhakZUb0RjbE13c1FmcGdXaDRvMjV0R0tNeC1FZkQ3c3FpUjI2Vll1M1FPZ09PUkRhSnJYNHlsS3pHRWdZQWN3Ql9PeHQ2TWpwSC1sLVo2RGdhd1RHOWgybHpoaElnc25Ic2N0VnRqREFqdnpzb0E3cE5XbWNsYVRwRw?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1790009580000,
-      "tag": "league"
     },
     {
       "title": "NBA Preseason Power Rankings: How all 30 teams stack up for 2026-27 - Yahoo Sports",
@@ -181,9 +167,9 @@
       "tag": "league"
     },
     {
-      "title": "Report: Hornets and Hawks discussing potential swap involving NBA veterans - Rookie Wire",
+      "title": "Report: Hornets and Hawks discussing potential swap involving NBA veterans - therookiewire.usatoday.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNG1NcFM4RF9qVUdRSGFDVjZsX3lhQjF1TmRHMWxtd0NBYmZDZTdoR3BnYW5PSGF3bmxkMlM4dFdzODZLaTF3Y3NZdElHWjV0cC01M2V0bjR6WUdqcVZrYUFUSFVPYUFTWUx3TDVNWkNhWUdTZmpySHJlZGpWSkE2MWJZZ2plZy1QUnpSaktBcHFNRUItc1VpNlhnaVpRMmlBWHA3czNEQjQtZ0I0UFdDWnVfUnhpbFpfQjl6eURLNDJMYnpEd0dnX1FFTjBwMTdEWV95U2p2VTdRM2lWTVc0bThVcw?oc=5",
-      "source": "Rookie Wire",
+      "source": "therookiewire.usatoday.com",
       "ts": 1789959720000,
       "tag": "team"
     },
@@ -209,10 +195,24 @@
       "tag": "league"
     },
     {
-      "title": "NBA Trade Rumors: Teams Slated to Be \u2018Very Active\u2019 at Deadline - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ3BONG83aTlZU3JFMXV6UnVnWFJTbEdhdnhzRjBYTExPZC05bzNESnFaRFdNOHFGRkpKLW4zS1ZYU29jQ1BtS3Zvb0RiejZJbTRBVWJjeVFZOWt0eEV3bWpwTmlrVmR4TDRhQjhtQmFWRUNFMjY5OVBVN2NLWlNPUGx2NzhUdzYxSjZ3Z0xWX2tUR3NvS1NnVEVxRmxwbHV1Z1cya2lWak9NelBLb21Baw?oc=5",
-      "source": "heavy.com",
-      "ts": 1789931814000,
+      "title": "NBA Trade Idea Lands The Timberwolves A Naz Reid-Type Backup Center - Fadeaway World",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUlDNWc0dkVBMHdDOXQwZjE0bTN6UHNabGJNWUdfRzQ4UmFBcWFfblRSbVh3dkswQkVaN3k2blJwbTU5a2laVGdzSmRmekpHVVVsX2EzUWhXeUJoeC12cGhuSy1sT2dZYl94V1VNXzFqaWtFSFZ1MTRzWkI2ODBkR2tEQUlpVHJJdjU3TXBLclZOVGZYWG5oMHlCQ0dXLURDQ1M4V3JrLU5YNkZxMmtZLWtWU0JfNjhEb1ZScFBmUG11UjBQYWdWbWItMkNJZw?oc=5",
+      "source": "Fadeaway World",
+      "ts": 1789827949000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks brings 3x3 basketball tournament back to Atlanta with \u2018Hoop It Up\u2019 - Atlanta News First",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRnZ6b2lucWRhYTJOaFUzRU1IMlRJWnRXR0U0TF9FS0FQeVAwRDc0Z0VsdXNaV1Z4SDlGdl9PY21QNkUteUtnWmVjWW9GYkRNMUVNNTh6bnhxYlVORndaUXVla2xjVXctSUdyNlhCR3dCM1VfeUI3U2hXMVh4OExuQkdmZWllMTdiZFdkQTdGVVNzcXlhSzU0OE5KUDE2cExvck9PTWVZZFVyRXFZUDVZam90ODctbEFEQV9KT9IB0AFBVV95cUxNZmxWZEpFS2p6cHBLaV8xN01wV2w1OWQxWTlBdlh2TkdlcXpDZEVNc1g5ODN2cXNra0xfTjRWb1VTbVZHTlRId21uLW8xNXhPclRqQkp2RHJGTVdjRTdVekRMaVlhbFRrb2VCV1hEUlRYSzNvQTk0MHllWVFnaFg4bnFLVkdSRndEY1gzVG56ODRBOF93WUlfMFJDRHo3UzdKUzg0NTlZcUtGbktlX0dCX2dVc1B6dkl4clozd3B4bjNIZ051aHB6MExPZTVQd1FX?oc=5",
+      "source": "Atlanta News First",
+      "ts": 1789753380000,
+      "tag": "team"
+    },
+    {
+      "title": "5 NBA Stars Who Could Dominate Trade Rumors This Season - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZFl0cnlESVc2ZzhQRTY1azhTeW9tVTROS2YwV3pITUtMeW56dTMyV3ViekJGd2dscTl0SHdta2UyeS1GbF9xZ0NTa2ZTSnFDZjltenpGTlhzZjNhRnpNNVJ5b1ZweVpDczBCYVhGenRhN3A4TUt0UXh1a2lBZF81bDllUUNINmhMR0NnVnAtR05JeldZWTFKblRZUQ?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1789735182000,
       "tag": "league"
     }
   ],
@@ -343,6 +343,9 @@
     "hawksrookiehenriveesaaraclexpectedtomissseasonespn",
     "hawksrookiecenterhenriveesaarsuffersinjuryexpectedtomissseas",
     "hawksannouncebrutalinjurynewsamidreportedtradetalksheavycom",
-    "atlantahawksrookiehenriveesaaroutfortheseasonwhyitmattersand"
+    "atlantahawksrookiehenriveesaaroutfortheseasonwhyitmattersand",
+    "threeveterantargetsforatlantascenterrotationfollowinghenrive",
+    "hawksrookiehenriveesaarhasatornaclyahoosports",
+    "rumorrounduphawkstalkingtradeforfinneysmithpeachtreehoops"
   ]
 }
