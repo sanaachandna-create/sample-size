@@ -1,23 +1,86 @@
 {
-  "updated": "2026-09-22T18:25:35+00:00",
+  "updated": "2026-09-22T21:31:12+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
+      "title": "\"How long is this fit?\" - ESPN insider says NBA teams are monitoring Kyrie Irving\u2019s situation in Dallas - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRUtJSXV0SjJhaWw1SmhZNUtoQUIwS2xXMkFiaHNIZXBkaEZxNE9GYnRPR1U5Yk5PeG5TWGs5TzhlRW5qT2FiTVJLY2ZrUWVBY2I5UzVXR1d4XzFvOHVDWUR6U0hXcUF4Z2t6bV9wcVIwb1NJRXB0c19nYkwtOEY4RQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790111336000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks Trade Hield, Nembhard to Hornets for Dorian Finney-Smith - Blazer's Edge",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa1dsSzZDWmhCc19WVEllR05VNlJPMmpvcXhPalRGaHJHcUoyNHU4NTlTaWQyMlVVb3pSbXdkeTZiMThSR1prN2JIcUtaWFotNVZwekJhRWJRTzk2UmNqX0RmUzQzalpZZVJyLXA4S1hoYjYxcUVSb0NibkRPeG13clR2VWd5cTVCSlBlOWRMdmF5Mlp0M3pSemc3N2swQ0dPdXZiUUgtaGRUMnRMY0F2U193?oc=5",
+      "source": "Blazer's Edge",
+      "ts": 1790110400000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks Trade Buddy Hield, Ryan Nembhard for Dorian Finney-Smith - roundtable.io",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHg0cXdVek44cU9saENOTWhhRktrTnpmTTZQU2VSN01abFp6SmxxRm9ZeElKWlYtRVpzcEw2a3hFOGlBRTZEVk40bUFkWXg0TjJJRHBTUFZXZHhNdW1RS1pwX1VOTkFNT3ozRTIwakxkZEVqTHhObWdXWVRmRWNWZThHRi1QWndyRHhZY0Q2SGJlNGVTSjdJbkFrZGZUMTZSRm5QN1lMaUwxand0Q0psUjdjaw?oc=5",
+      "source": "roundtable.io",
+      "ts": 1790109234000,
+      "tag": "team"
+    },
+    {
+      "title": "Charlotte Hornets Acquire Buddy Hield in Trade With Hawks Just Before Training Camp - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRHRBd1UzUS0zVGRQS2lCUGtFV093N3V3WVNiU19NMmI5OTl3UFdVaHRFUlFOTkVGYmpiSjduWmZaWHVxcThCaWRfOTd1UG9ZZFNycU10LTBzZUNoMF9qdERncnpOYWp6RU9wUk9PRUVpejlVeHdwWFlQdHZQanB1M0piMVRncUxmdjAzQjViN25VRFJvd0FMb2h5T0trbGF2cmFscTRfazJaOGVLcldZX3gtWGxRaGVCZWREQw?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790108128000,
+      "tag": "league"
+    },
+    {
+      "title": "Sources: Hawks trade Hield, Nembhard to Hornets for Finney-Smith - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXVUekliRWh6dWIwdl9UaS1Hb1I5bHNQQmlYajBIcG01WkRZYlk3ZC1yeXNaZzZkLVBEYkJkSkdJeE9oOTBrN1VoQTlPWldYUmJ5U1UzZ2N6Qm1yX0d5RF9zRmNYdnJXVmgwTVhfWjZSTWRMR25zcnlON0x1c3VfdnZpdFBGOFNEOHdJVVM5WUE1a2Z4YWxkbUIzTDVUY1FxZHc?oc=5",
+      "source": "ESPN",
+      "ts": 1790107560000,
+      "tag": "team"
+    },
+    {
+      "title": "Buddy Hield traded to the Charlotte Hornets in a three-player deal - Eurohoops",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOU2tVUUM2ZThoSjVBYnhyRmlRa08zNmI1elgtQzZtVUNfN0tuOFBDN1lMaXlmLUY3MW5Jc0IyUlZiT1h1RDlMWTl0eEFTY3dfNHZCRHdCQkt0eVotcUg4OEZpUTJvSDBJVUVRUEVhNy1iT3VaaDJMUEx1VGw3Yk5GZk4xcENlYlpJel9jNTUyUk9fVzdkLWdvSmczbmpwUVhMbVNGU0l3ZGREbGdPNVpQaDltRQ?oc=5",
+      "source": "Eurohoops",
+      "ts": 1790107260000,
+      "tag": "league"
+    },
+    {
+      "title": "Report: Raptors, Kawhi Leonard agree to two-year, $115M extension - Sportsnet.ca",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcHdBTzNlOG93djRDcUpfT2FfdXhpU05JVnFaS2tILWxOdHR3MmhidjJMYUJUcG4wVnNxQUdPcjVtLTQ3cDhqWmNTTjBYUjJ3bm1IQWJPNzhTOS1Va0JHYTM5czNUclNUM2pmdUlBZFIyS3VhNjBONUtFdkIzM05kSmxiRHdRWmw1OWdCOXpBNlRyOU53c2ZwYmtxX2R1eFRS?oc=5",
+      "source": "Sportsnet.ca",
+      "ts": 1790104800000,
+      "tag": "league"
+    },
+    {
+      "title": "Could String of Injuries Reignite Trade Conversations Between Mavericks and Hawks? - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1J3dy1SdllhY2Ftc0RfZUMza1lrTkdlbDZJZXFPRTdKVGNYZGw0VUUzTXd6VldoZjRnTDB1TDhlUUpiMnlWYXBoenZfLVl2aUdIOFkxeDJLMmJTVUhLZ0RNZW5scmJRTTB4ZEhBWHE1QXlaSGFHdVlKLTNMZWl3U2Zvc2NZMDY1SXdNMWx0QjEtUmtpcWJINmhpVGx3aUMydG1zQUltTi1sYlhDVVRuTHlUYVZMWGxfLVUzN0h2ZGtxVWlBRDM0?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790104500000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA Trade Rumors: New Jalen Duren Questions, Kyrie Irving & the Big Board - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzVZOHZsYmVMSUM1SWE3ZFVLOUF6ZG4yU0Z2aVFiX1hZdkFnNm9jbnI0OXBZSFo1OGtNcmZzTUVYMlBMeTJtWjVLVms3TXBRODZ3QmZDM1pCZTh4d21zN3E4TDROeXVKTmZXV3p6NlZhemVuMkRtdi0yNE9vc0c5ZWw4VFJWQ09qSno1Mw?oc=5",
+      "source": "heavy.com",
+      "ts": 1790103303000,
+      "tag": "league"
+    },
+    {
+      "title": "Three Trades That Could End Jalen Duren\u2019s Pistons Run - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVlIzeWtqN3JiakNjamZBS0FGMWFmdVhqZXNWaVhkTDNtRVZVZmc4WXU2RGZTa01MV3A2TzZBTldxUWhqckFWVUhFRWVLb2VVRU1OU2JmTmo5OTlwcUJYU3dQU1F6MGpMLTBBajk1TGVVcDE3cU1pOGZsV2kyeEl0UWVuWQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790103300000,
+      "tag": "league"
+    },
+    {
       "title": "2026-27 Season Preview: Atlanta Hawks - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aUTZ2WGR5cDBROWMzVlZSbGVraFhfeEh5eHFWRFBHWm9IcjdINjFXdE53OFFXQU5hVG5DVTdRS25OTDlnbjI2eGh1aGt6VHlGc3BmWktmTk04MlJnVGVpOQ?oc=5",
       "source": "NBA.com",
       "ts": 1790100168000,
       "tag": "team"
-    },
-    {
-      "title": "\u2018They Raised Me Too\u2019: LeBron James Shares Powerful Note to Children Before 76ers Debut - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOa2pZNFItazFmOUU2NXNhcWZDWkpJcmJHdC1xZFRaYlNqREk2YW5fODF4aDVxbnZHdVRCbG9Yd0xZdnpkMjVzUVZxbDg0VFE5SktJdmVVOXBvX0lRYXc4ZmIydDhXZW8tcFduX09yRnFIM05xWDhCc3kwcUk4Y1E3MDFwcWlXUQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790097845000,
-      "tag": "league"
     },
     {
       "title": "'It was time': Wizards' Trae Young talks Hawks departure - Sportsnet.ca",
@@ -27,46 +90,11 @@
       "tag": "team"
     },
     {
-      "title": "Trae Young says he didn\u2019t feel \u2018as comfortable\u2019 with Hawks once new GM arrived - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWVqaGxWVUJKV0EzNUtsVUpHREFIbjAwb2ozN1VkT0Q5UFVXWEFrb21lWG82VHVUQUhiYmFBNHRWTkJUVTVkUnE1YTcwOW9KOU5tVzMyclN1Tmt1VFhXcFUtLXNhRVdHYVREeXREck5RWE8yaTRFeXYxN3ppWTdDN2dsVF92TFpndzREcjROLTJuZw?oc=5",
-      "source": "The New York Times",
-      "ts": 1790095311000,
+      "title": "Trae Young Reveals He Didn't Feel 'As Comfortable' with Hawks After Onsi Saleh Was Hired as GM - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOVZ3aHIwUndjcTd6SjgtMUIyblpGR0c4cjFDcmNRUXJYRGc1N2JnQjBxYWg1cGphbUZGd0dDVmhsX2ZsaERZcEhzNWZQNUlzNkZUSGtQeWdURU9DRWhFdV9vQjhOSG9NbjBUR05oT1d1enl0S3dhbHFDV01yeFg5bG1lNGJWVm54SUNqZmVHUVpZOG1UN0tmaUt1NEM4VHpDakxMNEdYZTY4T040TFk2OUg4SExEYjE4WEU5dVBydl9SdzQ?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1790095161000,
       "tag": "team"
-    },
-    {
-      "title": "Media Days Schedule - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15NVRQOE9ITzd2ZXA4MWFTMi1pOUFiV2l0aHdiNDRVbjNzUEpvdzJ5ZTlwNVQtS2ZhTlFLN2pFUVZuV0ctb1FSalVXWS1XUzBfN05mbWw0d3FxUjFxRVlnaE9OanpRTFB1UjFJazBnNVhlT0U?oc=5",
-      "source": "NBA.com",
-      "ts": 1790092800000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade Rumors: New Jalen Duren Questions, Kyrie Irving & the Big Board - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUzVZOHZsYmVMSUM1SWE3ZFVLOUF6ZG4yU0Z2aVFiX1hZdkFnNm9jbnI0OXBZSFo1OGtNcmZzTUVYMlBMeTJtWjVLVms3TXBRODZ3QmZDM1pCZTh4d21zN3E4TDROeXVKTmZXV3p6NlZhemVuMkRtdi0yNE9vc0c5ZWw4VFJWQ09qSno1Mw?oc=5",
-      "source": "heavy.com",
-      "ts": 1790091072000,
-      "tag": "league"
-    },
-    {
-      "title": "Cavaliers Star Jarrett Allen Drops 18 Spots in ESPN's NBA Player Rankings - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPclJhck55ZW5PNFp6SVVPVG9qUTNyeVZ5MWtlY21aQlFMVlh0aXVOSmVZOExXQUQ3ZVhEdGphYVRLRkt5Y0NmNjlPTlVrTWcwWlJOWVE4SUZtQXBwd0ZYT051TWdDX0RsaTRzbVNJbHRhOEVWSW9ocE9ScGt4ZzcwMG1ucS1QRGxET0N1c3p1ajVJLUtxLWZlTkhqTHhvTG9udlROMmVXMWo5YWQwZThidjdMMW50RWZPdWpqdw?oc=5",
-      "source": "roundtable.io",
-      "ts": 1790089900000,
-      "tag": "league"
-    },
-    {
-      "title": "Must-watch Wizards? Trae Young, Anthony Davis, AJ Dybantsa and the NBA's weirdest group project - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVjFqb08ySTc2UWlkRmZVVDRtd1A1UkVqcDNUeXhZbWtfMlllSDZJemw3ek1aMDFudkUyMm40ZmNkLXhPYkVpcFVMVU96ZGJmci1sU2toUldLamN2MFh4RXhMTVFMNTF2OTFvaXU5THJpc1JPVlBhd0h0S08tMUF3UnZVMG10TW1rNHF3X3E5cHBLMElQRE1rVEhFc3RQdDBsb1dDWVJzMmlNWFFRc3hpdzlNbjVBR2o5eW1xazBId2lMazcxbnY0VGdCeExCanFQNzQxMlJtQ2Uwc0U?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790084298000,
-      "tag": "league"
-    },
-    {
-      "title": "Why an NBA Scout Believes the Peyton Watson Trade Will Come Back to Haunt the Nuggets - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObkRFSFZWRUU5SXNUYWg0blVIOWRobEtlYmk1ZGRXZnZPeWEwMmZjanNGblFtY3ZpMUdFMGpPQXYzaGpGdnJZRmdobTRTdXlxaHRUTk03ajMwTEJscmZmZ1RDeFlpcFBfWUp0bWR0aVRsUExRblFTS0JlVTdFMW5SZg?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790083569000,
-      "tag": "league"
     },
     {
       "title": "Why Nickeil Alexander-Walker Could Be The Atlanta Hawks Most Important Player This Season - Sports Illustrated",
@@ -76,11 +104,11 @@
       "tag": "team"
     },
     {
-      "title": "\"I hate to be right all the time\" - LaVar Ball says Bronny James' case proved his controversial theory - basketballnetwork.net",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVGFyVjFRZGktRFlaREM2M2F6dXNNMm9CMmJ1ZVU1YnFWMFlHOEZBdDFkcFo1MFktdE9rMnpJaV9XRUZfc0c3RXJuUnlZYkdkQ2luRUNhY2xLU2I2cGFqd0JwaEtaM3ZaSC1lMU1JOG5YT3A4WUtsaVhkaHFJVlNRZlY1MDVVXzY1bFlLSjRiNi10aUxsZmQ1TUhyUEpNSzZqSmlsWjIxVWpUVjRDQnpZMw?oc=5",
-      "source": "basketballnetwork.net",
-      "ts": 1790077260000,
-      "tag": "league"
+      "title": "Bad News for Hawks as 7-Foot Center Expected to Miss Entire Season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MYkNJRlRiRW9PTGlxVzViaWhERXIxNXdWOVVTRzFmdVhSUFlrVm9WU3RGUEY4bXBMSThvdG94S215RDBCZGZJWl9MelJlcERZc1pfMlBvZlpxTFBpM1ZzeHY3cU9mRGdLS0lqdjFMNjhBWUJHbkoxMUhn?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790079667000,
+      "tag": "team"
     },
     {
       "title": "Hawks Suffer Major Blow as 22-Year-Old Center Tears ACL Ahead of First NBA Season - basketballnews.com",
@@ -104,25 +132,25 @@
       "tag": "league"
     },
     {
-      "title": "San Antonio Spurs Get Significant Kyrie Irving Trade Update - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGNXZTJKVXVtZzdhUjdwc2hJU3J2VE94dXF0dWtBQzBNdTVsZXdfcnJMNWhfa1VSWlJvZjRTRUozZXBoaVdVbHIyRS1rQXVheGExQ2h6a3VaVXVYODFhYi1tVzBaRlZlX3RFOHRTUEZldU52ei01SWZlSjNFcmtDZmljeGx3NE9JNGxDLQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790051400000,
-      "tag": "league"
-    },
-    {
-      "title": "The LSU women\u2019s new center reminds Kim Mulkey of an NBA MVP \u2014 and it\u2019s not hard to see why - nola.com",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRkY2YWN6Q3dEbmVxYkUtQjQ3ZnF3WVdzZWxCTm5oWXVyb0tNTktDVzVaVHQyaHRicTc5SGo5S0RHVjU1V3J3OHlaOEJJb05tc2JfTVZfR1R2cnZzYlpiWFNJR1ZUVWt0cGhXZllfSU1SbEJzQVJVUGFfdE80bnk5MGJEV0g4ZG85Vk1KZkFHanQtQmlnaTFwQWhlZjRnVVBmWHljWDgwdUlrbDhpRlh6SVNGTGRnX1REb19jcU1xTWJTR3pHOGRPbUMzdDFtQlJoc0x4cU5qTVB5UHQ2SEpOQzEwbTVNYWpBZWZqS0lFMzBYM0pxOFk0X0xENNIBgAJBVV95cUxQOWtMb1VhYl84bDRXbGpsODBmY2hmRXAtTWVOWS1iMGYzY2d2TVRvRWFnTzUwZHFqdHhSMGxqZXR0WU1SSm9zV3ZRV0E2SGExSE5aQ00wR3dOYmRSLUxrYVBxSFNXZ3RZaEtsQnBrQUM0b1duMGhwYlZ5dGZ3dTRPcVRlMDNvdGxqWDdraE5wczdtZnJGdENRN2oyUk00TEVqUHBTVDFfaGxHV1ZTNERPT1NTZEswSURVSlhENWliYm1oYmhnNFZ1OFIweTBLcU01c0hNYm9mZ1Yza1lsOGt5emlaRmRZSmNseWpKTGM5a2NqbXNpWk5LV2h6cFZnajBV?oc=5",
-      "source": "nola.com",
-      "ts": 1790025000000,
+      "title": "NBA veteran Nicolas Batum announces retirement - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WVEFwY1hjbmItRkNZbUYtZW5BTGo5aVlxTmNiM0xNY25KUkxBV1hiM2Vvd1Bhc2JRd2pYYWNoVGZLWm9DM1FQQVhTcU44V3BJNktqLUZvUFB5dFFTbG91WW1BVHRvVy00aklF?oc=5",
+      "source": "NBA.com",
+      "ts": 1790045723000,
       "tag": "league"
     },
     {
       "title": "Hawks rookie center Henri Veesaar suffers injury, expected to miss season - The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcnhqa0tmOHRDZXgzTDRXRlNmYmgya1ZhZjNrWEdPVmJRbDFTZmg4VzRTRy13UjZiUEdWNmFBX0o1aXdaUkFYTVlvYVptWkZ1MTd5SGpmdVdZNkVrSVppRm5UMVZWN3dEYjZsTGkwUC11R3FjbFBVdXJBQWFJa2cxeEZ3dUhYTUZ6bW1BaGJianhlWVhuUkhFaExZT3NBNXFZVkJrZDMtWjF2WTdxblE?oc=5",
       "source": "The Atlanta Journal-Constitution",
-      "ts": 1790023670000,
+      "ts": 1790030435000,
       "tag": "team"
+    },
+    {
+      "title": "The LSU women\u2019s new center reminds Kim Mulkey of an NBA MVP \u2014 and it\u2019s not hard to see why - NOLA.com",
+      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPRkY2YWN6Q3dEbmVxYkUtQjQ3ZnF3WVdzZWxCTm5oWXVyb0tNTktDVzVaVHQyaHRicTc5SGo5S0RHVjU1V3J3OHlaOEJJb05tc2JfTVZfR1R2cnZzYlpiWFNJR1ZUVWt0cGhXZllfSU1SbEJzQVJVUGFfdE80bnk5MGJEV0g4ZG85Vk1KZkFHanQtQmlnaTFwQWhlZjRnVVBmWHljWDgwdUlrbDhpRlh6SVNGTGRnX1REb19jcU1xTWJTR3pHOGRPbUMzdDFtQlJoc0x4cU5qTVB5UHQ2SEpOQzEwbTVNYWpBZWZqS0lFMzBYM0pxOFk0X0xENNIBgAJBVV95cUxQOWtMb1VhYl84bDRXbGpsODBmY2hmRXAtTWVOWS1iMGYzY2d2TVRvRWFnTzUwZHFqdHhSMGxqZXR0WU1SSm9zV3ZRV0E2SGExSE5aQ00wR3dOYmRSLUxrYVBxSFNXZ3RZaEtsQnBrQUM0b1duMGhwYlZ5dGZ3dTRPcVRlMDNvdGxqWDdraE5wczdtZnJGdENRN2oyUk00TEVqUHBTVDFfaGxHV1ZTNERPT1NTZEswSURVSlhENWliYm1oYmhnNFZ1OFIweTBLcU01c0hNYm9mZ1Yza1lsOGt5emlaRmRZSmNseWpKTGM5a2NqbXNpWk5LV2h6cFZnajBV?oc=5",
+      "source": "NOLA.com",
+      "ts": 1790025000000,
+      "tag": "league"
     },
     {
       "title": "Hawks rookie Henri Veesaar (ACL) expected to miss season - ESPN",
@@ -137,20 +165,6 @@
       "source": "Yahoo Sports",
       "ts": 1790022533000,
       "tag": "team"
-    },
-    {
-      "title": "Hawks rookie Henri Veesaar has a torn ACL - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUjYwUXJuX3FzMGNHdGFQOHpNcEVQdFRQdGFLVld3V2xSQUlSbVlwYUlxdGltbFRYSGlNQ0dIN0FVdk9uNTdKZEE2eHkxTjRkNzBqdnF5RWdiaEM5Y3M5TlpDN2tfamVfWUZHLWZ6Y280V0FxQnZRbU1nNVZMbHZiMEF1Yk51eDQ0X0l6b051TkxZeGpsenFMclhkS2tBdmZ3M3lGYVZvWWRZbnc?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790021654000,
-      "tag": "team"
-    },
-    {
-      "title": "Arizona basketball: Raptors convert Jaden Bradley\u2019s two-way deal to multiyear contract - Arizona Desert Swarm",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2JaUVB2UDRBaTkwMXRiRjRHZ01UbW5kbjNZd01Hd19QR29YSTNNbUprTW5aWVhldEIwazhPOVhRX21xZnlTYTUwUE04Y0xIcnhGTUhDNXNicTlTc09uaXV2LUF5V2lwMUNSdUt5S21wVmNPWm9zWXRvWmFJelZucmFqNTFLYTFOSTVmYWZfTEFOcEp6NDV6SnViLXhNNnlTVW9oSGhJODUzNnI4UnFxdnZpY2lVWU9OT3l5aHNSbw?oc=5",
-      "source": "Arizona Desert Swarm",
-      "ts": 1790020800000,
-      "tag": "league"
     },
     {
       "title": "Doc Rivers joins NBC Sports' NBA coverage as game analyst - NBA.com",
@@ -188,32 +202,18 @@
       "tag": "league"
     },
     {
-      "title": "Report: Hornets and Hawks discussing potential swap involving NBA veterans - Rookie Wire",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNG1NcFM4RF9qVUdRSGFDVjZsX3lhQjF1TmRHMWxtd0NBYmZDZTdoR3BnYW5PSGF3bmxkMlM4dFdzODZLaTF3Y3NZdElHWjV0cC01M2V0bjR6WUdqcVZrYUFUSFVPYUFTWUx3TDVNWkNhWUdTZmpySHJlZGpWSkE2MWJZZ2plZy1QUnpSaktBcHFNRUItc1VpNlhnaVpRMmlBWHA3czNEQjQtZ0I0UFdDWnVfUnhpbFpfQjl6eURLNDJMYnpEd0dnX1FFTjBwMTdEWV95U2p2VTdRM2lWTVc0bThVcw?oc=5",
-      "source": "Rookie Wire",
-      "ts": 1789959720000,
-      "tag": "team"
-    },
-    {
-      "title": "NBA injury update: $40 million Golden State Warriors star gets positive news after devastating first seas - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPREc0ZC1fRGZuSGFsWVlKaExLRTBuU2EwYWVrdHZNM2o1S3hBZl9sSHdubkY5b29vR0tGRFoxZV9aWC1ocUJTUTY4SnF5ZEtyRDRGemVuaHMzUU02bHBGQ0p0LXNpT3VWZ18zVXp1c3prNENoTTY4N2puVlFVdHZfY25TZ2NNM2VhanhKWlAzOWxfb1gtdVRZS3IyVW9GRXp6VUxLUHUzYzRRWVN6N2hMcmJPRlJhY2FFQ3A3X3FIamM1S292dGFJVndfZUZVb291azFwODItREZ0RThFbVB6ZXRFTkN5ZWp0WjhNMkV6ejlhTU1RTC1jbUdsa1Z0YWNndkRJb0JkdGI4Wk5VYmx5MExsellvQXpvejhQR2dWSnF6bUI3bDgyRGFtTGEwOGczSW9Wa3lfSjXSAbgCQVVfeXFMT0RHNGQtX0RmbkhhbFlZSmhMS0UwblNhMGFla3R2TTNqNUt4QWZfbEh3bm5GOW9vb0dLRkRaMWVfWlgtaHFCU1E2OEpxeWRLckQ0RnplbmhzM1FNNmxwRkNKdC1zaU91VmdfM1V6dXN6azRDaE02ODdqblZRVXR2X2NuU2djTTNlYWp4SlpQMzlsX29YLXVUWUtyMlVvRkV6elVMS1B1M2M0UVlTejdoTHJiT0ZSYWNhRUNwN19xSGpjNUtvdnRhSVZ3X2VGVW9vdWsxcDgyLURGdEU4RW1QemV0RU5DeWVqdFo4TTJFeno5YU1NUUwtY21HbGtWdGFjZ3ZESW9CZHRiOFpOVWJseTBMbHpZb0F6b3o4UEdnVkpxem1CN2w4MkRhbUxhMDhnM0lvVmt5X0o1?oc=5",
-      "source": "The Times of India",
-      "ts": 1789954200000,
+      "title": "\"It's a smooth 50 or 60K\" - Michael Porter Jr. on how flying private can drain NBA players' money - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUHlqQ21PNzliWjE5VUN2S0s2UDI1WUk2OFFKWlR2MzFlMWpydTlpVmtYdk8zZ3dQRUFZWXBuTkdHUVFFTWZpaDRwU1JibmFVTXJ1OGNGbEU5Uk9sV01ST3VhcXdwa1V5eVNPbS1ydC13Ukc4RkNUa1lXU3hCNWlfamt1UU9Kay1CUHpaVHdoeWdmZjJxMGZkTFI4b1UtUEM5YzdDNDdUS3V4OEpOenZFRWpmM05YZw?oc=5",
+      "source": "Basketball Network",
+      "ts": 1789987320000,
       "tag": "league"
     },
     {
-      "title": "New NBA Trade Rumors Reveal Potential Buddy Hield Landing Spot After Midseason Hawks-Warriors Deal - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNndhZk9RQ3BsbnVHYlBOMkpyWVljeTdSSXNlWjh3alQyRzJVNnlwME1qWDVFUlJSa3lncFFPS0xpdmVhRllSWDFzTzlQTEs3SzljYnltZDQ2M3JVUDZPSnFodkVINlN2UGphV203d0lUWUVJc1lSSVdCYWt0ZzQzZUFIVGEzUExKRGE0SndtaFVCOGlWdjBFSDYxOVJtSEpOYkh2M0xhSnBxT0t1Q3E0QVl0d1dIcUVnaDlzai1zYkoxRVZxendQNWduODRRNEtJS0JXd09MUjdjVkU?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1789952263000,
-      "tag": "team"
-    },
-    {
-      "title": "Hawks, Hornets Have Talked Buddy Hield, Dorian Finney-Smith Trade - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNM1R6cHZZbUJvVjctNTlMNWJlbjBvS3ZsTEZfOFlhbk5wSmFFUE9hN2VtNTBzYm5QeUM5OUh4emt5UnBEaEFIVFZXVzVVYmxqV29UaG1PajJNMFhlX1AxOU5nQ1JoeG9qLWh1VjV3WVUwX1NNOE9IcU9ENXRtZ1g0WjhBUzk1Q1ZyQ0RvaHk1RmNoSlBxaThHVmh4X25PNkU4MkF6Z2dRaFM4dHlX?oc=5",
-      "source": "RealGM",
-      "ts": 1789950060000,
-      "tag": "team"
+      "title": "The latest on NBA expansion to Las Vegas, Seattle as latest bidding deadline passes - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObmc5VENmYm5qZW15SXJ3V29ZQ012WlRCb0VXQkt1NkdwR1ZQdE5YLXNqRFVTZnE1VERGZ2xvUTluSm4zdVAxUTc2M0t6WUF1dG9kX2RPNTNzMzFwd1hHbnlKYjVZUDlLUFJKQXIzWkFGSUltaGZjcDhaLXktYlNoaUlFOU5tc0VXY1Y5T0d3Yi1JMmV2ams4VVp1SG1Hdkp3T1U0ejdpcw?oc=5",
+      "source": "The New York Times",
+      "ts": 1789983901000,
+      "tag": "league"
     }
   ],
   "pushed": [
@@ -356,6 +356,11 @@
     "hawkssuffermajorblowas22yearoldcentertearsaclaheadoffirstnba",
     "sanantoniospursgetsignificantkyrieirvingtradeupdateyahoospor",
     "hawkshornetshavetalkedbuddyhielddorianfinneysmithtraderealgm",
-    "nbatradetrackerupdatesforeverydealofthe2026offseasonespn"
+    "nbatradetrackerupdatesforeverydealofthe2026offseasonespn",
+    "hawkstradehieldnembhardtohornetsfordorianfinneysmithblazerse",
+    "atlantahawkstradebuddyhieldryannembhardfordorianfinneysmithr",
+    "charlottehornetsacquirebuddyhieldintradewithhawksjustbeforet",
+    "sourceshawkstradehieldnembhardtohornetsforfinneysmithespn",
+    "buddyhieldtradedtothecharlottehornetsinathreeplayerdealeuroh"
   ]
 }
