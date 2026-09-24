@@ -1,15 +1,22 @@
 {
-  "updated": "2026-09-24T05:35:31+00:00",
+  "updated": "2026-09-24T10:28:01+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 5,
+  "pushed_this_run": 0,
   "error": null,
   "items": [
     {
-      "title": "\u201cWhy the hell are we playing the game?\u201d - Draymond Green blasts the idea that NBA championships don\u2019t matter - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbE1EYnFUTjZwMzVCNkQ4QmxRam1WSEM0Sjk2SWdIOEFWeFNMZUk0QnNtVFJCbUVYdk14NVk5ZkVhNWNzeTRoSW55blIzRzdmWElvSl9wYXpKSzRKQlpXTks2czFyWTFwU1BKMVN4Y1dfS3VTZG8tQno2UWdUVncyQVQ1WTZ0Zw?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790227892000,
+      "title": "Longtime Lakers public-address announcer Lawrence Tanter dies - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeGJzWGwza21RaHc4WF9jQkhqRjBnVVRUUTdqZm1MWHhMNTZhd1Jjdk9vbnhTTzY4WmR0YmNIWXlnYl9wR2hfemU4akNPenZ5el9EbFZYcjBFaTNFRTBhWmZCNW9VU2cteXJBZ0NJTnpzZ0stVk1nekZnQWxCSDBjQktqcEY1ZkgtMHVtVG5lSGFoUWpULVQ0T2l0MXJKS3BuZHdTVA?oc=5",
+      "source": "ESPN",
+      "ts": 1790228280000,
+      "tag": "league"
+    },
+    {
+      "title": "Gilbert Arenas urges Lonzo Ball not to walk away from basketball yet: \"Keep playing as long as you can tolerate the pain\" - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVmE5dGpqYmZ2Mmc3TGZKY2VXRDhQUlFXX2hUSWlQamRGNXJNQ05QUWRRMlVTbElGVjdlWFFUSU1SbzdSQ2dJX3ZIZm1zMWJWSXgxdTJjTzVSd1ZXOV9JUGxuN1JOajJwcEh4MV82YlJibl84VndQRDRwZFJwYXNkTjJjUFNhZG5OU1RqUFp1ODFCR2g5Z3ZobXBfYmxOZTBLa0pRQmQ3WHozTXphMTNHc25qZlo?oc=5",
+      "source": "Basketball Network",
+      "ts": 1790228100000,
       "tag": "league"
     },
     {
@@ -27,17 +34,17 @@
       "tag": "league"
     },
     {
-      "title": "Sources: Mavs' Dereck Lively II (foot) not cleared for camp - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbUlRdEdZQ1RERndhWmN2d1ZMUEZjd2lrSFAyYkNLMmZUVm5LS29lOW15b18tVE5STWRrS1p6ZWwxdHVxNGhKX0pjazk4Y24zdllCX3VfODhpTGJSRHdxNXd4WnFVYXhzblkyYXExVzdLYmFXNU0zTUQxTXZRQkRLSFpGWXAzb0VrNEtHcVAyMktzNTI3eEVaalgzTjQ?oc=5",
-      "source": "ESPN",
-      "ts": 1790212140000,
-      "tag": "league"
-    },
-    {
       "title": "Dereck Lively Injury: Not yet cleared for training camp - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOEw1YlNSTXdhVHYzXzVnNmN3M1FJaFo1ZU5jY2hyR3Zvd1U1TUhxTzltNXdwUl9LZUFDUl85S1VXc3RPR1RMNUh6Vjc3UDVXVHdsekdGRG9aUUFGeURRNkR0RFBxbGZFa3UyN2pELUJmd3R3Yll6M0RXeHV6RkU4NjB3VHJyRG9iVGwtMm9mckpLWThJamdVS25MbTdqSEowYThHSFNJbkN4R1k?oc=5",
       "source": "RotoWire",
       "ts": 1790211870000,
+      "tag": "league"
+    },
+    {
+      "title": "2026 NBA buzz: Latest free agency and trade updates - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYmNfamNVbTdidmxKNmM1NzM0Z2E4amJQdVJ3S1lEaEhDQktwMlF3TW9hUmZSUG9RNjFsaWl2VU1qNGwzMGVtY01Sc2FZU1ZSSVY5Sm1UZ3B2cFJFTVBTVmdZQjVaQmFlaGxQMU95akwzMG5TdEl6SWRVaFhDQmdnTmxXYzJGQU1aYU8tb3EwOGphZ2tGNDFEX0FBTnppNmRUT1FMMndFSHNFYWY5Zmc?oc=5",
+      "source": "ESPN",
+      "ts": 1790211600000,
       "tag": "league"
     },
     {
@@ -48,16 +55,9 @@
       "tag": "league"
     },
     {
-      "title": "Clippers interim boss thanks Kawhi Leonard, addresses leadership - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOaEZtb3ZUMjRSd2lVcEdiSEhMMFlKenFuSnlzT1NiQnp4cU9ScWZRTC1YWFBNeVBzSjd3NWFlWXZmQnItXzZ3Vi1LdlAyUVhFUXBkdkpHOTBsR3N2Y2l2T2dqZXZHaUdYTWNOWXRRMXVuMUgtZHJZdkFPbTVILTZSQkNXdElSbDNXS0Q4?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790206787000,
-      "tag": "league"
-    },
-    {
-      "title": "From court to classroom: NBA All-Star Antawn Jamison makes return to UNC as professor - WRAL",
+      "title": "From court to classroom: NBA All-Star Antawn Jamison makes return to UNC as professor - wral.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLUhjR1UxZmdCVl9iQVFLbDdWekZaMXJjcDZaRkE1UEl2am85RkJhbUhXZG5tRkZwN0t5OTZIdjgwNzVXRTBnTFh1WXBHV2FjNVdaNmxjRVlsWm5zTmcwRW1pMFJOY0Z6dTM1UFhFUFJKTWg2MWtSNE5TQzNBeVY0Rl9TNUkzbmM3a0wza3JHUzQ5ZUJvSlE5WERhM19OOEhmV1pEUXhOQ3haVFZRT21CREV3?oc=5",
-      "source": "WRAL",
+      "source": "wral.com",
       "ts": 1790203054000,
       "tag": "league"
     },
@@ -69,17 +69,10 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks Star Jalen Johnson Rises 22 Spots on ESPN's Top 50 NBA Players List - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWURxN3paM0diVm5OZEJwMzhSUG1ET2pscUlGa2daTVgwWnJvLXotWUkxYjdPbUtvMHU4SmpQV0ZwYU5IS0k5SkxTMDA5NkJHR2d2bTlOWmVWc25TbWpTajY3OWxHZE5Jd3c2alJ5aHhVRThnMnFiV1E0Um5EanpBUVJYdDM3TTZ4d05WTzRaS3dCaC1sUmhBdDhIOXhpcU90VTNMWnRZc3NoVWFEcG1EOUx5bE52NUVJRDd6WkR3dGRqQQ?oc=5",
-      "source": "roundtable.io",
-      "ts": 1790198821000,
-      "tag": "team"
-    },
-    {
-      "title": "Three Atlanta Hawks Fighting For Their Jobs This Preseason - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSkNqYzJFcmVqRFBZb3JpdVMtUzBhMjgxZDVyNFVVUE0tX1VULVhHNDhsWjl2aUl1blRqYXdKeExQS3NUcTdfRktXd0FHbkE4SlctLXU1LXFBdEZVa2FmMF9RTmRNTnROOTZZSFNlTHBmaWRzb2VCYzc0TFJJOXFnODQ1OVljTHJYRl90Mm5qWEJnanphWk12NHpORTdUcDdQTC0wX2Y2WVI?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790197769000,
+      "title": "Atlanta Hawks Star Jalen Johnson Rises 22 Spots on ESPN's Top 50 NBA Players List - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWk1kVHltN0V0MTU3U2x2NkdsX0pmTFJpZ3Izd3pXdms2X2pZQ3FjcGRyb3NRbFpaRXoxbkpmOVRWbHN0c01nUFlNN1pBWm5oREdZTVNWZlIwZ0liMW9YQWRzZHB4WWxxSDZiTFMzVWJVU0xLeklZVmVLemtZbjVXZHk5MnI2RUpt?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790197200000,
       "tag": "team"
     },
     {
@@ -97,16 +90,9 @@
       "tag": "league"
     },
     {
-      "title": "Trae Young Throws Subtle Shade at Former Atlanta Hawks Teammates - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQekJGYWtfXzBUNWh6Y0hVM25LbkxsaGdnazdVUFV6VzZQN1RtblR2SXFRQlUwcGoyRkRfUVdnRDF6alJUYmZMeExCQ2pVYk0tMElqZnhRVERIVTRGTm1SUHhPcmFFT1hNbExaMURSY1BxWEN1MzJSeUMwQmtNUFIycEE4NmFrUQ?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790187208000,
-      "tag": "team"
-    },
-    {
-      "title": "Lonzo Ball reflects on how devastating knee injury altered his career, shuts down retirement talk - sports.yahoo.com",
+      "title": "Lonzo Ball reflects on how devastating knee injury altered his career, shuts down retirement talk - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFg1dG1XN1Ria3JUTmljYVFYcFM2T0hLWGlCTVpmYWVmZkRYVHZwOGNkRFNhWjBMbkVRRVNKak1qWldlRDl1NERiWVBleTd2MF9hUk9HZmczdWp1SFpERkhfV2VXaERBbmVLamozNjloeFY4UzFYSXNBal9HNXB6YzY4b3dtMENQZmtnM0Z6enhmcWVWRUZ1OURjdzRONW1zZmsyZ1V2Xy15MmpoZEJ6QURYQ0hCWXU1cUx5Q3lXcVB5U0IxVEduNTdlS1FEcE9LTmtLRzJ0Z0Fta1RKM0h5WllR?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790184941000,
       "tag": "league"
     },
@@ -118,16 +104,16 @@
       "tag": "league"
     },
     {
-      "title": "An improbable NBA breakthrough, a descent into darkness: \u2018We weren\u2019t all that different\u2019 - The New York Times",
+      "title": "An improbable NBA breakthrough, a descent into darkness: \u2018We weren\u2019t all that different\u2019 - nytimes.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNM1BRNDN4d1pCZ0RIdnhOek9OWVBreEVucVBSZm9NQWZ1VnYxQ1FROGpYUEIwM01pUWVKZXI2anFMUjVfRW5GeGZicUZ2X3EyQkI3M09CR19nQ3hTVDRzdFh6WDlyeHVhQkRHOUpENWh4SEJYbWlTVVBOV1RVc25nRV9SZnl2dFAxelRUVjhCS2xNUkR2TmdtaVRMbTBqZTByNGVzRlE2MWN3ZmdVOEZF?oc=5",
-      "source": "The New York Times",
+      "source": "nytimes.com",
       "ts": 1790180382000,
       "tag": "league"
     },
     {
-      "title": "3-Team Hypothetical NBA Trade Gives Giannis His Most Wanted Guard, Blazers Land An All-Star, Kings Get Younger - Fadeaway World",
+      "title": "3-Team Hypothetical NBA Trade Gives Giannis His Most Wanted Guard, Blazers Land An All-Star, Kings Get Younger - fadeawayworld.net",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUHMtWHo0UVNGdy1Bclp1UHJZYmR0bzV6aUtZbzdyQjRaNnFjeE9HSURQa0p4d1RVcmFVc1JIbnBPMUhvQ05SUTJzNEFBQkdXSXpmMUJBY0w5ZzR5MWJfTTkzV2JQLS0ycnZTOXFYc2VHc3A0SFRBMmFlZEszVzdhNzNjaWpaQ1hpdVdESmQ5d003ZFFKQXZzY2pVdkJJTVhsTFlQOVY4ZXVFc2MtS3p4cjV2cUxFX3gzSFRjYmZYLU9Tc2hqUGZZdUFmcVBWN1BTb2I2b2NiM0ZrOTVaN2Z1c1RHX00yRWI4RDNvZ1BfSHljR1pz?oc=5",
-      "source": "Fadeaway World",
+      "source": "fadeawayworld.net",
       "ts": 1790179999000,
       "tag": "league"
     },
@@ -139,46 +125,11 @@
       "tag": "team"
     },
     {
-      "title": "Charlotte Hornets Team Up With Gray Media And Sinclair To Bring Hornets Games To More Fans Across The Carolinas - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTdfQVlqbUkxYUpvWEJpVWFncjZkNGk1a3VVSnpZNVhuT1NfbmZEYm1kWnVtQlFKY0Jsd1N4QUcwOWhkdnVGV0k4RzNSRmtBcE5WRm5SZDMyeGh3Mlp2Mm1wOE5vM3poRTZKM056bVVxQ195dURDd3lLbE9QSERpbXhyU2ZuWlN5SDJaOElLOWJmRWNPOTQzRXYxU3JTdXRfQnFNZk5ZV3JjNHdvbjY5bEg4SDI0X0wzdHZHVW56bFRfWERFWWUycjk1elFoN0RQZWc?oc=5",
+      "title": "Kawhi Leonard signs multi-year extension with Raptors - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBnYVM0ZVNzV09GSHotQkFkZmdQYjM3RG1YWVR1ZzNxMmViTEd4cS1mYkhVWGpOTmM5OHVwY1VzQlJLX2JWSm91RmFiS3Myc0pLa24zMXgzUEdPYlRWeklfRlh5RUlCU1BpR3QtbTFPcnlFZlFpOXZWTDVPSFNBQQ?oc=5",
       "source": "NBA.com",
-      "ts": 1790179200000,
+      "ts": 1790178648000,
       "tag": "league"
-    },
-    {
-      "title": "3 Biggest Questions Facing Atlanta Hawks Entering Training Camp - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTW1XRnE2bXVxUU9wU25fWnA1aUlZN1docDVqZ2VSVVJmNGdTQ3JXbmhldEZLaXNGOXpHWVNRSkFEQWNUcThLa2VQajBselM2ZV8wS1JOT3hKM3hsQVlJVlJkbkFxVnhINTBLWHZWbzUycWFVVFJya0pIUlRya1dEVXZuN2NQa2FTdEN1SkpDdE4zOVlJRktKQ1JGZjVoQ2ZNbXpDS2k0MWo5SjBaWTVF?oc=5",
-      "source": "roundtable.io",
-      "ts": 1790177867000,
-      "tag": "team"
-    },
-    {
-      "title": "3 Ways Henri Veesaar's ACL Injury Impacts the Atlanta Hawks - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5kekVVSEtEXzYxdG5TUUZ3LTVHX2xENnFqOEhqaVlwaG5LalBMM1ZpeVBZTXN1b3lLUEl0Z2pXRlM1aVBCSU5lWEt5VTBBUGJOTk45cFU1eG9uZlhDS2pPT3ZTZUh1cDFpNjlERVFMT28xOWlYZXZ1SjBTRnloT2M?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790177661000,
-      "tag": "team"
-    },
-    {
-      "title": "Clippers name Trent Redden interim president of basketball ops in place of suspended Lawrence Frank - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbWQtdVY0U0M0eUEySmN2am8wd21pYmVUOHR5ZE9aRnN2Xzg0MXVLTER0aml4R0FidkZHcWNESTJPS3RKRzhYUDUwc1Bad3kxdjE1cTR0bnlpSWU5all4Y3VhY1VDT2c3dnZPNWI0WkhGWDhIVWZkMVhWSFI1bTZPUHFwMjBmaWwyV1dPUk9LQmFCbmloLVVRRlJZak93elJTRHNR?oc=5",
-      "source": "The New York Times",
-      "ts": 1790175408000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks Basketball Academy hosts annual Coaches Clinic - Gwinnett Daily Post",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSGdTY1oxbXozOFpZXy00a2JsU0xjT0pHeUthbDlycjF3QW1ZbGpaZnp0UXotWUt1cGtmVXIwd2NFbk1mZkE5QTgtU2xiRGVTX3ppX2Q3VWk0aUdhQWg3X1NqVHlRQk5XSDFiU0NyS3pXb2hkNzczZTFXN1A2VklpTnhnNWE5WDg2UjNTb1pTelp4N2x2N290OWxWZm8tdVRGdE1aTWY1SUtMbk95bVNXMXRKcHZjRndYM3ItNWFhdjhiRVdUZ0xuS2ZjWkNLMlRUNEo0YUloWGd2LWp1YUZSWVpEaG1MUQ?oc=5",
-      "source": "Gwinnett Daily Post",
-      "ts": 1790174040000,
-      "tag": "team"
-    },
-    {
-      "title": "Atlanta Hawks Basketball Academy hosts annual Coaches Clinic - Fulton Neighbor",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb213Z0ZaZ1hOUExOcHVXUU1FckFWUmM3UFIwVndtdlVnM0dwNmxJdGJnT0JDeFJWZkhWVTU5b0g3QVBYazFObVFkN2RlcnlLbmY3WXRWRU5NTEowUHd3X2EtUElEeDgzZWhxZk5MaTF4UXlnRzdMZkZISlFzeGVVaGFuSlc4ZUQtdWF2aTQxX1pZNHB3QzZlUVJ5X0VlVDZOU0lTbUVSVHJzUm1NUGRVMFNNY3p0bkw3YlUwclZkWkMxNUwtelUxdUo3M3FvMWphdkNfSzIycFZOV0JzQ2dHMWZB?oc=5",
-      "source": "Fulton Neighbor",
-      "ts": 1790174040000,
-      "tag": "team"
     },
     {
       "title": "Milwaukee Bucks trade value rankings 2026-27 - Brew Hoop",
@@ -188,10 +139,31 @@
       "tag": "league"
     },
     {
+      "title": "NBA Commences Investigation Into Bucks, Gary Trent Jr For Salary Cap Circumvention - RealGM",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVHBwSTlncHlkVXJGVWx1dGZ4YnFJV1Iwbm1DQWxnYkx6bm1ENTduVW42NDBiZWpIMl9OV2tPek4za0ZPa05UWndUSXhkb3pqcW8yWmxTX3NPbTBqMU5uMTZoWklXUkd0Smk4R3p2ekRLSHVoeUFNSlRfYmdGeDZBcVVUYmxOTjJXcm9yUl9hUktSU0VMcEF2MGYzbEdUeWtlMFFwS25DZWotLXA3OENIcjVBckVqRDVQS201ak92cWFsZWQ0?oc=5",
+      "source": "RealGM",
+      "ts": 1790169780000,
+      "tag": "league"
+    },
+    {
       "title": "Sam Hauser Trade? Kalshi Prediction Market Weighs In - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeGNTMzUtampIMmNRYThYWDhWblB5bURseHpDa3lIMzZBWDFRTFlPcUJkR3hQU24wN0tuTDRMUTVqM0o5T2x4MU93ZjlCeTlNUkxtQWZqUVUyWkNmNFlJOVpGS2c2aS1RaGllamxUSEMtS0w1Tlg2RzZEUWQweUhLNmxpSE5IbVZXSlZHOWVsODhfRzNHYjJXS0NxVm5MUVBaQlFCTg?oc=5",
       "source": "Sports Illustrated",
       "ts": 1790168400000,
+      "tag": "league"
+    },
+    {
+      "title": "Miami Heat\u2019s \u2018Best Possible\u2019 Kyrie Irving Trade Package Revealed - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLQUxyN0pwVXI4cnREM2VRME00QTduNVVXdGZ5MmpvTXkyM3lQaVhHTmx6VlNkZmx1UUE2NzZhRkNoYkpYbE1qMGR3bUEyVnZIU0I3RWZvSDBCSVJfZl9OVjQ5OVZLWVdJWHk4SnVkWEdqMXZ0VmlwLXdn?oc=5",
+      "source": "heavy.com",
+      "ts": 1790167353000,
+      "tag": "league"
+    },
+    {
+      "title": "Meet Nikola Kusturica, the 17-year-old Serbian phenom betting on UCLA to make him an NBA star - SB Nation",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYzRhNHNjR0x6azBGN2s4aS1BMkZGRURXemF2bHJqbW1LR2FsWTZ1N1BMaGZERFBSaTNuVDZmTXM0N3d6MGxQMnBvVjVqUzhBcFgxaGVnQzRDRUNMWUJzSl9NckV2SUdPZ2J5VzBMWmVTUVRIam4zWGJ1NVBnMk9tdURnM2VqV281VGhsMzc0Qy1JckliVGhWTDYzQklqYVFfblBwWlRoTUNmSmhyeGNuUS1MMmVFTmM?oc=5",
+      "source": "SB Nation",
+      "ts": 1790164800000,
       "tag": "league"
     },
     {
@@ -209,11 +181,39 @@
       "tag": "league"
     },
     {
-      "title": "\"I'll never admit they are better\" - Toni Kukoc doubles down on why modern Euro stars aren't better than 90s legends - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQejV1Z21sUEdGRlFlYVljUVl2OVRkWXNaY2w4SjAweWpQNGRIU2xrbExRNmxCYnFGdVJWTFJWdHJ1dk00UklCNDRMUnlTdzlMYzRld2FvZmQ3RVpyWnlPN3o4SGRIYWVXYVY0NVFpZS04OWRIN3ZxUHVGX0p6VFU5WVFaREJOcjg1OGktZzNOYVJnMUxjeVRfVGhCUGp3di1qUzlDbm5iOWpUNmRJRzZ1ejE1dF9QRE1xNFVuOS1la0VUQQ?oc=5",
-      "source": "Basketball Network",
-      "ts": 1790147100000,
+      "title": "Report: Hawks trading veteran SG Buddy Hield to Hornets - The State",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ncWtmaGhJNV8zMVo0Z2lESndpcThQRXBlSjZJQVdYNGJMWGMyY2RFQjRBNEltbHo3b2dzY2pfZERxWmJwRWJzZlpjYmhrX21wRFZ2a29VM1RTRHZGd21ITmw2U1ZsRVZO?oc=5",
+      "source": "The State",
+      "ts": 1790116860000,
+      "tag": "team"
+    },
+    {
+      "title": "Heat claim former Jazz guard off waivers from Hornets, with an invitation to camp - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUlBseF9GRXRCSVdJVGR0aUh1cDJsZU9GRmhMX0wtQW14cXBMU3owSFp4cDQzZkhxVXFxaVhoNW82VWY2dDBxTXlfTXJrZW1YYm52WVJucWJTeUxaTEcwTHVpbFMwMTNEY2VOSU4wRXhLRE1lRDJNVGdobDByZEttN1VHT2EtdTJwdXJzSUZKWjFOVlJJX0prS1k5b21xS0VPQ3EwSlVWWkRSc2JFN3Z2c0xPRmtTTS1uVVhrbjhR?oc=5",
+      "source": "Sun Sentinel",
+      "ts": 1790111668000,
       "tag": "league"
+    },
+    {
+      "title": "Hawks trade Hield, Nembhard to Hornets for Finney-Smith - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeXVUekliRWh6dWIwdl9UaS1Hb1I5bHNQQmlYajBIcG01WkRZYlk3ZC1yeXNaZzZkLVBEYkJkSkdJeE9oOTBrN1VoQTlPWldYUmJ5U1UzZ2N6Qm1yX0d5RF9zRmNYdnJXVmgwTVhfWjZSTWRMR25zcnlON0x1c3VfdnZpdFBGOFNEOHdJVVM5WUE1a2Z4YWxkbUIzTDVUY1FxZHc?oc=5",
+      "source": "ESPN",
+      "ts": 1790107560000,
+      "tag": "team"
+    },
+    {
+      "title": "'It was time': Wizards' Trae Young talks Hawks departure - Sportsnet.ca",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNejlKZTlOMXU3WURMNmlod0RwdVRadW1rS2NrZUpLLWVaRF92SzByclN6Q25tMjZDMEtXekk3eG5pQ21iRUpUUFlQY3c0MUdzM2N3MEQyYnc2MnFVeGFadEZrTm4xYVBFSGx1MWc4TzJHT1JJVnhsdlBFZ09UZlQtdTVmR3VRLTlQQVVLRVlmRXVFQWtm?oc=5",
+      "source": "Sportsnet.ca",
+      "ts": 1790095500000,
+      "tag": "team"
+    },
+    {
+      "title": "Trae Young says he didn\u2019t feel \u2018as comfortable\u2019 with Hawks once new GM arrived - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWVqaGxWVUJKV0EzNUtsVUpHREFIbjAwb2ozN1VkT0Q5UFVXWEFrb21lWG82VHVUQUhiYmFBNHRWTkJUVTVkUnE1YTcwOW9KOU5tVzMyclN1Tmt1VFhXcFUtLXNhRVdHYVREeXREck5RWE8yaTRFeXYxN3ppWTdDN2dsVF92TFpndzREcjROLTJuZw?oc=5",
+      "source": "nytimes.com",
+      "ts": 1790095311000,
+      "tag": "team"
     }
   ],
   "pushed": [
