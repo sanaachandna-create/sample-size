@@ -1,56 +1,42 @@
 {
-  "updated": "2026-09-25T05:25:35+00:00",
+  "updated": "2026-09-25T10:19:51+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 0,
   "error": null,
   "items": [
     {
-      "title": "\u201cI wanted to mutilate them\u201d \u2013 Shaquille O\u2019Neal on how the 1994 All-Star Game turned into a revenge tour - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa0hxM3FrSkFDWjNiazM0OHpOT3RJdmRRRkpOZHdJSmZWVEZ2RXRuMmJ3bVlpV2VST1hnSTVJTzRlU19SRklETTBkY3daOE1pWDFsdTgyQ0tvT3IwY1FRUENGa3FFUUxCR3J2a2VwSXM3bjIyYmpNUVA5NEFtbEZNNVNReElGU3V6?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790307015000,
-      "tag": "league"
-    },
-    {
-      "title": "3 coaches ready for new journeys in 2026-27 season - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SZmxMNGZpLTdiWjBrZkV3OTlENldZdXNZTU1JdGVEZHM4QzI2ZDdrMXRCZVl2SlNCUTVoWmgwVkg2WlJNT09HZmZDQnU0Wk9odlI4b2J3bXlQMVdWX2gxYw?oc=5",
-      "source": "NBA.com",
-      "ts": 1790306917000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks Legend Bob Pettit, NBA's First MVP, Dies at 93 - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeVRKOHhLS1Z6WjVsMmFrUE1UYXp1ZHVQRGVLR2RoR2xFOV9iVy01S1Q3V05IdWRBc0VOSXZNVk9MeTJaUGZKTE1UNXJkZUFGdHZ6Ym1JMXVEWU44S2JjUFRsZWIzN2JpQTdVQjZLeW9aaXNhTzFzcUVYUWhHbVZMNlFZQQ?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790305020000,
+      "title": "Atlanta Hawks, Skyhawks celebrate 15th annual Coaches Clinic - Fulton Neighbor",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPay00NzY2bUVTd0JQNW90QkZZeXhCMFo1bXdXNWZZb3RFYlVxYUhIdnBybEVzaGRuOXo5aGJnYklRUm1jRUxuT2ZxTkQwRDlBeDNzNkVUd1UxQ3Y5ZmNyM3NMakhSVUhJQWFhMi1RVkZzZXFQZUdrUnlGN292SXlsamExTThXV3NheW1hdV9vRHpFaFZBUmg5dEhzMVFDWjFiWXREZmVGLXVhWDB3WUUxMnlFcmtGaDE0UVNWb2YtR0JCVjhtbFdvY3BPXzJBS084Y1dibl9kcU5DX0hIRmFJak9n?oc=5",
+      "source": "Fulton Neighbor",
+      "ts": 1790329606000,
       "tag": "team"
     },
     {
-      "title": "3 Free Agents the Hawks Could Target With Major 2027 Cap Space - sports.yahoo.com",
+      "title": "Atlanta Hawks season preview: Lineup, roster and prediction - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaDZKTGE0RjNVN3pqOUUwSUQ0N0RfY1g4YTNsQnpxd3lfeGl1S2RZNlptNS1zdjJRdXpnSFNOeTdGTWFNXzVtdXR3YjJrSVJXWUMxb1ZCaDFvOExIbWpmX0w3dU9LN0lvcnBsalQ1T3RZcF9LdU1PeEhJT1M2VEJSVjlWN2hNUVZiTloxWA?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790329463000,
+      "tag": "team"
+    },
+    {
+      "title": "Atlanta Hawks season preview: Lineup, roster and prediction - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNN1FOSVh5eUk2Q2VtcjJRMUJ1X3Vnc0Y4bllFSUJYQnQtMDBsMmYwU1dQNDBKNjl5eFlwNXFXeEoyVDRIM3NaTXRzOVh0OUtGVGVWVWNvWlI0SVBYY05wQ2F6c2R5NllpM19CeDlfQ24tQ05ibHNKcUJzTzJZd0hZMWtaUEpsMk41Wk9zSjhTNEhBQVF6T0cxdm9UWXlISndFMk9BQzRuNTVjT1dMaDkxdHBxZDJ1Z3ZNekpkdGZ1NTZ4OEJfR0x6RkhhakItZS1VZ0E?oc=5",
+      "source": "USA Today",
+      "ts": 1790329440000,
+      "tag": "team"
+    },
+    {
+      "title": "3 Free Agents the Hawks Could Target With Major 2027 Cap Space - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTjJ6eERoVnUxWXlzcUg3ZV9nVGtJaVpleW9BR09RM3hnbXZtckY3UjhHZmxOWklSUmRIZHlpTUpzc1cwWFJvOENqNkkydzltRWZqSTB4NUVFalRKc0NIRXJpYm5mNzFHNy0zeWZ5QWllR2c0SFpyLXJuRm5qakk?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790304480000,
       "tag": "team"
     },
     {
-      "title": "Atlanta Hawks Legend and 2-Time NBA MVP Bob Pettit Dies - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ055eVF2el9HbTA5NUE5VWU1OF9Sc3VDWWVkN0VsVnBIRE1LX1VPQkZEalpkMXpPQm5EQTlCd0pOZjNlbEJyX2wta09FYjJaTEstYmFXZXhLT3g5X1RodFI5T2owX3I1eG0xa2xxSUF1TGdfc01LUEQzRXFEYUd6SDl3?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790300460000,
-      "tag": "team"
-    },
-    {
-      "title": "Duke's Jon Scheyer 'where I'm supposed to be' after NBA interest - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnFMZkVQd0MtNHdTTXNiVUFBclBydF9TOVJZMGNWVUNxTEVoQl9XS2RBRUlaNHZmekt4eEdNdXB0ZHpZdWNPVk5vaVE3UUw4MlJJUnpHOUlJdDVDb0dFZzhPZU9vRzNUSkxqMkNqV1JydzVvVDFwU0Z6ZVJ1RW9fa0lCbFBmUHVJMDJUNE55TUZ3OWZGN05GUzdSNXlDWWxDcWVkdzlEenlBMWYweFE?oc=5",
-      "source": "ESPN",
-      "ts": 1790299680000,
-      "tag": "league"
-    },
-    {
-      "title": "Projected NBA Trade Gives Raptors All-NBA 6\u201910\u201d Center Next to Kawhi Leonard - sports.yahoo.com",
+      "title": "Projected NBA Trade Gives Raptors All-NBA 6\u201910\u201d Center Next to Kawhi Leonard - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnRUaFpBdTNjQmprLU9CSnFONEJtZUhRal9OeFhRRFZicXd2OG4weTNhYklVZThlelFlN2hDdzZfRExia3NFZUZDeG1QNkdXTnFPWkVOQWZsbFVtdUJISkhDSTRTc1BBeUNDWXhHQk85anl4R3l5bG9qZDdRVXdxRkdBMEFPQ3FqOUE?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790298240000,
       "tag": "league"
     },
@@ -62,10 +48,17 @@
       "tag": "league"
     },
     {
-      "title": "Lakers Get Good News on $30M Trade Target as Deal Now Clearly Within Reach - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE02VlAzdkE4Z0N4VUYwMzhJYzV1cDhKcEE4c3JHYVJkYjcxWG9zelR0MU13MGNkZ0tEMHBldjlmb3h3X0FYLWFVSnAwLVhjYzBwSWFBZTdGZzVUdWhoNEw3MUU1SFRqLTNNcVpJ?oc=5",
-      "source": "heavy.com",
-      "ts": 1790294378000,
+      "title": "JJ Redick deadpans Lakers\u2019 final two starters for 2026-27 season \u2018will not be two White guys\u2019 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdW9sUExVc01jODU5WFJmekJoeXBZRFJGZkZudnBGdUVyalFtZmRSWjItYUNTeVNiVWdEaG52ZEY4NHNpQllHcFh2U0NwNWplMklPV3JsYU9SR3h1Q214bmFwVXlURFg1MGk5NTZ1WDlUa2JWOUxvOVg1U1dvZDBkRy1kbXZxQUxYZUdaZzFDbHY5UHJOT1BhNEFFUlFxQk5vNnc?oc=5",
+      "source": "The New York Times",
+      "ts": 1790295600000,
+      "tag": "league"
+    },
+    {
+      "title": "How one Oregon politician plans to use his power to keep the Trail Blazers in Portland | Bill Oram - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3ZyOHZhSFBrOW1oUkhjZXdUTWt3bTdwV25zbjFFSUM4Z25FN1R4Ty1QT05jY0I0ZWhwYXR6eWpFX0ZJTFFjTDh4MUF2RklWZ01hYTl6YVYtUkxMdklvbm1mYXpVb2tUd3lVOGNMczdlbXNycFVfTG9yQUZ2MWdwMUNhVmFnbEs5N3A2eW9sU1JCUVpGUzlfM2J6VXF4ZU5XSGFLdVdYbHRHVXBLQmFCMjRweC1fejI1ZlNBZjFkR2R2QTlfcG9YYVlfLWFkWmxmem4tNTRmUTRGcGJN?oc=5",
+      "source": "OregonLive.com",
+      "ts": 1790295480000,
       "tag": "league"
     },
     {
@@ -83,24 +76,24 @@
       "tag": "team"
     },
     {
-      "title": "Bob Pettit: NBA's first MVP recipient and 11-time All-Star dies aged 93 - BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mZ1E4amJpY3BqQkFQYU9xQjBnTm1qU1AtdzJpZlE5TXh3bVlTdTNaLTdIaGtsMzRDOUFjMUZobWRjSGFwUFA2Q1MzRmh2c0phOGRXRGRYWXlUbC12aHZZcEVlSnhkWUladFMw?oc=5",
-      "source": "BBC",
-      "ts": 1790288875000,
+      "title": "Coach Pop adds another ring, ties the knot in Bexar County - kens5.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPTE12dlVBa1ZpV196VHNzbFRadzh2aE5sbmI2TXpKeG9lMHJDc3h4RzZ0YkctRTJ2NndUTWNET0JzYzFuckRzbHRhOFFySjhzR2NSR2NTZHAwQ3drbmZlUUl4MDZHZ2o5OHJJbFVQX05DQzU5RVoyUDZ6TlR5Z252dGk1M2steUpOTkVRTnBKdVZOYUhVS3c5dGdaS2JqZnBvRkdSTU5lcWZEcnpDTks2TjlCd0o5elZDVGRGTU1mMm8teWpMWGRlZzl2eEoySm1SazhFdHRBUXJnUUhOekVFOWVkcWo?oc=5",
+      "source": "kens5.com",
+      "ts": 1790288220000,
       "tag": "league"
     },
     {
-      "title": "Hawks waive former first-rounder Keon Johnson - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLW44aFNmQXRaUHY4ZmZQQUtobTJybC1nQUdvRWllOXF2S0pCLTNROG8xb2ltcWRLN2RRUnFnQ3NXQkwtRFZiaWJKUWE4OXlZQUxzdVQzQWxuZjBXYzhRQUJvNnRzc2M0emNLTzJyVHNPN1ExTUZrd3VMZlhzUVZkOWtpamVvWTVa?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790286119000,
+      "title": "Bob Pettit, imposing Hawks great and first NBA MVP, dies at 93 - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN1NUWU8wOHNlcF9UQlZUS2RfQ3VFai03TTNPTy1TVXRoM1VrcXFtalhMb3c3RnQwbFpKclNUMVFlX2lHb3QyVUVSSEp1TjZjOUNpeExfSHE3MlJCbjlmaDNLTE5WR1hXdHVXOTg2SEY0YXNPdFBNYWNxMHVXdURxVlZCZ3pTd05OX1ZZLXdaX0pHd0tsWVHSAZsBQVVfeXFMUDFsQkd6bEhnTnJjTTBzOEdxSURST1VrYk5uVVN5Rk5VUnNVNWpIMHl1Zm50dGNFMkJ1N3JLOGpqWkRBdVJGZ21JbkRub1FtRzU5TkNTYVppd095ZEJ0aFBnaTBCb2JtcFY1UUVnemNLN2FQdE5VWjhKeHE5ZnFQTXFnSHVoMHdvNEdReFFRQ3hYSExQaHhyMkxRZFE?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "ts": 1790288135000,
       "tag": "team"
     },
     {
-      "title": "Sam Presti: Finances, Not NBA Aprons, Are Thunder's 'Ghost In The Machine' - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc0VrS19xaHhUczVKX1QxdWdZcmhkRC1Xdk5MbjNhVzFQN0o1NktqLW04bnFqX09TWjJ6NV83eThvNjVrYm5LOWRxYngyMnl0QjgyYkRFSmNIbnk3bXJmMzlja3VoU0NJSzQ0RnhsaXB0c3lfQkJXeTlPdkpLaE1TOGZWWHBJelQ0a3RobW9qTHVsZTN0OFplMUZudWNyMHhybVJNYnlCR0pDT21tV01yeUZoaw?oc=5",
-      "source": "RealGM",
-      "ts": 1790285460000,
+      "title": "Bob Pettit, who starred at LSU and then in NBA, dies at 93 - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVHdmWkZva1ZsR2RLVW9Lc2FVOFRuSldUejNFaHZSM0FiY1JELTBrczNWSXRMNkpCSGtWekdDMTVlYmVfcFNCaXRwYlVZMk9VbFBUNDFPQzJYaXlzTGZMV0k1Q1owbU9VbXREUkJzdDl0QXZOYzd4VFFtZkVxdW9vVUlvSTFTZw?oc=5",
+      "source": "ESPN",
+      "ts": 1790285040000,
       "tag": "league"
     },
     {
@@ -108,6 +101,13 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYzlETmZqWW1oRjdnWkZjSE9wRVNxVHNuUGFmMzR0T0g3aVJZQkdHVGFVb05VdGQweThHUE04VURyRUhNMV8zYUFxMHJhVzR5UHZGTDEzZ2J3Z2pvd0lVeEk3STBkWF9MNDV0UzNRS0MxZ2N4YVZVNmVaeXMyYVFzQlQ5Y210T3hFZEI2cnlVSXhQdw?oc=5",
       "source": "NBA.com",
       "ts": 1790277501000,
+      "tag": "league"
+    },
+    {
+      "title": "Mavericks Announce Basketball Operations Staff Additions and Organizational Updates | Dallas Mavericks - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORHlyX2pmVmdRak0yczVTeFUyMk9panQ1NTFybnNYQmxJM1FLUHFjLXZYNV9kQ2c3MGI3N0lDYlprdEU2LVdVbzNRZjVQMHZzRzFOa2ZRZW52SEQyTXNHSVhrWGU1UTBqdUY4d3V0dFNoRWR0SWhPQXZqMmlIQ1NJR2NXNk92dFRBc2pPVFBQYmU1V1Y5eDlrYzdQM3dPeXhMbHc0YzBJdGlDcTMtdzVtdXI3SQ?oc=5",
+      "source": "NBA.com",
+      "ts": 1790273700000,
       "tag": "league"
     },
     {
@@ -125,9 +125,9 @@
       "tag": "league"
     },
     {
-      "title": "NBA's New 3-2-1 Draft Lottery: What tanking rules mean for fantasy basketball - sports.yahoo.com",
+      "title": "NBA's New 3-2-1 Draft Lottery: What tanking rules mean for fantasy basketball - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PXzBvdllsdEZRUlVzZjhMaDlDVWdUUi1JWV9QeUFQVWdQYWVnc2lRdEhuUEFaTjlUcmhlY0VqdlNvUFJBTGsyckVOZjJ0WTFiam9SSldORmZHTWsxSUJiRkxoY2UxbjM4U0dmVjRXRDhfaUk?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790270257000,
       "tag": "league"
     },
@@ -137,27 +137,6 @@
       "source": "Complex",
       "ts": 1790265769000,
       "tag": "league"
-    },
-    {
-      "title": "Nikola Topic Injury: Limited to start camp - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVmwyWk5vT25qWHF0aDBhb1lXNUZSZ3dXYWJlUDBpS2xhTFdwbF9MR1pIODdiaVlwOEZNSkNFbWk2cUVyTFJpQWUwQXlLbVZocGhOT2NFTjdFUnlpZVJMTWtrS0p5WGszQ3FLX2hRa215WFk1ZVVCa1FKZFlDYU9MM3dmZXctbEpQaUhMTnItdGFUV3hOc1FiVW93?oc=5",
-      "source": "RotoWire",
-      "ts": 1790265707000,
-      "tag": "league"
-    },
-    {
-      "title": "Jalen Duren\u2019s rare weight clause in Pistons\u2019 latest contract offer, explained - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcjQtODB2NEJPbWtwTnN4dDlkaU53TEh2cXotTkVnYzF3Z0hCYWFrWnVOQlhFdzgwMmJTTzhsTmwydFhQY3VHSUE1aHdScE9OeXNyTFhCZ1paYVAtcTAwSUVXSFBsOUxCWUNoSGppUkh4aVBoOVpEM3NHajJaOVRVekJyY0dvTldFVkZ0VXNkYTdweFpHNzlZ?oc=5",
-      "source": "The New York Times",
-      "ts": 1790265669000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks Draft Picks: Updated Look at Every Selection in 2027, 2028 & Beyond - sports.yahoo.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZG9vWjd3MGtEeDkxNG9vN2UtSDBPaVY0bmFFaTZnb1JDMVNfSzBIQnVLeFpsc0daMEctZXVMWDNaQy1nSmtrUHJjbkhlWnJwcGhyTlB0MnpxaDFQUHUybFljNHZXaS00N202aGNyZ1ZlYWpQbHBGREdzcTJXQnFwNDFKY3RQejB3cmc?oc=5",
-      "source": "sports.yahoo.com",
-      "ts": 1790265605000,
-      "tag": "team"
     },
     {
       "title": "NBA 2026 Offseason Check-In: New Orleans Pelicans - Hoops Rumors",
@@ -181,6 +160,13 @@
       "tag": "team"
     },
     {
+      "title": "\"This life sucks\" - Gilbert Arenas reveals the brutal reality of having millions but no basketball - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUzhtbjZubXZOMTBtWi02OW5UT2dRQUFHYURXTXpEeXo5WlBDMnFGYWFuT3N4d1ZHaHhWeEY1QU5DcVlITHlZLTZ4b29iWlcyal9MNGV2NXFaRkNRLTN4SkN6S0Mwb3JfME4tdlJxRnJTczFtVXBWVUo2YWIzYzZHeC1CTkh0eW1vZFE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790247756000,
+      "tag": "league"
+    },
+    {
       "title": "NBA Rank 2026: The new top 10 features a razor-thin race for No. 1 - ESPN",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRlFITXdCOWVmUWNXeUFmVkFxNW1DMTdoTTBEZVNsQ1JrZFZReEFQOENOV1NRME0xNEYwX01kM2lieUZzcmNTTHU4VVhUY05Ub2ltdF8wSWlfUi13VkNEUHRZMGRNcWVsbUtNLVl2Z2dGb3JGOG9TTFNTSjlXN1BqbmVlTy0yV0I3aUZVenpKajBGTjJXeG05ZEtJTkZwNTczRVR0MFFZVmllUi1oVDRTOGlpTmNMeHFjN3B3Mw?oc=5",
       "source": "ESPN",
@@ -188,31 +174,45 @@
       "tag": "league"
     },
     {
-      "title": "Zeke Nnaji featured in 4.4% of trades built on \u2026 - hoopshype.com",
+      "title": "Zeke Nnaji featured in 4.4% of trades built on \u2026 - HoopsHype",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUnczNHc0WXdGUmZucElDSFJVeGZId08zOTA4UXdmUWhiZDUzSmsyQjU1WjJKbERXWEVWb1lrb2NyMk5jQ1VScEpSR3JoQVdnb3N5SkNTWFFzT0ZuZTBUUUZyai15WS10VDlHdlA5QW1sTjFYaFU3aUVIbW9ycWFyZVB1T2lVbzk1eGRzRmt4LXBPWUZ5MGhfMmpnSEhyTXo3RXJMWjcxQTZieWtrQjY0T0VGdS1oazBXOWtz?oc=5",
-      "source": "hoopshype.com",
+      "source": "HoopsHype",
       "ts": 1790246280000,
       "tag": "league"
     },
     {
-      "title": "NBA Insider Provides Disappointing Injury Update on Mavericks' Dereck Lively II - sports.yahoo.com",
+      "title": "NBA Insider Provides Disappointing Injury Update on Mavericks' Dereck Lively II - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDktS0pFdnFMVUZmQVp4b0ZJdnRDdDd1dzVrdGxOZU9DdlJnU2prdTNENF93RXFaM016S0ZVYjFjNmE4bzJCTnUxQXEzaXVGUWQtNmtlQzZzZEsyeGhwMXM5ZVJ3anVFc1ZLUFRLSDQyQVp4YkZwLUhXMGFDV2tRTGlJTnkybHdXRFFpZWhEYTlyRGlx?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790231726000,
       "tag": "league"
     },
     {
-      "title": "Lonzo Ball reflects on how devastating knee injury altered his career, shuts down retirement talk - sports.yahoo.com",
+      "title": "NBA Trade Rumors: Stephen Curry Latest, Lakers Reunion Target & More - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUJVS2lpelhCSm10ZGp4UHVOWTNjc2tUcjFKN3RScWFxZ3RpSFFHalFsMk8tSFI2U3dxYzdWLXlPX2ltRWRNWlcwdlNZNTk2UWNwUEtTQU9rcERHOGJ6UzlZS3pyNTQta245ajkwU3dUZExUSDZoaE4zQmZpNUFQQUJDdU1JbFBLVGVOVmNJRG5xVkNRUEM2ek93?oc=5",
+      "source": "heavy.com",
+      "ts": 1790208000000,
+      "tag": "league"
+    },
+    {
+      "title": "Lonzo Ball reflects on how devastating knee injury altered his career, shuts down retirement talk - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNTFg1dG1XN1Ria3JUTmljYVFYcFM2T0hLWGlCTVpmYWVmZkRYVHZwOGNkRFNhWjBMbkVRRVNKak1qWldlRDl1NERiWVBleTd2MF9hUk9HZmczdWp1SFpERkhfV2VXaERBbmVLamozNjloeFY4UzFYSXNBal9HNXB6YzY4b3dtMENQZmtnM0Z6enhmcWVWRUZ1OURjdzRONW1zZmsyZ1V2Xy15MmpoZEJ6QURYQ0hCWXU1cUx5Q3lXcVB5U0IxVEduNTdlS1FEcE9LTmtLRzJ0Z0Fta1RKM0h5WllR?oc=5",
-      "source": "sports.yahoo.com",
+      "source": "Yahoo Sports",
       "ts": 1790184941000,
       "tag": "league"
     },
     {
-      "title": "3-Team Hypothetical NBA Trade Gives Giannis His Most Wanted Guard, Blazers Land An All-Star, Kings Get Younger - Fadeaway World",
+      "title": "3-Team Hypothetical NBA Trade Gives Giannis His Most Wanted Guard, Blazers Land An All-Star, Kings Get Younger - fadeawayworld.net",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPUHMtWHo0UVNGdy1Bclp1UHJZYmR0bzV6aUtZbzdyQjRaNnFjeE9HSURQa0p4d1RVcmFVc1JIbnBPMUhvQ05SUTJzNEFBQkdXSXpmMUJBY0w5ZzR5MWJfTTkzV2JQLS0ycnZTOXFYc2VHc3A0SFRBMmFlZEszVzdhNzNjaWpaQ1hpdVdESmQ5d003ZFFKQXZzY2pVdkJJTVhsTFlQOVY4ZXVFc2MtS3p4cjV2cUxFX3gzSFRjYmZYLU9Tc2hqUGZZdUFmcVBWN1BTb2I2b2NiM0ZrOTVaN2Z1c1RHX00yRWI4RDNvZ1BfSHljR1pz?oc=5",
-      "source": "Fadeaway World",
+      "source": "fadeawayworld.net",
       "ts": 1790179999000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Injury Update: 6-Foot-8 New Clippers Star Hit With Bad News Ahead Of Media Day - NDTV Sports",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQzVRMUFDei1udDRsbEloVWZwNTF4X1ZTRnVXdUp6UkNuMkcyQkk5NUxzZW1pWWp2eG9xcUxtVVBDdTNHWXNVdnF2VzRMNW92Nk9ybW56R0ZuUFlidEJYYnN5TE9SZlc5YkVPMFI1WXdsLUVGN1FnbjkwNnI3WTNBT0NmcVdBbDN0eEFyNGg2bWtDRzFqUUczTm5hNDV0Q2dfN1RkY3R5aWZJSmljSjkyQmlXZW5DOXJwNzg4STFR?oc=5",
+      "source": "NDTV Sports",
+      "ts": 1790160964000,
       "tag": "league"
     }
   ],
