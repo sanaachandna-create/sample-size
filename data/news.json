@@ -1,16 +1,37 @@
 {
-  "updated": "2026-09-26T14:30:15+00:00",
+  "updated": "2026-09-26T17:57:40+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 0,
   "error": null,
   "items": [
+    {
+      "title": "Dallas Mavericks sign former Hawks guard/forward Seth Lundy - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlE2cXdlc0ROV0ZKcld4ekw4X01FRHlZNm1Ea1pLeXk3TDIwNWsxQXVVV0hJdDJzdVVXdmhZWFBLTUlqMU44QkZhd2JMOHVNN094bjJKdDJpMUR6ckVVU0p0Wk9WSEtJQjB6RG50WHNZTWlFNW9Za0Vxbk9HV3RvZ2hWRjQ2c2pTQmlYRzlNRFJwY0FD?oc=5",
+      "source": "Dallas News",
+      "ts": 1790441541000,
+      "tag": "team"
+    },
+    {
+      "title": "Mavericks Sign Seth Lundy - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5CaVJsdEl5eWR1TnNlU0xaOTFqZzIzMk9uZ0lKSU53TWoybXhWREpOVzdXTmFXSFk2UDRxRGpTMFRIYnFrV25EcUMwalpTcE93WmI0anBhWUtxUFVpNFZZLXZkZ0tYZw?oc=5",
+      "source": "NBA.com",
+      "ts": 1790434860000,
+      "tag": "league"
+    },
     {
       "title": "\"This may be it\" - LeBron James reveals how often he considered retirement after Lakers' playoff loss - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWZVZjFib2ZfeFNKUWZlNjg5dDNBYm5tVExVZmNMLXhLc2EtQllZUHNJNUJsTjB1SUJxbUxmekh1X0pNM2xMWGlWMnllM0lLRGVrNkF2c3gxY1h0anFZRU5Ibi0ybVFKYnFjUV9xeGkwdXotQ0xuZ3dmazcycmpvcVYzY3lRUQ?oc=5",
       "source": "Yahoo Sports",
       "ts": 1790429879000,
       "tag": "league"
+    },
+    {
+      "title": "One Offseason Mistake the Atlanta Hawks May Already Be Regretting - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZmNkbE1jSmFyZlRjYXNwZExFV3pwR2gwbUVCWWswcldLcWVPUnFZR3Q0Vmx6RGF6MDAzdTlQTjV0RGp4M2pWZzZIS3FlQ20zdmFKWjBsVC1FTlBQejZkd29LOHFRbXJtX1Q5ZDl0MWdLalM5M2tJRXdqMHFEWHpiT0w0TGZWeGtXOXRhTQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790427608000,
+      "tag": "team"
     },
     {
       "title": "One Offseason Mistake the Atlanta Hawks May Already Be Regretting - Sports Illustrated",
@@ -34,17 +55,17 @@
       "tag": "league"
     },
     {
-      "title": "\"I'm not that type of player\" - Steph Curry chose Warriors over ring chasing before signing extension - basketballnetwork.net",
+      "title": "\"I'm not that type of player\" - Steph Curry chose Warriors over ring chasing before signing extension - Basketball Network",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi16Nk1Hb0ZIaktCSGNaMEQ0SlotV2ZKWFEzOXF2bGpkcmhwSnhnbGR2UkEySWdpb0FxbzJmdHBaalpsNk5jYW5vZlZqWGRmd21wNTFXWFlscmY2dGMtZlhNbkNGOXhLZDNGajF2RFVjenNrWkczRkpsLXBxZkw3Q0JOdnBMbzFWcWY0WEZscGgtR1hUc1JCenhoMWUtV3o1Z09LV09hb2lqSVUxOUdxUXZ3VFB3Zw?oc=5",
-      "source": "basketballnetwork.net",
+      "source": "Basketball Network",
       "ts": 1790406120000,
       "tag": "league"
     },
     {
-      "title": "Mavs\u2019 Kyrie Irving ready to \u2018kick some butt\u2019 after ACL injury sidelined him for 19 months - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONlpWc1VYemhUaDdwOVNnUE5wakNnSmFfWC04TXJlYzE5OFN4ck1zSW11Tl9WU0g0VVlOYml5elREem0taDhpN093cWZGV1lJTFZmQmQzVjlkaG90YkxSSlc4dU1NUQ?oc=5",
-      "source": "NBA.com",
-      "ts": 1790394422000,
+      "title": "Stephen Curry, Warriors reportedly agree to $116M extension: What it means for Golden State's future - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZmpLVmdfQ1FGamVQamJDZkJnQzVjX05PUXFBNkFyS2dWQ2R6R3NxQU4yY2hhRXNUX1pmVWxDM1FwMkZkVTg2eERtUS1DMlZZMGt3bmFDUE9iZHVaM0V4YllsNUVuV0hzQWdVaXZYc1VXYXlSX0ZBOVctUFFVYzkzTWs1cmhoQlFENndqT0daVWtwODZu?oc=5",
+      "source": "CBS Sports",
+      "ts": 1790393280000,
       "tag": "league"
     },
     {
@@ -59,6 +80,13 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUltS3hUYTQ1Wks2akV3azhoRl8xeG1uLUppOElEOENKN01ZTWJVOGFzSHhLc2lKYXRMS3QtRzNlSXFFM29HaGg0ekFvTVhXNVlFQUJaVE9xTUQxa0pDd3N3ZGVYa2Zub1k5d25zUEI3ZGRzUnF4RDRsT1Bwc3MzMGhBS1JudUQ5OVE?oc=5",
       "source": "heavy.com",
       "ts": 1790386140000,
+      "tag": "league"
+    },
+    {
+      "title": "PHILADELPHIA 76ERS TO SET THE STAGE FOR THE 2026-27 SEASON WITH EXPANDED BLUE X WHITE SCRIMMAGE, PRESENTED BY BODYARMOR - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa216S3ZMV0E4NmRya2d0bEhPRkdoWG5tX1ROVTZtc2xfQzZfcmc3cFVPYXlaNTNaWDNkVERFUDVaNk9BaGxFNlBLUU55Vm9UM041Ni1yZVdVaUhsQmRKZVpFdTR5UXlDd2VyTXVTUE5EdG10SkNseHZJaWZnWHlZWHFPWXM?oc=5",
+      "source": "NBA.com",
+      "ts": 1790385147000,
       "tag": "league"
     },
     {
@@ -125,10 +153,10 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks' Lu Dort Drops 36 Spots on ESPN's Top 100 NBA Players List - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenplR0x1dmlFdG9RREJaRW91Y01CYjJYamNrUkotQlBaQUNmMVIzRWhqZkxia2k3MGRLY05DX2JYVnZRQy01dE92T1dXNGsxMjdiMzhMdmZCRjZYTC1TX2dJODV4aWpPNEZnMFl2TEdId3NVTVJkRkFVUnc3eTRHOTFObEM5bkhGNVZOWmJkcHdhaC1FX18zelBUT1NvTkY3TXh3U0JraE1VanJyY3JzbVlxbVg?oc=5",
-      "source": "roundtable.io",
-      "ts": 1790365334000,
+      "title": "Atlanta Hawks' Lu Dort Drops 36 Spots on ESPN's Top 100 NBA Players List - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObWY3QTdpZDBnMXAwcWJXOFZ4YmJRS19sWDBILURGVzZZVlotQXFGcnc5Q2ZQWE5yMDRYaVlzUE9xMTBWQjRleG9UWnJjQkNYN21tM1ZNSF84cFA1elJSeDI5RC04RDh4TnNBYUw5SVFJMWF4cTlhZkpYTW5NZmF6QjhB?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790365191000,
       "tag": "team"
     },
     {
@@ -139,18 +167,11 @@
       "tag": "team"
     },
     {
-      "title": "Bob Pettit, imposing Hawks great and first NBA MVP, dies at 93 - Georgia Public Broadcasting",
+      "title": "Bob Pettit, imposing Hawks great and first NBA MVP, dies at 93 - gpb.org",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWFpjcHE1S1Q1eGRxV1VQUk9jM0NUdDlzQTN4ZWV6LUhPeUNnRmtwRjNJSFhJaWtnN3k2YkJtUktvT3RJWm9aakkyZEU4OGY3cFMwZW9RSTFReHlEWDdUSHdOejUxTVl2dXBSdi1QOXpCSUlNLVg2LXVPV2h4V3ZnWXNaQ1diQ0Z4Y2JFRUxoVFJoR2sxWTVFUGJDZUs?oc=5",
-      "source": "Georgia Public Broadcasting",
+      "source": "gpb.org",
       "ts": 1790350857000,
       "tag": "team"
-    },
-    {
-      "title": "'Be that final little piece': LeBron James explains 76ers decision - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVVSTl83aWJKUFBQNDNvQ3dPQTh4UVdsXzJEZnVHQmJmSENTeG95cVdPaEVKWU9hU242X3UzdnZ0SERhVTVRaDJzOTdEZ0IzaVFabHp1QWR3Qnh4YjQxc2JhNGl2X1dyZkVvN014aG5sX2NqQVZlcXBKSGREUDQzb2hya1MzaTlDUXlaMl82MjhRRlVGRUxRZTV5ZnNKNzlaNER3?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1790350140000,
-      "tag": "league"
     },
     {
       "title": "\"I hate that it got out\" - Stephen Curry opens up about losing Caitlin Clark in $28M sneaker battle - Yahoo Sports",
@@ -192,27 +213,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEUyTmdFeXNTM2lUcWhJTkpuM2M2dTFUTlVtRGgyWlZaUE91ZG9NZHNzNlhHLVBISjVSYjJWOWZFZEUweGJXVF9iME9QMXQ5QS1YVG13RUlsWndFd0QxSjJhdTZUSi0zUWV3al9waGotRE8yVVJ4SFItRlhzTTQ0WDFSYTBfSkttZUFiVk9pcUdONExtYm0tTUVKWDQxNjZnYVJRMzFSaE1ka0RvSGJsdjMtS1M?oc=5",
       "source": "The Washington Post",
       "ts": 1790312850000,
-      "tag": "league"
-    },
-    {
-      "title": "Bob Pettit dies at 93 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13d3ByMTZuNVFscnZQWE5TZDllQlNmRE95djBqWnd4QzljUXhQNVQ1UjB6Z1NCSzN3cUNsMTcxOFN2UFhmcWhNRm1HTWFBWTJaRHc?oc=5",
-      "source": "NBA.com",
-      "ts": 1790305670000,
-      "tag": "team"
-    },
-    {
-      "title": "Projected NBA Trade Gives Raptors All-NBA 6\u201910\u201d Center Next to Kawhi Leonard - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSnRUaFpBdTNjQmprLU9CSnFONEJtZUhRal9OeFhRRFZicXd2OG4weTNhYklVZThlelFlN2hDdzZfRExia3NFZUZDeG1QNkdXTnFPWkVOQWZsbFVtdUJISkhDSTRTc1BBeUNDWXhHQk85anl4R3l5bG9qZDdRVXdxRkdBMEFPQ3FqOUE?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790298240000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade Rumors: Knicks Could Trade Karl-Anthony Towns or Others Amid Contract Talk - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSHpZWGQ2ZkN4eFQtZkhkN0k0UHRsTmUtWmVSbnZ4QU1oYjRGOHBpcVFxTENWaVE0bC1ZRWVOd3lPRnJxNlVESVRaZ0QzbnB6WUV1SkQ0S3BCRjhNMm4tTlJaT1pNeDh3ZFFNc1ZEaUNKRmFJSU5fZHJ5NGtVQU0ybTNKeW42QTg5WGtIWGxaQlRWdw?oc=5",
-      "source": "heavy.com",
-      "ts": 1790298060000,
       "tag": "league"
     }
   ],
