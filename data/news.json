@@ -1,22 +1,57 @@
 {
-  "updated": "2026-09-26T10:10:43+00:00",
+  "updated": "2026-09-26T14:30:15+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 2,
+  "pushed_this_run": 4,
   "error": null,
   "items": [
     {
-      "title": "Stephen Curry signs two-year extension with Warriors - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaFlIblp0OGFLUXBSUUZnRElWYTd4Yi0zVGdQQlpYN1ctYWpmU3VpRW9iWmhHR3lSVVFqLTIwRTFHT1JrSmxPQkk2V3lhR3VvZ3FnY3VoNExidm5tY2Y4V0tXTDZ1QXlBZjdfZ0hVSEp0dTV5dWg0WGNqcllVRUdVMDJBU2Fob2VTZjAwYURVZzNydm5GS29EUFV5Vk00QQ?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1790392080000,
+      "title": "\"This may be it\" - LeBron James reveals how often he considered retirement after Lakers' playoff loss - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUWZVZjFib2ZfeFNKUWZlNjg5dDNBYm5tVExVZmNMLXhLc2EtQllZUHNJNUJsTjB1SUJxbUxmekh1X0pNM2xMWGlWMnllM0lLRGVrNkF2c3gxY1h0anFZRU5Ibi0ybVFKYnFjUV9xeGkwdXotQ0xuZ3dmazcycmpvcVYzY3lRUQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790429879000,
+      "tag": "league"
+    },
+    {
+      "title": "One Offseason Mistake the Atlanta Hawks May Already Be Regretting - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUkEzcU5CUkcxbC1pc0hIbDF4cjVURGFWeUJpZXExc2VUQ2h0U1U2NEh3aDB6TmFzNlRxYmthUTEyQVZfZ3pUN1BIeXN3N1g2N0xXbWdtQnl3dXdGVkF3cFh0SHotNDlaOHJENFNXRTBHY05mVm9WZkFacTV4aHNSUEhLeGFxRGxEbHQ3a2NUdE05UG9vejNGUUd2WFJaNGZheGx1TXQ0M3VwNV9FTWh0dVBB?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790427604000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA Trade Rumors: Warriors Trade Options After Stephen Curry Deal & More - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejNrb05YQzMtb0pNelVRdGozZFBMYUIyQjVHb2Y3MmFyQWhmLTBadU1WOVJDalptM3NkblF0cEVqWk40RU4tcGl0Y18zaWlZWDlJd0txelBIZTI5WHdEb3NkcDZhbzJjZXNkbHl6VlpQRFVXejc5VFJPYzVEeUo3X1BfVlQtUXRWUVpNMktHLU52UTRHVFE?oc=5",
+      "source": "heavy.com",
+      "ts": 1790427489000,
+      "tag": "league"
+    },
+    {
+      "title": "Former Duke Star Suffers Injury, Will Be Out Of NBA Action For A While - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW1SSjA5RzlmbGE0M21MUWpkRWdfZE01THpFSnRLOWViNWk5Rk45Q2haLTBzek42bWdzZ1Y5WFlGS2R3VUZ0Q2o3eTNNeEdxVUxOZVN6R2FhVXR6YXk5MGRNd2ItTmtVcFNxLTJGWlZRNF9taUIwRFloeGxBM2l4Sncwb2tWcXc?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790424900000,
+      "tag": "league"
+    },
+    {
+      "title": "\"I'm not that type of player\" - Steph Curry chose Warriors over ring chasing before signing extension - basketballnetwork.net",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZi16Nk1Hb0ZIaktCSGNaMEQ0SlotV2ZKWFEzOXF2bGpkcmhwSnhnbGR2UkEySWdpb0FxbzJmdHBaalpsNk5jYW5vZlZqWGRmd21wNTFXWFlscmY2dGMtZlhNbkNGOXhLZDNGajF2RFVjenNrWkczRkpsLXBxZkw3Q0JOdnBMbzFWcWY0WEZscGgtR1hUc1JCenhoMWUtV3o1Z09LV09hb2lqSVUxOUdxUXZ3VFB3Zw?oc=5",
+      "source": "basketballnetwork.net",
+      "ts": 1790406120000,
+      "tag": "league"
+    },
+    {
+      "title": "Mavs\u2019 Kyrie Irving ready to \u2018kick some butt\u2019 after ACL injury sidelined him for 19 months - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5ONlpWc1VYemhUaDdwOVNnUE5wakNnSmFfWC04TXJlYzE5OFN4ck1zSW11Tl9WU0g0VVlOYml5elREem0taDhpN093cWZGV1lJTFZmQmQzVjlkaG90YkxSSlc4dU1NUQ?oc=5",
+      "source": "NBA.com",
+      "ts": 1790394422000,
       "tag": "league"
     },
     {
       "title": "Stephen Curry, Warriors agree on 2-year contract extension - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3cTZ2MmlTUUFGTFhKZlhrVW8zYXIydjBxMGJqUHlMeEhleFlnMG5oZnZnSkhRd2xIU0JEdWVmeHlLSnp0aEtlY0paZS1YNE4yVEo4MDhZVFJCQVhHZzZrV1YtWHNMR0pGVXRHUE1Gd1B5M1gzeGc?oc=5",
       "source": "NBA.com",
-      "ts": 1790391968000,
+      "ts": 1790391730000,
       "tag": "league"
     },
     {
@@ -24,20 +59,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMUltS3hUYTQ1Wks2akV3azhoRl8xeG1uLUppOElEOENKN01ZTWJVOGFzSHhLc2lKYXRMS3QtRzNlSXFFM29HaGg0ekFvTVhXNVlFQUJaVE9xTUQxa0pDd3N3ZGVYa2Zub1k5d25zUEI3ZGRzUnF4RDRsT1Bwc3MzMGhBS1JudUQ5OVE?oc=5",
       "source": "heavy.com",
       "ts": 1790386140000,
-      "tag": "league"
-    },
-    {
-      "title": "Grizzlies release former All-Star D'Angelo Russell - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zUzY5RHJVUU5EX0oxaDRucHZXWFVWYXlUQkNSMjFiVkVWVU5qSG9LYkdVejFwX0RUemNHaWsyS2FoY0d2RXRaWkVrRXBoYTE2a2dLMlg2bndTSThVUm1jUW9yQmJXS2tv?oc=5",
-      "source": "NBA.com",
-      "ts": 1790385477000,
-      "tag": "league"
-    },
-    {
-      "title": "PHILADELPHIA 76ERS TO SET THE STAGE FOR THE 2026-27 SEASON WITH EXPANDED BLUE X WHITE SCRIMMAGE, PRESENTED BY BODYARMOR - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPa216S3ZMV0E4NmRya2d0bEhPRkdoWG5tX1ROVTZtc2xfQzZfcmc3cFVPYXlaNTNaWDNkVERFUDVaNk9BaGxFNlBLUU55Vm9UM041Ni1yZVdVaUhsQmRKZVpFdTR5UXlDd2VyTXVTUE5EdG10SkNseHZJaWZnWHlZWHFPWXM?oc=5",
-      "source": "NBA.com",
-      "ts": 1790385147000,
       "tag": "league"
     },
     {
@@ -62,32 +83,32 @@
       "tag": "team"
     },
     {
-      "title": "Former Tennessee star Grant Williams to miss NBA preseason with hamstring injury - knoxnews.com",
+      "title": "Former Tennessee star Grant Williams to miss NBA preseason with hamstring injury - Knoxville News Sentinel",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQa1hDU1FGSVc2b1k2TUx0UDRHNG1iYi1LeDUxeHZOMFdhWUs0MThTR3VDNW5vYmJvRGFpQ01OS29nazBlRURrdjVHWV9IWW42V3FUalVoM082MzFQRVZyenlWcWMyV2R5c1l4cW04Yk9fSmcxc01LRmprVVNwRWg5VTQ4S19Cbm9ubElBM0tnSzhkeXJhR2ZYVDhNVzNTRnZlOHRCUnVwLS1ZRXJwLTJTUnliSko4Smt1SmhWeWlMU2dwcGlhTEdTcGtYYWhPaTJ4NUJIMEhnUTlwbEg1RDBWRzVzVTladw?oc=5",
-      "source": "knoxnews.com",
+      "source": "Knoxville News Sentinel",
       "ts": 1790374500000,
       "tag": "league"
     },
     {
-      "title": "4 Lakers on hottest trade candidate seats entering 2026-27 NBA training camp - clutchpoints.com",
+      "title": "Hornets star Kon Knueppel sidelined with hamstring injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQelJjSjJ2WUxEOG1vUDh6ZW5RRzJObkZ6dWs4UlFGN2QtUHlSaUpWWHFiT2ppMEJpYWc3dDhCN1ZldlhyVFd4QlJudXM2bkFScnlVNmMyRUwyMTZQRGpPOVNOR3VOdE9yQ3RST2NqM3Z3NGRHUGJDeU1nNGlvVEpxUzFtam1MWVBTSlg2Mk1pZzdxZUYxY2FjU3MxakJKdw?oc=5",
+      "source": "ESPN",
+      "ts": 1790374322000,
+      "tag": "league"
+    },
+    {
+      "title": "4 Lakers on hottest trade candidate seats entering 2026-27 NBA training camp - ClutchPoints",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMzFHSEY5UG5XMVVxQ2NmYTFvUUhjc3gzd3lUVmFPUk9wY0h4YVhSWDZ0eEY1Y2tPY1dHdGwyTW1CVXVubDRpM0RnZzdLYllxVW5EZDNzWWRpcU9YcDV2OTVtOEdOZEFEbS1FVE93ZDkyVWFMZWZHbUxZQ0VFZ2RScHJUMGRPZjl3VFRCTWdBTGRCYjlkcEcta0hIalotN0VWVy1ESmZHaC16ZGtJWDUzcXZ3?oc=5",
-      "source": "clutchpoints.com",
+      "source": "ClutchPoints",
       "ts": 1790373739000,
       "tag": "league"
     },
     {
-      "title": "Atlanta's Playoff Blowout to The Knicks Continues To Fuel Them Ahead of the 2026-2027 Season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMV81VlF1WlVCLUFkZVNyRHlTc3VleUdDOFZfdVAzSzE2ZmRGRTR6X0xxQmFYMTFobkhPdmF1blQ4OHRKUk92YVpMN25rT1FtM2R1QUVQU3BOVEQwVmxxN2RPQzdrSDR1ODAzbDNvZDJEYktUYVFNYV9DNXRCUkN2LTZuYWZxVlBqQ0hCNXpuUVJaVkFZ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790370003000,
+      "title": "Atlanta's Playoff Blowout to The Knicks Continues To Fuel Them Ahead of the 2026-2027 Season - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbG9LOVJUdkJ5cXdPMHk3V1ZYeFNhbnhTajhtcVVSSTVseHE3TV94U0FqSEpmNlBITm9WUkVsclBWdjRqdEpheEVBcU1HQWozXzJKWE9TU2FHMGtJY0VOb0xkcEJhVktFX05KQTJ3dmlHSDRmSFV1T1NPbVlHeXgxaGRmcFEwaDEtVjU2V1dOdXJmeVIybWJPai1ZU1U5Z2txZnJ2VVZ4QTJOWXhkWll5OUtwbjJZUGJLSDN1eTZFNVhjSERCRTM4V24xRldvNHZZT3c5MnNR?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790370002000,
       "tag": "team"
-    },
-    {
-      "title": "Charlotte Hornets Announce Sudden Kon Knueppel Injury News Before NBA Season - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOODliNTFIbjRCME5xS3dzZE5NaGtZeU5HQXA3S0dnVmNyaHBDdFBCajRPTUpFZmpNLTgxMzZqNGlwc20zaEF5U0tCLVA3NEk5cWVVWEVKLV9mS1JBZDRISlBTNTVvelppVjN6dHJPTVB1NnNLeDRhX2JpYlFtOEk3MFB5OW5PUUtYYnBobkJwNVMzWi1TaTk0V3MzQW9xbWVmYTJTZWdxcmtlZw?oc=5",
-      "source": "heavy.com",
-      "ts": 1790368861000,
-      "tag": "league"
     },
     {
       "title": "Grant Williams Injury: Out for preseason - RotoWire",
@@ -104,17 +125,17 @@
       "tag": "league"
     },
     {
+      "title": "Atlanta Hawks' Lu Dort Drops 36 Spots on ESPN's Top 100 NBA Players List - roundtable.io",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPenplR0x1dmlFdG9RREJaRW91Y01CYjJYamNrUkotQlBaQUNmMVIzRWhqZkxia2k3MGRLY05DX2JYVnZRQy01dE92T1dXNGsxMjdiMzhMdmZCRjZYTC1TX2dJODV4aWpPNEZnMFl2TEdId3NVTVJkRkFVUnc3eTRHOTFObEM5bkhGNVZOWmJkcHdhaC1FX18zelBUT1NvTkY3TXh3U0JraE1VanJyY3JzbVlxbVg?oc=5",
+      "source": "roundtable.io",
+      "ts": 1790365334000,
+      "tag": "team"
+    },
+    {
       "title": "Atlanta News First Announces On-Air Broadcast Team for 2026-27 Atlanta Hawks Telecasts - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeENBTnJuVU8yRGg4a3UxUkFxTDZEc29vQWFJTk1SMWhZUnJwTXFOS3JjVEQtMjZzMDc1X2xQRlVpVFRmTmF1UzVITzlOWGhiVUlhcmZ4N3YwQ1oyUll3cnpGampYR25FclFDNlBEbi0yWU5aSGZkN250OE5SY1ZIVmdnUmZlSGxiMlo5UzVZaFBrcWlaMG41Q2UxRU1oNm02QXVUcDdYek1Xdl9fR0E?oc=5",
       "source": "NBA.com",
       "ts": 1790362613000,
-      "tag": "team"
-    },
-    {
-      "title": "Three Atlanta Hawks Storylines I am Buying (and two I am not) Entering Training Camp - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2ZHQVpuVEdpVUdNYndNNjRuLTdVT3lVa19Rd2RlQVRxQUhxSU9uamptUzBwNUQ1TURTQlk5cTBqQ1lLQm5qX2liS1g1enE2NFZHbW01enZLRDNMdFBnamFVdWN0a3pjOUF6ci1PTHVqUUFUcTl6cl9fQmFYVk9oX19jSkhUUnpzZEw2Z0dYZU5KV2lRRXZWbGRGVW1ob3pKc3BEME5BLTNrRTlaOTg0ZkNNZHo3azFtZ29OdUJmU3dFeHFHb1NZXw?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790359203000,
       "tag": "team"
     },
     {
@@ -146,13 +167,6 @@
       "tag": "league"
     },
     {
-      "title": "Veteran NBA forward retires after 18 seasons: \u2018You have to know when to stop\u2019 - Cleveland.com",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWJMdDBnSGhObzU0SzRQZVREbHBxVXNCbHROSVFkWjNzS2lSTms3V1A2cC10SW1veDlHWS1FTnd2Q09vbExWdVhrSzdITUxUdU12VS16MnBIX0hRalVLS29JVmRROHAyM3UwNGR4aGloS3pQRlZ0MmhxY21UV0JlaHBudjJHMVJ1OHBwdGE3REtnOHkzcHFfYVZzU2VXS0NmN0V1alFuSEYtOEVVdXhnNkdXbmdnQTdXcGpkVg?oc=5",
-      "source": "Cleveland.com",
-      "ts": 1790337600000,
-      "tag": "league"
-    },
-    {
       "title": "NBA Rank 2026: League execs examine top 100 countdown, race for No. 1 - ESPN",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdTU2c2RsSlRxYjBPalkxMVNaOU5WMlE1c1pJYkViWUc2Qnp1Sk8zTjZXakdsX1BKdkxJNlhRSWJqWFcyX29MWjBIZzBqdU1talRlZ2xueWJRYmNHUmtwcWZPU3JPNnR5Tkszb3dXS1RrdGtMNUhpelRHSC13ZlNSRmZFS0hnaHRJMVJFOGJhcFk5STZ0ekV0VHZHNmdqNTh4OGFzaHo5NGtWTjBDdmwybmRNRF9peEhmLW5rcFpCbw?oc=5",
       "source": "ESPN",
@@ -174,11 +188,18 @@
       "tag": "team"
     },
     {
-      "title": "Bob Pettit, basketball great who was named the NBA\u2019s first MVP, dies at 93 - washingtonpost.com",
+      "title": "Bob Pettit, basketball great who was named the NBA\u2019s first MVP, dies at 93 - The Washington Post",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSEUyTmdFeXNTM2lUcWhJTkpuM2M2dTFUTlVtRGgyWlZaUE91ZG9NZHNzNlhHLVBISjVSYjJWOWZFZEUweGJXVF9iME9QMXQ5QS1YVG13RUlsWndFd0QxSjJhdTZUSi0zUWV3al9waGotRE8yVVJ4SFItRlhzTTQ0WDFSYTBfSkttZUFiVk9pcUdONExtYm0tTUVKWDQxNjZnYVJRMzFSaE1ka0RvSGJsdjMtS1M?oc=5",
-      "source": "washingtonpost.com",
+      "source": "The Washington Post",
       "ts": 1790312850000,
       "tag": "league"
+    },
+    {
+      "title": "Bob Pettit dies at 93 - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13d3ByMTZuNVFscnZQWE5TZDllQlNmRE95djBqWnd4QzljUXhQNVQ1UjB6Z1NCSzN3cUNsMTcxOFN2UFhmcWhNRm1HTWFBWTJaRHc?oc=5",
+      "source": "NBA.com",
+      "ts": 1790305670000,
+      "tag": "team"
     },
     {
       "title": "Projected NBA Trade Gives Raptors All-NBA 6\u201910\u201d Center Next to Kawhi Leonard - Yahoo Sports",
@@ -193,27 +214,6 @@
       "source": "heavy.com",
       "ts": 1790298060000,
       "tag": "league"
-    },
-    {
-      "title": "How one Oregon politician plans to use his power to keep the Trail Blazers in Portland | Bill Oram - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOa3ZyOHZhSFBrOW1oUkhjZXdUTWt3bTdwV25zbjFFSUM4Z25FN1R4Ty1QT05jY0I0ZWhwYXR6eWpFX0ZJTFFjTDh4MUF2RklWZ01hYTl6YVYtUkxMdklvbm1mYXpVb2tUd3lVOGNMczdlbXNycFVfTG9yQUZ2MWdwMUNhVmFnbEs5N3A2eW9sU1JCUVpGUzlfM2J6VXF4ZU5XSGFLdVdYbHRHVXBLQmFCMjRweC1fejI1ZlNBZjFkR2R2QTlfcG9YYVlfLWFkWmxmem4tNTRmUTRGcGJN?oc=5",
-      "source": "OregonLive.com",
-      "ts": 1790295480000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Hall of Famer and former Hawks star Bob Pettit dead at 93 - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUmk0Z3B6SnJ4cmZldC1tQmJNcDVZYm9peWFzNm5CSXNfM2FOdEU1Nml1Mnk1T0hOejRLNW1LcTZpNnROY2xRU3FtaWNKMkZNMGduelA3OXh2M0dXVVJOQ3Q2bGU4VkM0d3NPSWlmM1pXNmZjVEN5VTN4NXZydVZWc2dROXRNODYxSmpNVm1ReE5RN19DY1B2ZE9PdTNRam1Sc0N6eUxvZ3VTN200TjYxOVRR0gHGAUFVX3lxTFB2UXlrQ05TbGppRFZTXzhUVUdpUmVVbnp2TWMyeTRUbkhJZWJNeThUNVBPQWJaUTItbGZfTG5hNlc1RzJsU0puV1VLNUVDMElGbmNmZVZhU3AwaVFnTVhzdlpqbXN3UDZJYi1acE9zbTZYTV81dGEwbV9fbUFGNlo0M0g2TWVfYWxfLVhlYmdNVHZJajd2Z0ZGbUNKc1h6XzMtaUk0ZFAwMW1jQ3FoTUdQS1RRQnhVeWw4M3kyM3FUOWI4dVJKdw?oc=5",
-      "source": "WSB-TV",
-      "ts": 1790289152000,
-      "tag": "team"
-    },
-    {
-      "title": "Bob Pettit, imposing Hawks great and first NBA MVP, dies at 93 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNmozWkJhT3k2RTFLRjRkLTBrcVJQZHY4YWVnOEZVSlQ1dTNtX0pUY0NhUzlzS3NnSkVTSy1Yek8wOUU5Vnh5dVJRQk9hOW9QeXFObkdjRy1CS0ROQ2ZqeGozbVFmdkhzNllYMkQzU0pta2d0QUI3WDJ2QS1KOUJ2NTYtTUtQLVk?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790286392000,
-      "tag": "team"
     }
   ],
   "pushed": [
@@ -441,6 +441,10 @@
     "charlottehornetsannouncesuddenkonknueppelinjurynewsbeforenba",
     "grantwilliamsinjuryoutforpreseasonrotowire",
     "4lakersonhottesttradecandidateseatsentering202627nbatraining",
-    "hawkstradehieldnembhardtohornetsforfinneysmiththescore"
+    "hawkstradehieldnembhardtohornetsforfinneysmiththescore",
+    "nbatraderumorswarriorstradeoptionsafterstephencurrydealmoreh",
+    "formerdukestarsuffersinjurywillbeoutofnbaactionforawhileyaho",
+    "imnotthattypeofplayerstephcurrychosewarriorsoverringchasingb",
+    "hornetsstarkonknueppelsidelinedwithhamstringinjuryespn"
   ]
 }
