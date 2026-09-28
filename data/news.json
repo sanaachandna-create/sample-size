@@ -1,99 +1,176 @@
 {
-  "updated": "2026-09-28T15:19:36+00:00",
+  "updated": "2026-09-28T21:16:05+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Kristaps Porzingis Injury: Out indefinitely - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRU5qN252UVpxa0tQVFF1RnhQTExCRTAtZ3lfNGc1am5ZSC15YWk4cWVxRHBhM0xKZElqby1qX3l5Z25fRDEydE8tbDhCQ3FCaVhRaGRUVTU3eV9ZN1lLbVNEb0tDOXM2aWhaU0hIblZCYXk0NlMzbGNHSXM3RjRvM2p0aURWZzdCMEdET3MwZ28tUWIzcHRHSGhLVQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1790608514000,
+      "title": "Warriors' Steph Curry on choosing to extend: 'This is home' - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHpvaHo1Tkd2NDlkUVFCWWh2SVhQZDZ4cnlHWnNwSVkzc0t1TVJOTFdyaGllUkVKbkJJbDMyT3NmU0J3c2h1SVBXMHk4SHdQOXFCNTREVGtzQVlYSjFjNW5laDkyRWRraUdYV3kxWmhJNjkzX2JZNlVBQ3kyc3p4VXVJaF9aZm5UaXozc0xSQQ?oc=5",
+      "source": "ESPN",
+      "ts": 1790628060000,
       "tag": "league"
     },
     {
-      "title": "Jimmy Butler Injury: Progressing in recovery - RotoWire",
+      "title": "Pistons start camp without All-Star center Jalen Duren on roster, failing to agree to long-term deal - WOODTV.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeFNXaExESUtPVUdpc2VJSHY3WllKMW9HWXpITmhDVldIWWYxejlsTlUzUC1EYWFUdmdsZVR4Yk9vY2t4RHNqZTNWbFNmYlFXeUpwanZxclVvYm4wQ3duUVkwN21EVjlibFBqSnJDT2xaYzM5T0doX1BJVmROclRrTFEyamZMVEJlVFlIREgzUExQRFlseXlzN1hRczZqSmV2eVBjQ2JCd05WT1pRbG8xNzVBQmRaeUIwTmNuMDVnM0gwUlA3TEpmNjFMOWwwdlM1OURQakNaSU03QTFidnFR0gHkAUFVX3lxTE1MU0E0bExoWTY2VnlPa0JUc2p4cEZHR3dSWjdydlB2WVBqLXNBQ1NORFRWNUNGNzFyckhzdDNMUFFqV0JsV01JRUU4U1habFZpdno3VDc4c3AwbmViM2RqVVBERGg5WVBmWXU0bi1ndWlnY0g4MnlFSkh4Ymt4dHJZQndNb2pWWWo4Vy16NVI4NXF5V0o0MUd0dE5zNTk0RkxhMlMwc0l1aXVlQ3lpV3g5bWljcENmbXFDTkNWa0wzWmt4VmVXRWgtZUNLa1FLUlRKV1BzNFdBS2s4ZmQwSkR1QllkTA?oc=5",
+      "source": "WOODTV.com",
+      "ts": 1790627634000,
+      "tag": "league"
+    },
+    {
+      "title": "Celtics media day takeaways: Everything we learned ahead of training camp - Boston Herald",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONTZhSUlzZVpvbk40ZXlVSXJvMlVTRHB0Z0sxbGtXb1JmcEVCSGtQWDRQWG1TV1ZPWl9wY2Ffd251bkEwc3d3RDM1WG1BVUJ4N3BMTnM2UFc2a2dBcDRwTnNvdEI1TkRxcnA2a2U1V0RKQW1vRHlfQi1VRmxXZXRTYndtZVNhcG5VUmd0YmJGejIyaWVYd0JnOG03aWtxTWxQVG9Kc18xUUN6U0RFQ1NSSl9DSnVtZw?oc=5",
+      "source": "Boston Herald",
+      "ts": 1790625397000,
+      "tag": "league"
+    },
+    {
+      "title": "Clippers apologize to fans, vow to move past Leonard investigation - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcXV1eXlYYnBpQTlJekxWTWVUb0E0cUJoMW5ieWlJRDBlczQtYmFvX1NOaFZpbHNsVjAyOGlDYUxRR0VuNXBBVVJKc0ZfWmh4dU1EcFFqLW5maWdJNXRXc3NXNFRJWGQ2UzlKZjg2TjFxMlh1S0U5QlpKN2k1SkU2c0FyX3pINzg5dnYtMXNJdmV5N1oxOTN6WllFYjFFVWI3?oc=5",
+      "source": "ESPN",
+      "ts": 1790625120000,
+      "tag": "league"
+    },
+    {
+      "title": "LeBron James 'had visions' of joining Knicks over 76ers but changed mind after they won NBA championship - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcTFIS0FQSi1pMGpsQjdVYS1RWFo2c0lNMDlVY2VhaTUtTHJPNnhEUTJrb2J2WEQ1RlJ0NzV1XzJ2cFBhV3c3NFY3anVXYUNmNHp5UjR6NU5ZMGtaNWk1X3lRTVpWZ2hRWmlFZU9YVkF6QTNPNDZmRnNUaXZOdkRpcVdLMDhPUnZVUWk4cV9lNjZiX3p3UmxZQm9YS1QzVDFCV3ZjUXdsX1J4dzJGS3NFaU1CME9ZTWVvcGYzSWVIQkRwQUpqSWtBZ2ZQZDAwVzV5cVJqYnhvaDZZYjYwMHNkNUk4S1JnanUxcVE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790621407000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Lakers, Warriors, Anthony Davis & More Media Day Issues - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEpka0Y1RkdRZ1piUS1IenI0dmhsNV9fQnA3QmFzZ3BCQ1p0cnhIS05takVxZklLNXA0UWxOR1Z4Ql96Q3ZvUFg0WEljVW1uQTc0ZGlZREtqSXBZODVnOWhkNGFOYmwxN0lnUW5vTzJaRE9feHZ3SFc2eTdXNkt5clZJaDBuTWJQ?oc=5",
+      "source": "heavy.com",
+      "ts": 1790621292000,
+      "tag": "league"
+    },
+    {
+      "title": "Back in Toronto, Kawhi Leonard wants to focus on basketball and chase another ring as a Raptor - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQnpTUC1ic01wOFQtX0Y1aUlDXzhHWjhQWFFDU2hDNXVlVW0tYVF4RzhOblFqM1RGTzh3OUF3ZVpCUHctWGViTm5hN0xLYkNvWFhudVZmemlsNE1rUlFVX0xvZ0J0MV9kM2Y0NmNOWmJjMzBBc1EtTy1DOFV4a1JsOXBwd1VpQ2lhSGVZQ3hoaUYzdV9Za2hlZERCUnZqS196ZGtoM2JiQWp0M0hOS1NyM2lwZ0psUzdpNFMyUHBDSzVTTlFZamRNb2JtTHc?oc=5",
+      "source": "FOX Sports",
+      "ts": 1790620509000,
+      "tag": "league"
+    },
+    {
+      "title": "Clippers' Brandon Ingram to miss start of season after surgery - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYVFnVFBPZkhXZlVlZ1o1MUFHUkwyMk1GQlY3WG1aODd6c3VtdHcwWmtDdjh2ZF9ib3RIQnNmaFBjT0Uwak53NlE4dTktV1l0aWh6QXpGaWxRNmk5VE50UUhyazdRem1GRzM0OFVmS2xlbWhTbEY4SE1kQ3RfNkZleTJWd3FxenlBUGc2b1Q4VmJ5R3J6N3VNQ3pB?oc=5",
+      "source": "ESPN",
+      "ts": 1790619840000,
+      "tag": "league"
+    },
+    {
+      "title": "Bradley Beal Injury: Managing knee inflammation - rotowire.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZU4ydHVqYUtQMnZrUlR3QnNxWFNuVk1JQ3FlSFNlQURVamdxVDB5dlUwbGJuUjNWallfOGNuWWYzR0JEM3BIeERlSzNYMlhNT2ZvY3hNMEx4c0Y5YlR0WFVHRGpKdnJLN2ZwWlFVNW5GUlBwcTRVNjAwREtFSHlsS1YzcnRZenczLW5uclljUF9jQ0RYaHRjMUxkMDNROEZV?oc=5",
+      "source": "rotowire.com",
+      "ts": 1790619146000,
+      "tag": "league"
+    },
+    {
+      "title": "Brandon Ingram Injury: To miss start of season - rotowire.com",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWDc1RGpmbkpqUUZMa29obEZVNDFjbXpSRE43dzN3bVNVVndzNThmR0p5ZkY1YjFjdmpIMXRzd2tvQWtobTlJUWJDVy1zSzQwUUdTLTI4cFZ4bWFLaWFHMFhlbUJ0S1l1TU11c2YtMDgyb3hvVWV0Uy1XUXhDSG9CSU5kckdzX1JBWkdPQnJhTjRmeDg5Vk0xV183WU1JX1E?oc=5",
+      "source": "rotowire.com",
+      "ts": 1790618463000,
+      "tag": "league"
+    },
+    {
+      "title": "Donte DiVincenzo Injury: Optimism for late-season return - rotowire.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUl9oYXFaRkU4Y3hTbE1KX2c2RFI4eHZFZS1WWnBiOUdmdFJQMGdXNVJCdDlla09peWxKeEduNTE5ZWttSHg3bW1HREZuaFVpWXc5cVRaNEg0NnJ1OF9ha2JXZlg2eGxOY3BLV1pSOVVFT2hiX2QwbWdRekcySWJQa3RPTWRmUjZXakVySDVXX2J1UU1pNTQwTi1Ja2FENTQ3LUtTUGExU3c5MXNI?oc=5",
+      "source": "rotowire.com",
+      "ts": 1790617154000,
+      "tag": "league"
+    },
+    {
+      "title": "LeBron James says he envisioned joining Knicks as free agent - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV0ZsRHA2LU9saUk5WlBWblZoZWVvdW9Cbm50bVpRTk04QTB2ejI2R2VfRmZ4REhGN0dNT2dEdF9HUl9vT0NrdUxVd2RqMHVwSGNJU3NHNlhYZnJiYl9reUszQ0E3NkdLR0VtU3VpX1ZEU09Fc1hscFlzX2ZqLVp3a05qNTZZdENZN2ZrNHkzUjljQUpWeHc1WnkzWnVvWWhy?oc=5",
+      "source": "ESPN",
+      "ts": 1790614560000,
+      "tag": "league"
+    },
+    {
+      "title": "Former Duke Basketball Star Has Injury Ahead of NBA Opener - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMzM3TGlONUxhQ2Q3UmtWMW53WFlidDd1TjMzdk5nZzkxUEN2dDFIeDBQQ2x0cVlzd1U5OURQTW4zZFhMWGdyc190S1FhMU81ZF96Z0wtbWVPRUlXU0FaMkxsdkZEa3dLZWsyZFk2UFVNYTZNbEJkUzkzWjBwZk1pYUlMT00yWWF2bERn?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790613809000,
+      "tag": "league"
+    },
+    {
+      "title": "Zach Edey Injury: Trending in right direction - rotowire.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONW9CRUFmT1I2a2lkNEFwLUQ2aVhtRDhWQUVUN3BYeFRRWVRjR0w5UnBVT0U0bi1SSHYyN0VTalFCNGVVdDVYTTdZTkN6YXBYUlBnc2VmZmVSdjNtNFpKUXZLMWpyZTBxRjdOX19wODZONFJVb1JxNlN3bmdtN2szY2cwcEUzWFd2d2xjaHl3X05ha3BYRnlXUnVPZmphZw?oc=5",
+      "source": "rotowire.com",
+      "ts": 1790611978000,
+      "tag": "league"
+    },
+    {
+      "title": "Kawhi Leonard declines to answer questions about NBA investigation, punishment - nytimes.com",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQY2NIa2NWLTUzWUNhTG1kVnJ5Y1lCYXI4MmZ6UVVRdHo0UjVhdmQwZkc1NzVoWjJyRXRNbjRHT0k5LUlUN1hJQjV6bTVVLVBRV3ZyRDhVTl8tOFEzQWE1cDdOc3RYaGVJMkl4NkZtaldvV0M5ZFktX1BiS0xzVEpFNW8xZmhFM213SFJ5c0UyT05LWUNQTGJRMzlEVWNyNmZMbTQ3eA?oc=5",
+      "source": "nytimes.com",
+      "ts": 1790611634000,
+      "tag": "league"
+    },
+    {
+      "title": "Kawhi Leonard says he wants to move forward from NBA investigation in first comments back with Raptors - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMGJ1NGJON3JpNU8zcmwxTVJJdEFCRG1CN01JQ1psUFVselUtX0VUOHl6NVpLN2RXUFNDQnh0eWdHcVJVZF9rM20xdjY4OTU1a2MyMi1YdzZPakMxTlc5LWdlaEwxZTNRb0dwZEp6OW93S0dReHhZdWk2NlRES3VHaWNuNTRXdEZJV3BoS01Xa2JKeHp5SVVNUlZ1Szg1N3BLSHNNU1psMmhvMmFQR2FtZThKaTRTc2ZrcmlTVjZ3OE9fZUJRWEMyZURrT0NuQXd2N1lNVnBaQkRCSWVmTldhMUE4cWlsQ29LMkE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790608385000,
+      "tag": "league"
+    },
+    {
+      "title": "Jimmy Butler Injury: Progressing in recovery - rotowire.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPM2l2XzZUMjEwZTcwRDFaS3BSMWNZdW5qYTBqdm1BdlROTHpYengyR2dObVltaXJiTTNnUmJpZFlDaFFEejFCS05Kak9zSzBmNTg1ejhoUTU2Njl2czRYZnJGR0tHUkZsWERYOTVvMnQ1eHZDY3Ztcy0yMk5idnVpczhmeTluZDhFVHB5RzFTT3NtZ0loVUxSMk9HejA?oc=5",
-      "source": "RotoWire",
+      "source": "rotowire.com",
       "ts": 1790608129000,
       "tag": "league"
     },
     {
-      "title": "Mikel Brown Injury: Dealing with ankle injury - RotoWire",
+      "title": "Moses Moody Injury: Trending in right direction - rotowire.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDd3M05uWGpOdjhrN2hvMWc0UmdyYS1pNTJPcVl5cTlBMFY4cGpFMkd4blE5M1FodURVRWdXenhfRVEzRHkzRmF3TTkyQmJoNHhubm1KVGMzNWFOM3cwRnpSLWJPVnEwcElsd1JhT1R4bi1TZVMyQUcyYlczMmZtRkZ0VzVJSjlfaFZhWDRpZ2VQZUJDX3dDeWt4SElzdEN1?oc=5",
+      "source": "rotowire.com",
+      "ts": 1790608000000,
+      "tag": "league"
+    },
+    {
+      "title": "Mikel Brown Injury: Dealing with ankle injury - rotowire.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMFQ5enBiekw2aW55anhqckpJX0VnbDR3cW0tbVRoQlhiaGJOMVk3UFo4aGVyRHJtQ1VhTE9kOVNJaHEwTTdLR3BOQS1reWJVUmt0UHRoa0cteXFsRmpYTUFMU194djZsRnUxejI1dDZlZTZIMHJMX01ERDcyZlBwTzlTNTh0OXhJa1B2WWdrUGhCTkJNT2NpajRTc2o4QQ?oc=5",
-      "source": "RotoWire",
+      "source": "rotowire.com",
       "ts": 1790606170000,
       "tag": "league"
     },
     {
-      "title": "Kon Knueppel Injury: Iffy for Opening Night - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQlFyaHBObjJ4MWNsb24wN2xzNVVNQUFqVDJYS0lmQkFuUnFEUFltbmJscU5fMm9sYXI2anNYalhaZWpkRW52b0ZhMzUwa1BMTE5PV2Nvc3RUcV8wWWpJdmNXeDEyWUY1ZEZ2VFgtcDBGNl9XT1hKa2tpNDhmYmxqVGhudlVBZlUwa3kwNmZNRFlWTHM3Y2o1bG82bw?oc=5",
-      "source": "RotoWire",
-      "ts": 1790605526000,
-      "tag": "league"
+      "title": "Atlanta Hawk Media Day Tracker: Quotes, Notes, Injury News and Takeaways - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYXRwMmNGbW16MmN4VHNoYXRLNXQwNmF4RGZiT1hIc1oyc1ZkNmswOEQ0V3N3b1lBYzFXUWhYRTNfVDdvSTA1dFd6dkU1N0VqQmpzcHBtTUVZUnBZMjBmZ0dIcWwtYUV6Z1V1Z0xGa1dJZzBvUnhsQ1NuYWQ5akRwaU50YlBfLVlLN0YyemhrUTBvYW5SVVQxNTBxTDB5TzJVVDBOS2E2TkxrUDM5WDZSOVUzbFFmQmM?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790603816000,
+      "tag": "team"
     },
     {
-      "title": "AJ Dybantsa named cover athlete for 2026 Topps Flagship Basketball - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOVA2VHd5YXlwTjQxX2JabXhxNEtydTNoRndKSEZuZEN0RE1Uc051NEFhMFZ0UFdsYURDSjI0ZXJPZF9ULXFYNEd2dEFKeDBmcTNWSU5QRWE1QjM0b1NkSjNoWGpqRnEwMlFTUllrS05yTDlnTkQzeXpBQjZIdEFJZDRWX0Z4Z0R4V3FQZlRlQjJKcklsbXI3Q3ZTNFhmelVwS3VMVm9CRFp6bk04bVBOYVZR?oc=5",
-      "source": "ESPN",
-      "ts": 1790604000000,
-      "tag": "league"
+      "title": "1 Big Question for Every NBA Team at Training Camp - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVF9GcDd6ckxEaVpLTnBUalBJQU5uU1c3TmYxeWlZT0NpZFllZ1NsVGR0STdBSG42V1gzc0FCbEJYSWVkckZQQWFCX1FleWZwSGg5TkdvTWtOdkMwZlR4MUl3RmxhRFY1Q001cTNPMldjWkt4SnFIWDRkbzZteGN6aF92UU43bE1Ea1J2RTJoUVJUQQ?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1790598684000,
+      "tag": "team"
     },
     {
-      "title": "The Washington Wizards, believe it or not, are one of the NBA\u2019s most compelling teams - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMVAwRWtsSnpFeWJrZlBxcmtCTnBfYXdaTU9aME5nUHM0eEY5TjJxdTlFLU80ek1zemhTaGpXMS1CWEUyUk91c3pMNnpEVzdYTUpYaC13STdzZWxiM24zMXFDZzFZNnpDMjNSYlkwVnc5MGlMZXZ5OF9Oby1RWGItYjgybWx2Y091S25nM2lhYWtLWUstT3lHTTQ0MjVSekxJU2pN?oc=5",
-      "source": "The New York Times",
-      "ts": 1790600488000,
-      "tag": "league"
-    },
-    {
-      "title": "Zach LaVine, Trey Murphy Trade Market on Kalshi Among Highest in NBA - si.com",
+      "title": "Zach LaVine, Trey Murphy Trade Market on Kalshi Among Highest in NBA - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRFkwTUxXaXhvV2lMaDdZMGZJZUZaWjlyVkNOcjE2a21yNDd5VFdCUWxodDFPNVl2aVdlYTIwVFZwRG1QYnFmTUdENnRteDBpaTk2YVAxVTkxZ3l0bWhyMXVFOUVNalhxLVdiMHJ2WjZqS3dOTUhkTEJoXzhzc3lpTlZWdmJOdUdXUmhEZ2pSYkVMWTJDS1hqSUhFb3hiYVlETEtpdF9GOEhZLWRLUlZpS1h2cjJQTkdybXc?oc=5",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "ts": 1790598307000,
       "tag": "league"
     },
     {
-      "title": "Dayton basketball: Update on former Flyers as NBA training camps begin - daytondailynews.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQSlBvQW1oN0Nld051VmN4Vi13ZWFjeWdvNWV1SkxLVmsxUEFhby0tSnhmYVBOd0JRNDRMMmphbjJ6X3JwTXl0bnF5NUV1TXo5YVJZRWVlamxqWHZoVkxxSWZWd3lxZXVoRWlXc1ptSnFUZUZrUDM5SWZzWWxaTWFHYVJkclp6VmFNdnJuSjlUSWI1TFZlYmdnRmMxSUZQUWF1N2tPN2hCSDBpUHVyeThITlU3ZXh2N2U3RmNPQ3JMNkhudW1YU3pNNWstaVhfcUpSLW1qc184TEgweG5Xclo5bzVjUE5nX0xxSlVCSGlVNA?oc=5",
-      "source": "daytondailynews.com",
-      "ts": 1790597940000,
-      "tag": "league"
-    },
-    {
-      "title": "\u2018It will feel different this year\u2019: Austin Ainge on Darryn Peterson, Ace Bailey and what he expects from the Jazz - The Salt Lake Tribune",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMGxRSzhBYTlqM0dRNm5VOGZvYUdoU1B4TGpWdFlTaDM0c19Gb1JkOHY3ampIMExKb21jRUhFUnBTYnpOVFBkOGc2V3ZDR0JmUk84dEhnZnQ3YVNxQ1NaZ3l6WUNJNTVNbEZwTUJ6cjVta1NiSzVrX3Nubk11QnpBYw?oc=5",
-      "source": "The Salt Lake Tribune",
-      "ts": 1790597166000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Offseason: Every free agency deal, extension & trade for all 30 teams - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZNFhUUEFWOUM1REJwM0d6ZjMwNmZCc0xqYTBnMlU1SFpaWkpXdEo4bkIwNTNvS2F2TFFXa1RnNndqaFhweS00bkVRQWtlRFd2N1VaUUZBY3hLa1pHLWc?oc=5",
+      "title": "Philadelphia 76ers and Bloom Energy Announce Multi-Year Partnership and Patch Deal - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZjZNVHZMMWpNSU5vWEh0c1RCaHhra2w5UVJ4cVJSLXJkRmFYLTg5NG0ya0x6anJiS1V5dUs1NTBFX0JkODNVazhkTy1Hbl9CakNzR3lwR1hDRWI0cTNPZE9DQXpJYlV5dDhzZl9SNmQxR3V6Vl9YelpCdW9LcVNKeWNXYVdrVEtoYWNQbnlBN1J0S0NqOEF2Q0VwM2RjSjIyTFNQUnN3?oc=5",
       "source": "NBA.com",
-      "ts": 1790592216000,
+      "ts": 1790595600000,
       "tag": "league"
     },
     {
-      "title": "ASK IRA: Why Dennis Smith Jr. over Jahmir Young for the Heat? - Sun Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaFkyVlFlMUlFaUg5VXh0dFRydkFQbWtrWHRYTnoyUXhCQjRWaEpieWNOZlN4dmlIOHB6aG5aMFV1YU1vaFFmTlNmdnFGdW1MS0Y0OGhyNFdyVTBRdXNHUV9rSE00RWM2TGl2akhDNEZmLWJCZ2o1THNQbnpPeWZxaDExNzAydTlfQU80Zi1pOV91Q3FIajNzeDRaV3hQdzA3?oc=5",
-      "source": "Sun Sentinel",
-      "ts": 1790590491000,
-      "tag": "league"
-    },
-    {
-      "title": "\"That's almost what they get for per diem\" - Former NBA player reveals his first paycheck was only $2,000 after taxes - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbW0xSmhvbm9zWDB5ZjFTdEZUc0YwQlB5WThQdUtlV1BxbVZkOGVVSlVYU2FqcFBEajFGbVJVdjY0aG9JWGJiNnhBb1BYcndsWmJOeVlDaXBUNVdPSmRPcThGRnZ1cVhycVNNZUpCRzZBLVJXV2otUzRWVGg5M3pzSWFHY0xuT0M3UEl6MlRPbVMwYTB3RXVoUFhoQkdObVZ1OHpSTjc2QnUyRjRqV2g1MUtfbnBTbGhxaVE?oc=5",
-      "source": "Basketball Network",
-      "ts": 1790575320000,
-      "tag": "league"
-    },
-    {
-      "title": "Yahoo Sports: Do the Knicks have enough frontcourt depth for title defense? 3 reasons for optimism - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYzViNTFZU0xMcjE4eTVKZkxUMUJTaTV3b0ZaYUtONVdSS2J6LUxxRWlVcEpEMHRoNFFnMVZGbU1xb1Y1ek9ocmM4eDF2LXVtR09WOGt0Vzh3MmNoQVh6YXZnM1d1VUxOSDFKRHF0ekNDSks5QjlrODgtSE1wTkxSYzI5cnVobm9TbjNYUHVKeDM4aDVvMXpWVndxeEZFcHlhZU80N0RPT1J5eEVRM0VidVc5cHZtX0w4dzNaa1pB?oc=5",
-      "source": "NBA.com",
-      "ts": 1790572276000,
+      "title": "NBA preview 2026-27: Stacking the 8 most intriguing newcomers - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOejF3U0hQdFZ4eWhhbVdTZnl3ZWRCZ2NPbGd4dF9HUnJEVjJ3WVFHd25HdXF3SUhWN204Y1IwU3hNTjRfUFZBMkluZnA2NGluZE53TVhtM1lSRU82QUIzQVdtZ1NKWU5OQ2xXTEVTcXlqSjBQaEhUanJLYXZKQWM1ZnBxY1l2dnFjbjJHemQ1Vk5XM212TjVRWWlqVHBnTEpZcVRvV09MMHktNFdseWZPRVVCTlJVZlBERHZyMUJGSU1RWjV5?oc=5",
+      "source": "ESPN",
+      "ts": 1790593200000,
       "tag": "league"
     },
     {
@@ -104,59 +181,24 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks Roster Bubble Watch: Who's Safe, Who's Fighting for a Spot - si.com",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTGNwZHF5RWU0eFBrMTlFUE41c0ptV1RPVjE3WlpYemUxd2tzMGsteGZLZHNWVi1henQ2Z3ZsQTZHVDY2bXUzRmZkU0htMkE2SUlSbEFhNE4yN0hNd3R5eXBTRzZ2RVVwSmduUjU4cWx0dk1HT3hVd0IwbDZyWlZfNENnRmhhcno5OUlKQmFIaUtjOURuaFFIdU1JSjZ1YVAzeEMzT1JxczJmZVdOWGJSWGhKZnpOeGst?oc=5",
-      "source": "si.com",
-      "ts": 1790544893000,
+      "title": "Atlanta Hawks Roster Bubble Watch: Who's Safe, Who's Fighting for a Spot - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQSUpnM1BnRE9VUjQ2RlU5aDBVXzYxT1pXekRST2lGaXhfY1N3bUZnbGhQWlJnTV9jX2IybGRBczExY2JacXg1R1d5dy1WTk84eGRESWt0SFFkYnhZejVLQnlUSUE3cGNucUtkRDZjWXVzeHI3eUt0YnRPcmVwWUtkZzNjZDJJM0ZvS0E?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790544894000,
       "tag": "team"
     },
     {
-      "title": "Atlanta Hawks & State Farm Million Meal Pack 2026 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOUZlUHVUeHhoa3dxMGZibDg0T3NtSmNjQXdRMU9ZdDlEZ0FzMjlNSXM3RFVLVEpGQzU5OTJuNkl2ejRXNVV3RHo4ck9kalp6M21JOUpQWjU4ZVZBNzVrNHZpVmM0ZGFOWmlYc1IxVWhHLWRwQWV2eWMyWmIydlc2QWYxR1ZXQlE?oc=5",
-      "source": "NBA.com",
-      "ts": 1790539346000,
-      "tag": "team"
-    },
-    {
-      "title": "NBA camps set to open with Media Day in most cities on Monday, then practices Tuesday - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXcyaGVuWHdYdm9nWjE2MThiZnZiYnpoZDlGZTA4MWlKbVNEcVBVdDNUZi1ZOXlRN21mYzdHblc1WVg3OWMzcy1CVEM4OEVDaXkzRWpvaEQ1NmVraENaWV9Rb2xaVGNQRjdBOUFjRlkxQkIxaFlNbzN4NVV3WDlERU5xZS1hZ3Z6OVViZXRyX29STDY3a3NadXBoT24wQ05qNUE?oc=5",
-      "source": "San Francisco Chronicle",
-      "ts": 1790534763000,
-      "tag": "league"
-    },
-    {
-      "title": "Why an NBA Scout Sees the Hawks As a Team With a \u2018Ceiling\u2019 in the Eastern Conference - si.com",
+      "title": "Why an NBA Scout Sees the Hawks As a Team With a \u2018Ceiling\u2019 in the Eastern Conference - Sports Illustrated",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1qYWlHOG51TVFyWDlnMHp4Y19vU1FQWVVZNG9iX3loSEZGMGJldUpLMy13YlRXT1VpYTRZZDVtNXpFVm1iSGE5MlZGNnNMNTl2RDNzN3FUd3hIQkFSY0hYZF9sdE5WWFRJaV9vRTF0VzNyZG8?oc=5",
-      "source": "si.com",
+      "source": "Sports Illustrated",
       "ts": 1790522432000,
       "tag": "team"
-    },
-    {
-      "title": "NBA 2026 Offseason Check-In: Detroit Pistons - Hoops Rumors",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa3FkbkNFUWRRREpXb1NTSlJERFhMN0RRVUtYYWJVa2JfTGFlTTltdlBJOEZPLTMtZS04SzVMdkNLYUp3cTUxRjFJSlZUNkZyZlZyZTg0WmZEZEdXUnhsTmRjWjNkSUhpd3dUQjN4Q0tjaXBoR3dVRkpsQTlhcFpjMTg5SXF6SkduT1NjTg?oc=5",
-      "source": "Hoops Rumors",
-      "ts": 1790516075000,
-      "tag": "league"
     },
     {
       "title": "Bryson Graham, great work trading for Buddy Hield, now trade three more Bulls - Pippen Ain't Easy",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8waDRqdjBCdlZFeTdUQThwUzZISV9hXzBsVGhhSDV2YlYxc1lpa2tQcVp5Q3R5OVhIaVZSeUF0b3BuN2hfQWxVQ05FQ3JRSlZEWE9NVUJ0aHFPN3V5dmlEUW1hTUhCLVA4RWVjN3NoTUdOS0g3Q25RUA?oc=5",
       "source": "Pippen Ain't Easy",
       "ts": 1790514001000,
-      "tag": "league"
-    },
-    {
-      "title": "Zion Williamson appeared in 10.8% of trades built on \u2026 - HoopsHype",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTJEa09sOGhJbUQ3WTdUSUwwWkFWekhmSlFVd2NtT0FIdDgzc0p5ZGtWaWgtU0ZiR0RrZnZ4WFV0OHFZNmd6SU5MOFIyMTY3VXNCVF9yT09Wa0NRbUVOeVYyUGV3VTA4UDJoVHdJbkRhWGdLbVluUVUzdWNweHFRVHpmMDV2UGpfd3NqdkMyQlpFZGJ3aUgySS1JTlM2THRFOUJ6czFmbXZ2aVNMZUYxM0Z3S2l2Wk4tLU9hOUxKVUF5VGc?oc=5",
-      "source": "HoopsHype",
-      "ts": 1790496240000,
-      "tag": "league"
-    },
-    {
-      "title": "\"The USA is not for me\" - Dennis Schroder rules out living in America post-NBA - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNclZ0SXJBUVB0UDdCRmV2Y1BnY2xwWnF2MjV5NlViVmU2Rm5ydGVOR29kSHlydkpGcld3RHZWTEp3SU5lc0VZOE91UnBubERITklCMzRqLWtZTE1OcVJKVWFNM29MTnBTeEpIeFVvd2dEMV9qc1RiUHVZMmxnOGhmTkQwNU0?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790485778000,
       "tag": "league"
     },
     {
@@ -167,52 +209,10 @@
       "tag": "league"
     },
     {
-      "title": "Steven Adams Injury: Expected to be limited in back-to-backs - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVTlzQnZ5R3hOcFJPcFFXWWJOUUgyd3A4TmhlZmFPSE5oMkI5MEJIS2NQcTdETEN0Y1ZWYmozaU5RWnR0bU5lTmo3OXAteXpNN0wwNERUeU5rdXNmZHplSnphTWJWMnNOSTUzbFB4emQ3VENEYV9pS1kzNXJVUHVPMm9jZEQ0bmpoQ0R6R0V4ZlNEZUc4eUlSM2RYNnptdzRlSmRKaEdDWUJFUk1DTkNqbDNn?oc=5",
-      "source": "RotoWire",
-      "ts": 1790482217000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade: Charlotte Hornets Lands 6-Foot-2 Guard From Bulls Giving Up Buddy Hield And A Major Cap Space - NDTV Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPWXQ3Qm9ibGUzdDZ2Zm95UXZjYmxuMkg1YmZOaWZESHk0Mkp3QkdEVEFScjVmaUFrcmRPeU1TV3M4clgtc2g3azhCd0lONXhLSmtxdjN6WHVWdnlsY3kxTVBFUUxMNm5XZVp0ZTBQX1R1T05UdW83NWtxSDdrUV9YWXE2dlBRLXRzSUgyYV9qWEFVQ0dfVUZqeUlLeEh3N0FUUWQxangzU0ZKbmdYNFZxUzNYelNfY2ljSy1SN3JsZW1LbkRNdHg3dE0wMnFib2ZFODdJRFNNVVU3YW8?oc=5",
-      "source": "NDTV Sports",
-      "ts": 1790474544000,
-      "tag": "league"
-    },
-    {
-      "title": "ESPN's Top 100 NBA Players List Has Two Glaring Omissions From The Atlanta Hawks - si.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZUJCUDhjaGtKUEVPaF9WRk1yUklpLVdyUWNMdlpCN0lQanpCblFNWkRvUFA2Uk55Nlp6LTNyRmVadVBpUlo1UWNIaDNGTjV4OVFiRnVnay1IMFlrRWpXOWpxVVBKeUppSm9TNmxkbjhvbEZQUExvaXBsNzBlaHF0ZjBCLUtqUzU0Wi1ZZzdWMFVrT2lpUE1LZDhKcHh4d3QyVVdzVjNiRjRLXzg4ZWVGa29ybFdTWkJqNEhWVXVkWVZQX0VzUXc?oc=5",
-      "source": "si.com",
-      "ts": 1790463455000,
-      "tag": "team"
-    },
-    {
-      "title": "Kyrie Irving Talks Mavericks Future in Video Amid NBA Trade Rumors, 'I'm In Love With This Place' - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUUZjWXpUcGJoaVhLQXJERFc5dDFIWVN5MXNFU05Td3V1SjY1cXBWRGs0RjN4Mjg1aTJnb3BXdzN1a2pmLUtJR3hIQ0hLSHB1QzZ1dU1GUG51Q2djdVZnNjZUUmZhNFFxalZaWFJfZVdUSE9NeEdSZGFnd3FQdzV4SlBBS0VRVFBNVDFXX3Z0d2x0VlJDOUV3aEYwSlZvTTB3V1pUem90Z1JJYVZQSFAzZDNxNS1NMXQ2SzJUSkRWZw?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1790452802000,
-      "tag": "league"
-    },
-    {
-      "title": "Dallas Mavericks sign former Hawks guard/forward Seth Lundy - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUlE2cXdlc0ROV0ZKcld4ekw4X01FRHlZNm1Ea1pLeXk3TDIwNWsxQXVVV0hJdDJzdVVXdmhZWFBLTUlqMU44QkZhd2JMOHVNN094bjJKdDJpMUR6ckVVU0p0Wk9WSEtJQjB6RG50WHNZTWlFNW9Za0Vxbk9HV3RvZ2hWRjQ2c2pTQmlYRzlNRFJwY0FD?oc=5",
-      "source": "Dallas News",
-      "ts": 1790441541000,
-      "tag": "team"
-    },
-    {
-      "title": "Former Duke Star Suffers Injury, Will Be Out Of NBA Action For A While - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdW1SSjA5RzlmbGE0M21MUWpkRWdfZE01THpFSnRLOWViNWk5Rk45Q2haLTBzek42bWdzZ1Y5WFlGS2R3VUZ0Q2o3eTNNeEdxVUxOZVN6R2FhVXR6YXk5MGRNd2ItTmtVcFNxLTJGWlZRNF9taUIwRFloeGxBM2l4Sncwb2tWcXc?oc=5",
+      "title": "ESPN's Top 100 NBA Players List Has Two Glaring Omissions From The Atlanta Hawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE50bzg3SElSS0tkM1h0bG9ObDQtXzFwcVF2NXc3OFNiQmk2cmFhamJIbEdkQ2xPVGZERWFGLVZKOEo5ZWV5blktXzhZZHNJMUxLRVhNN19rX0t0Um55U0thazJxVklxcklpMnVSMUlFR0VyTXI2T3JfNVI0XzJZSUU?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1790424900000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks, State Farm host Sixth Million Meal Pack Initiative in Atlanta - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MT3FVcWhYc0h0Y3dKb3BVQjRJTTVFYzYzOXEtSDROM1BrT05uSXcyU3RFcTJLYVFLTHhyR2Q5ZGdJZlRQU1hEalo0YWUwM080MVgtRmxtV25fdTJrZUtJZHRHVWk5M081Nzh3dEhBUVh4ZFczUGxZSjVB?oc=5",
-      "source": "NBA.com",
-      "ts": 1790406000000,
+      "ts": 1790463456000,
       "tag": "team"
     }
   ],
@@ -475,6 +475,11 @@
     "jimmybutlerinjuryprogressinginrecoveryrotowire",
     "mikelbrowninjurydealingwithankleinjuryrotowire",
     "konknueppelinjuryiffyforopeningnightrotowire",
-    "zachlavinetreymurphytrademarketonkalshiamonghighestinnbasico"
+    "zachlavinetreymurphytrademarketonkalshiamonghighestinnbasico",
+    "nbatraderumorslakerswarriorsanthonydavismoremediadayissueshe",
+    "clippersbrandoningramtomissstartofseasonaftersurgeryespn",
+    "bradleybealinjurymanagingkneeinflammationrotowirecom",
+    "brandoningraminjurytomissstartofseasonrotowirecom",
+    "dontedivincenzoinjuryoptimismforlateseasonreturnrotowirecom"
   ]
 }
