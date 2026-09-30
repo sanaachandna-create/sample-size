@@ -1,10 +1,221 @@
 {
-  "updated": "2026-09-30T01:31:23+00:00",
+  "updated": "2026-09-30T07:18:54+00:00",
   "team": "Atlanta Hawks",
-  "count": 0,
-  "pushed_this_run": 0,
+  "count": 30,
+  "pushed_this_run": 4,
   "error": null,
-  "items": [],
+  "items": [
+    {
+      "title": "Senator\u2019s basketball mix-up derails \u2018gotcha\u2019 moment at Jack Smith hearing - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSGJWTW41QzU1cmJDWmxVeVhod1gwWkgyOUREci1CUnB0ZGlMbjZOSHRLTnlmNUNRWlhoc1I1T3BrY1E0eDVkU2lVR1BMSFpSREZLWmJFek5nYkZsNnd3M2VNMVpLQ09RMnJySG51NEZ0OWlRZkZlMk9kOTVJTE42clBGTVpjV2tCS012R1lBSzNndHdRT2k1XzBLc2l6WjJIUnFMdDc0VWxEN2dtWUZnQUZ5MmpIcnZUTlE?oc=5",
+      "source": "The Washington Post",
+      "ts": 1790742408000,
+      "tag": "team"
+    },
+    {
+      "title": "Drummond joins Knicks as lone newcomer - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RVjdJLVN4SkdLd1BaZ0cyb2tVdG83SVRsS3FEcDBWNWFWSF94dnJGNG5TUEFRWDNaZTk2V3ZwNUVYQmtxYXBrckhwbEY3bUw0S0xtcTdQTjN6c1U3N1lXdzBUNmQtd1NKRFI2Z0plVQ?oc=5",
+      "source": "NBA.com",
+      "ts": 1790741160000,
+      "tag": "league"
+    },
+    {
+      "title": "The Association: 'Who said what?' from 2026 NBA Media Day - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SZjJWZXdUUHFPQjZiMTgxUWo3WXZXWkstMHJCdVF3TWRKZmxiWEJsSldnTkZzdGdGdFFULTRQRTJMalVERElHVlN4MEtjLVpMNThvYkFQUnpGZ2F3WTZTZzE4UkdNRG5McmRvNUlR?oc=5",
+      "source": "NBA.com",
+      "ts": 1790739554000,
+      "tag": "league"
+    },
+    {
+      "title": "Josh Hart Reveals Surgery That Would End NBA Career Amid Finger Injury Ahead of Knicks Season - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0U4endVR2x5VHJXcWxsVV9qcHFCdm5FWDlzX2lPSHJrSkVpS2RfTjFrVmlZRXZ3aF84QXFzME9LY0lZWnJ1NDMzd1g4Yk0yX2FyT1V4cmIwd1dzVHJyd2hreEVrTE1EcVN4X1dYSWdBNDJzVVFpelhBd180QVdvLXdIN0otMWxIREZoai12T0lienlvb3JuZzBmVFpscXdfS3Z1OFB2enNJdnhBenFjWkNTQkJVV0EzUkRIdU4tTVZ3eWloLXhlSkZn?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1790736663000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Offseason: Every free agency deal, extension & trade for all 30 teams - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ZNFhUUEFWOUM1REJwM0d6ZjMwNmZCc0xqYTBnMlU1SFpaWkpXdEo4bkIwNTNvS2F2TFFXa1RnNndqaFhweS00bkVRQWtlRFd2N1VaUUZBY3hLa1pHLWc?oc=5",
+      "source": "NBA.com",
+      "ts": 1790734432000,
+      "tag": "league"
+    },
+    {
+      "title": "New Hawks forward Lu Dort knows how to blend in and make an impact - The Atlanta Journal-Constitution",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGU3R1lxN21SeDRhaFVNZDY5V0sxUGJKWGpoNXhWZFAzWTZXSy1mRldrcG9KUFFKdGNlOGl6YnpBS0M2LVA4dGExbE1ncGNraVEyNkVwTUJMQ3ZlaXlkVWFVUGpmc3dzaDVZaFZGU01TbWtmOUlfLVBtTVhNSC1QSTg5MlA0SHI2bkNWNFJGcHNKZjh0Ulg1NTdtQkw3cHpBV3pkWmhocnlnNHJDZE1n?oc=5",
+      "source": "The Atlanta Journal-Constitution",
+      "ts": 1790729986000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA nearing agreements with European soccer powers for new continental league: Sources - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOODZuTnUtamJ4eDh6UnpJN3VLNnZGQWxpSFhsMXdZc0w4b2szdkdqbUFGUmtVb1ZiU04zVmMzMGY5eVdpN0RnREtEeWZoNDBYSkN3RkJQaEV0b2xXRVB6c05tbXI2ZjlvelNsUkJhSjRfdWpIOE5qOS1HWXZrOVZGZlFCc3FlYm5STWhfYVczUWNYcWY0b2Iwc21kZkxaSV9aeW40TmFSNmk?oc=5",
+      "source": "The New York Times",
+      "ts": 1790725703000,
+      "tag": "league"
+    },
+    {
+      "title": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJtUGxfc2w2NG82aU1xNUhjX0VPSGtzakhBdG1oWnVqRXJ2alBTWGt1c2RvUWd4N2xEZTJ1RnNVbTN3b2plZEw2TE56U0RhYk1BQWFkZTFZN0lOR25tYWllWGhHTUhNZ1lBdmJjSGdvWk15R0h6VmVlcEc4MW1jOWdfbEdoTGJiRlctQTBIMlBELTRhNDloQTVNRkJrQXBYN0J1QWFn?oc=5",
+      "source": "NBC News",
+      "ts": 1790724961000,
+      "tag": "team"
+    },
+    {
+      "title": "Hawks? Hawkeyes? Schmitt in probing Smith mistakes basketball mascots - AP News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdVlDOEV1MFhtUWpnY0l0QU0xTzBpUTBOYmVNNG8yRzNaY2l6eVNPeHNsOV9iQnA4OGoxNDlIVDM1ZGZ1M3hKaFNXbGg3bFhYS3V3bWFvdTZxZmJDVHZib3ItT1hlS3RRdWllQXZkUmF2eXc0M0VuZ2VKS0dQWWNuZTBXcmxFelpFWVB0dXZNa3ZEZUx2OUpNeEtFNjBLZ3pwMHZIbjMzUl9qMmZv?oc=5",
+      "source": "AP News",
+      "ts": 1790724000000,
+      "tag": "team"
+    },
+    {
+      "title": "Iowa Hawkeyes-Atlanta Hawks confusion derails Jack Smith hearing - The Des Moines Register",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM19BdUFBS3NvbHZIMHJTQ0pXWUswSHFDOV9yNEc2TFptTUVWV3F1XzJ1TS0ycGFmVDZ1ZEVZeEtsQUVmWnhJNDdOZ0ZkWUR4MkdKM09YZGxqRGRKVUhhOHpCazhoQnVvQ1JLanprMmc0ckluc1N2WUV0cDJWcFJyRnBLV3NuQlMyQWZweGQtaXFWOWJSWHQycTZJcUJiSVdjbUw1clEyeUV1X1lMT3E5V01HLXFTTDJVelZVRUstVjU4Nkc2UmFqOTI1c3Ixb3diQVQzcW44WnVFZVA0OFRwSXVYQTR5MUZvX0pr?oc=5",
+      "source": "The Des Moines Register",
+      "ts": 1790722140000,
+      "tag": "team"
+    },
+    {
+      "title": "What I'm Watching From Kingston Flemings This Preseason (And How It Impacts the Atlanta Hawks) - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZGxpMUNqVHJrMENBR2tNNVQ3RXk2cEtkUm5tUmZheHlqbGRsTmlYclVOUk9PZ2l3SlczWTB6ZlVqREVHMGN0aGszelRNOFFGMFA2WkJFSFZKMTlMX21DekNsQVpHQUFoeHpmMFc3UTh2bC11YU5OYjVZbjk0dlhfTVVTYmNyNFhFd18zOThUbEtidw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790720701000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA expansion to Las Vegas moves forward as 3 bidders emerge as finalists: Sources - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSW94aXZ4dnRiV2o4ME5selVkNmlONWJVQ3ZoemVSd2ZfQ2Y3UG9taWdQdXduV0hoOWVwWTNqc1NaekhoS25wbDFwYUlQMlhBTmpxVUowaTZTY0xCU1gzaVV0eWd1ZmJiVFFyWHNrZF96eFdCT1FBWlZVb3czc2FJVVFqVkRuZ3N1SG9lZGVydFhUSlk?oc=5",
+      "source": "The New York Times",
+      "ts": 1790720640000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA reportedly close to selecting winning bid for Las Vegas expansion team, has 3 finalist groups - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVFMxbmxzZ2pzaTNGM1kzWVd3dnNTY2c4UEQ3b2xFWGY2OVFrOFVXNDJuWGFuMDJjblhibFhvVFdKejBjRGVWOVkzWVpobGhrMHVhUENtampicmxQYU92aGY5RERyYUEweS1MRXR5QVNvaWhKOTBUeHpEMm5sR0FJUlV0Uy00bUZMSWwzYUpTelhxZUw0Zl9rajVPTVFkajFGcXQxUVI5OHVTVFlQRXpTTGwwRVV3T1ZmZUJ3YzBoNDAxd2FBa2ZWN1U1M0lCTjYwc3lSSl9iS2paVVEtOWllVzdJeFg3TmFmMTQwZGRwcDc0VFlN?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790714948000,
+      "tag": "league"
+    },
+    {
+      "title": "Sources: NBA reviewing bids from three finalists for Vegas team - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFZJWWhOYjNabnpYelQ3aVNocjk1dkxmMUl5el96WElneEFHVlZoSzB4bUtXVmRERndYaXZ4bFR4MlFsR0xSWGdJeTEzR29udEo3YWZpWUhkVTIxYTRjVk9kNmZXVW1JdDNKQ1VWZExTdXcwSkxTT0dyT2RBR0xQSnY3WlkyQnpXMkprd0tYZFZfc1NGTHc?oc=5",
+      "source": "ESPN",
+      "ts": 1790712360000,
+      "tag": "league"
+    },
+    {
+      "title": "Klobuchar on Schmitt: Glad one of us knows difference between Hawks, Hawkeyes - The Hill",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcThMVE9qWkxGSFZIRnVwOUFGLUhzbUZ0RmpDclpyWWUzYXVLRFFUWWgzdmlFRDdBZTdzSlpuM29fR3d6R0RVOG1Wd3B4bHZpaV9pejBRTzRsSzNZb1J1OFhNTjI3WnNVUlhlLWYyZ2JzeTdlRzVIcDRzbG9GMDBkN2d3UFdZcHBDbEFTaUVybS1meE5YZWEyRW5pYVJ6ZkNzcjFXNVpzVG5VdmU5YzRhNW05YXNEWjNLMmU4edIBwgFBVV95cUxPTDRlSnNoamNzZF9nQVY1R1JjcVRBNUxwZ0dIQmNEY3lnZFU1bWUwNlgtU3JrOUplSmJDRExuTkw1N0VKbjVKU3d2Q0JHMFBONVRvb0U2RmYzWng4X3VTbzhpbElrZHFGb3ZsVGhjSjZqc002aHgweUxZMFIyemUzMnhpeWFwSHRvU2ZOeHZVMVlTaDFVSHdRTi1wZ3VhcjNIY3VHclhqRWs4aldEYXJDVVBLcThUOGtUVHN4NW9QMmtTZw?oc=5",
+      "source": "The Hill",
+      "ts": 1790710440000,
+      "tag": "team"
+    },
+    {
+      "title": "Atlanta Hawks Training Camp Contract Tracker: Exhibit 10, Two-Ways and Guaranteed Deals - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPV3VBRGEwaHppMEczVEllWnAzckdFUmlxWnNQWHhEbGRCUVpCMlZHT0FqRDlhZXM2UE8yRFF3UWhzdkc2cDRDRS1fTm9SWDhJbG95eHpGWU1JMzQwYV9uc3ZhWVI4RzUzdmVxVEdpbE5PcEdkWlR3aDFtRk90M0VzZkhBdFQ5ZDhhclF4NWJn?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790704805000,
+      "tag": "team"
+    },
+    {
+      "title": "Larry Nance Injury: Limited at training camp - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVHJYa3VRRHpXbGZuZHc5M2oybnNNMTNSWmtULUtmUWtEUGN5WXdvQXJ0WnBfNm1mYmVFRUxZTTdJZGhzczZRRHdhZ3BzT2xJQ0xfTUt1ZHBaejR1N0ljQlBHWWZGSnV5di05bWhkN2lvaURfYUp0N3dhSXdhNk5vTmtkNTlhbGlwN2FoZVZsMFZudlJ3dF9LNVdkWFI?oc=5",
+      "source": "RotoWire",
+      "ts": 1790703202000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Champion Arrested Over Family Violence Causing Injury - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLVoyY3Y0cVBEcEFybElyaTFYbGpTaUp4YmcwdlA2Y3VZR0lDWTJ0T2Q5ek9QR180d25iVnA2azJfY0FzWnJrR1ZzM0x4cmRYSmRLb3VBSGpVVV8waXI5bWZxeTctS0RKbXM2ZHUzdXlubktjYWNIZUdCWGFxZHpQeTVXU1A2VnRqaVdra0tHTjA4SmdOY2Etc0pQY0lvZw?oc=5",
+      "source": "The Daily Beast",
+      "ts": 1790703148000,
+      "tag": "league"
+    },
+    {
+      "title": "Gradey Dick News: Could benefit from Ingram injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeklaWG1aZ0hFT2xESVlSanhHOWNVd3Z5dDc1YTRONExJdFVUVXE4akh6ZDdsbFZXY3QtWTdENE1fc2xRQ0txQXZtVzN6bkctcXZzeFRueGlHOE9qX1EwZDZad2NoRkJiMEF2ai1DNG03NXAzSzRZNUJ2N0NfaEE3aDB2MElRbGZuZHpRYlY2S0lURnM1LWIxMEpZYW42WXphVTZGcA?oc=5",
+      "source": "RotoWire",
+      "ts": 1790701790000,
+      "tag": "league"
+    },
+    {
+      "title": "Proposed NBA Trade Gives Lakers 6\u201911\u201d 3-PT Shooting Demon, 2x Blocks Champ - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3Zhc2JlOGR4Q0NKR2d4VDJuRE1sSUFKTlFINm1BRnV2YXc0M2tPdmd6endfSU5rZ1ZBUWJSQkNIX1hRWm5zakJrbnQ2b3EwcjlVdGoxS19penBVWWlLNHdoUnZEY1Rxa1JESGhYT2JNR0l6ODVfSmUySUZ0Y2ZaSkNRakRJREF6SUlXQ1ZR?oc=5",
+      "source": "heavy.com",
+      "ts": 1790684593000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA preseason: Answering big questions for all 30 teams - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWlra2tTS3dMc3h2TVM0VExGbDcxc1JTeFYyM01RQWZTQi1kRmgxQ3JZOVRaQjhta3RzME1UbmU2clNhWlZORjR0WXlqWjdXR0F1bVN1V0g5aHFYdm85OWU0R3F1N09uVk5OUzZXUGUyaGU0YXZ4U21KcnBLNWJ6QVNRRXg2SjRULWtrSFZxM2FETEpJR2FxelMyaXk4Nzg?oc=5",
+      "source": "ESPN",
+      "ts": 1790679600000,
+      "tag": "league"
+    },
+    {
+      "title": "The NBA\u2019s Missing State - The Ringer",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTjVEanNhdExXN01aSmtmUzNIVWxua1ZkRHVsX0VLbXNxZWhYM1JrbVBHNTNDUF9UcXF5MFpjd2w5Mm9RQ3AzWEVzeHQ1NlM0V2xMMDl5RXg1ZkFibVpaQ21xUU5tazgwS1hIREt1ZFN5ZGZndGlVZDZSQ29jc1VVbjVYRGF6Zw?oc=5",
+      "source": "The Ringer",
+      "ts": 1790677800000,
+      "tag": "league"
+    },
+    {
+      "title": "Jazz participate in Reddit AMA - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1MdU9EYUlDeDRTMVd3Y2hSaURhT09WdWJURFdBZ2V0djZxMTJ2NW03dFNSTmVUd2pWYUQ1OUhnakYwNmo3NGxnS2FWektSTU82UnQzMG1vUXpGQjBJT2I0V2puRHk4c0hTWDc4Ng?oc=5",
+      "source": "NBA.com",
+      "ts": 1790645433000,
+      "tag": "league"
+    },
+    {
+      "title": "What we learned from Hawks media day - The Atlanta Journal-Constitution",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Ga2VuRHpaSXBsNTZScmFKMmZTTVVoX2ZMWjBqZUN3LThrYmhDX0ZjMkI4amh3Rl9GMnJrZkoxazJuYUZUZjlDYmw2SXh1b1g5UHJCcnFaZVZUUHl6cFllWUw4V185OWJUclF5THNOa1NOODlBdmtZV2xpbVg?oc=5",
+      "source": "The Atlanta Journal-Constitution",
+      "ts": 1790641453000,
+      "tag": "team"
+    },
+    {
+      "title": "Zach Collins Injury: Managing soft-tissue injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZjQ4Zmtpbi1hUUV6WGRzYUVyTEpsdGJTQmJtQV9zSFJUcWdMd29KWllDYS1zOS11NzRZVW4yNnRzc2RmXzBvQWdHV2hWU1NtREs3SGF1aF80S2ZlSXBKSlQ1blczVFo1S0tWUGJDS25ZMURKWEx2SUFuRDR4YzE4bkZjV25mUTRNamF6TUNRclJ4MXMzNk5GOW14NHE0TGctc2c?oc=5",
+      "source": "RotoWire",
+      "ts": 1790638315000,
+      "tag": "league"
+    },
+    {
+      "title": "5 takeaways: Defense, depth headline Hawks Media Day - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BMnAxOW5VR0V4S05waENBakZEcHF2UTA5RXhLdlhNSWptZU02TzIyOGJWMS1JcjA1T1k1eG1HZ0RTT1FTNF9VNkZIS3dTRGpXWEcwSkc1dXUzZ1RZamsyd3ktcmhSbWNKTmlMcENwNWRlSDg?oc=5",
+      "source": "NBA.com",
+      "ts": 1790635180000,
+      "tag": "team"
+    },
+    {
+      "title": "Rob Dillingham Injury: Waived by Hornets - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcWJFT2F0OVF4YlM2RFBfQ2VnUU9jUFJIbTU4Ykk1Wi1XRUNnRzQ3SzVZdW9XYnN5aUF1ckN5QmhjVWo4NFNGV2RyVnJscHN3YjhaYVpmZzlvLVlXMTV6Z1FkOTJCQmhNcTRuMGdaR2hGSmtobTBodDZ5c29iN29WVzZHMWdxT0VxX09zamM0YVY5ZzV2UWFJ?oc=5",
+      "source": "RotoWire",
+      "ts": 1790629993000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Lakers, Warriors, Anthony Davis & More Media Day Issues - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbEpka0Y1RkdRZ1piUS1IenI0dmhsNV9fQnA3QmFzZ3BCQ1p0cnhIS05takVxZklLNXA0UWxOR1Z4Ql96Q3ZvUFg0WEljVW1uQTc0ZGlZREtqSXBZODVnOWhkNGFOYmwxN0lnUW5vTzJaRE9feHZ3SFc2eTdXNkt5clZJaDBuTWJQ?oc=5",
+      "source": "heavy.com",
+      "ts": 1790621292000,
+      "tag": "league"
+    },
+    {
+      "title": "Donte DiVincenzo Injury: Optimism for late-season return - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUl9oYXFaRkU4Y3hTbE1KX2c2RFI4eHZFZS1WWnBiOUdmdFJQMGdXNVJCdDlla09peWxKeEduNTE5ZWttSHg3bW1HREZuaFVpWXc5cVRaNEg0NnJ1OF9ha2JXZlg2eGxOY3BLV1pSOVVFT2hiX2QwbWdRekcySWJQa3RPTWRmUjZXakVySDVXX2J1UU1pNTQwTi1Ja2FENTQ3LUtTUGExU3c5MXNI?oc=5",
+      "source": "RotoWire",
+      "ts": 1790617154000,
+      "tag": "league"
+    },
+    {
+      "title": "Philadelphia 76ers and Bloom Energy Announce Multi-Year Partnership and Patch Deal - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZjZNVHZMMWpNSU5vWEh0c1RCaHhra2w5UVJ4cVJSLXJkRmFYLTg5NG0ya0x6anJiS1V5dUs1NTBFX0JkODNVazhkTy1Hbl9CakNzR3lwR1hDRWI0cTNPZE9DQXpJYlV5dDhzZl9SNmQxR3V6Vl9YelpCdW9LcVNKeWNXYVdrVEtoYWNQbnlBN1J0S0NqOEF2Q0VwM2RjSjIyTFNQUnN3?oc=5",
+      "source": "NBA.com",
+      "ts": 1790610708000,
+      "tag": "league"
+    }
+  ],
   "pushed": [
     "thebouncedonovanmitchellscavaliersarrivalstemsfroma15yearold",
     "knicksnolongerhavetotrademilesmcbrideafternbasnewsalarycappr",
@@ -294,6 +505,10 @@
     "proposednbatradegiveslakers6113ptshootingdemon2xblockschamph",
     "zachcollinsinjurymanagingsofttissueinjuryrotowirecom",
     "jonathanisaacinjurylimitedtoopencamprotowirecom",
-    "micahpeavyinjurymanagingankleinjuryrotowirecom"
+    "micahpeavyinjurymanagingankleinjuryrotowirecom",
+    "joshhartrevealssurgerythatwouldendnbacareeramidfingerinjurya",
+    "larrynanceinjurylimitedattrainingcamprotowire",
+    "nbachampionarrestedoverfamilyviolencecausinginjurythedailybe",
+    "gradeydicknewscouldbenefitfromingraminjuryrotowire"
   ]
 }
