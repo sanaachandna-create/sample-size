@@ -1,15 +1,29 @@
 {
-  "updated": "2026-09-30T22:34:39+00:00",
+  "updated": "2026-10-01T01:29:05+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 3,
   "error": null,
   "items": [
     {
-      "title": "How to Play NBA Fantasy: Salary Cap Edition 2026-27 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVWxqZkpjbk05d2plRlotVTRPLVZKZFFyVjloay1penNqSFpSYVZ0VUJLelNKdXFzRmdlZnhrMDlqd29MWFRzRl9rUV9HbnUzMEdIZXVCRDcyUEpaUFY5Tm9tLWkydDFiNUtsSHhISFQ4ai1YVk9CSXZKVjV2MXp0ZQ?oc=5",
+      "title": "NBA to hold scavenger hunt for 2026 Emirates NBA Cup Championship tickets - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeHhnVkc0ekZwNmo3ZWZiSnRlTUVGWGhtang0RlZPaE5IR2lJYVBqLThLQzhpRHNsVEwxWGxzdm1SNU85LTdBemJuaGlaWnRjN1pXTGRUR2ZvdHpmWndfSkNPak5wMThGQjdWLUpmSVI1NlZqRmdlVFlVUDgtMXZ4Z2VRVUxkLW1CZkpVUFVqaw?oc=5",
       "source": "NBA.com",
-      "ts": 1790806246000,
+      "ts": 1790812556000,
+      "tag": "league"
+    },
+    {
+      "title": "If The Atlanta Hawks Actually Want Jalen Duren, They Should Wait Until Next Summer - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDh0b25UMUkyN1AxaGlad0lwa2I2RnNGbVpoYnh0cE03RWotbThVWFFWOWwzc3FvUXQ5S2dURlNIc1AtZ0Z4RnNhUUNfMDUxU2lFME0yUUlsdkY2TUNQY0pxTk1TZ25mNjhCZDV0N0hFbXBhTmlaSXVVNHlqa0pFZ2ZUYktGamxjbFZhd3FkcnRpbmxrbHI0SExrUk4yUHlySU40R25kVXJPdTJRN0h3b3V6SGFYcDRUUEdIVjFKN2Z5REhqbE5V?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1790808919000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA Trade Rumors: Warriors Question, Celtics\u2019 Paul George & Jalen Duren Future - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjlHRjRfQ21EM0R3VlMxY3ktaXlUbFB1MDNwNFR0R2thLU1jY3RiV2Z1ajlTSFpNTHl5b3pkTTMyaWFfM2pYQjVjYjBCN3pSLThpTTAtbDY2dHBGNTZ1Q0U2YXF0Q09YUGpPN0dtMDVoOFhBUlhCM3VfZ1ljWklLM2ZPNGEySDhVbDNTbEN2bXR4cDRGcHc?oc=5",
+      "source": "heavy.com",
+      "ts": 1790807997000,
       "tag": "league"
     },
     {
@@ -27,32 +41,46 @@
       "tag": "league"
     },
     {
-      "title": "Nuggets sign Ryan Nembhard on 2-way contract, waive KJ Simpson - The Denver Post",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdm4wUDVjSjdlYlBKdUllc1BoNlZYdXRNX0xlN3RGMVRNNWdHVEZvdEE4QV94RzBJaUN3WlpPNThsbWJpYXJicEgzZlBVTGo3VXZROWhtQ0pOOGFITDg5c0g1cDRxNTJJR204NHhRSTE5U004RHpWNVlNSEJ3X3ZuTkFWdmNpMGZVWHZr?oc=5",
-      "source": "The Denver Post",
-      "ts": 1790801826000,
-      "tag": "league"
-    },
-    {
-      "title": "76ers guard Tyrese Maxey: 'I want to be judged by winning' - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYnh6NEd1MWI2WlBFSHpUbnEtMURUYkZZZlo0c2FfaERUZ1Y4ZFRUdkIzRHpmc09ERDNQdk1IeWlYSVp6WlVlc1JSeGNuRTVpSGxmckJZWm1lQVN1OWpjRmZtSjJWNTNhU1BtNmxIa19QR0VvOWNJUG56VmNPVEdmNHRHdXF0UC1zNnZjcVdlYy1ZQjA?oc=5",
-      "source": "ESPN",
-      "ts": 1790799240000,
-      "tag": "league"
-    },
-    {
-      "title": "Report: Pistons drop weight clause from Jalen Duren's $200M extension offer - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMWpoblZqdmNOUDBRSFhkUi1FUU5fMGtjRGxfTHRvaVBLSXlPRUVOS0RsQjlRYWx1X3lsOVRJNDhPTWJJblFhSU9CQm9xVGt6MW5obVBxVFNFNXlPbG5yUk1SWnlfRGx5VmNMUHFyRTg0cTZseE9ZX0YtN1B2WTlfSE9ieDdtWHJ0T2xJRk1iV1ZfYU9RNFhuZjNULTliUXE1R0R2RExlandWQnhpM1RF?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1790795580000,
-      "tag": "league"
-    },
-    {
-      "title": "One Atlanta Hawk Most Likely To Breakout In 2026-2027 - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZk1JWmJVcEF6U29DN0lTaUF1OEpOekQzSFRwb2VaRVRBUVdJU193M05NbUYzc2VwLVdqZTlUMzlkNGN4VFZQcUtrc0c1M0trM0JtVk5rWUliS0xVS3NPX0o4YXlWaHdLZFZZUDAyYjVmU1NxWjc0OUx4RFBzZnEwMDd2T3BNTjRxeEdLdDRyOWItTzJYLThNcy1KVkp3dmp5bHc?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1790795404000,
+      "title": "In the never admit you\u2019ve made a mistake department, @tmztv caught up with Sen. Eric Schmitt after #JackSmith hearing on Tuesday to ask about the Atlanta Hawks\u2013Iowa Hawkeyes basketball game mix-up. Watch what the senator had to say about the excha - instagram.com",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Tc2dTRTFacFNUcjVueElQNWk3bW02eHBrdFFTS2p2M2J0c1k1amZyT1FEODYzMkVNQnkyUDFKaEF4Z3N2YjR3TWt6WElOdkU3UDFCckN3?oc=5",
+      "source": "instagram.com",
+      "ts": 1790803714000,
       "tag": "team"
+    },
+    {
+      "title": "Kawhi Leonard hides behind NBA in reaction to Pablo Torre bombshell - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNk0xc0tCT0Z5R2FLR3JPNHdQcnVqbzB1eWtYZU9PNnk5eUY0SEtWa0g4aUwxQ3YzZGk1ME96cEVqZi1wTTJpb2NRQVRYdXZSUkEyUnBvRGtpdFhSMFdLUUFlcU5mTU9tSmFPSmswMzVnYmVvVmp3NnE0U2Z2QjlXVWFaLWlHMzVQc21NT3dzaUpiZTJqRGJGUjVuREI?oc=5",
+      "source": "New York Post",
+      "ts": 1790803680000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks? Hawkeyes? Schmitt in probing Smith mistakes basketball mascots - KCCI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS29SRjJBc2FZenU5LUxhTzBxNEotSUJvLWdTQzdXSnhSNkFjWjBrckh0ZjI2X2NRY1IzVnlyQ0RYNTVSR0lwVV9JMEZHazNUb0M5enpKYWFPWjFQMklVVjl4d0R4TWRQc1ZnZFJxYXA2Njg4RGU0ZVIyV2hoSVNWY0pRLXpiWTNkdjBERWpYSHBBOTVWbVloMkNkeDBMNHJUaUYyUHdLYl9uNmZDN1ZrVEV2c2Zadw?oc=5",
+      "source": "KCCI",
+      "ts": 1790801816000,
+      "tag": "team"
+    },
+    {
+      "title": "Brian Windhorst offers reality check on Sixers\u2019 path to NBA Finals - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSlRoRnhEUExiaUJHcFRxR0tJa0RvbGVJRlQ4Vy12WWd5UWxreUNfMktEdVhTWDZ2WUE5WEplODBGN2JfZjFoYWJpOUxEcUt3ZE1sQ1NneUVnZWtxck1SaUdZSTl5NmJjQXdYWEVJTWZoNndSLXpkWEktZm4zZjZRWHEtLVhCQkljaEJIVEln?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790799836000,
+      "tag": "league"
+    },
+    {
+      "title": "Lakers Trade Rumors Confirmed As Dalton Knecht Or Jaden Hardy Set For Departure - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3VPWjZrTU15bHdQMjhzR1ZmSmlJOW5IVHFOc3dLR2FnMUMyZjB1OEIxdXlncmZHU0psb3RVM0pzNmVHQzZnRFJYRkxEWUFUcWFBMWN5d1NFR241dHJFUmlPa20xV3hXcEU4LVFUdnEwVW1SczA0WmhJOUtGYjJNTzRiRVlKRlIwbHBDR3BFWmRxTkg3dlpBTHB5OXgydw?oc=5",
+      "source": "heavy.com",
+      "ts": 1790799280000,
+      "tag": "league"
+    },
+    {
+      "title": "D\u2019Angelo Russell signs with Shanghai Sharks of Chinese Basketball Association - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZlhodjlWNTBLaHUzNUs1T3Z2ODFGeHdQVjRWTEthekktMWUyQkpDUXozS2hpOHhtLTJvRkpaLUJIaVlXR2xDdVFxbU9teDhtV010MG1Oak93N21XdU5xSjNTMEhvMHdXN0NQRGVOaDZkeXBaRVNnSXdVYWQtMDZxUGltOEVYbW03RWY0Q0JjTldaSmxK?oc=5",
+      "source": "The New York Times",
+      "ts": 1790795182000,
+      "tag": "league"
     },
     {
       "title": "4-Team NBA Trade Idea Sends Raptors' RJ Barrett to Hornets - Yahoo Sports",
@@ -62,10 +90,10 @@
       "tag": "league"
     },
     {
-      "title": "Lakers Expect To Cut Ties With Dalton Knecht After Failed Buddy Hield Trade - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPb3Y0QUR3ajBLeTlVODF4VEhrVTc5cElxRDNfRGNuWDB1N0lIVzNkN2N5WC1JM0JEalRGZ3JPWVBZM0xPYWpfS3JDNERjdUVxelhIQTlOVlBvYWVTYTNZZWZ6YzRjenJYQ1FGRnRjakxkcWY4WGFWNmdkUHBERU4wVFhwZ0IyZzhqZDZzUy12MVB5bVRZMWJUZnRTNms?oc=5",
-      "source": "heavy.com",
-      "ts": 1790790849000,
+      "title": "Longtime NBAer D'Angelo Russell signs with China's Shanghai Sharks - Sportsnet.ca",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeUhxRzBDZGZvbWdzdDBWNnh0SmxaZWtvQkVVQ0JxWEhXOTNxWFpkZ1FPUjlId29hSDBIellvaE5qMjJjQWt4QnZMcVVkNERMWnl0eUMxV3gwWGZfVHlUZkMzdHhrVVJxbVBET0hiR0RhYWRuR3lzbjBhMWtEZUtNMWFIaDZMTkhncWk4Sy1BWE9kR1p1bDdJazZLWTE5aGdaU0o2WA?oc=5",
+      "source": "Sportsnet.ca",
+      "ts": 1790793480000,
       "tag": "league"
     },
     {
@@ -83,16 +111,9 @@
       "tag": "league"
     },
     {
-      "title": "NBA Trade Rumors: Jalen Duren Deal Deadline, Celtics-Paul George & More - heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSksxQlRERmNiTUE0R2QyX1lmbGZfZmVYUlZwWU5OSUxzMFJIeThFaWxaUXBKeVlpNklfdDhuMzJmU3dDYjRUcGtkYy1OeGhwZkZRUDFzU2xZNDlmZnNYb3RvS1JJZC1xQzBZaGEzZjRVYldPaEZmbGdrN084YmFKYzAtMFFEWnRBNzd1UUhJTjJ4R3RrUzY5RVlCYw?oc=5",
-      "source": "heavy.com",
-      "ts": 1790782510000,
-      "tag": "league"
-    },
-    {
-      "title": "D'Angelo Russell Lands Contract in Chinese Basketball Association After Grizzlies Release - Bleacher Report",
+      "title": "D'Angelo Russell Lands Contract in Chinese Basketball Association After Grizzlies Release - bleacherreport.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSGhETVRZZDdybVlRU1NoOXo4ZjZLcWV2bU5MY0VkOFJoMERSaENNU2pnb04xRHhOWDVKVlk3anE5aTRJVTQzRkE1TmRneXA3dGdEc2l0NHNvcXFlVnFPeHRpdkIzc1A2U09FMHpUUUlneEhLMGZkQkdiR0lJMEphLXM1YWd3RFZpTWI3Q3NmQnF4SnVRaDh5MUVPT2JkTGIzZmltTDJoTzRNa3BlcGdiWlYxRGhNTFJ0MXJVWldELVBYQktackg2bkJn?oc=5",
-      "source": "Bleacher Report",
+      "source": "bleacherreport.com",
       "ts": 1790777832000,
       "tag": "league"
     },
@@ -104,13 +125,6 @@
       "tag": "league"
     },
     {
-      "title": "Hawks? Hawkeyes? GOP senator mistakes basketball mascots in probing Jack Smith - wbaltv.com",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQX29RN2tnZTdTUldhcnNrSGlpN25aQ3dpVFZEcndLYVJVSlBxT1FTS2prRWVCcEtzWTRkUlJsbHZKazFfWUcweFJSTmZsN0dEZnY3ZGdVU2JoZ1pBckpPdWZ1OWg4ZU1TRm4tYmpYUFB6WHo1RklMU3pwdGlBQkhMNTd0VnM2cU12UlRBaktGOXpRRmNwOTNF?oc=5",
-      "source": "wbaltv.com",
-      "ts": 1790771770000,
-      "tag": "team"
-    },
-    {
       "title": "Exclusive: Jared McCain Reveals the Friend Who Never Left His Side After His NBA Season Ended - Men's Journal",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQm9JeDkzNXNUNU5vN2hTX0k2NUUteDhPSWw2MnNJaDYxcjdQSmhxcnhiTVdOdlB5R3FNNlQwaDNLTG4wMTBURlQ5TGRoN19ub1NPRGl1VS00Qjg4R2xlSGVFMk9veXd1X2I0NWxPcWdab2lMQ1M1d2RZbDlMenVyNkJhMVozbFMwMnJIRGxHUlYxYnRYOVdHYVpvbDVHM200d0xibkpQTVBNZ2l6QnRienJndGRIdTltbW5Lb21JUGRwV1U?oc=5",
       "source": "Men's Journal",
@@ -118,32 +132,25 @@
       "tag": "league"
     },
     {
-      "title": "Schmitt on mix-up at Jack Smith hearing: \u2018My job is to ask questions\u2019 - The Hill",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ1hkckFCT2NDWFFFSVlWVjBBWVV0Ykp0RGdlNUVlV0pQQ3Q5cC1DeThHWlRmaUZZUWRnRkJGUXgwWDh6bjhsQkd3bXR0elFXczZ4NWxLTlpNSDFyUGR1S0U4MjF3a0tSZmxTQ0pDbFloOXRCZnZSX0pGSUlaYnM3T1VPSjl6Ti1tckR3Y1liTDdhc3M2aDJ4RjRsZHByNXpRTWo1Zm9WR1lUZ9IBrwFBVV95cUxNMGxmTE9fWnhZenh1MDRheUQ4NlBYMWg0SF9kRUFnYjRyMFNiQnJGMUZjNEM4NXlQSWt4alQ5MkNLcmRydVVZbkR6anZBN0dOSXdQYXlXeWZ3bjNyaXBEcktUSTNMUGZyQ0ZZWXZ6UXQ5VmU1YTZURnR4LVQ2dXVkR2pfZm5KVlJwY0FXelRCeURLMXhPMGdzSDh6WTR2S2tJc1JPclgtMzFIb08yWU40?oc=5",
-      "source": "The Hill",
-      "ts": 1790769000000,
+      "title": "Opinion | Sen. Eric Schmitt confused the Hawks and Hawkeyes and the political press had a field day - Poynter",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcjBRQU81WlFwZ1kzWlhXMU9fSXYwN1lNWGZVbGZiVHJNcHZrN3I3ZXFqc05Fa045MnJINFAzbW5USlQwdGplY1gzX0lfNmp3SGQ5RExJZmVqNXNzT0hlMW16WjRaLWhjSDUxUlVDOENWNFlPdkZlZXNMS0FYWFRhM2tOQVNpa0dZejNzWlBn?oc=5",
+      "source": "Poynter",
+      "ts": 1790767875000,
       "tag": "team"
     },
     {
-      "title": "Blockbuster NBA Trade Idea To Boost a New Eastern Conference Contender - Bleacher Report",
+      "title": "Blockbuster NBA Trade Idea To Boost a New Eastern Conference Contender - bleacherreport.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmo0SEloellHM0t0RHB4WUp4SDdYVE44OUlWNjNDc05DZkFvZE5XYWx4Q3BIcTFncFdYYVdjV2Jxd2tHaGpVWm85c2NuUmRZTU5QT0hTamVBY2hBTU5vYzBTWHFwLVZtM04yVDNEZm1fSFg1NmY0ck9HLTFaRzlSYkRRaHRWcHBud01RRENHTmpmVGZTWUNQNnE3QndwNTdlZkM0VWducUJmSFZaeFcw?oc=5",
-      "source": "Bleacher Report",
+      "source": "bleacherreport.com",
       "ts": 1790766876000,
       "tag": "league"
     },
     {
-      "title": "NBA preview 2026-27: What Bobby Marks is watching at 30 training camps - ESPN",
+      "title": "NBA preview 2026-27: What Bobby Marks is watching at 30 training camps - espn.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQa3BIenlzelNsdm5BWjhJN1p0YXMtWVFONFN0M0cwejV3enlSOEhvMHVXcElCQmRlNG1LUDBvSkdZcXRVLUFpTjEtd0U0a0FTZjhSOHpkUTMtNjBoUXhoUWV1SkF3a01lekw3SkVqTklCWTZCZExFckc1T3UzcVhsOTI4Y1F0VlJTX2tWSklYSk9IQm9neWxQQWlJdUlXRnZOZDJjN1RYeGFybWVlb3plcFFZM2FxNjVVM29lTXR4VWtfY01Yb1VUTUZtYmk?oc=5",
-      "source": "ESPN",
+      "source": "espn.com",
       "ts": 1790766000000,
       "tag": "league"
-    },
-    {
-      "title": "U.S. Senator mixes up Atlanta Hawks, Iowa Hawkeyes during Jack Smith hearing - WSB-TV",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZnJqMHFHV01NWTZSOXRyaHVNUU1xdFFGNVJOcWN3amJWd3c1eHgyUkdDZ2x3YUtSOHR0M0Q5TmxWcWNDamljRkhtSHJEN0gxVlZ4eWUzamF0WElrSmRFdDZ1NjRGUXN4eW9JZmEycFd5YWVrUnlDN2N0TnUxUWxrTXlBcUNJVWU5cERfTGNMcTFyWlZyQTBWUi1Zd0U1c2ZKTDBjNzVhdk5kOHpraEE2NFNPOFNNN1lkUl9oME45SHRZZUN4NDFFQ09wdWVFN0nSAeMBQVVfeXFMUDZZZ2hBYTh0UWd4bURQUGg2ZGNzS2hrTFJYZm1RQWttcWhtUU12TllfMVJ1eWpCYjlNb2lJeTBuZEszc2xWQVVWVGpFUFR2RE9iRzNTWTFNWVJyNXBEal9GUWdOdnRJSW9qV05pQlVDOWExX1lsSGpQQlpLdm9GcVdhUmtGR2Z4TG9IRWU5a1kzZ0R1cUN1OVg1b3NDU2dtM3FnZmFoaEhIZW52Um1fN0JucXBXVkFsQm5mWi1yeUN6Y0hfTlhUdGE3dGdNbXFSaUdCbmRadHJvV3AxS1NWRTEwNlE?oc=5",
-      "source": "WSB-TV",
-      "ts": 1790761961000,
-      "tag": "team"
     },
     {
       "title": "Potential Hawks trade package for Jalen Duren revealed - BasketNews.com",
@@ -153,24 +160,10 @@
       "tag": "team"
     },
     {
-      "title": "Caitlin Clark joins Nikola Jokic in stunning basketball history for WNBA - BasketNews.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcDNDV084LUJQVXltbEdyd3hCOXEwQnh0aWdkVExER2I2LVJsM2V6dGxEbnBIZTN2Q1JuSlRkYXgyME5iZTlRY0s4dkh0U3I4THVCcERXT2pWU0ZGRHc1S0I2eU5rWURMeS14ZGtaejRPUlJCTmFEc1AzLXB2SjFJZjdiY1E3bHMtSl8wQ3RBbmtLendpbkJfSHhwZWJHTTB3QkllT09zeGhIT1FuOFQ4dHdR?oc=5",
-      "source": "BasketNews.com",
-      "ts": 1790741671000,
-      "tag": "league"
-    },
-    {
-      "title": "Josh Hart Reveals Surgery That Would End NBA Career Amid Finger Injury Ahead of Knicks Season - Bleacher Report",
+      "title": "Josh Hart Reveals Surgery That Would End NBA Career Amid Finger Injury Ahead of Knicks Season - bleacherreport.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxON0U4endVR2x5VHJXcWxsVV9qcHFCdm5FWDlzX2lPSHJrSkVpS2RfTjFrVmlZRXZ3aF84QXFzME9LY0lZWnJ1NDMzd1g4Yk0yX2FyT1V4cmIwd1dzVHJyd2hreEVrTE1EcVN4X1dYSWdBNDJzVVFpelhBd180QVdvLXdIN0otMWxIREZoai12T0lienlvb3JuZzBmVFpscXdfS3Z1OFB2enNJdnhBenFjWkNTQkJVV0EzUkRIdU4tTVZ3eWloLXhlSkZn?oc=5",
-      "source": "Bleacher Report",
+      "source": "bleacherreport.com",
       "ts": 1790736663000,
-      "tag": "league"
-    },
-    {
-      "title": "Denver Nuggets, San Antonio Spurs\u2019 ABA-Era Hardwood Classic Jerseys Leak On Instagram - SportsLogos.Net News",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYW5fTWo4YXhvUjhYSG5tcUlsU3JXZ1lnVWN1RHFDUXhiSWkwaWVpdVpVcVNCLTJRQkpfOHRhMVJaRmxiQ01zM1RJTVZIdU5wWnBIRHl0aTVLVUVuV2lkdnlVcTd2ODZCdDRBYzUxMl94WVhueG5iMVRIZFYxQ3h5eFpqS2Rtd041ZGRtcFAyc3d4RENtaHJUR1p6M21ZcmpOT0IzaWJWWkxSZ0RrWGp0MkpUZ0o0dHBDd1VPR2hRSkVUeG9wcnhDc1hqRFQ0WlFU?oc=5",
-      "source": "SportsLogos.Net News",
-      "ts": 1790734945000,
       "tag": "league"
     },
     {
@@ -184,7 +177,7 @@
       "title": "New Hawks forward Lu Dort knows how to blend in and make an impact - The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcGU3R1lxN21SeDRhaFVNZDY5V0sxUGJKWGpoNXhWZFAzWTZXSy1mRldrcG9KUFFKdGNlOGl6YnpBS0M2LVA4dGExbE1ncGNraVEyNkVwTUJMQ3ZlaXlkVWFVUGpmc3dzaDVZaFZGU01TbWtmOUlfLVBtTVhNSC1QSTg5MlA0SHI2bkNWNFJGcHNKZjh0Ulg1NTdtQkw3cHpBV3pkWmhocnlnNHJDZE1n?oc=5",
       "source": "The Atlanta Journal-Constitution",
-      "ts": 1790729987000,
+      "ts": 1790731787000,
       "tag": "team"
     },
     {
@@ -195,24 +188,31 @@
       "tag": "league"
     },
     {
-      "title": "GOP senator airballs perjury claim against Jack Smith over apparent Hawks/Hawkeyes mix-up - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmJtUGxfc2w2NG82aU1xNUhjX0VPSGtzakhBdG1oWnVqRXJ2alBTWGt1c2RvUWd4N2xEZTJ1RnNVbTN3b2plZEw2TE56U0RhYk1BQWFkZTFZN0lOR25tYWllWGhHTUhNZ1lBdmJjSGdvWk15R0h6VmVlcEc4MW1jOWdfbEdoTGJiRlctQTBIMlBELTRhNDloQTVNRkJrQXBYN0J1QWFn?oc=5",
-      "source": "NBC News",
-      "ts": 1790724961000,
-      "tag": "team"
-    },
-    {
-      "title": "Iowa Hawkeyes-Atlanta Hawks confusion derails Jack Smith hearing - desmoinesregister.com",
+      "title": "Iowa Hawkeyes-Atlanta Hawks confusion derails Jack Smith hearing - The Des Moines Register",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOM19BdUFBS3NvbHZIMHJTQ0pXWUswSHFDOV9yNEc2TFptTUVWV3F1XzJ1TS0ycGFmVDZ1ZEVZeEtsQUVmWnhJNDdOZ0ZkWUR4MkdKM09YZGxqRGRKVUhhOHpCazhoQnVvQ1JLanprMmc0ckluc1N2WUV0cDJWcFJyRnBLV3NuQlMyQWZweGQtaXFWOWJSWHQycTZJcUJiSVdjbUw1clEyeUV1X1lMT3E5V01HLXFTTDJVelZVRUstVjU4Nkc2UmFqOTI1c3Ixb3diQVQzcW44WnVFZVA0OFRwSXVYQTR5MUZvX0pr?oc=5",
-      "source": "desmoinesregister.com",
+      "source": "The Des Moines Register",
       "ts": 1790722140000,
       "tag": "team"
     },
     {
-      "title": "Why AJ Dybantsa feels \u2018super blessed\u2019 to be a Washington Wizard - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUEVFTi0zNFhTZ1JsbnRldlNJbk5qNE5aWG5hdHdWMVJaSU5YejVDWERhMHBBTWtGU04zbGpydTJDU2NOXzZJbEVxSUd1X1dVNUR0d3RwNFozS2ZRVjF1ZjNOaGhMb3NuYlRwTWxNWi1qOW53Sk1JQXJGQlhnbzgxMGtwY0lpcjQxQmotS3MwS18tQVh4VWtTYXRNOVZJTUM4ZFhLT0JKcnlFNU1FVEFZUw?oc=5",
-      "source": "Deseret News",
-      "ts": 1790720547000,
+      "title": "WATCH: Schmitt suggests Jack Smith perjured himself about a basketball game, but mixes up 2 teams - PBS",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnYxN01oZGhjdExkMFEtOUJlUzdjSldGdlZKZGg3eVd0QzdJSGh3OFM5NlJPOHRieEZQakxPZEstaTM5X2hBcnlNSWQ3c3gwVlYySWJma3R5NW9ZbXI0Y2IzVWFFV2V0d1ZQQmZEd1lYR1RFX1Btb3NOWWxqV0JVdU82VTZPTGMtX01aN0JySFlETFVPUTVmR2JGNF92b2EwNElQTVNVaUdFR1FJeEhXWEc1cmhsdnRtSXlTMjlqZkR6RzlCTGhSUnVwT0pRUdIB0wFBVV95cUxPMWd4ODVYeEZqZ0VtenZiVmtrbGJOT0FpVS1JOElJX3BkR3dLb3NuMTJ0LWJENDhZYnRPTjNXT1hDVlR5ZXF5Y2JaS1NjWTZiRnl2eTlMbGJ1anhQR1RHbUFnd1VYUDdkZHg4SGlTUV81Wm1TMnprX3g4TUlzTk1kTlFvSUw1eFJiM3ZNWF9HcU80VEZkaFAxX3NOUDMtazFHQ01NV2pQUGhNSG95Vmxqc3FLN0ZQY2pjaUd5V2pPa0RtQ1EyMjdidTZ1OEZDTzVwQVNN?oc=5",
+      "source": "PBS",
+      "ts": 1790705022000,
+      "tag": "team"
+    },
+    {
+      "title": "Gradey Dick News: Could benefit from Ingram injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeklaWG1aZ0hFT2xESVlSanhHOWNVd3Z5dDc1YTRONExJdFVUVXE4akh6ZDdsbFZXY3QtWTdENE1fc2xRQ0txQXZtVzN6bkctcXZzeFRueGlHOE9qX1EwZDZad2NoRkJiMEF2ai1DNG03NXAzSzRZNUJ2N0NfaEE3aDB2MElRbGZuZHpRYlY2S0lURnM1LWIxMEpZYW42WXphVTZGcA?oc=5",
+      "source": "RotoWire",
+      "ts": 1790701790000,
+      "tag": "league"
+    },
+    {
+      "title": "Proposed NBA Trade Gives Lakers 6\u201911\u201d 3-PT Shooting Demon, 2x Blocks Champ - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQY3Zhc2JlOGR4Q0NKR2d4VDJuRE1sSUFKTlFINm1BRnV2YXc0M2tPdmd6endfSU5rZ1ZBUWJSQkNIX1hRWm5zakJrbnQ2b3EwcjlVdGoxS19penBVWWlLNHdoUnZEY1Rxa1JESGhYT2JNR0l6ODVfSmUySUZ0Y2ZaSkNRakRJREF6SUlXQ1ZR?oc=5",
+      "source": "heavy.com",
+      "ts": 1790684593000,
       "tag": "league"
     }
   ],
@@ -523,6 +523,9 @@
     "nbainsidernamesrocketsaspotentialkyrieirvingtradepartnerspor",
     "nuggetssignryannembhardon2waycontractwaivekjsimpsonthedenver",
     "4teamnbatradeideasendsraptorsrjbarretttohornetsyahoosports",
-    "jalenwilliamsinjuryupdateokcthunderstartotallyhealthybeforen"
+    "jalenwilliamsinjuryupdateokcthunderstartotallyhealthybeforen",
+    "nbatraderumorswarriorsquestioncelticspaulgeorgejalendurenfut",
+    "lakerstraderumorsconfirmedasdaltonknechtorjadenhardysetforde",
+    "longtimenbaerdangelorussellsignswithchinasshanghaisharksspor"
   ]
 }
