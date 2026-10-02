@@ -1,22 +1,64 @@
 {
-  "updated": "2026-10-02T15:08:27+00:00",
+  "updated": "2026-10-02T19:55:07+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 2,
+  "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Cedric Ceballos gives his verdict on the MJ-Kobe-LeBron debate: \"Never seen a better all-around basketball player\" - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMXRCejNRMm9rdmJndFV2Ty11b0ZpMURrdWhtcTV5QjVRbmpwR0tkYzZicWZjT1FEX29ibEtpOGxPZnVONjhaMDJHajlUc2I2VnNRM2trSW1UWkljNmtQSHFfR2x1emdadExjTVZlVjQ4WVBMNUx2dUp0T3daa2VSNHJjbWxaWVNL?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790952096000,
+      "title": "Trail Blazers fire new TV announcer after racist posts resurface hours after he was hired - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPNXJiSUkyU0VBMDF3ZGlDcmtqaXUxOFJqS2VHZmxqSTgtNE5CODZlVjJ0R3lHMkJhY0FiVEg3R1dET0ZJaml5NjgzdEtpWm1pTl92cnhhbGJaMXNybWo2cGg4S0otN3JDdW5lckEwM29yYnNEREdEQ2Z2LVNJQzdRcVlGLVBKdEtpRVZ5Qm55TkUzVGc5T3B5bHhiR3ZLZVp5Vlp6VGtEam11RmRlT0R1Ym8xUWhwdnpJOE1NUklUMk4wRVlfRWFIQTFR?oc=5",
+      "source": "Baltimore Sun",
+      "ts": 1790969684000,
+      "tag": "league"
+    },
+    {
+      "title": "Luka Don\u010di\u0107 petitions to bring daughters to United States amid ongoing custody battle - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGtUMmZkMEt5X2YxTm1QS3RxbFBHdk8xSGhuSE5MQmxtc3BFWFppNzF4UDlTWmNpbm85UmtxamdSOWJ2Qjl4czNyTzBUUGFCY1ZUSHIzYTlPLUNGRzdzeHJDNTdtWU1NeWJNYXo2OG1XTjlaak5lVERIZ0VKZk1wTDgwOGg4b0NmSUJVbWZ3a21hX0NyMUE?oc=5",
+      "source": "The New York Times",
+      "ts": 1790967633000,
+      "tag": "league"
+    },
+    {
+      "title": "Jimmy Butler Injury: Still months away from returning - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX3BWTlJ4QU50TnBOdU9yeFBKZ0FENndyVmExdEQ2Tk13Q0lIMjZwczhOVzBLeVZlRTE1ZXVNN0JLVThwemtfY1Vob0lkNFdqRFk1d3BaUGk5cjRXRDRYRVkwajlJdXZvdlp3RjhqamFJTUpmeVl0TG9QYWlpOGJuS0FKbVpSUUc0bmJPSldEaUpqYWk1UnNSSm9tR2lyVUVkVW1YT0FudlA?oc=5",
+      "source": "RotoWire",
+      "ts": 1790966932000,
+      "tag": "league"
+    },
+    {
+      "title": "Keshad Johnson Injury: Tweaks hamstring - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMThuUlh5VnkxYm1VN2NJdVhOYk5VeTQ2UzU3aGtVb00ySUdVZ1V2M0tjaGVSYTZaekx6LU4tdlNPNUd2czBXQ2NsbFZJRlJjckFoSE1xSFRZaTV1WERvZ29iUUZZUVhpU2NSenVTRlFfSFNTMUNMQ3hLTy1wRmZ3YjdFcWNtclZZelhRcENEelEwR3cwVXc?oc=5",
+      "source": "RotoWire",
+      "ts": 1790960716000,
+      "tag": "league"
+    },
+    {
+      "title": "Noah Penda Injury: Trending in right direction - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU29oTHc2SEFpMnhmOW9pMEptdWhiTWtTVmJIWU1EZld5RmtJODJmRngxRlpVTmNpSUtLdEhOZXEzRFN5UDhkUktUSFlSYmZYd3JYRXNVSXZDQk9FMDFWV3F5OUZpT2dpSGk3aWd2ZEtlM3c5a3ljR2lvUHZuMHNlX21sWUcxUGV0SG8zMnhHMmRyZllVeXc0N0ZMQTJRLU0?oc=5",
+      "source": "RotoWire",
+      "ts": 1790960543000,
+      "tag": "league"
+    },
+    {
+      "title": "Anthony Black Injury: Making good progress - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmtFcFlKdHNHQU1FYzhmbXVBQ0dKbzhudm5jZ1VuU1o1SXNRY0RCQ1dlenI0N0lDZUNONzRTU05RNHFzYWxKdnkzV08wVmZCeFc5MHpFSFRNTTNvVHlaTUMxSVIxM3lPaTc3NnJsV1V6MVRuSGs5TGdxZnYtZndrZTc1VlM5ZXloVHA1UFlqMGgtamJOY3VGSjZn?oc=5",
+      "source": "RotoWire",
+      "ts": 1790960466000,
+      "tag": "league"
+    },
+    {
+      "title": "Former Celtics fan favorite suffers injury in NBA comeback attempt - MassLive.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmNRdzhlYXUtXzhxVVZuRDFPUHJhRVZFWDJyX0ZnSGJjRkp5UkJBUVI2TXU2NGdJUzZHRlR5SlBibUkzSkszRmhhRjcteGhyQTRRdXZJZ2ROYTJqaXhIdkJWU0VEUmNRbE9fUktWRGFkd3doUmlyZ2pfeG1sRWdueHp2aFRXYjV6Q2hqbFY0Zk1kdmFLN1NLdmlTaElna3hkcmpfczRHUzZDN0dVR1g3UWRn?oc=5",
+      "source": "MassLive.com",
+      "ts": 1790959320000,
       "tag": "league"
     },
     {
       "title": "Las Vegas expansion team\u2019s first NBA season could be delayed until 2029-30: Sources - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNcnhEWkxST3g3aTFSQ2tMQlpYbUNVeGsyV2Fzc1VnWjUzSC10MXJLeXBkUmJvcUltdGpxeUxQajVmOW9DbV9CcWlOZUdMZVBaaGl5dVU2a2xDcHJRUjJFOXZjcUloX1ZBWkd0V3lNSm9La2ZTN0paUjY0UENrUFEyRWV1ZzRzQ1czNkl4UGUyZEF1dUlmeHZUc1JSdXRsWUhHSHc?oc=5",
       "source": "The New York Times",
-      "ts": 1790951261000,
+      "ts": 1790955540000,
       "tag": "league"
     },
     {
@@ -28,16 +70,9 @@
     },
     {
       "title": "Who is Braiden Bell? The broadcaster fired by the Trail Blazers for controversial racist and misogynistic posts - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZVNnNmdsQ0RVZUNzazJNRDFhVGUtamRBWU5YMVRlRVBmQmNTQl9NZ0NZUXN3eTBfMmxGWWV2THN1OHJWS3htYlFjTEhDck1lOVN2S0RCdzFGQmExUjhrZ2g0djZmanpXbWg0YkpQbWcwY0tsZGptN1dGVWd3ejQ3QnI2WllDaVdSTlh0YlQ4VkxuX01seVpnVW96M0tQcUNuS3lKQmtZWUJJYkFGcm5Pb2R1S1RrNDUyV1ZrWGpINDdTd3V2NTRsNi0yeXROWDA5OXFGaFRYeGdqWkppOGpUSTJISndQZW4zdThfV1FobXhYMDhlN2ZIOUxfUTNJNHRBWTg4ZmRHdWcxb0xwY2tGN2oyT1RkUXBD?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOZVNnNmdsQ0RVZUNzazJNRDFhVGUtamRBWU5YMVRlRVBmQmNTQl9NZ0NZUXN3eTBfMmxGWWV2THN1OHJWS3htYlFjTEhDck1lOVN2S0RCdzFGQmExUjhrZ2g0djZmanpXbWg0YkpQbWcwY0tsZGptN1dGVWd3ejQ3QnI2WllDaVdSTlh0YlQ4VkxuX01seVpnVW96M0tQcUNuS3lKQmtZWUJJYkFGcm5Pb2R1S1RrNDUyV1ZrWGpINDdTd3V2NTRsNi0yeXROWDA5OXFGaFRYeGdqWkppOGpUSTJISndQZW4zdThfV1FobXhYMDhlN2ZIOUxfUTNJNHRBWTg4ZmRHdWcxb0xwY2tGN2oyT1RkUXBD0gGYAkFVX3lxTE11c2VzclpHMzAyd1BJRW1EQll2c2wtbVlPLU04MDJXSEM4bjc3ZHdPVk0xcG1hV2Zpb3l1TUU3anV1UUZKcDJDdFJwU2JPNkU0aHd3S3ltaE1TR1pWeEh5YmxsbU5pcGpnZjNITTREZFhzWlFHWlhFMnpWMFk0bUZ1YXdJd2pUZTlxb2l0QzNRdmxlUUhZeG4wWjJFZnZRVXlEcGZEV3JBSWc5S0Ywd1FyQTVJQ01DekN2Z09KUEdvcWEwTjU5bDRYazdvd3hWaExDTnB6dTVULUZUQW1uRUtHd0ZLWlhQZDQyd1phMXlCMGlIMjdHZmRRbVZaaGVNSzgyQVdNS3BGZDl5NnZ4YWYwclBzVFJlLVc?oc=5",
       "source": "MARCA",
       "ts": 1790944926000,
-      "tag": "league"
-    },
-    {
-      "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHlsOGs2WUdRWUJ1MkdnZGg1QVY5aGJyOElMTHQ4VnBhQjA0dXRvX1F5WVdaOXJFSUJWSHFnYlY5X2w2Zk1qYnEyNmg4U3QzS3hWSkN5YTBUSlRJZlBpZF85V2FPZ1VOU3FiWlU3XzFsVGhweHZ6Tlc2bEdLb1E5REVGQWw1UQ?oc=5",
-      "source": "CBS Sports",
-      "ts": 1790944206000,
       "tag": "league"
     },
     {
@@ -55,10 +90,10 @@
       "tag": "team"
     },
     {
-      "title": "\u2018Didn\u2019t allow it\u2019 \u2013 Deion Sanders reveals he was close to playing for the Atlanta Hawks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONi1SZUpzVHFBdmRtZXRlNGdFa2djUWRQWTEwTjE1UHItTGhNWTN5d3FaWG5xenNYRGRDZXZ6d041ZkxKa0dMZXRPVUZnMVM4bVlUbUVYUTg3VUpYejNNbnF1RVltQzR3YTZsWDM2LXluZVBpMEI0Zlg5M1V5TFExaw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1790934047000,
+      "title": "\u2018Didn\u2019t allow it\u2019 \u2013 Deion Sanders reveals he was close to playing for the Atlanta Hawks - Yardbarker",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWmJqeE85d1ZzSlUxRWFpWkJ5dThKR21RN09VNEt2QTYxRVVBekFlYjdVS3RkdGhtdWlQelpOeWpfekNTWU1BN1BiVHVFYmFMNFBjN3h3aE54ZDlrS1ZVM252RFpIZTFZcmZBTUd5RkRPc1VZaV9SSU9fVWhGcllDQ1RKY0gwQjk5bUpjYWxsV0QzVU05NzJYRlZvSXFMczVxOVlyeUZaNE5rVHd4Y19feDhIekxMZXVUWjdvRUZ1aW1zT2NPdVJNNlR5b2RqNkhxVjJGbnVLYVh1bWxWOXMtbFdJcFlQdw?oc=5",
+      "source": "Yardbarker",
+      "ts": 1790932461000,
       "tag": "team"
     },
     {
@@ -69,10 +104,10 @@
       "tag": "league"
     },
     {
-      "title": "Trail Blazers fire new broadcaster after misogynistic, racist comments surface - KGW",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZU1xekRHY0NWX1R4WDBEREY3ZnMyWkd6Z1ZURDl6VUota0FEUTlNZER4eDBHZUpDMG5hSXRYOVRFNTNYbXNocXppX1hILUtCWjNGelZ1UmV5aWU0N2pzb0JhTi1NeFFPd3ZPMFR6dTlydzRlaGNwemZ3ZldRakJNcHhZYlk3b2Nud2FYTWh5aDloaDlDdUxhY1hBUkpsNXBJYzdma29rQjVaZVFaVFRQOXh6ZElwSHNXR29QbEtOdlR1T1hkNWdzcWY1WnFTMFlWOFRoRTY5TjJTSmw2cGZHdVgyaGl2dDVTU0NuMzdPLVVVekhVV00xaw?oc=5",
-      "source": "KGW",
-      "ts": 1790910060000,
+      "title": "Blazers broadcaster fired hours after hiring for racist, sexist posts from teen years - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1NKLTdWaFpNSGdEV0diTTUtSlIwQU5CQ1RFb3FkMWJhSjdGcWxsMVRJVjJ0N21WS0g0VzBHQnFpamVwY1VXQzg4WkQ5WXczVEpQQ092VXpRQUFMWWlodWlpeE45UzlIcHlPNmEwbFluZHBObDFZOW54Z2x1NkFQTEx4eTJHNFJfOXlDZEMzYWE5Uko5akhZaUN2YU1YM3R4OG5N?oc=5",
+      "source": "The New York Times",
+      "ts": 1790911762000,
       "tag": "league"
     },
     {
@@ -90,10 +125,17 @@
       "tag": "league"
     },
     {
-      "title": "Hakeem Olajuwon\u2019s son makes college basketball decision - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVFBVTVdQX0Fielpab1QzZU1XU1d5ck1YRmNFOHJncHh2YjIyWTc5RThKaXZKUEpibC1RVUZLZFdCY1doNzM3ZWVIa1Y2bjRUQnlNVnZ1NTl5c2s3enh1RDhzWWd6QTZQQU1IbVBvVDRfRGduTmNtU2dNNDFSbkhmdEhpQzFwbmRic1lzb2VRZkZFMFU2cURJ?oc=5",
-      "source": "New York Post",
-      "ts": 1790894520000,
+      "title": "Atlanta Hawks\u2019 Lu Dort Has Eye-Opening Outlook on the Team This Upcoming Season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA5QWg3bDJSaVFfNU1YOXdIMWZpc2k0RG93RzhacHdxaUlmUGViNWFmZE5mMkZBUXotLXJOWDJHOVBIQ1lDZEpZYzA3c2hwMWJfaWRGbUNVZTAtaDhlRXVvWDNvTTEzdVJ0S05FLXFuQ2dZd3FqcnpGSzZjVjBkbDg?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1790895772000,
+      "tag": "team"
+    },
+    {
+      "title": "Jamison Battle Injury: Sitting out with back issue - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTHZ4dTF6S29Xa294bDNvTlZ5NVBLdFZOdXV5bGI1a25XeTZSNjVNcnpodDY1aWFVMmRRaE1pWGJRR1hMaUJrc2pwMzFlYzZsMHZfQ1lNMFVMNHB2NGRhME1wU0x4VUNiS0wtUjJFYXNYMml1YlQwcEVXVW5SeXZyekJTZGg3aldvZVZLQjR5M3JaeVZJdTlITlp0S2hleWtLMW5yaw?oc=5",
+      "source": "RotoWire",
+      "ts": 1790895605000,
       "tag": "league"
     },
     {
@@ -104,24 +146,10 @@
       "tag": "league"
     },
     {
-      "title": "Son of NBA Hall-of-Fame center Hakeem Olujawon makes college commitment - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTS14bThXOUhWaTM0aFBRQmRyVFBoLW15VW5VOFlvUl9WSnJIYlhuS1VNVVlPLUdtWDlYU2wxaVZuSjZGVHJaaWd1OEtuSkp2R3Q3MFNaYU1Sa2hJSjRRUmRXNHI1Zk9WcS1lNzBEbnh5UWRvNm13RmR5RlI1LWlnc2lQX1ItSUktQ0JqTERweEdKbVo0bVlaa1JXR2tMYUx6eXE1amM0X0E3NEhqWWVlLU9SVjZQYUhLcENULWFhOGw4dVVVMWhibXRybG00ek9vS3ItOHlMTDNCR0V5alF4dDAzckE3QQ?oc=5",
-      "source": "USA Today",
-      "ts": 1790884320000,
-      "tag": "league"
-    },
-    {
-      "title": "Abdul-Malik Olajuwon, son of NBA legend Hakeem, commits to SMU - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeU4wN2NDd3dhZW0tYTJ3QUZKRElsV0kxTUlQdnY3VW55d2VoYnhzeDBkV29QeGRkUVhiWmdpVUJjQlZPQUR1SHBMT2hKMk45Z2pLN00zaDZ0MUdDZ0RmWGZ1SjM0c0E1NWVBdTNiNERTTzFiTjZCQ0RTTlFhM1puUGRSOEJyckNpSGt3V2ZfVEh5TkFWOXFwOVVfc3EyNy1teVI3OHVrVjM4UjBQZV9UU0xnTDFpbUpEWjF3?oc=5",
+      "title": "Spurs' Victor Wembanyama not interested in promoting betting sites - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaV82UzduZFBUcG14OFFDZ2ZQdWlWbnhIMEdrTldLOV83SlprV3dSWkN2dEdjM2R0YmRkaFZPVW1hOVZpOFZwRGM2NUJhQ3doVHZLbzBMNmRFdk9od19VWmpFMDU4VU5VeHhKZWZSQlloYXFWVFBvdjZ4TWFvLXZocEVhMERUVW12T3N4bGhtS1dXcWhVMzVibFFhenQ5a2lrZWpuY2x1STh3UTQ?oc=5",
       "source": "ESPN",
-      "ts": 1790882220000,
-      "tag": "league"
-    },
-    {
-      "title": "Tristan Vukcevic Injury: To miss four weeks - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdmVFM0VPUEFFVkhDbTJsbjNGMjNLS3hhY2ZHejg3YnU2NkkyN2xfenZPaUtLRmIxU3cwWGlscXRxRlBTXzFqRGdKRG5RdjFpR1pUWmp6TUhwVTQxYmFzREwxVUJfeFpsRkJiWHRzMmpBRWNHeW03NmhuaG41ckU4WlBLdWN1c1lQbjlzbVNsTkJKM0h6UHo2U2F0RQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1790881904000,
+      "ts": 1790881200000,
       "tag": "league"
     },
     {
@@ -132,32 +160,11 @@
       "tag": "league"
     },
     {
-      "title": "Adem Bona Injury: Re-evaluation coming up - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNklqc0hqQl8yMURJSmdmZnpybHlxM0lDUGZnN0wtMW8tNnFSaXN0a193Rnp0Q01oa0M1Z05rUUE2VUQxdGl3WVNZSVlXUTlINVJuR291Vk15YlEzMXVsQjNsQi04T1dSVkd3bEw5Vll1bzRTTkxiZG1aQ0ZWMTJMTEZGaGs3NXNaZW1LUUNZNHlUM0t1T3Rzag?oc=5",
-      "source": "RotoWire",
-      "ts": 1790874715000,
-      "tag": "league"
-    },
-    {
-      "title": "Trail Blazers to name Braiden Bell as new play-by-play announcer - OregonLive.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaGZoR2xtR09hc05VV19jbmE3eFQtLXRZRHFvUkh4LVBsSk9YNl9UcWlab1pWckJ6N0FaZVY0Y194dUlOS293cm4xblV5Ym5OdVV2T0IwRnl3QVNWRXA1TFZxMzVQTmxFWW9xeEx5dmcwMnVkUEFOVGNfajNVZW5yWlNEZkZ5WWJJS1V4VlBoZjVVLXhaV0pmNktuNWpNRlRyTXVGVzhvOWpjdWlibTN2b3FR?oc=5",
-      "source": "OregonLive.com",
-      "ts": 1790873220000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks have perfect opportunity to take NBA by storm this month - soaringdownsouth.com",
+      "title": "Hawks have perfect opportunity to take NBA by storm this month - Soaring Down South",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTXI3UEI5blZDLUhNWW1jNHlLNTV0WWR0aDVrWk9RY0JVRENwRXQ3OXF0Q29CUU5XLUhSanNab0dvTlVCdHhpbEtjSVV0cWloSk1UcGlkUE9IWEtmX3dIVTZZb29GWHJnUl9kb0hJQUF6M2FEUTB6Sy1YMmNFNC1sTw?oc=5",
-      "source": "soaringdownsouth.com",
+      "source": "Soaring Down South",
       "ts": 1790873100000,
       "tag": "team"
-    },
-    {
-      "title": "Dru Smith Injury: Tweaks right calf - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM0hGMnMxZloxX1JzbjU1Q3JxUHpfcDl4aGluRFdWa1JLVE9IenZ4dWo4TzZzMUFkQ0tIRmFNeHI5TnRhdEZ6d3FPb1I2V2FFVnJQNHRDYUZ6ZXFFN0JGUVdJTkZ4dzVHamVhX19KbTJxeVZENzdOQ2U4WTRJY2YwZVhCU0R2bVlLQkVtNTVnUGY?oc=5",
-      "source": "RotoWire",
-      "ts": 1790870729000,
-      "tag": "league"
     },
     {
       "title": "What's next for Jalen Duren and the Pistons? Here are 4 sign-and-trade possibilities - Yahoo Sports",
@@ -188,20 +195,6 @@
       "tag": "team"
     },
     {
-      "title": "Anthony Black Injury: Dealing with minor ankle issue - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQa0tMUE5qTGMydVZGUWdZOFlicXlDZTJlV3EzdzZqVDIwSWxVZV95MEtXY1VNM21BWms4R2s1Nkc4ZGhrMFUtUFhNZElTTlB3a1lSM2xkME5YQlNLVDJqY2xuNVR2NDZVdWxvWUJhSm5EUWRHcnVTUzBUQU5uNDlyblpBUmJ6Y2xtcmVlR0tlWHYzd3pselQtVC12bUI3MGMtR0VEZEFzaw?oc=5",
-      "source": "RotoWire",
-      "ts": 1790784559000,
-      "tag": "league"
-    },
-    {
-      "title": "N'Faly Dante Injury: Cut by New York - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTHhtWDRQakJuZjI0UlNfV2FmbXRmQ3pUSkFtenVfOHo3TnQ3cEdUemVWQk1ObDY2aHRWYnVDd0NxVC05VE9FVF95OHFvRm5IOHAwcDJPS3NuOFVIanAzMFdOaXlPZTRFTmtfTXBya2VLTS01TDZXOWFKenNWdHc0N1F6ZS1fYndTVDZabUdsaF8?oc=5",
-      "source": "RotoWire",
-      "ts": 1790777223000,
-      "tag": "league"
-    },
-    {
       "title": "Blockbuster NBA Trade Idea To Boost a New Eastern Conference Contender - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmo0SEloellHM0t0RHB4WUp4SDdYVE44OUlWNjNDc05DZkFvZE5XYWx4Q3BIcTFncFdYYVdjV2Jxd2tHaGpVWm85c2NuUmRZTU5QT0hTamVBY2hBTU5vYzBTWHFwLVZtM04yVDNEZm1fSFg1NmY0ck9HLTFaRzlSYkRRaHRWcHBud01RRENHTmpmVGZTWUNQNnE3QndwNTdlZkM0VWducUJmSFZaeFcw?oc=5",
       "source": "Bleacher Report",
@@ -213,6 +206,13 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTkVZVDJqc2JyVWR6ZlQtUFpJUmhIY2sybmlHU3JLVHZCWW9XY3dCTTRTR3hWUnVVdUVYLUxzYW4yeGRUeUlBTDItdVRYS3V3VzRSVGRXbFRqV0dGdlJubG9rYW5vMlMxUnFTdnBQN3dmbE9wQl82TjNmVHRQWC1LMzRIeUVVNEVLWmJkRw?oc=5",
       "source": "BasketNews.com",
       "ts": 1790751120000,
+      "tag": "team"
+    },
+    {
+      "title": "Why Caitlin Clark was at the center of a Hawks-Hawkeyes mix-up during Senate argument - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOW1WSTY2b2lPc2dWbXJ1M2tfNWhGbV8tRjRoNy1xODBaeEFzdE92ZHJmWXYyNVo5eVRHWFhkNWVkZElha1YybE93ay1lc3IzTl9CdndMXzFXSmVRZVdRcVRQMzd2WHF5c1BvVHlfWUVGeklvdURhSDBDUmtvSDNSV0tUcXNWQ2JxNzZWTw?oc=5",
+      "source": "The New York Times",
+      "ts": 1790734158000,
       "tag": "team"
     }
   ],
@@ -543,6 +543,11 @@
     "jamisonbattleinjurysittingoutwithbackissuerotowire",
     "formerdukebasketballstarhasinjuryaheadofnbaopeneryahoosports",
     "regradingtheknicksblockbustertradeforkarlanthonytownstwoyear",
-    "milwaukeebucksjoinnbasinhousestreamerpartlybecauseofgiannisa"
+    "milwaukeebucksjoinnbasinhousestreamerpartlybecauseofgiannisa",
+    "jimmybutlerinjurystillmonthsawayfromreturningrotowire",
+    "keshadjohnsoninjurytweakshamstringrotowire",
+    "noahpendainjurytrendinginrightdirectionrotowire",
+    "anthonyblackinjurymakinggoodprogressrotowire",
+    "formercelticsfanfavoritesuffersinjuryinnbacomebackattemptmas"
   ]
 }
