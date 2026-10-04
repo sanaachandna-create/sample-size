@@ -1,22 +1,64 @@
 {
-  "updated": "2026-10-04T13:22:09+00:00",
+  "updated": "2026-10-04T17:42:18+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 3,
+  "pushed_this_run": 5,
   "error": null,
   "items": [
+    {
+      "title": "LeBron James\u2019 helicopter commute to 76ers practice sparked fan anxiety and Kobe Bryant comparisons - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMW03a0xwZmV6RU1UQUlXTUZXbXJsSlpTLV9Pa21UODNlZHJwc19iSjl2Ul9wN2IwbVVLdjdyVzVrLWRzZkxWTGt4b2N0RXdHektrX3FDYnhETEhLcUNWa3otQWlKZFlrejNHWk5qU0FMaktmOGd2QlRXeGFlMWNHVWl2ZnZ6QV94Z0JZYml1UQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791134269000,
+      "tag": "league"
+    },
+    {
+      "title": "\u201cThey want their Black athletes to be Uncle Toms\u201d \u2013 Charles Barkley blasted Philadelphia media over how it treated him - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZjhYT3lzVWdOcWRRNnBIVWtkZlFlMUItRFVZbU01WnY5MFBEU0hEaGZta1U5d2ZjdnJqR2l5N3RLdXdkenRNMDktc3oyX2ZsNFplRndSTUZxQy1KZXBtazhPaThodEdfNVRtaTNJTzMyZzgtb0Rfdm5YeFR0NHJZUVpMRndNdw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791131947000,
+      "tag": "league"
+    },
+    {
+      "title": "Noah Penda Injury: Participates in Sunday's practice - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNd3g1WENyR19YaURTYTBoXzRyYjJBOGNFMFVtV3l3N1AtMzlmdXdGblVtUmtYWUMxTUc4NTlYdXZrSWJmSWppUVhVUGhEVjBtRVliODJ6ZlNMYXZ6M1V5RmpKSEFpdGU5Z1lDT2ZyMERKeXFtN2dGdXBoOXBBRWpIMkJaQk1XdVFabW4tRTF0V29NV3YyU1FUTWFTR21qaEhvRTB2OVp3?oc=5",
+      "source": "RotoWire",
+      "ts": 1791131659000,
+      "tag": "league"
+    },
+    {
+      "title": "Anthony Black Injury: Practices Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUHBwWERmXzlRX3Nsc2tuUHdneS16T2lidnlKSldVcVZ2SmRzcmZMZEdwbUd1LVhfbWJ3TTVCYmlUNFBwTWdTTWhqbTlIcVlOamRCUHZ2WVJVUnFCS3V5X0F6YUo2cG15dEUyZVBMYW5pdUVBekZIeFRBMUt0WnBraElWOXUwRU5hNnN3c3V5c0w1ZWtx?oc=5",
+      "source": "RotoWire",
+      "ts": 1791131368000,
+      "tag": "league"
+    },
+    {
+      "title": "Quenton Jackson Injury: Not scrimmaging Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSmdXb20tVXJocV9TQVhzUWdkOEJHSHNua1FqU0F1ei1GZXdEYjhpbzFucmtpS0xiREQ5RkY1dGcwSEsxcktGdUdrcnFaVGoza0NrWnZBSUp1QnNNUUd5eWJZbkhSN0dWd3ZSUl9heXV3NkQxaTZvd0loVFltaVNGS19JU2lEdTZTcTRPOUw3UzAxRFBNSDBINHN3SEhyVm8?oc=5",
+      "source": "RotoWire",
+      "ts": 1791127518000,
+      "tag": "league"
+    },
+    {
+      "title": "T.J. McConnell Injury: Won't scrimmage Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPemFGbWFBQURDNWZmUmpISjZoeDJ1M3JQNm9hbU5NQXlvNFNBYjFRN0pQaXJ4VWVfLWo0dFJJLVktZHZTaFlfWGZCOC11TE5Rdmd3d1ZKMkNtay1wenlEeTlSdWRCYVljejJCTzd6UllQLWR3bEtLUmlGS1AxWXdydnF2N1oxcWk0SjJZVVppMG1RY3o3NGRrWHBB?oc=5",
+      "source": "RotoWire",
+      "ts": 1791127313000,
+      "tag": "league"
+    },
+    {
+      "title": "Larry Nance Injury: Not scrimmaging Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUpTZXdBUEpYb0I2QzhBSHBacDBmLXZxQjVZSlY2UGx2QU53d00zbS1fRUI2M2w2ZDJTTTNXa0p2LXVkSmp6VnhhZlk5WUxzUnFJMGpoMHQ4dzBHYW4yWVUzVnFCRVNyQXE1Q3RpTFhDVUFjeHR6bTZOMDFmbHEtN2RNbE1kZ01KcDgtRlBVRE5OaVF1UFlkSUxn?oc=5",
+      "source": "RotoWire",
+      "ts": 1791127075000,
+      "tag": "league"
+    },
     {
       "title": "NBA Trade Rumors: Lakers\u2019 Bronny James, Domantas Sabonis, Warriors & More - heavy.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2NHWjFCWHVnTWhCV1ZMOU0zc1Qxa3ExaWk3bms1SmxwUG5LYXRJS0s5b1I5ckpyZjltY1JXT2ZtcklRa1VNa2Z4WnNGVF92N2l5THVHR3owZFNJM3Y2dnB5dWxEaUd6NURtODVYX0UybHh1UFc5M0lJREtubS1CUmdJSFZSVEhXdlcyLWVRRFl1dmVxTzd0TjlROFV3alFPeXlHbEJhbEVyRTNlaXlMcWpmWmRrTTg?oc=5",
       "source": "heavy.com",
       "ts": 1791119027000,
-      "tag": "league"
-    },
-    {
-      "title": "\"We about to get traded, fool\" - Vince Carter recalls his wild 1998 NBA Draft story with Antawn Jamison - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOV1FTc0gxa1lUSGhDd3RSX1lPLUxzSGFMM3l3b19QaGltZlVUaEgwV25SNGNYUFVUVVkyY1dUTUpuZnpUX25uVzZpN0xRanZBOTdTR2NXc3dJcVdHRnBUNTl1RkpmZVRHWjRsZ2ZzNnlSSXRJZFhTOUdvSHRjdUlHOWMzYm9nWTE1?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791118805000,
       "tag": "league"
     },
     {
@@ -27,24 +69,10 @@
       "tag": "team"
     },
     {
-      "title": "European basketball is chasing the NBA with money - calcalistech.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1bW11TU9IOU5LdDlJTDgyTnprNUFJVzBpN3o0bk9pY3lFbjByQUxWV3J3Z0hhR3o4WUFJR2J4SUFkUHBuRlpjanNFelhTOVlKSzFKa3ZFM2RaMzlMRVpzUG84SDVkRDg?oc=5",
-      "source": "calcalistech.com",
-      "ts": 1791115560000,
-      "tag": "league"
-    },
-    {
-      "title": "Joel Embiid announces what he\u2019ll never do again in his NBA career ahead of new season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWkU3YjVmeHVFZEt3cUdrZFdpaGF3elRUd1NkazctUFlCbmx1YlhIYXJmUlZad2QwRldzWlpfUU5qN2t4cjREek1CaE1LUXV0YTMyUERyQkp0b2ZkSVU1WnN0M0FXQ1k5ZVRTbjRrdDZqUW4yMExGaGctNmlxSkJObFk1VVNQdw?oc=5",
+      "title": "NBA Fans Overreact to Klay Thompson's 0-Point Performance Against Raptors - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWZjWUlRTjY1bFRvMFRoYmRtSlBGYTFLMzhwTUhmdlpMaFBrb1Uya3RobjdDcy1xbkdvbXpiYmZIMTAtM0Zfdm1sUmVrNno3SDkzUVBIcksyeVRFR3NFb0IteGdTM1J0NFBIOWhaQV9DdVJLc3NET1owc0JsQlUxRlI1SW5xM3Y4aFE?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1791115522000,
-      "tag": "league"
-    },
-    {
-      "title": "\u2018His next teammate\u2019 \u2013 NBA fans love seeing LeBron James hold Tyrese Maxey\u2019s baby at 76ers\u2019 practice - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTUlwUk40dE0wM2ZoUGZXSUZoZnI4VGFtcHlDcDB4Nlo5Zk1KalBNdzJUWmRzR25LbGlCb1dCd0lwUGRYd2RhRTJUZ3dDZ0RLaTlWVWlfazE3d1JjXzJMSm5icllXNUhqNlJYU2ZySV9QODBVRjBtRXBOcXFycXVWelJn?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791115447000,
+      "ts": 1791113400000,
       "tag": "league"
     },
     {
@@ -62,13 +90,6 @@
       "tag": "team"
     },
     {
-      "title": "DETROIT PISTONS SIGN JALEN DUREN TO CONTRACT EXTENSION - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcE9iNVlOYjdyOVhibWZaZDZwSFpXUzRJT3VhaHdFbmhwT1NHWkpGOUh4MzBsRzJqU1ZkQ0V4enRlXzdwVlR0M2VrSFRfSVZHTm10Y2hMTkJudzdzejNnaHNfdTVBdHdDTkpzM0tVZTJva0tfWFQxU2xUbEVac0E2aVZsUEN1V0NCVjJHUGJTa2g?oc=5",
-      "source": "NBA.com",
-      "ts": 1791097308000,
-      "tag": "league"
-    },
-    {
       "title": "Alijah Martin Injury: Doesn't play in preseason opener - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlRJVVliZmxIY0ctUXJlWlNjTUdqWFVwc3RDTGFIT090cFFNV2I0OEZobmFEV1duTXBxVy1vd0FmcjZWU2NKclJOMUMteXd6Wkd1ZURGNWhxRWVtNjVKQnY0NGFLUUpYRHdqSkNRU2NxZG5uTlFVS19xajU2SU1HMEdyX3VKQWczWW1sZXI1a3hUOGN3N0lpTzFXMmF4QTF3UW5iQ0Ftbmg?oc=5",
       "source": "RotoWire",
@@ -76,24 +97,10 @@
       "tag": "league"
     },
     {
-      "title": "LeBron James was balling, babysitting and putting on a show in the 76ers' open scrimmage - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZS09UT1NzMlpJNWZrQk1Va0EtM2V0LTBPTUxUQnNYU0E1anBQbDVmdm03aXdHWHczZ1pjQ1h1SS1wWFUtVWVJbmxiMHN2ZXQybXNPS19TbEVmMnU5a01qLS1ZYXdpSjRvMlE?oc=5",
-      "source": "NBA.com",
-      "ts": 1791066344000,
-      "tag": "league"
-    },
-    {
-      "title": "Jamison Battle Injury: Won't suit up Saturday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNmhBdFRSNVNIOTd1dUlDUTRubHZJUl9jRldRYnpacG03bkZ0eFBNaW1uVXdWRUEtbm9zbFc0WWxZWlZ4TUdzSHNfeFZFR2hJY3F6d3hYS1MwY3dTZmtEYWhjMF8yZGJPa3gwekdYTlg3SXZYS1BOaFRDWXYybzh6VDB6bkxLV3YxMnMzYTR0S0hIX3dMeHJ2Q09xYUU?oc=5",
-      "source": "RotoWire",
-      "ts": 1791063339000,
-      "tag": "league"
-    },
-    {
-      "title": "Trayce Jackson-Davis Injury: Won't play in preseason opener - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ0pmTEcyN2pYRGNsVzdoLXkwSDhDcDBMQjFqUTRDZ2g0bl8yVmhFREpaTmlMWFRiU3R5dlBvTEtldVpDU0g4bnA0SmF5bjRjckI2TERiZXUwN0RRSnZhV0ZWcllyWmVMVlJEa1JNMkhyV1U1d2dwX3pHSDZzQUgzTXVwTHJTZzF5VEh1Wm5NZlJ1aEdic3F2QnhXbmU0RWNRRERDbG1ENEVBMVFUTl8w?oc=5",
-      "source": "RotoWire",
-      "ts": 1791063289000,
+      "title": "Former Phoenix Suns guard signs with Turkish basketball team - azcentral.com and The Arizona Republic",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONGZ1QkhGcU5SbkluWHI3NjhLck5JdHNaM19iaDc1UU1WaWlmLW1ueUVLUzF3SjNoUi1hUEZNZmI1Y0h1S3NlV2lIdnB6UXBhVG51ZXo3bWJILWsyaVdFeWczZ1JJX0lCa3BLeEMtOHEwZkNZWEEyVEpuNVF5Q29MVzI4RkJ3YkVJWlQ3NDIyTWE5MGhIVnVLQmpRNGJxQ3owRDYwOExnV2JvbDFBQ3RyU3NHd0FCY2tGaFdjcnZEQno3RDlrdjFHT1BWWTFwT1ZnQWc1LVNsSHE?oc=5",
+      "source": "azcentral.com and The Arizona Republic",
+      "ts": 1791081180000,
       "tag": "league"
     },
     {
@@ -104,9 +111,9 @@
       "tag": "league"
     },
     {
-      "title": "Three-Way Mock Trade Lands Hawks A Perfect Center, Helps Pacers And Mavericks Fill Major Needs - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUnJQUWNLT2I1NWM0N3F0ZnBGbnV1b1JUNkZab2U2TzJWYWRCTlVVZDVzbUlPYlpVbmVhVmtCOGI2Q0hpLS1HZ2tLV1hVeTJXd056UVFVUktBdFlfcmJaYThsOFExbTlJdXI4TWZGdmJScTlHUlcyUWlsZ1hlQ0hMSw?oc=5",
-      "source": "Yahoo Sports",
+      "title": "Three-Way Mock Trade Lands Hawks A Perfect Center, Helps Pacers And Mavericks Fill Major Needs - Fadeaway World",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQbDUxajFBeTg4b1dpenhlT2F4QWZiWDdJVmROTkE5OFVxRkRYcE43QnYwbGtQb2owRGJRZkpQZFBlWlhlQmZiRnpWWFR0eTYxUHg3cFJxelFXbFFJWUJ4b0llLTRpRzRtS2ptZXpOMlpZLWt4Y0kzZDJvQUx4X3NremVWODBUQjJJekhIVktELVYtUTNkdlFNbHV0cE5EdXRhNXJVTmNiWWpySkp3d2NId1ZlWjZLVi1NV0h4dzR3WFdaWG1JQUx3bV9JOWluTHJiQW9Mckd2T3Q2OGJxZFpvS3dBeHo?oc=5",
+      "source": "Fadeaway World",
       "ts": 1791062085000,
       "tag": "team"
     },
@@ -125,10 +132,10 @@
       "tag": "league"
     },
     {
-      "title": "Alex Sarr Injury: Doesn't scrimmage Saturday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUEhaUXRValdJZW1YUzljMjlqd1JJRGVEeHVvUzFXdkM2TzAtbEdDamZRbUo5SzV0YWR1eUxsSlRrNXVLUGwxUWx3a2p5djNGazM2bDdZM0Q4cm4wMzE0ZlhJT1ZFSF9ldHJHa05pLXptWm43OWxLNzFrUU5oQTRYZjFDZFZpR2cyYmhWd0U5MXpyYjVZdGhHUXFmTQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1791055286000,
+      "title": "Greene: LeBron James\u2019 New York state of mind is an airball for Philly fans - New York Daily News",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOV1Y0MUg0cjFaNkFrc3pMSnZhOGhNUl94eHFiT1BQR2lvaXkxUGxXb21xZUp2RFFwUUVMSDhHZXozZ0NTTlZidnlaNjJMa3pJRnRBZ3dHX2k0eXZPdWt0azRwMGtzdmo3LWt5STNuWVRmR1dxSzctUEhkdGhGRVZYeDd5OXFvdmxzMzd6STdmSUNGQldYcXhVSmFoZWJiR0hhVlZj?oc=5",
+      "source": "New York Daily News",
+      "ts": 1791054043000,
       "tag": "league"
     },
     {
@@ -153,17 +160,17 @@
       "tag": "team"
     },
     {
-      "title": "\"Michael is not the problem\" - Magic Johnson explained why the Lakers struggled vs. the Bulls in the 1991 NBA Finals - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdG1JYlZRcHNkX3hwdVdqZ2I1YmtRX2hpRmJ0Rld6ZGhadFVzY0d1VzBJcnFSUC1Fb3h6T09qXzZXNnBsVFpzanQ4VjB5YmhFcmI1UTFTWk1UVl9nOExjcUhPaFQwbVJKbzBaOHJMVDRPRXJ4azl5TFNvUmpkd3VyZ29NOUxRa2FLSTJzeDA4RmdjRHRpdnJtM3N5bEtLSWJpcHBmeXo3S0pwbXdIaXI2ZXVJeHFXM2ZxY3BvLWNmTGJmQUNzN3pxdA?oc=5",
-      "source": "Basketball Network",
-      "ts": 1791046920000,
+      "title": "Luke Paul Commits To Duke For 2027-28 Season - RealGM",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmVncXF2a2NlS3RCSDRwU1p1RTlVZjRMeXQxLWRqTGl2Q2hRZ1dwTnEtZ09ZUHNqQjRuaFR4eEVGV1FmbnRIYUpPbE1rRjlMOG1vUDRLLTdLVG9pQTlSbVBWY0dHOVBaQ2hmT3NVTEdXNWtEYjFfVXNqeWNoZEVVSnphLXp1N0ZMYXVkYUItci1VbGs?oc=5",
+      "source": "RealGM",
+      "ts": 1791042840000,
       "tag": "league"
     },
     {
-      "title": "Knicks Prioritizing Center For Final Roster Spot - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWnU0d3JHTmkzTmFXVzR3TWlZdklzSGI2ZFhhTVJTU1J4Z2dGTTdqV0doU0h3VUI4UHFHY0k1aDQyZ2xKUzk3YkJCYXlyT1lSazhRSWE0UUluQUVwU3BvVnk1UkNtWktjV2pyQ3lqNXVieXZ4cDNEOFRpVU5GU1JTZ0J1THRodnYxZU13YkJpMnFIb1pSN015cA?oc=5",
-      "source": "RealGM",
-      "ts": 1791044700000,
+      "title": "\"They had to arrange them different\" - John Salley on how commercial flights complicated NBA players' affairs - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVDk2cW50SEZNMVJMWmR3alZaZjNLNDVERlNfamhvbGJINy1NSHlKVVpPaUE0U3BWVW9kSGpsVC0tSmxKYU81UHNJZ3F0cW1ENzcyNmZxME1JdjBQXzJlbVhobjI4NmVoNTdvQlAtV0MwVHBiNFV5QUYxZnQ0cWpkNVRwUG1maERZOF9wT3RpYlFNYWxmYVZqR0U1VTlwTEl1UDBhUDdwT3c3eXA0MWRYS1dLeFlRUzQ5?oc=5",
+      "source": "Basketball Network",
+      "ts": 1791036840000,
       "tag": "league"
     },
     {
@@ -188,9 +195,9 @@
       "tag": "league"
     },
     {
-      "title": "Euroleague to debate NBA tie-up as Europe basketball future hangs in balance - reuters.com",
+      "title": "Euroleague to debate NBA tie-up as Europe basketball future hangs in balance - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQTRYOVpLXzVUYUwtYjBxMlU5SG9iT0tDSWhYZ2pDZHVWWC1tOGFfN0daVFRyeEpXZ3lxZGxpcDQ1cFVIa2dyM3N0TEpGcnJLcWl6d2hZcTRqTmVlSmU0T3pLZ01WWkcyREpjcllPZW5hWDl1bmUxYWZQRlBhX1BKQWkxR3VDSURWdjc1Z2M1TzVuVm9uN0V5YXNHc1M1TGdoUlJqTENSczlwUjRodThzeGRqMzBBM1BmeDlRTXIyenl0eWs?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "ts": 1790975029000,
       "tag": "league"
     },
@@ -206,13 +213,6 @@
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVEoyZTNJVjhaeUNDdXRHZGJZSEk0UE4tNU1pZTJKWmpObG45UXl5WWdDZG51d1loMC1KY0tEdU1yRE9UdlRmY1FMOHloQUtzS1ZLMFdyanl3SnRpMkdUZ1N4RnRWRmVaUlNSUW9tb2o0R1dMSE9jdk14TXR1ZmVER1U3dkhoM3dxX2JsZWhSWm4wXzdTczdPNjY5MXp2cVhJbUln?oc=5",
       "source": "San Antonio Express-News",
       "ts": 1790967553000,
-      "tag": "league"
-    },
-    {
-      "title": "Former Celtics fan favorite suffers injury in NBA comeback attempt - MassLive.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbmNRdzhlYXUtXzhxVVZuRDFPUHJhRVZFWDJyX0ZnSGJjRkp5UkJBUVI2TXU2NGdJUzZHRlR5SlBibUkzSkszRmhhRjcteGhyQTRRdXZJZ2ROYTJqaXhIdkJWU0VEUmNRbE9fUktWRGFkd3doUmlyZ2pfeG1sRWdueHp2aFRXYjV6Q2hqbFY0Zk1kdmFLN1NLdmlTaElna3hkcmpfczRHUzZDN0dVR1g3UWRn?oc=5",
-      "source": "MassLive.com",
-      "ts": 1790959320000,
       "tag": "league"
     }
   ],
@@ -579,6 +579,11 @@
     "projectednbatradegiveslakers67rookie3ptrecordholdernexttoluk",
     "nbatraderumorslakersbronnyjamesdomantassaboniswarriorsmorehe",
     "weabouttogettradedfoolvincecarterrecallshiswild1998nbadrafts",
-    "threewaymocktradelandshawksaperfectcenterhelpspacersandmaver"
+    "threewaymocktradelandshawksaperfectcenterhelpspacersandmaver",
+    "noahpendainjuryparticipatesinsundayspracticerotowire",
+    "anthonyblackinjurypracticessundayrotowire",
+    "quentonjacksoninjurynotscrimmagingsundayrotowire",
+    "tjmcconnellinjurywontscrimmagesundayrotowire",
+    "larrynanceinjurynotscrimmagingsundayrotowire"
   ]
 }
