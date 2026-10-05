@@ -1,16 +1,121 @@
 {
-  "updated": "2026-10-05T17:30:28+00:00",
+  "updated": "2026-10-05T23:20:03+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "NBA Trade Idea Sends Mavericks Player, Hawks Player to Pacers - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZEpsaUFycFUxNC02NGtqejFxanAwS2dvWkhySkJUU2JTTEtnR01mSHhrNWluSGVaU2dwZW90ZmlWOXFGQnpyTUVLQ3ozNk9kTGNpUmk4OWZ4MTdMQkl6NUFLWWFGOGxoTGVHcDlZS3h3eVM0M1lvUi1pNUc0WkRfOTNEdjdlQXRlLXJoSTRlTHJqNmdNZmxnY2YwNlp3Zk5TcFJ3Q29XOGU?oc=5",
-      "source": "roundtable.io",
-      "ts": 1791220676000,
+      "title": "Knicks\u2019 Jose Alvarado out for preseason opener vs. 76ers - New York Daily News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5STTlRcWhvZUYwR0hVQWYyTmsyUHZmNEpOcE9JSE1sSlF2cWlEbnZJbVZ3b3pDei1uUUdDU2VpWWZBMFJPTFpMd1VjaXhlTjZ0a21wYVptaHM5TnQyZlFYenJvX2xpZ0dxVzFFRC1PUGFvb1pOcHZaZDNmMA?oc=5",
+      "source": "New York Daily News",
+      "ts": 1791241444000,
+      "tag": "league"
+    },
+    {
+      "title": "Zach Edey Injury: Ruled out Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnFvU3BTWWNQSHVtem5DUTNTemNTTTRya29zWVdoNnVHXy1CbGpOYkVZb1c3Q0xEZGsyZFZuMjBHSDVpOWdDOFRjYzNxcHh1TjhfNmw0RXF6MGVCS1FMOFBVOUhnOG5fZ0Yya1VZeDNEbjQ5MjVTcGZremllekJKaVpvMFBaM3AtMTdhS2ZaUQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1791241429000,
+      "tag": "league"
+    },
+    {
+      "title": "Joel Embiid makes a surprising admission about his NBA career - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVFzN3R1UDlCNTR6MXVGNTh0Z2xPUmo3NEJNT1d3WEFjblBoT2VFR2tVN3ZEQXpzbURFS3VlS25UNkxxNXA0cHJSTTgxQWgycGRESkRLdm51WWZmSTU4UXRYUWdKMDUwQTBwaFBaZ3l0RWE0Z0dRNXB2bFFBSkM2eWtYTDNoaEhScTZHUXkwaHo?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791241200000,
+      "tag": "league"
+    },
+    {
+      "title": "Myron Gardner called Klay Thompson a \u2018bum\u2019 and \u2018trash\u2019, now they\u2019re Heat teammates - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h0eVB0QzItODlQbGNkanFxYXN0bFJVRmRsd0lnVGV5aldTOF9NMkhEUEtqWkQyVHhjMnFheXlDOGd0VEJJbldwZWtEZ0ZmRENHOFkwMDBEbE1ma1VvSExJZWRFRTFoS2ZIUVltM1l6Y1d6ckEyZE51Zlp2MTE3QWxhVUJNdjY4NTFBY1M4MkZSYTBnY3RraTdzaUlMSVo4RFdCblBpTndJUFc2ajZYRktqOXQ5WHlGNXVYb2xwVG9wRWtNNzR0YzJ5emZNQTZUam1GRE9n?oc=5",
+      "source": "Sun Sentinel",
+      "ts": 1791240603000,
+      "tag": "league"
+    },
+    {
+      "title": "Breaking down points of emphasis and areas of focus for referees and teams in 2026-27 - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ajB4QXlDeWdVcUlvbEJyRW9CXzRMQkprQXl5Q2dMNG5LNzkxelBsTU4tMzFTX0FBcmJoaDE5WTZ0b25yMzE4MmtKV3Vaa010bUFCTkEtYWUyN2k4R2M4ejRfRzhMdWRobnI1Y3lnY3hMVERrZUYweW1B?oc=5",
+      "source": "NBA.com",
+      "ts": 1791240288000,
+      "tag": "league"
+    },
+    {
+      "title": "Zach Edey Injury: Not starting Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUhvbzBZaDlKcFpyTnFUc0lZQzNSUXNIV2NrREM4MTMwa1pTS2FxUFgwbXNEQlBDb3hLd0RUdFRjTEN3cDNrOUFOR05HcE5LWFBDb2tZYTBZVE5FbE82d2JjUUhUcC03S2UxQjd6cGtKZFQwWkZfeU1yalIxWVVmbk52SERJSFdnOGpROW1HVVllVDQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1791240174000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Fantasy Rankings: Category league power forwards - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdF9BR1M1eHRfSlBPa0tTTDBGbUVWaDU1NkVoY3YyczIxeVNOWnB0amtFSm52Y1dPN2stS0ppZW8zWlRFcGdxSjFvOE9zUlJHejdzdlJjMXZRN3k4Q09ZWkhhNjRLVkpaYzhTcVhVbW9ZTkhZN0dxZXJ1MkNqa2hiOVBB?oc=5",
+      "source": "NBA.com",
+      "ts": 1791240056000,
+      "tag": "league"
+    },
+    {
+      "title": "Max Strus Injury: Will be re-evaluated in four weeks - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUG5weGg4V3RRU2theE5JRlFnR0tveEl3VEh3QzZrQ0ZUQUYzbTR6UzlEVm9QQTNHSWhuaTMyMTU4eU56SVdKTDQ2OHpxblBFVl9BMldESWkwVlhSZm8tNFN6a3JzbFRTX2xFeW80b1FuRXYtN1BpVEhueDl4ZjYzb1RzSzloYTNSdXNuYU55YUswYjZjVi1RVWxsYTRtelhFaUcxMU9WMA?oc=5",
+      "source": "RotoWire",
+      "ts": 1791238860000,
+      "tag": "league"
+    },
+    {
+      "title": "Will Grizzlies' Zach Edey play in preseason game vs Hawks? Injury update - The Commercial Appeal",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnJ5NTgyMXlLQnM5VE1wQlRGa004V1hTMFlCZ3hpSkJCU2JYM2JDb0dTa01RUGJweDZwalhRTXh3ejFWYVFEcnhySTRncU96cE9TR1JQa05iWm1kWHpSSmJPTF9aOHNUQlVGU1FFTjduMmVzWVF3YkRKZzR5eHVtcXVkZFFTZUF0UVYtTlgweGNZRHdiUTJNR1dwUW9TZ0JySUFtUDlUM25MYzFuY1JRS2tOTzc3YzRnZUhmdVRqeW1ydUZUVmxfRWtUc2JKeVh4YWktclln?oc=5",
+      "source": "The Commercial Appeal",
+      "ts": 1791238560000,
       "tag": "team"
+    },
+    {
+      "title": "Luguentz Dort Injury: Won't play Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzlrc0hlX1liNXlZcURvOEx5VEpYV1JWQWwxSHA1RUdPZU9MNjhKNDBWM1ZXdkNYeE5aS1l4U0w1ZW5RRThiLUd3RHlhV1owZ2VKVnp2YWY3MmJBZVI0Z0xaWkJaZHd6TU52Q2RrMS1GS0ZoVnlLMVdfRm10MFRIT09NeWV6Q1l6VTRvdTBIa05qYXhZ?oc=5",
+      "source": "RotoWire",
+      "ts": 1791235041000,
+      "tag": "league"
+    },
+    {
+      "title": "Alex Sarr Injury: Participates in 5-on-5 work - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUF81TlREMjBReG4tZlJkbHU5M25aYlp6RTd5WE9PWGR1ZEVvOXlxRFVEMmxya0RRRUdsbmh2Tk8zUWtyVmdVLUF1anBJWG1ZNE51YkhWUjMxMUtQcUFQZ2s5QS1NU0FRLVVGZUJuM196bmdNZHBSd3lHUGd4bzdaRzNJOUhlN0JLOUt4ZHdfbGlZWlJZUUJheFZBNVQ4Zw?oc=5",
+      "source": "RotoWire",
+      "ts": 1791234642000,
+      "tag": "league"
+    },
+    {
+      "title": "Donte DiVincenzo Injury: Targeting late-season return - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEZiOFFfX05iX2I2NkdQYldrdXVuNUhOV0Y3SGZXMU45Ty14T3AxWGpRaDFTOXUzQmtsX2VYZkRXQjN5QUpQZUJMeGU5bC1oV0hISUQ1cXpLMGl0SHFxaFBuNzhEMHY5aDZJc1hHQmdwc09XcjR5cXdlYkFlLWNDaHphZFFvZld0Q19vUkluUTZRb1pkWlJUbVkxTUlkNkV5WDJWa1MxV0k?oc=5",
+      "source": "RotoWire",
+      "ts": 1791233596000,
+      "tag": "league"
+    },
+    {
+      "title": "Alijah Martin Injury: Practices Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOampTWXdqUXZYR1h4RnlLbWdlbWRrVjRCaGY2Y1pkc3gwdWxjSzZfS2tzcnVJbFkzbFVPNkt2M09XYXhtMkNrZXJTdWp5eC0weE56U3o5cV9qd2lDbmZndTZXd0pXemRnVlhndEkzRHFsakhPbTJ2T29hZXpzQ2ZtaXVoU0hLZ3lXUzhNcG1BblVLck9t?oc=5",
+      "source": "RotoWire",
+      "ts": 1791231308000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks Ranked 14th-Best NBA Team Entering 2026 Preseason - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQM245Ql9Odko1dUNtbHFIRFZsQ3k1V3V3bThkVWtleUl0MDBmRm42RUVfckxNRjNsY1RlbTRpcnR6SWkyOU1YVjYyQ2l3aTJ0YlVxOHZDX2t3Tmp3d0VabXZJcm5fLTdEcEM1UkNjM3hyOHpMT2M4VjNGLVpmMnR5RWdmME5kUQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791230338000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA Rumors: Knicks Top Target, Myles Turner & Surprise West Team - heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02cnVROGVSNUJocnZfaWlMakRNeWQwZVYwTm1YbzBCY0FDYWFCTjdxbFR4eWJuTkNEUDEyVHBlSHZ1OXJrbC14eDNkTTlydFZ2cDB3ZUMwbWxqWVhqRjRJdUsySFVOUnpBSk1FbkN5a3U4Yi1GTHFRSUVaeWlOSzg?oc=5",
+      "source": "heavy.com",
+      "ts": 1791224917000,
+      "tag": "league"
+    },
+    {
+      "title": "This NBA player from Utah was asked about basketball, then the questions changed to church missions. Here\u2019s what he said - Deseret News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX081UUROMjFzUkVqcjFJUHg3VU9LMGlIS0NNYWNGLUFYQXM4VVotd0NObHNtR0lfUTRTdkF0aUFXV243alpjMFhmaEdhWWo5VXBRX2wtMnIyazRMeDNsaVFrTU5mSWNOVlV2d3dzcjA1VUhiTnZJWlYzQ2IwaUNUeGJDY2lKcHZzN0RwWjFHUXFZU1d1UVhPRUN1bEVvdXhZVmFNUlpR?oc=5",
+      "source": "Deseret News",
+      "ts": 1791223200000,
+      "tag": "league"
     },
     {
       "title": "NBA Trade Idea Sends Mavericks Player, Hawks Player to Pacers - Yahoo Sports",
@@ -20,46 +125,11 @@
       "tag": "team"
     },
     {
-      "title": "5 Storylines I'm Focused On in the Atlanta Hawks Preseason Game vs. Memphis - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNjk4NDV3Y1p2TkdzVkJLMkM4bDBfRDVzNUpYV3N0NzJaZWJROGJWcnJpdjJHbFlRSWRfSGU2UEh4bDZIZEFTaFpqLWdRYXFmY1dfTi1qaUI2WjlLeS03eWJiaWFoaFZyRlNuMzRfRmtNeWVGTXE1VlF6MG4tR21ydTQwWG9GTHJ3ZVBKaUY3aGtCbE5LV01pU1FVSE10UEstSWc5SWVZQUhpa1c4VDJaQ2k4TEttRnFsVEtpNC1n?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1791219600000,
+      "title": "5 Storylines I'm Focused On in the Atlanta Hawks Preseason Game vs. Memphis - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFB1dGt5X2pfUWFUd1lPcVVsU1RaSGppTHdLYlJnNU9wRGYxRHFWb1NvNVVMRzZPcGJULXQ0cjlaM1A5T0tVZ3hUaENrQloyNTFfTGQyR2NCWEVuU2ZTSWtBYnpUdmJuRDgzY0pBQ0Y3YUcycTJFaWIySG84RTU1aEVmUWhWVkE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791219604000,
       "tag": "team"
-    },
-    {
-      "title": "NBA Fantasy Rankings: Category league power forwards - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdF9BR1M1eHRfSlBPa0tTTDBGbUVWaDU1NkVoY3YyczIxeVNOWnB0amtFSm52Y1dPN2stS0ppZW8zWlRFcGdxSjFvOE9zUlJHejdzdlJjMXZRN3k4Q09ZWkhhNjRLVkpaYzhTcVhVbW9ZTkhZN0dxZXJ1MkNqa2hiOVBB?oc=5",
-      "source": "NBA.com",
-      "ts": 1791219172000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Fantasy: Power forward rankings for points leagues - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYzR0N1FwMWNHTTZZbEppRG5vNHpFX2lwWjFSN1hhSU1tVmxBYVhRaTdmekdPMFVnQmhIeFI5VlgxY1FSODF6eXh3OFlhbmNBS25lbWNZTEpsWExYbEVPdzJiRmVSeWpUZG1fb3ZLa0FWU3pnVWwtVDRLVU9XZExYRTdpdmY?oc=5",
-      "source": "NBA.com",
-      "ts": 1791219057000,
-      "tag": "league"
-    },
-    {
-      "title": "Jalen Suggs Injury: Dealing with illness - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPM19pU2FyMkVFbDFsRWREeFhWa0UxeURGcFBGTFVVZnFhUXdfQzhzTllSdUkwcDU0ZmFWQXFxQ2M1UFJ0VkM0OEtwYnpTalVfRE5DMlpQa2d0VExEZkFhZ3lac0lXc2VYSWhkMUdIbWx1S29na3hfc0Fwem9SRGlhSUlqMGE5T0x4MTcxVndaQkJfZWJUZ0Mw?oc=5",
-      "source": "RotoWire",
-      "ts": 1791217988000,
-      "tag": "league"
-    },
-    {
-      "title": "Alex Sarr Injury: Progressing in recovery - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdXVSNkJ1ZHlEcWc1cVhQcU4yb0NPNUpZWTIxUkxlYjNxTzlIQUNzN2RiMDlvWVBIbWhObUxQR29ZTjl5bGZBOHktcEVBSmZoTGJrbHhwMG80SlVxR2tjLWVQdUZrRHFHXzZUSFNVMEZGcVN3VVI4VzhPNE90NHpxbmNvS01BWHVPSXhBTkxTNjdQcTV2RV94QQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1791217140000,
-      "tag": "league"
-    },
-    {
-      "title": "ASK IRA: With Portis, Pelle, will pugnaciousness, persistence carry the day for Heat? - Sun Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTNkcnRVaWlfSjg0MlFGMTMzTWZHYW9vUlQyLUsxRURjOUhiNmtGMUpvSkZISVRKWGtLTFFhV2R5czFBczZwMFRFcFhBem9kU1N1UW1qWUI5V1hQbnhseHZaYmNvcnU3aVVSOHp6aFlvSjB6WVFwQnp2SVNxWjJGd2JmRTNmWHo0azFVSjU4YlRqQzBkVkdjc3VRSEl2Ni1nbk5FRV9oN2tTU2U0c3pUOHpLR3UtRk95SzI1emtn?oc=5",
-      "source": "Sun Sentinel",
-      "ts": 1791215310000,
-      "tag": "league"
     },
     {
       "title": "NBA Trade Idea to Give Golden State Warriors an Alternative All-Star Upgrade - Bleacher Report",
@@ -69,31 +139,10 @@
       "tag": "league"
     },
     {
-      "title": "How LeBron Manages Arthritis, Back Injury Revealed in NBA Rumors amid Helicopter Commute to 76ers - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlNaeDNjbW5URTYtMkdBLURNZ2g1ZTFVMmN3ZF9BdkM2NWMwR2NUT0lDeVoxM3RlLUQ4SEtBT01HUHRpOG9MdGUyUEpzNHRGaUJhbTJDTThfUC1IV0hJSk9NT19rQ0JNZV9jeGFFMmVlNXFZa0dTbm9rb0dvYVBnRks5bURkZ2EwUS16Z0IySXBiRjl6Q2xwWnd6QXg5Tkd0VXAzU3FFVnB6cHFZN1NmdmF1SjVCSm1TN2hURGdJbWc4Y2YyZXlXRS1CTmgtTnRK?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1791213684000,
-      "tag": "league"
-    },
-    {
-      "title": "Fantasy Basketball All-Fade Team: 6 players to avoid ahead of the NBA 2026-27 season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTzBoMFNRcG1BYkF1YlBxTUV0dFhPQmZxSFd3MkJZcmZUQ3QwRTJUQXJEQjNVR3ZKb1hsM3pCbjF3WDRBbEZUdDJmWGJQTFJCeVZPYTlmOFJPMTU4X2tNQXdhUGR6UUZrMm1UNlB1bWt2cUNOX3ZJYWRES1BFcUhVNDVxRDJrbFBmUFJrQTRWMjRxcDRTc2NSZy1WbGtuWWYzcVlZWTVSWkdrTE53N0tfREdqUkVzU3pjRGpNalM1dWJxT2g1Q3JKcW1MUmNxTUtScHFpUGRB?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791212884000,
-      "tag": "league"
-    },
-    {
-      "title": "Celtics earn surprising label from NBA executives in new poll - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOam1DaUNLTzVNeWNoSjZUeG5hN2UzeHBUQ1JRb2N6aWNqUHVVdjZlWW1ncUdYbEE2VVpXdEd5ajB5LWcxeE1HUURmQkJTVWtJaVE1Rm5qdXQ0NUFqbFp5S2JXUTVpVk5PNnFGcU81VkFIMXZpMXZ3S0hoNzEwQlVYX25CR19EcXFKdFE?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791212842000,
-      "tag": "league"
-    },
-    {
-      "title": "Jalen Duren Injury: Goes through practice Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeTFNbXR0VGs3RF96WUZfbTlMRkF1NlhmWmE3NXd5TV9PYnF1VDJ3b3l6SlJrYzRZR05nS3VveVAzRk1ldXdFM3Z6NlF5cWtwQzkzUHRnX2pwdnZ5T0NFRC0zb3I5cmZvX2NGcHdPM3A4TzhXZVVnbDBvd2dIMWZkU1dhZE8zYzA2QXJEcWphRGg3bDRCSWFscnhSRnNGV0FuWlE?oc=5",
-      "source": "RotoWire",
-      "ts": 1791212763000,
+      "title": "The 2026 NBA Preseason Sneaker Power Rankings - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUHE1c05ySFNfUHZiSXZtRnlZaEUzVUIzclNHZTVzaHAzMjFSUUJaUVJBazh6YkU0akJvcXpsSnpxdG12cjRKUlZoZDN5VnhfNUV2WkhGanZEZFlISTJqT2Fjd2xRcW9HWmE1SkVSZ2xTVzRJOEE4dklPcGttZXI4T0VDdmNYdkxzdU1iOA?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1791210927000,
       "tag": "league"
     },
     {
@@ -111,13 +160,6 @@
       "tag": "league"
     },
     {
-      "title": "Trae Young Says He Wants To Return To Hawks One Day - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPX3J0ZFBReTV1dXpFajFVeWFEbmRfZFYxUTRTaU1pb01lQkZIOHdZM1pBdXVKWG1US05LTTdIWnBtcmNGTkhTNkhqNGdfZlJVSGstaDZCNXVLUEZlZ2NuY1hTdl93WFFIU0twaHVwMUxzcThqV0FDNXBZT0dBYlpnYUVZYw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791203940000,
-      "tag": "team"
-    },
-    {
       "title": "Behind the scenes inside LeBron's first 76ers training camp - ESPN",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb29KdHFjX2hoQ2RMbllSOXpMaVRtNHpodGdBVVlILVRkc244cWI2NzNXSXVlblF1a085NEFWcktsLXdRZEozbFMtOTBkVGVLVXY2di1BRkJEVTR2T2VWTVVJVWNkQkVhZFBTbVI4TS1tLTFybkZQbVEtMzhHWHlDZjBTZDdsSEhEYmVWamNScV9RRkx4?oc=5",
       "source": "ESPN",
@@ -132,23 +174,16 @@
       "tag": "league"
     },
     {
-      "title": "LeBron\u2019s Polymarket deal may not break NBA rules, but it raises uncomfortable questions - nytimes.com",
+      "title": "LeBron\u2019s Polymarket deal may not break NBA rules, but it raises uncomfortable questions - The Athletic - The New York Times",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM202ZzVoWHA2U1JPVU1wRG95V2JNRVhRT0xENV91WktKcmlvaEZmSWRiT29PSUxmWl9UeGxjUWFRX3V0ZHFMeTZDWkZZU2dTR2htLU1NbzZpX3FST2E1TUVGRnlxVHNYRlVOV1FPNTBkSmdlLWZxQUNhQmpkeXlXQUhOc0pXWFZjeWsteTBMeUgxd3pybU1lLUdsT2xkN2xjUTJYbDFMYVo?oc=5",
-      "source": "nytimes.com",
+      "source": "The New York Times",
       "ts": 1791183651000,
       "tag": "league"
     },
     {
-      "title": "\"The fact that he is still on the Lakers right now is absolutely awful\" - Draymond Green says Dalton Knecht's agent ruined his career - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOczBPbzc1bHZsY25sTE9md0N2VGJuZDVCMkZnRzhoNmFLOVh1NERqUlRNSUQ3SktZLWNNWEdIY2FiUTl4WnZzNzVaQUZGQlRNbWFRQmpyZVN2cWFWZTZZa2pUM09odE5Tcko2UFdxOXVjYkVmbXBxUjdqZmtMYnE1ZEVXQWhvbU5NdlFGajBpTkNOUHN6Qnc5NW9WMFJ5c1dndEFremhOdw?oc=5",
-      "source": "Basketball Network",
-      "ts": 1791178680000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA injury update: Spurs coach drops latest status on $31 million forward ahead of NBA season opener - The Times of India",
+      "title": "NBA injury update: Spurs coach drops latest status on $31 million forward ahead of NBA season opener - timesofindia.indiatimes.com",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxON2s3RGJ2dmU1aEo3aWtYZWlUdjJ4bW9CRDE0elBwNzRuUkpXOG5JZVk3MXRIN1U1dUVvSWFnUVhQQ0JxR21NNEtwLWVKRDdlMXZCdTRRM01CSk9yYWFKMTI0czFINFdadUxXWmpsT0NXN2NhRzVyR0JQR0hzeXhxang1VmtLNUt3SGY4YlhNc3NCMks1U3JZaWdOb2FBSk5RdlNLYmJWb01hU3BMRTF2TXhDd1NRVno5Z01LVHJhM05LVndjVlZyLVVGbEQ5bktBUWplbURtLXh6dzRoam52WGU1SEtSY0I1ZnFTbzB3QzRObjhnYVFrX1hzUXBKR29JcVU5bC10MU1ncVJvSy1peNIBlgJBVV95cUxOdEhvT05wUHBQTWhpYUNMTlB0aWRiQ2pCbGpLM1V4X0hKUXdwc3FhTGkxWmpTb2FnWTlpQ05WV3JjOWlCekVqbTNtZ3JnS2NJenNOOXNuSEEwMWpHcDA2em9qbllaMXNSRlZiemg1N1hLUVRsWFhVVWFKYVVBM2ZaN1ROdzR4T2ctNmQzTWRzcmM0aktoVk5yb01kV3hSLTJhUDA0Z0R2c1ZUZGFxYXJYRzNxRHFHdVMxSC1DODZ5eVh6aEhVQlY2SkprLXZNUDFYUUU3N0NQcW1QWTc5QmlXV0x4M21MVHJ3Qmc1eVQ2NlJEMmNxVHgxY0tDVXpNTkpaTFpxNjc5LW5XdUp2SERhVjNiOWE4QQ?oc=5",
-      "source": "The Times of India",
+      "source": "timesofindia.indiatimes.com",
       "ts": 1791167640000,
       "tag": "league"
     },
@@ -160,23 +195,9 @@
       "tag": "league"
     },
     {
-      "title": "Erik Spoelstra Gains New Appreciation For Giannis Antetokounmpo's Playmaking - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ04ybkpTUUtHYmVkM0xLbkxWOGpxWnhnb3FiQ1I2N2Z2bURHVGNUT2hNemZUeEotR3cycFpMYm5POXVyUVd3VzNtZS0wZEI5cDV5VHdrLVR3RVMxUzd0WFRrOHQ0NHVaQi01MjY5aHRJSWFpaDBIY0RKWWR4ZUE0cVJ5Q3N3ZnBzUzY4b04wREpWWUJ2YmdldUI5aGlQdjdIU1RZelNKTEFlSmtEMFpqVDcxcVNoR0tJcWNTdw?oc=5",
-      "source": "RealGM",
-      "ts": 1791166080000,
-      "tag": "league"
-    },
-    {
-      "title": "Tobias Harris Injury: Won't be rushed to return - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWlkc1lQaUtZNkF2QXVkRnp3VGpLdm5aM0hPZ3JQN1hqSXNyT3dVcmEtbW1faEdwTkRROFMtQ2M1cE82YTdfNHp2NXIyRWFWNVA4OUlwNmZCb2ZnWHNPXzBaRzJMRHMwV3dKUGhFcTlRUGo2OEJsUEF4TWEtMndqRUk4T3BKTk4yallmdDBIRUU4R28tWEpsZW1VWWxWUVE?oc=5",
-      "source": "RotoWire",
-      "ts": 1791163621000,
-      "tag": "league"
-    },
-    {
-      "title": "Every NBA player has a trade price, and Bulls wing Matas Buzelis is no exception - Pippen Ain't Easy",
+      "title": "Every NBA player has a trade price, and Bulls wing Matas Buzelis is no exception - pippenainteasy.com",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZG01WXZ4UEdMWk0tbHdYNW9Vb1B0d1NPbjRBbFp5amhBQmtYaEtoaHN4WEJhUDBOVkxlR21BZk4tNWRQaDZnSzl1N0l4MTg5NEdaRWxUV2QwNERKRDd1Q3hqTTIxbTRPRVF2Z2dXMGVXdlVxTm1sck9zZ2lzNmVRdQ?oc=5",
-      "source": "Pippen Ain't Easy",
+      "source": "pippenainteasy.com",
       "ts": 1791162000000,
       "tag": "league"
     },
@@ -188,31 +209,10 @@
       "tag": "league"
     },
     {
-      "title": "Max Strus Injury: Brutal Clippers update emerge on NBA preseason vs Warriors - basketnews.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOM3ZOcG1fNlEteDlWS29GZVBpNGRPcUVZRk9jWHhlTVdycDE2YVk1c3BzTDJyNm5QbzVEbWpDUi1QLXc3ckJrRDVrY2JmaEF0bTBWSDVMUjd1dXRaODY0SGRwdVU4OTBtV2t1aEtNbzQyVHJCNV9kOHUxZVY5VkoxZVZ0d2dlVVFsSHFhT0FhV1lyTzY5SEFualR6c3djWmlSOUJUQzgzYVNOcVdleUxwcWJnV3o4dw?oc=5",
-      "source": "basketnews.com",
-      "ts": 1791160260000,
-      "tag": "league"
-    },
-    {
-      "title": "Spurs suffer major injury blow with new NBA season approaching - basketnews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOSHVNZXAycWRsblU2Q3UyTkFpWXRJdUdoZG56RUpWVUlBSDN0aUdMYkJZZERLd0NsZnl1WHFrSXFTOEJCMjRfV3JYNmdPY3oyV2VZemZhdzRJOGdhZVF5b1k0Ulpxdl9HeVh6YWM0WDdCZ3J6cGlHMEt1cEtSbEdHX1ZXS2paNDNCa0R4akR5ZkN4Ykc2XzVCZ0VMclNjUW1rMHNUXw?oc=5",
-      "source": "basketnews.com",
-      "ts": 1791153900000,
-      "tag": "league"
-    },
-    {
       "title": "Could the Bucks become the center of the trade market? - Yahoo Sports",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmhKM0EyLTlpUzVpdW1BNExJTjN1M3BkR0JJeDhqTE0tN0NfU05idDZvTzQxTkwwaWVsTXhVaEZmb08yWlFXY2ZldHlOb2h0dDl4TXdLWU9BUTlFdGxPVEpPVUpjdXgwMWJUaVZtS21ZUkVWblhTVWhOd1JsbV84ejdmM0ZzOXh4TkxtR3JxTzRmR0NkX2JvbWdkVkV6bG5wa2l1dGFYLUw?oc=5",
       "source": "Yahoo Sports",
       "ts": 1791151200000,
-      "tag": "league"
-    },
-    {
-      "title": "Pistons center Jalen Duren happy to get contract done, get back on court - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNS2JITkVxRGt4MkVJYW5iTWNZUFIzYkNMcWtXU3FlaXdaM3ZTMzBZTnNUaTZGWFNYVEx3NXlhdnlMcUhKQWhiOV9BMUIzNlV0NkNsREJua1hyQkNEYXMzWU40and4a2IxNW1ONU1CYjR3Y0RiRmJNcnRxTVU1Q3BBcHgwN0lucTVnVlVEdDRvYVdEWW9zWFRRY09LVU9yLWJNN3JQQ3RWYm94bDNwRGFlQ045UERkaHdGd1htMU93S0VQVnItc0JlLWdnVlRNdjZTY01udl9PNFBBVnZKM29IbjFn?oc=5",
-      "source": "The Detroit News",
-      "ts": 1791145680000,
       "tag": "league"
     }
   ],
@@ -605,6 +605,11 @@
     "nbatradeideasendsmavericksplayerhawksplayertopacersyahoospor",
     "jalensuggsinjurydealingwithillnessrotowire",
     "alexsarrinjuryprogressinginrecoveryrotowire",
-    "nbatradeideatogivegoldenstatewarriorsanalternativeallstarupg"
+    "nbatradeideatogivegoldenstatewarriorsanalternativeallstarupg",
+    "knicksjosealvaradooutforpreseasonopenervs76ersnewyorkdailyne",
+    "zachedeyinjuryruledoutmondayrotowire",
+    "zachedeyinjurynotstartingmondayrotowire",
+    "maxstrusinjurywillbereevaluatedinfourweeksrotowire",
+    "willgrizzlieszachedeyplayinpreseasongamevshawksinjuryupdatet"
   ]
 }
