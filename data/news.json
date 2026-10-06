@@ -1,57 +1,99 @@
 {
-  "updated": "2026-10-05T23:20:03+00:00",
+  "updated": "2026-10-06T03:06:05+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Knicks\u2019 Jose Alvarado out for preseason opener vs. 76ers - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5STTlRcWhvZUYwR0hVQWYyTmsyUHZmNEpOcE9JSE1sSlF2cWlEbnZJbVZ3b3pDei1uUUdDU2VpWWZBMFJPTFpMd1VjaXhlTjZ0a21wYVptaHM5TnQyZlFYenJvX2xpZ0dxVzFFRC1PUGFvb1pOcHZaZDNmMA?oc=5",
-      "source": "New York Daily News",
-      "ts": 1791241444000,
-      "tag": "league"
-    },
-    {
-      "title": "Zach Edey Injury: Ruled out Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbnFvU3BTWWNQSHVtem5DUTNTemNTTTRya29zWVdoNnVHXy1CbGpOYkVZb1c3Q0xEZGsyZFZuMjBHSDVpOWdDOFRjYzNxcHh1TjhfNmw0RXF6MGVCS1FMOFBVOUhnOG5fZ0Yya1VZeDNEbjQ5MjVTcGZremllekJKaVpvMFBaM3AtMTdhS2ZaUQ?oc=5",
+      "title": "Keegan Murray Injury: Won't play Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPeHdTcENJUVd4NzNubTVIOEVSbmJ6Y0lHeFFfUlVpdE9xTFR5VDdFNWoyQ2dXRTE2QkdEWGpWd0E4VVg5blRrMG1oZDJzSmZTR014emZYejM2NExQcDZkZk5jWDFSQ3BtWGk5bHlTSC1nbkFZOHJyejBDVTNiWjlaV2NYQjQwbE1UTWxVMENfbGVOM09u?oc=5",
       "source": "RotoWire",
-      "ts": 1791241429000,
+      "ts": 1791248935000,
       "tag": "league"
     },
     {
-      "title": "Joel Embiid makes a surprising admission about his NBA career - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYVFzN3R1UDlCNTR6MXVGNTh0Z2xPUmo3NEJNT1d3WEFjblBoT2VFR2tVN3ZEQXpzbURFS3VlS25UNkxxNXA0cHJSTTgxQWgycGRESkRLdm51WWZmSTU4UXRYUWdKMDUwQTBwaFBaZ3l0RWE0Z0dRNXB2bFFBSkM2eWtYTDNoaEhScTZHUXkwaHo?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791241200000,
+      "title": "2026-27 Fantasy Basketball Mock Draft: Building around Nikola Joki\u0107 in a roto league - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbzBpQm5UT3k3djhFdzNXejItSHdockIyYlg3QWxnZTdqaWhIR2cxVzFTNnJfQWJMbHZ1eVhBWXktVVJIT2V2M1RFUkVqZkRneDlybVhjN0RWT3pjelBsQUFQR1JFdmdWOWZCV041VFNfRTJDZzNSVVpkRjRMTWJtMHkyTlVjS2hHcWJMMzZRMEo4QmVtUWlaeFRGTk1QcURYamxiMjRqUTcwM2hweTBRcHZLMGVGSVotWFJTTm5QZVRmbFphOURZYzZn?oc=5",
+      "source": "NBC Sports",
+      "ts": 1791248416000,
       "tag": "league"
     },
     {
-      "title": "Myron Gardner called Klay Thompson a \u2018bum\u2019 and \u2018trash\u2019, now they\u2019re Heat teammates - Sun Sentinel",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNT3h0eVB0QzItODlQbGNkanFxYXN0bFJVRmRsd0lnVGV5aldTOF9NMkhEUEtqWkQyVHhjMnFheXlDOGd0VEJJbldwZWtEZ0ZmRENHOFkwMDBEbE1ma1VvSExJZWRFRTFoS2ZIUVltM1l6Y1d6ckEyZE51Zlp2MTE3QWxhVUJNdjY4NTFBY1M4MkZSYTBnY3RraTdzaUlMSVo4RFdCblBpTndJUFc2ajZYRktqOXQ5WHlGNXVYb2xwVG9wRWtNNzR0YzJ5emZNQTZUam1GRE9n?oc=5",
-      "source": "Sun Sentinel",
-      "ts": 1791240603000,
+      "title": "How LeBron Manages Arthritis, Back Injury Revealed in NBA Rumors amid Helicopter Commute to 76ers - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYlNaeDNjbW5URTYtMkdBLURNZ2g1ZTFVMmN3ZF9BdkM2NWMwR2NUT0lDeVoxM3RlLUQ4SEtBT01HUHRpOG9MdGUyUEpzNHRGaUJhbTJDTThfUC1IV0hJSk9NT19rQ0JNZV9jeGFFMmVlNXFZa0dTbm9rb0dvYVBnRks5bURkZ2EwUS16Z0IySXBiRjl6Q2xwWnd6QXg5Tkd0VXAzU3FFVnB6cHFZN1NmdmF1SjVCSm1TN2hURGdJbWc4Y2YyZXlXRS1CTmgtTnRK?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1791247371000,
       "tag": "league"
     },
     {
-      "title": "Breaking down points of emphasis and areas of focus for referees and teams in 2026-27 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3ajB4QXlDeWdVcUlvbEJyRW9CXzRMQkprQXl5Q2dMNG5LNzkxelBsTU4tMzFTX0FBcmJoaDE5WTZ0b25yMzE4MmtKV3Vaa010bUFCTkEtYWUyN2k4R2M4ejRfRzhMdWRobnI1Y3lnY3hMVERrZUYweW1B?oc=5",
-      "source": "NBA.com",
-      "ts": 1791240288000,
-      "tag": "league"
-    },
-    {
-      "title": "Zach Edey Injury: Not starting Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOUhvbzBZaDlKcFpyTnFUc0lZQzNSUXNIV2NrREM4MTMwa1pTS2FxUFgwbXNEQlBDb3hLd0RUdFRjTEN3cDNrOUFOR05HcE5LWFBDb2tZYTBZVE5FbE82d2JjUUhUcC03S2UxQjd6cGtKZFQwWkZfeU1yalIxWVVmbk52SERJSFdnOGpROW1HVVllVDQ?oc=5",
+      "title": "Collin Sexton Injury: Ruled out Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2RtZG9nQ3I3NU1laVVWaU5kV0RScjhnaTZMSllkdHlTdXhQY3hodndVT1prUWM1MkZXQk5VZDdTSWRGOXJUdmtTZGI2eVk2dFJQYVlmeHlOaWJPUUt0Z0FBQkFvM0cycG9uMVJyeFltWWp3YjUya2x1TWxNQTBXRmgtcHJSbE9IdWR3dXU3Q2lpUlBs?oc=5",
       "source": "RotoWire",
-      "ts": 1791240174000,
+      "ts": 1791247173000,
+      "tag": "league"
+    },
+    {
+      "title": "Austin Reaves Injury: Unavailable Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOczl1RkpsV01hbXdsakdNOWRTRlUyME9vRkRYbkczMlMyeUtyd0g1eHZyV3U0M1VpcHJXeDllWWRSSXhEWFdOVzgyR1pWLWxkdHRmWjkwcXZJN3lveFpkUUxOdElCLWQ1OXV6Q2ZpVEpmelU2bGlhUXpvc2JDS0o2Wlk5ckhhNnAyQl9COHhTdVFYd3E1V0g4?oc=5",
+      "source": "RotoWire",
+      "ts": 1791247146000,
       "tag": "league"
     },
     {
       "title": "NBA Fantasy Rankings: Category league power forwards - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdF9BR1M1eHRfSlBPa0tTTDBGbUVWaDU1NkVoY3YyczIxeVNOWnB0amtFSm52Y1dPN2stS0ppZW8zWlRFcGdxSjFvOE9zUlJHejdzdlJjMXZRN3k4Q09ZWkhhNjRLVkpaYzhTcVhVbW9ZTkhZN0dxZXJ1MkNqa2hiOVBB?oc=5",
       "source": "NBA.com",
-      "ts": 1791240056000,
+      "ts": 1791245192000,
+      "tag": "league"
+    },
+    {
+      "title": "Dillon Brooks takes 5 minutes to get into NBA preseason scuffle - Arizona Sports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9iODdBNjc0Q0xCenhlQVF4dFVKMWNHaWpjbWt2dy1pLVktS3pzTVIzZC1Jc3YwLVNCOHdPUk1CaUNaQWljSnFjSzNRM0xCdHdEYkFPOUNzY3BmOVp4TXhYLXF4cFoyUUsyQmtMSTZFSmtOOFFVN0dvMkFwZ3hQSVU?oc=5",
+      "source": "Arizona Sports",
+      "ts": 1791244103000,
+      "tag": "league"
+    },
+    {
+      "title": "Jusuf Nurkic Injury: Dealing with foot injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdV9GSHNyX05MdU5ibi0xRFRISi14WEdNZlFxaUR2bEhjbkZabmZZZy1VRjh0SDJnZUJtdzRkVWZ0Ulp2cXFXZEhaWlY1aEJRRUR1WTIyaGFEdVZJQ2Z5MU5kZHhLRU5WWTY2bTVOVjVqdEZhZWF2X3BPcFQ0SE12SmlXTG56NTdnanVTZ0ZtbXBBSmRsWkVrdFlrd3l6Zw?oc=5",
+      "source": "RotoWire",
+      "ts": 1791242257000,
+      "tag": "league"
+    },
+    {
+      "title": "Kyle Filipowski Injury: Sits out Monday's practice - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQzZPM0ZNQ1kzajl4RklNTHVteDhCeHUwcUhZbjFUZzJPc2tSb25ON000d1RHekd5TmNNTzZSd3h2Y1dQUFFZOWQ5aDZaVUEyVjJnanJOeDE3NGhvZk8wQUFLMG1yeS1ZMU9wdHYwRjg3ZldsSnhHcVZMYUxOcm1UajFYdERvTnU3cEExeEZwNXU2SHRZeGJnUHIyaERlbjV3cEw0?oc=5",
+      "source": "RotoWire",
+      "ts": 1791242194000,
+      "tag": "league"
+    },
+    {
+      "title": "New York Knicks vs Philadelphia 76ers Oct 5, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBib0Nza2g1bnFiTlFuazBCWHB1d2FzRHY0T21zWnlQdEV0QmwtZzVObXZuY290QnBTZ3FwVk1mMm5xaldlNlozUk90ODRjWTNuNFdHeXREV2Y2YUxpZHFrX2RYUzBQX2s?oc=5",
+      "source": "NBA.com",
+      "ts": 1791241200000,
+      "tag": "league"
+    },
+    {
+      "title": "Memphis Grizzlies vs Atlanta Hawks Oct 5, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SSndKN1ZhdEJPeFdCNjFnOENVdjc0cGNuWS0zUGhycjBQWTE0U3l0dzA1REZLVTRfTmlOdWFXWXlCeE5CUmFFNGlsdF9XOGtyZGtlREJNTlB2bUcwbGZETFVWYVJuM00?oc=5",
+      "source": "NBA.com",
+      "ts": 1791241200000,
+      "tag": "team"
+    },
+    {
+      "title": "Max Strus Injury Opens the Door for Gradey Dick to Save NBA Career - si.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ0FWdVoyRXpnOFF0bXM2NHVjUy12emtvZ2lXT3ZzbVVTZjlwWmhlNDVNZzlNVWp1cEVxNTFtQXJkek94ZEJYaGhKdnBneEJfenR3SDdyalZsN21UeW84ZGhocVJDclg1c1FRcXhiWXdBYUpBeEc3QmV5a0dRemkxZUNla1U3SjFJVWp0YVI0SFo2MDFVV216bGV5T2ZYTlZuLTQxM3E2eWc?oc=5",
+      "source": "si.com",
+      "ts": 1791240415000,
+      "tag": "league"
+    },
+    {
+      "title": "Clippers Camp Notebook - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oZHdmc3JDRGxLOXVZOXEzWlRtbU5TVjBuR1JmS29Nd1lWMWdWUmFjMlpfMTI5aktqc2hZSkpjaFJMclRCS3ZTT0J3bjA0OXVWQjR6UVRQNWJiRklucFdYUUtfbGlYaUk?oc=5",
+      "source": "NBA.com",
+      "ts": 1791240360000,
       "tag": "league"
     },
     {
@@ -62,39 +104,25 @@
       "tag": "league"
     },
     {
-      "title": "Will Grizzlies' Zach Edey play in preseason game vs Hawks? Injury update - The Commercial Appeal",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZnJ5NTgyMXlLQnM5VE1wQlRGa004V1hTMFlCZ3hpSkJCU2JYM2JDb0dTa01RUGJweDZwalhRTXh3ejFWYVFEcnhySTRncU96cE9TR1JQa05iWm1kWHpSSmJPTF9aOHNUQlVGU1FFTjduMmVzWVF3YkRKZzR5eHVtcXVkZFFTZUF0UVYtTlgweGNZRHdiUTJNR1dwUW9TZ0JySUFtUDlUM25MYzFuY1JRS2tOTzc3YzRnZUhmdVRqeW1ydUZUVmxfRWtUc2JKeVh4YWktclln?oc=5",
-      "source": "The Commercial Appeal",
-      "ts": 1791238560000,
+      "title": "Grizzlies at Hawks, preseason: start time, TV, streaming, radio, game thread - Peachtree Hoops",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPZl9ORWRJbnY1eXJwblk0WDI5eTB4U1pwYTZqQi1ZeVVNbEtpdkNEd1M4OWFmQW14SGExNjlYVDRDYkJwQ3B3d2VhV0xhcGRCY3VXTmkzQXpuUkV5TXJEVkVhX1ZYR191di1ZcE05Y3JwUFBRaUw3UjBjY0EzT1FIbkE3bVJqaXM2em5XQXZ2RGthejRldW5VYTRXYWltTkpLeFp6RUFtczd4OUNROGtuSy1GdWRnNnBKV3JSWnBQR0J1bjdDaE01RU1COUlCN3hKQVd6ZFc5RGZQY2p4QlBGMQ?oc=5",
+      "source": "Peachtree Hoops",
+      "ts": 1791237600000,
       "tag": "team"
     },
     {
-      "title": "Luguentz Dort Injury: Won't play Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPMzlrc0hlX1liNXlZcURvOEx5VEpYV1JWQWwxSHA1RUdPZU9MNjhKNDBWM1ZXdkNYeE5aS1l4U0w1ZW5RRThiLUd3RHlhV1owZ2VKVnp2YWY3MmJBZVI0Z0xaWkJaZHd6TU52Q2RrMS1GS0ZoVnlLMVdfRm10MFRIT09NeWV6Q1l6VTRvdTBIa05qYXhZ?oc=5",
-      "source": "RotoWire",
-      "ts": 1791235041000,
+      "title": "The \u2019Nova Knicks return home for the first time as NBA champions at Villanova basketball\u2019s tip-off event - Inquirer.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNYWp0eW8wdzNxekJPeUhqMjNOM2E0NVhrLXpLQmM2NUtHM1ZsdUlOakJ1MURBZkRpWG1wN25UdS1LWkZPNGRMbFFsZ0g5RWFoRDZUR2FCcXp5TXFkbDhsa1VLS2M4RlV3WVQtZWo0Y2xvX1Q2aG9XSmpqQjh1N20xUFBIaVQ4ajYzRU9MbG5wTlRPQ1ZLZllJVkVkdGJ0Y3M2OW9FQjlEallFTENxTUI5UjBrT21JOUNFaXp2dGpDaWduVmVHWWhabUVva1ZOZGJZN3IwMg?oc=5",
+      "source": "Inquirer.com",
+      "ts": 1791235728000,
       "tag": "league"
     },
     {
-      "title": "Alex Sarr Injury: Participates in 5-on-5 work - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUF81TlREMjBReG4tZlJkbHU5M25aYlp6RTd5WE9PWGR1ZEVvOXlxRFVEMmxya0RRRUdsbmh2Tk8zUWtyVmdVLUF1anBJWG1ZNE51YkhWUjMxMUtQcUFQZ2s5QS1NU0FRLVVGZUJuM196bmdNZHBSd3lHUGd4bzdaRzNJOUhlN0JLOUt4ZHdfbGlZWlJZUUJheFZBNVQ4Zw?oc=5",
-      "source": "RotoWire",
-      "ts": 1791234642000,
-      "tag": "league"
-    },
-    {
-      "title": "Donte DiVincenzo Injury: Targeting late-season return - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTEZiOFFfX05iX2I2NkdQYldrdXVuNUhOV0Y3SGZXMU45Ty14T3AxWGpRaDFTOXUzQmtsX2VYZkRXQjN5QUpQZUJMeGU5bC1oV0hISUQ1cXpLMGl0SHFxaFBuNzhEMHY5aDZJc1hHQmdwc09XcjR5cXdlYkFlLWNDaHphZFFvZld0Q19vUkluUTZRb1pkWlJUbVkxTUlkNkV5WDJWa1MxV0k?oc=5",
-      "source": "RotoWire",
-      "ts": 1791233596000,
-      "tag": "league"
-    },
-    {
-      "title": "Alijah Martin Injury: Practices Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOampTWXdqUXZYR1h4RnlLbWdlbWRrVjRCaGY2Y1pkc3gwdWxjSzZfS2tzcnVJbFkzbFVPNkt2M09XYXhtMkNrZXJTdWp5eC0weE56U3o5cV9qd2lDbmZndTZXd0pXemRnVlhndEkzRHFsakhPbTJ2T29hZXpzQ2ZtaXVoU0hLZ3lXUzhNcG1BblVLck9t?oc=5",
-      "source": "RotoWire",
-      "ts": 1791231308000,
-      "tag": "league"
+      "title": "Three Bold Atlanta Hawks Predictions For Tonight's Preseason Game vs Memphis - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNemNaXzlUejN4amtoWG8tVTE2eXJ4bldITU1tVTUxYlBoREtvLUkxQlVIalprQU1STEttSmU4cWJFZ2tLbm9zdVhVNENOVkdfeVBqY0dHNzFNRmdsQW9oVXE2TEJTTFgyOGpqeGc1clpfQXVUT2ZhakVEQjEtcUFST2hfNkFObnZoUVY2bkJB?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791232747000,
+      "tag": "team"
     },
     {
       "title": "Atlanta Hawks Ranked 14th-Best NBA Team Entering 2026 Preseason - Yahoo Sports",
@@ -111,25 +139,11 @@
       "tag": "league"
     },
     {
-      "title": "This NBA player from Utah was asked about basketball, then the questions changed to church missions. Here\u2019s what he said - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQX081UUROMjFzUkVqcjFJUHg3VU9LMGlIS0NNYWNGLUFYQXM4VVotd0NObHNtR0lfUTRTdkF0aUFXV243alpjMFhmaEdhWWo5VXBRX2wtMnIyazRMeDNsaVFrTU5mSWNOVlV2d3dzcjA1VUhiTnZJWlYzQ2IwaUNUeGJDY2lKcHZzN0RwWjFHUXFZU1d1UVhPRUN1bEVvdXhZVmFNUlpR?oc=5",
-      "source": "Deseret News",
+      "title": "This NBA player from Utah was asked about basketball, then the questions changed to church missions. Here\u2019s what he said - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQnNHc3RlUmdBeGFBZDVBY2xIVEMwV1JCSmxyNnZIZVFWSVRmZWtES1Y5TFRHemFqTHJkY3dMRGRYdzl3N3dETkVFZEtDZkQ3RG1jU3RSTDVDRW5odE45Y3NMb2dFZ3lOQTNOeThubTdscFpudkZqbGZpOGktNzFFWnFYeE1PU0lk?oc=5",
+      "source": "Yahoo Sports",
       "ts": 1791223200000,
       "tag": "league"
-    },
-    {
-      "title": "NBA Trade Idea Sends Mavericks Player, Hawks Player to Pacers - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeThkUXpua2gteHZaSVJDTU9fVkloRG5jVWhMUzNJbUM2OXpSR0F6ck03MTRJRTYxR1c5emZRLVU1bHZNd1ZLOHI1ZHYyNXNobzJvTC1lRUtkcFZKV1NLNFZlSFJVWkRtdVo4SGktR2t2QzFpSmxGNkdoaXFoX0xJY29qcVVjdw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791219834000,
-      "tag": "team"
-    },
-    {
-      "title": "5 Storylines I'm Focused On in the Atlanta Hawks Preseason Game vs. Memphis - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUFB1dGt5X2pfUWFUd1lPcVVsU1RaSGppTHdLYlJnNU9wRGYxRHFWb1NvNVVMRzZPcGJULXQ0cjlaM1A5T0tVZ3hUaENrQloyNTFfTGQyR2NCWEVuU2ZTSWtBYnpUdmJuRDgzY0pBQ0Y3YUcycTJFaWIySG84RTU1aEVmUWhWVkE?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791219604000,
-      "tag": "team"
     },
     {
       "title": "NBA Trade Idea to Give Golden State Warriors an Alternative All-Star Upgrade - Bleacher Report",
@@ -139,16 +153,16 @@
       "tag": "league"
     },
     {
-      "title": "The 2026 NBA Preseason Sneaker Power Rankings - Sports Illustrated",
+      "title": "The 2026 NBA Preseason Sneaker Power Rankings - si.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUHE1c05ySFNfUHZiSXZtRnlZaEUzVUIzclNHZTVzaHAzMjFSUUJaUVJBazh6YkU0akJvcXpsSnpxdG12cjRKUlZoZDN5VnhfNUV2WkhGanZEZFlISTJqT2Fjd2xRcW9HWmE1SkVSZ2xTVzRJOEE4dklPcGttZXI4T0VDdmNYdkxzdU1iOA?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1791210927000,
       "tag": "league"
     },
     {
-      "title": "Hawks Vs Grizzlies: Game Preview, How to Watch, and Projected Starters For Tonight's Preseason Game. - Sports Illustrated",
+      "title": "Hawks Vs Grizzlies: Game Preview, How to Watch, and Projected Starters For Tonight's Preseason Game. - si.com",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMElwMXB6aUZVcDN1TUtNLWpqOXZyYmtsVUhOU3JieEp6ekNHZk43N2ZGanRTang2ODIzanVFZWtucXVaUFIzWDg1WENoU1FvZ1pCNDdQUWZDOGhEUDdmbHdnUGFpUE1KdVNSV2V3XzZLQ1pJaWNlR0d2NGVfME5uTnF1Wi1DTkpTcnR6WGhpRUlxOGJIUGRoWHc4VmJLTEF6YW1tbE40bGFReTJ1VG1BN2FmSHl5cWJfVnV6SG1OUUJUQlhjTE1tbGhlUXUwSkc3LVhGZE9udGROeTQ?oc=5",
-      "source": "Sports Illustrated",
+      "source": "si.com",
       "ts": 1791209635000,
       "tag": "team"
     },
@@ -167,9 +181,9 @@
       "tag": "league"
     },
     {
-      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports - Fox News",
+      "title": "ENES KANTER FREEDOM: I know the price of silence and won't stop defending women's sports - foxnews.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS0JBWnNCUzN1TVV0Y2dSNXd1LU5ZaDFRajcyeTFwaXdjTi1hVWtOaE1VQ215NlhqRVphQlN4SDU4T3kyNzNmQXBEbEZxWllncDlrWEpCbkNQVVNOcWwyM2tYTFY1QW02dlNBRmFnN2VTam1KRzRMLU5IdjNoTmY0WDlIdTV4OS05UGZ3RzVPUUdSWmdQRGlDSDdGVFJDQ3Mx0gGmAUFVX3lxTE1URkZOZ0lRUlFPZlNYTDVGLURlVVlWUnZSNWZKLXczTmJaYzdkbDJMUzN2d3JPc2pZUi1CSUJYUExFaUhDRGdOS016bTY1LUtQb0NrbWJ2NndyQVVXcklXWlZRMm1LVzQ0ZTcwcEw5TFdFa0VROTMwbVh0MnkwNVp1b3AyUGtLMzFHdXZxVjc0cFlZOU4yWk5GcldhaEllLVFmemY2dEE?oc=5",
-      "source": "Fox News",
+      "source": "foxnews.com",
       "ts": 1791190548000,
       "tag": "league"
     },
@@ -181,13 +195,6 @@
       "tag": "league"
     },
     {
-      "title": "NBA injury update: Spurs coach drops latest status on $31 million forward ahead of NBA season opener - timesofindia.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxON2s3RGJ2dmU1aEo3aWtYZWlUdjJ4bW9CRDE0elBwNzRuUkpXOG5JZVk3MXRIN1U1dUVvSWFnUVhQQ0JxR21NNEtwLWVKRDdlMXZCdTRRM01CSk9yYWFKMTI0czFINFdadUxXWmpsT0NXN2NhRzVyR0JQR0hzeXhxang1VmtLNUt3SGY4YlhNc3NCMks1U3JZaWdOb2FBSk5RdlNLYmJWb01hU3BMRTF2TXhDd1NRVno5Z01LVHJhM05LVndjVlZyLVVGbEQ5bktBUWplbURtLXh6dzRoam52WGU1SEtSY0I1ZnFTbzB3QzRObjhnYVFrX1hzUXBKR29JcVU5bC10MU1ncVJvSy1peNIBlgJBVV95cUxOdEhvT05wUHBQTWhpYUNMTlB0aWRiQ2pCbGpLM1V4X0hKUXdwc3FhTGkxWmpTb2FnWTlpQ05WV3JjOWlCekVqbTNtZ3JnS2NJenNOOXNuSEEwMWpHcDA2em9qbllaMXNSRlZiemg1N1hLUVRsWFhVVWFKYVVBM2ZaN1ROdzR4T2ctNmQzTWRzcmM0aktoVk5yb01kV3hSLTJhUDA0Z0R2c1ZUZGFxYXJYRzNxRHFHdVMxSC1DODZ5eVh6aEhVQlY2SkprLXZNUDFYUUU3N0NQcW1QWTc5QmlXV0x4M21MVHJ3Qmc1eVQ2NlJEMmNxVHgxY0tDVXpNTkpaTFpxNjc5LW5XdUp2SERhVjNiOWE4QQ?oc=5",
-      "source": "timesofindia.indiatimes.com",
-      "ts": 1791167640000,
-      "tag": "league"
-    },
-    {
       "title": "Warriors unveil Steve Kerr\u2019s new style of offense in preseason opener. It wasn\u2019t pretty - San Francisco Chronicle",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeU5EN3R1b3ZaV2NXQXd5WjdlUE1teWVlRXpaN3dqZkd1T0NuTXpWeFdhdzkwWkM5azlDUzZaZHhrc2RFV252QWxOWUR0emFzMDFRTC1IVWtCYlczTXJPa0JLUGFzUmU4V2NILUlSVUptSV9TZGM1MHpROVV5LVA4R1pyaXlaMG4wVjNSUU5VaUZUQ243dlR6TEktNzRxMy14alhwLThnTE1tVE5iN2swZQ?oc=5",
       "source": "San Francisco Chronicle",
@@ -195,9 +202,9 @@
       "tag": "league"
     },
     {
-      "title": "Every NBA player has a trade price, and Bulls wing Matas Buzelis is no exception - pippenainteasy.com",
+      "title": "Every NBA player has a trade price, and Bulls wing Matas Buzelis is no exception - Pippen Ain't Easy",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZG01WXZ4UEdMWk0tbHdYNW9Vb1B0d1NPbjRBbFp5amhBQmtYaEtoaHN4WEJhUDBOVkxlR21BZk4tNWRQaDZnSzl1N0l4MTg5NEdaRWxUV2QwNERKRDd1Q3hqTTIxbTRPRVF2Z2dXMGVXdlVxTm1sck9zZ2lzNmVRdQ?oc=5",
-      "source": "pippenainteasy.com",
+      "source": "Pippen Ain't Easy",
       "ts": 1791162000000,
       "tag": "league"
     },
@@ -206,13 +213,6 @@
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZ2NHWjFCWHVnTWhCV1ZMOU0zc1Qxa3ExaWk3bms1SmxwUG5LYXRJS0s5b1I5ckpyZjltY1JXT2ZtcklRa1VNa2Z4WnNGVF92N2l5THVHR3owZFNJM3Y2dnB5dWxEaUd6NURtODVYX0UybHh1UFc5M0lJREtubS1CUmdJSFZSVEhXdlcyLWVRRFl1dmVxTzd0TjlROFV3alFPeXlHbEJhbEVyRTNlaXlMcWpmWmRrTTg?oc=5",
       "source": "heavy.com",
       "ts": 1791160380000,
-      "tag": "league"
-    },
-    {
-      "title": "Could the Bucks become the center of the trade market? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUmhKM0EyLTlpUzVpdW1BNExJTjN1M3BkR0JJeDhqTE0tN0NfU05idDZvTzQxTkwwaWVsTXhVaEZmb08yWlFXY2ZldHlOb2h0dDl4TXdLWU9BUTlFdGxPVEpPVUpjdXgwMWJUaVZtS21ZUkVWblhTVWhOd1JsbV84ejdmM0ZzOXh4TkxtR3JxTzRmR0NkX2JvbWdkVkV6bG5wa2l1dGFYLUw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791151200000,
       "tag": "league"
     }
   ],
@@ -610,6 +610,11 @@
     "zachedeyinjuryruledoutmondayrotowire",
     "zachedeyinjurynotstartingmondayrotowire",
     "maxstrusinjurywillbereevaluatedinfourweeksrotowire",
-    "willgrizzlieszachedeyplayinpreseasongamevshawksinjuryupdatet"
+    "willgrizzlieszachedeyplayinpreseasongamevshawksinjuryupdatet",
+    "keeganmurrayinjurywontplaymondayrotowire",
+    "howlebronmanagesarthritisbackinjuryrevealedinnbarumorsamidhe",
+    "collinsextoninjuryruledoutmondayrotowire",
+    "austinreavesinjuryunavailablemondayrotowire",
+    "jusufnurkicinjurydealingwithfootinjuryrotowire"
   ]
 }
