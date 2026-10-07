@@ -1,23 +1,58 @@
 {
-  "updated": "2026-10-06T21:14:52+00:00",
+  "updated": "2026-10-07T00:43:06+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 5,
+  "pushed_this_run": 4,
   "error": null,
   "items": [
     {
-      "title": "Atlanta Dream will play all home games at State Farm Arena next season - Sportsnet.ca",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0F3NGNMSUhwbUhQV1pGLTQyWEx4b3RpbzJ5eHY5ZTdfcXRWVjhpZFUzbHdFd01jd3NEZUwtZm0wNHo2bkZ2S05mSVdKaGJYZ2FCWVV1QjR6VHlraDN0VnFqcEJkVm9MdWlHWUhkOTRsZ0lsc1RRV0ZWNWFlYnFwRlo4cUN4MnhjTG5BZmJYTXYwTHg0YmpSV0VEMEJrUUdMSUdOVDNtSFlGVndiQlE?oc=5",
-      "source": "Sportsnet.ca",
-      "ts": 1791320880000,
+      "title": "Kyle Filipowski Injury: Won't play Tuesday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbDZaVWtOYzV0STVsQXRfdUNJQzJTR0pPeVJJZDZzbGFseGF0M0tDRzdmYVpTdWttdGo1VVZva09pb1drWHlNVC02aUZPMkh4NURacFdmWjFHZTdsazltZmMwNWs0NGFERW9ad2ctRmVyYVhTNHcxU0dMRGczVzh2dTRYRTI3SDRsaVlGMmJQMFNiaUdYWGRKTw?oc=5",
+      "source": "RotoWire",
+      "ts": 1791332530000,
+      "tag": "league"
+    },
+    {
+      "title": "Brooklyn Nets vs Charlotte Hornets Oct 6, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IOHNyZVJQbGQ4MllMVHRwMmF5U0pWZnFqaVFEZ2J1YnluX2pFdnd4UlJhRUpzRmo1dmxRSFRCbThGQ0ZvTW5HVTVUYnl4a1hVbWZPR1IzalZ0YWNiWld1cnZlRTN2T28?oc=5",
+      "source": "NBA.com",
+      "ts": 1791330149000,
+      "tag": "league"
+    },
+    {
+      "title": "Brandon Miller Injury: Harsh news for Hornets star ahead of NBA preseason - BasketNews.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeFNrQVhEZ0pzS3dpWEhoQXZIMWMwblNWcW5oX1hBWEdUeG02UzMwZFo4cWFTdHNwMXdPaGZMWUMwQUNqelhRM1RzTnBuZDRETmNvbzZrMERYS0hodGZLa0tTMGxHVHQ3ZFA5YW42bzBSNHJGUFhHdFNnR1ZRTDAxSmRkZDRfcWZpU1VaRzhucUJHN1FTbW5MUTdfX29CVmJvRDR3MzlqdFV2aXB3Z1p5Y0ZB?oc=5",
+      "source": "BasketNews.com",
+      "ts": 1791322800000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks Predicted to Regress This Season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPT1lBUW0yc0FjYlV2Z1AyTVRjT1YzNUFMRDBMTlBiT3ZxVDA0RnBNbXZvQ3ZKcmVHUEIwYkZvWGY1cV9OWC1lZGdkZENuVUJEa0ozd2w1MHY1bzRwYW42cmlob0Z0VHQyaXlQX2VfRlZJVGd5Y0NiUXRSbXcwVU5ROE1GZmg5LTRpUGhRM2xaZHM?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791322272000,
       "tag": "team"
     },
     {
-      "title": "Biggest Overreactions From Atlanta's Preseason Loss to the Memphis Grizzlies - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV3BXVDJxYk5JcjBxcUhCUGhoS3haNkpFQ28xX3JKMHczOHE1aGpwUmJTazFOejB2WUZHR0FJeWhpM2lWdHdVMFBFSGR2bkFMX1RSbUQ1NGZ2WXlBV2pjUnpVaHlMVklIODEyMkZiVEhhVWZfa04xSFdDSEw3VlVsZkxIOUwzdkRFb0tUeHZVX28yX0cxRDZfYzIzS2dOTW16TlJGa2JNNU1QcFJGWkpvRzlrWVJUWFVyZTJNSmRSSWw?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1791319157000,
-      "tag": "team"
+      "title": "Euroleague shareholders reject NBA Europe offer, door open for future talks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclZMVnQzR0ltS2dXUU9UeDNsTHgyeWJZaHcyYzVuSEFYWURTRUF6c3lyVTNTMGlGdVpWRXFUdG54UGZIMG9SZ1IzNUZwMktUVWstdXhHYl96d193NHhILXRKUlhYVk5VWlptRGFKQXhMWlJ0Ni1kdzFkS0FzMnFuTjBOUVRZZGxyVTF0Ml80Q29YNmdxS3FiVEtzSG5oNzZuR0k2TldiN2VFQk05QUlaTmFmUFJva3ZuVUtjSQ?oc=5",
+      "source": "Reuters",
+      "ts": 1791321392000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Fantasy: Guard preview - sleepers and breakouts - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1RcFp3STZzM09uQVYyMWtFYjNXLU9UYnIwX3dOZ3NhU3BXcWppREotcmg5RUpGcXYwZmt2OC1yYzUtYnF1djNMelZZOWtpS2hOdXptR2UycEE4RXVvMF91V0s1dXo1cm1XNk5DWHRVZFZfZlpYOTlTVHdEU1JPdw?oc=5",
+      "source": "NBA.com",
+      "ts": 1791320879000,
+      "tag": "league"
+    },
+    {
+      "title": "2026-27 NBA Season Preview: Thunder, Nuggets, Timberwolves, Trail Blazers, Jazz (Northwest Division) - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQenBCRlJnZjZMLVgwS3BQamFNLWFpd2ltclVKeE12WUJRUXhCOVN6UlN1TW5nTENZbGROVzNhTWxvUFB1a0hGcDlDa2Q1TlBaTl85bUhTZGp4eE1ZYTdDeVR6LXpkaU5EZktfNTF6dm01ek9BMkIweG1rLWUwWTdFWDdvQlFKb0U1YldWR3V3Qk40cXFlRjFnQzRBbEdmWjFuSV83ejNQLWhvVzFtR2FDUTE3MHlZb19tYlBHNzUzenFtcWUwYW1SNWx1VW8zVHY2b1ZOSnJBOWd5ZG9yekE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791320387000,
+      "tag": "league"
     },
     {
       "title": "EuroLeague shareholders reject NBA\u2019s proposal for collaboration: Sources - The New York Times",
@@ -27,30 +62,16 @@
       "tag": "league"
     },
     {
-      "title": "NBA Preseason: Is Steph Curry playing for the Warriors vs Lakers? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE1xSDAzNFFEYjVLVjFHTDNhcU1LOVU4UVhFRjNkaUkxUk1NZnpmeVNNcVlVZEhGREt2RVNFbVQxeUtCUFJOY3JPYlZFeW1kR1BOc3VVX25vZWxJTE82RlBVNnRTWEFOTUsyNWFYLTBzWWhVUHVOcUVaWUM4NURzNzNhVzMxekFEMnc?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791317253000,
+      "title": "NBA Fantasy Rankings: Category league centers - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDZE1tMU9EQy1rRHFMeEpSZkRQdVJSMVN5LUdLUi01NGtJelh1WHY1cmVFQkRwbk5kVnZnblZnSHBURTdoalR6WUFFV1dTX0FqeDNtSkxmS3hBMTVjbWpQSzNlOEVkMENqUmVoTXZLOGFnNmxVM3hSQw?oc=5",
+      "source": "NBA.com",
+      "ts": 1791317071000,
       "tag": "league"
     },
     {
-      "title": "Kristaps Porzingis Injury: Remains out indefinitely - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdElwSk81U21PUExUMGlraExlaGd2OThfbmNYWmFjdE1uMzZyT0ZfY1gyc1NTdUplRFBXcUQxeEkzVnBpU3dwREVzbFAyRXlBdHE0VDhaVm90Q1dQamtyTWpWS2VPaEtrcUNMV3hDRFEtcHktOVV0QV9FdU5zZTA0WDdGd29WcDNmVUItcWM1c0MxSGRuVTMwMVFBVjUyTXBTdGNvTDdn?oc=5",
-      "source": "RotoWire",
-      "ts": 1791317094000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Teams Still Monitoring Mavericks Starter in Trade Rumors - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUR2RC1sRks3TkwwMGJ4Y3JoejlQNEtvWWxDNmVTUkhhVmNYSGJjenhBN2pRWllYZXlaMzZWSVhXSmltQm5JNDhwLTVQWEZ2bmZZUTlSOGR0c29aUVRBWUloeDBETGJOWlFaYlkwZ1FhVlIxYkk1dHE1Uy1vM1ZrWWhkcFB3c1BnOURrTFl1UXRXenBrMk5LczJpOFllMkFwRi1FM2RTb2hSSWhfeG9idWI1Z2NuQ2Zq?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1791316159000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Dream to play all games next season at State Farm Arena - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWk4S3lHUEROME1NZ21Tblh1ZURYQk9MRHJjUkQtVENNaFJsNTVWWkFpc2luV1JJUVhmc044TG1WTlJLZHcySHNfQ2pUWllKQ21IaHlvN0tWSnlQakFSRF9INDRVS0VyUC0yNm1YMzR0Q0c4Z2RUak83d3VHeFUyUnZTV2I?oc=5",
-      "source": "Yahoo Sports",
+      "title": "Atlanta Dream will play all their home games next season at State Farm Arena - FOX Sports",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSUdLNFpmLWE4YUZIR2FtNHZSVlNxTzhEQldWa2VOOTZ3V0N2alpULXIxUHlmOV9JX09DcGJqcHB4bDY3ZmROUW51aXQtUlk3cWZOMUVicVkwYmFMa3JGelBFZ2RPODJSaGQwM0NLUXVRQXY1X1otS0ZjbG1JeEFSQmRkbl9fdW5xdU51VWpFcDdva0FOOHEteU9fRURpWktyVnZKeExJTFlUaERwd21Fa0FmV19CSnM?oc=5",
+      "source": "FOX Sports",
       "ts": 1791315849000,
       "tag": "team"
     },
@@ -62,31 +83,10 @@
       "tag": "league"
     },
     {
-      "title": "Ariel Hukporti Injury: Done for season - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcEZBdXNCWGs1RVliemp2ZzNTWk04eWF1X01yXzNvTU9PVWpjVllfWVM3aUhQY0RSdnRYN2czd1Z5STdTRDY1VVN5d0tPU2hJQ0JMQTJiTkQ1emtmTjZWRnYzV0pLT2hsM19NdUhTeDV5a1YxZ2RQM2MtZWt2T1dQV3NqZE9RUTJ6VlNROTkxcnlCaGp6?oc=5",
-      "source": "RotoWire",
-      "ts": 1791314267000,
-      "tag": "league"
-    },
-    {
-      "title": "Minnesota Timberwolves and Lynx With Treasure Island and the Prairie Island Indian Community Unveil Refreshed Red Wing YMCA Gymnasium - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNNU94Q2VtWmtSeWtNc3dtd3dxWkNjTGVVMWVKMzFNNjlaS1VqY0dyd0M0VFJpYi1maVRKMVpjNWlJa3Z0WlZveVI2cFJYTEtDZVpLVFhsVXRpSHB1WXRyMmRuN2hDXzVwQ0RKWjVGRVFvellOOXRKak9ZQldMbS0xOUVtQk80YXF1Vmg0ZVMxdDdaS1F1SFFqTVNoc0k2Vjg2NTVtaFBYd3o5SHUyTF8zc01odnJ1a2tMZU01REQza0stTVRMXzcyblhoaTNoc0VGZmlmWFN6eXRBMzNsRGhzR2lOUG9WMEJ0ajc1RlhIdHJXQ0I2U3BGaDRTWE9fQkx5?oc=5",
-      "source": "NBA.com",
-      "ts": 1791314100000,
-      "tag": "league"
-    },
-    {
-      "title": "Euroleague shareholders reject NBA Europe offer, door open for future talks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQclZMVnQzR0ltS2dXUU9UeDNsTHgyeWJZaHcyYzVuSEFYWURTRUF6c3lyVTNTMGlGdVpWRXFUdG54UGZIMG9SZ1IzNUZwMktUVWstdXhHYl96d193NHhILXRKUlhYVk5VWlptRGFKQXhMWlJ0Ni1kdzFkS0FzMnFuTjBOUVRZZGxyVTF0Ml80Q29YNmdxS3FiVEtzSG5oNzZuR0k2TldiN2VFQk05QUlaTmFmUFJva3ZuVUtjSQ?oc=5",
-      "source": "Reuters",
-      "ts": 1791313831000,
-      "tag": "league"
-    },
-    {
-      "title": "Why hasn\u2019t Richie Saunders signed with the Memphis Grizzlies? - Deseret News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHlHcXVUeEY3ZU54S19OMm5hWTJkNFBMS3ZlR3dodWdtUmJ5TEVsaGotMEVvNnVpRTFvdlV2LUJJcTExWVlzSWVwckdveDF0STJiaktwYzI4bGhYRG9LNW91UnF3amZUZ3lzdTBwVml6Uk1rMHNkUUM2aWt6Y2hvSWN3elAtOU41dl84cml2LVZWU0lEQmdFTA?oc=5",
-      "source": "Deseret News",
-      "ts": 1791313200000,
+      "title": "EuroLeague Rejects NBA\u2019s Initial Offer to Collaborate - Front Office Sports",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDZHaGNDa1BueFFhMmpScE1qNDd4dWhXazJrUjdSSWFxcUEtcVF3YVBVcmNjczNSdnJCSEh0VHZ6TVhKendUMEl2ajlJRUcwWFFPUXlvaV9zOC1ERjZIdlUtZ3l5QTRvRE11MjVMRkFISFFsSm1XM29FTk9hUmZoQlN2bTRoVmQ5eUttNGdIR0UzaUJaaFE?oc=5",
+      "source": "Front Office Sports",
+      "ts": 1791314445000,
       "tag": "league"
     },
     {
@@ -97,24 +97,45 @@
       "tag": "league"
     },
     {
-      "title": "Northwest Division preview + WNBA semifinals game 1 reactions - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEVqX1gwcUZzaXVqZk9CWS1pZmpsRzhsMXBLWmVUZzVIMnlCOW5GRmhuOTBnWTQ0LUR5RURpNHZjblRTQ1lWMERjQ19JMHE2X1E1Q295REdkVm9FSUlEXzZfY09XUTk0d2lnNGFMMWV1T05na01faDFYaWQ4Yng2STg5UHY4R1hCSW1DUlNlejlncDNrSWtFN1VOa0xrQ0Y1SFN5ZFhoUlRYZ1IyYm9uejFR?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791309975000,
+      "title": "Did you miss the NBA offseason? Here's what to know for fantasy basketball - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWJUMGljTEpTNWpTUVE4NmFhRmV5OHp3UzZTYnVsYW5RSURkR3F1YmN4TWZzNXdxYUhFWmt0NUlPY2JQVjR5Vk1KcGo1ampCU3ZrNnNDdTdadTdDQ2NpQ1J2TmRZTW5UVXBaOWlsRFlCTHNHR3Mxbk5sd3V4RGVwcS0zNS00OGNFczZBVFZZWG0wanIwNjl6Z1loN3E4VmtjUnp6dVJB?oc=5",
+      "source": "ESPN",
+      "ts": 1791309600000,
       "tag": "league"
     },
     {
-      "title": "EuroLeague rejects NBA Europe initial merger proposal, more negotiations to come - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcVNhY3NZbjYxUTlqSzVEaW1GLU5EZ19sRy1YTHhEM0xYcTJKamtCZ0s4UDRTLXZHTGhyQ2pOWjZocEUxTTR6V3ZFaXhtUkpETlJUcGVoWWhJYm95VmoxbG4zY2p3MHUyejlwYm5tTnJaZ0lWMG52Y3Y2SU1MNURRSHVfMHNDT1UxeWlJYjhZOA?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791307684000,
+      "title": "Clippers Star Bradley Beal Thought NBA Career Was Over After Injury - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMmszUVpSb0oweThqRWJaMzVEYWNyaVZrbTUtY2Q3ckFmdjBPaEk5WWEyTk9mY3R6R1RsSG8yTk5NdnB6cXQtZEJibFM0LXhFeTR3QWEyZElkM1htVjQ5TkY2cHExNmRFdFBTb3BYeXdZazd2VEJwUTBCcVFMVkkyM1RoUDBiYkVwNkxQVU1Lcw?oc=5",
+      "source": "Heavy.com",
+      "ts": 1791306149000,
       "tag": "league"
     },
     {
-      "title": "Bucks Reacts Survey: What should Milwaukee prioritise in the preseason? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdHhkVF9nYmpXX3dlZ3NjTlhoazVTQWp6SlVkdEJPNzRVZTA4bmx4TUNVR3lkcGxFZ1FPb3F0QVJYbk9fRGZBUWpvTWpfY0dxUXN4RkhpUkdwYmNRX2V5MUxtcW9LbjExT0xZbEpKUGQ3b3RYWWZiQTNWVFBXQ3Blb1I4MktqNXpXc3Zlb09kWkhVM00?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791296162000,
+      "title": "Giannis Antetokounmpo reveals the biggest difference between Miami and Milwaukee: \"Jrue Holiday is not showing up a month early\" - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOXJLa2VqYU9GUWVLUTVnTWF3YzZjeHc5SVFPNkVkNlF3NVFGRW82MUJkcmo5WFdtcnh4ZTVjM2xtbjZVY0Rlbm0xS1FvVFo4aG53ODJtdGk1Rm1TQTd3MVZZNWlsMWtfMFhxSURvNWxtVy1JLS14RWtsUElKN25ZemRQMXBlV0VSeDJhRUQyOGdWV1BscFV4aVQ4T3JyLWhISFRUdzBaUVVMZkZDSGJ3YjFELTlabnZYd2VlenpITFpEYVQy?oc=5",
+      "source": "Basketball Network",
+      "ts": 1791305700000,
+      "tag": "league"
+    },
+    {
+      "title": "Knicks Could Trade Karl-Anthony Towns In Blockbuster Development: Report - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTGdpY3N1SkNEc2RlR1BLRFdWYjhSbXR2dnMtdGRVWjFoVF83cFVMMnJSS0dNLXItaVhpV3BaMkRvc3I2TUUwWmJ4bTRnRjN3dXpXMlAxQXh1ZS1OUGEzNEE1UndNZmxlTEJlLUZPQ19IbEJ2ZzNPZXdqZV8yZ0RKbVZUMHIyRldSNjJWd1hzMHY3MVc3b2d4R25xRC1LLUJSOVE?oc=5",
+      "source": "Heavy.com",
+      "ts": 1791300563000,
+      "tag": "league"
+    },
+    {
+      "title": "Norris Cole returns to Heat organization, but this time as a coach: \u2018He\u2019s built for it\u2019 - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ZSG1BcGdwSmU3MGRMeXl0R0VJTmoyWTI1WmFyc29KXzBLd2J4ZjRvZ2lYSHhHUFJCQjB2ck9lQlQ0TFpERERpMEFXU25KbmRPcGhyODNrU2RwYko0RmdPU3d4UDV1QTZWZjU5SUhzcEN0QmE3bV8xZHBBa9IBe0FVX3lxTE0tMGFsOG9keXBibzBSOHd4OHhWcGcwNWgtcHdocC1KbDhNTU9hcVo3Q0ZxNzJQMHZXRHR2ZzRBZlVoRDAzU1YyQ1ZPaU90VEdGRE5NcFNfLS1BMUx6b1lCQkZIRVZzZmdKWkppLVFkRTloNVhRa3Fkb1dJRQ?oc=5",
+      "source": "Miami Herald",
+      "ts": 1791295200000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA head coach rankings: Where all 30 stand entering the 2026-27 season - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8zSE12eUhHMVBHRFQxNXRZRlo3bk1IOGg1UnlGaWoxVnF6R3dNZm9NWjlFcm44ek1GRm14ZmxRU1ZEU211SVRYRm5PU0FBbkZYNF9PYlZBWW8wMkwwcFNjYkFJbmxnbU5UcV95c2V1UlpGT2ZnVkVlaFEzdlJMNTA?oc=5",
+      "source": "CBS Sports",
+      "ts": 1791293164000,
       "tag": "league"
     },
     {
@@ -139,13 +160,6 @@
       "tag": "league"
     },
     {
-      "title": "'Over-Under' Predictions for Every NBA Team's Final 2026-27 Record - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcFVHYU8zVU1nanR4ZHVIU2pHODFucXliM3gzc29LcHhjQWVGZ2VFcGdMenBuYkJ2WWdPYnZhWU5CMmc5MXU0NTR1dEJQZHQzcXozN2hZY3FFNTZJZWlKSG40UlVzZ2dKeTQ0cVhFSk1sc2pRTzc2QkJTSFVTcE9vdmFCYWR4YlZEemNfeG9sOS1tNnlWSTBETGJBc1hHVWdVbGVPQ19Tdw?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1791285461000,
-      "tag": "team"
-    },
-    {
       "title": "Both sides of the contract divide between Karl-Anthony Towns and the Knicks - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTkdCNWRTdTNmQkFOZDhyZkJWdkVlaTRGLW1pdlVGRF9aMFYzQ2txQlg4a2IzY3RSLUlfdVJYZF9INm5Rc1JneVhEV242c0tjQVRiT01YZXhzaWFpamFMdzN6dm1oR3hLWV95cGhqUmRPbDZCUVRoVE9KUGlvX1NOY05xaWhBWkpZa2J0MDNQcDRDaXVvNXpISWlLSGg4UVZDaEE?oc=5",
       "source": "ESPN",
@@ -160,13 +174,6 @@
       "tag": "league"
     },
     {
-      "title": "Timberwolves 116, Bucks 97: Basketball is Back, Baby! - Canis Hoopus",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTMwSC01SWRDWG03OFlhT0w4ZUZXZEZwbi1laFlqTGtSZUdxU1VHQUxOa0tQMkNfT1Q1SVZwM0RoTlVGc1VoWkk5YUFYOWJ1NjU1R0tvWThNM2xlSzBLMURzRzBRYVpJT0F6WXFtdVpwOHFxVllnWC1JUmRXMk5XSlN0OG1XNzNzM0NGMWZyLXpTeUZzdDBIVjlHbmozdnhaajBuRmNkd3dWTnVPSzdvdlJING85WW1XT2lXR3FyM2F6SDRHamtZ?oc=5",
-      "source": "Canis Hoopus",
-      "ts": 1791262680000,
-      "tag": "league"
-    },
-    {
       "title": "Clippers' Strus (foot) out at least 4 weeks - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdWl6RWJHLWdVd1NHQS1MOVotVWdBZmlWRDBKSzJyRW84cUlsUGQ5ejJxbnZmYUpTeThCYVJMYXhaOG83U0p4R2UxMmZxdHVvNXBESnJkeGhBU3Byd3N4WDlKX3NIeFdKNEJPa1FSTTViTUdRSVoxcUd4c2J4SC1SUnI4VEZoWC1tMF9qZg?oc=5",
       "source": "NBA.com",
@@ -174,9 +181,9 @@
       "tag": "league"
     },
     {
-      "title": "Hawks \u2018didn\u2019t feel like a team\u2019 in first exhibition game versus Grizzlies - AJC.com",
+      "title": "Hawks \u2018didn\u2019t feel like a team\u2019 in first exhibition game versus Grizzlies - The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5QZzEtS2JoRHZNcEc3RmNoblgtVjFoVHE2M2ZPbGF5U0dWbXpYSkM1MDlVOGR2T09QVjYyOUItZElwV3A5dm9oVEpRYnZmN1F2ak5BUkVLa3RLLURSMFpjV2RxZS1NTnpBQ3hfc3pMc3JXVkNwUWQ0ZFh3?oc=5",
-      "source": "AJC.com",
+      "source": "The Atlanta Journal-Constitution",
       "ts": 1791258735000,
       "tag": "team"
     },
@@ -207,13 +214,6 @@
       "source": "Heavy.com",
       "ts": 1791247560000,
       "tag": "league"
-    },
-    {
-      "title": "Memphis Grizzlies vs Atlanta Hawks Oct 5, 2026 Box Scores - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1SSndKN1ZhdEJPeFdCNjFnOENVdjc0cGNuWS0zUGhycjBQWTE0U3l0dzA1REZLVTRfTmlOdWFXWXlCeE5CUmFFNGlsdF9XOGtyZGtlREJNTlB2bUcwbGZETFVWYVJuM00?oc=5",
-      "source": "NBA.com",
-      "ts": 1791244484000,
-      "tag": "team"
     }
   ],
   "pushed": [
@@ -630,6 +630,10 @@
     "nbateamsstillmonitoringmavericksstarterintraderumorssportsil",
     "whenaninjuredwillisreedstoppedwiltchamberlainin1970nbafinals",
     "arielhukportiinjurydoneforseasonrotowire",
-    "afteroneexhibitionsixerscouldlosearielhukportitoseasonending"
+    "afteroneexhibitionsixerscouldlosearielhukportitoseasonending",
+    "kylefilipowskiinjurywontplaytuesdayrotowire",
+    "brandonmillerinjuryharshnewsforhornetsstaraheadofnbapreseaso",
+    "clippersstarbradleybealthoughtnbacareerwasoverafterinjuryhea",
+    "rocketspredictedtotradefredvanvleetfor118mnbachampiontopairw"
   ]
 }
