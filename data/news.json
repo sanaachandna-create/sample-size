@@ -1,29 +1,85 @@
 {
-  "updated": "2026-10-09T08:00:52+00:00",
+  "updated": "2026-10-09T15:13:31+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "LeBron James is worth over $1 billion, and his Polymarket deal tops his NBA paycheck - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA1Sl9KZVNwRUVMaTgzMldra2dLLWJkNW5kTGcxaU9pQjJCYzJJNFNPY3R6U2t4NjlibnBNT0tQOTlQRUsyZnJpVTJNVHN2Qm5PdEhtQTdBdTdhaE15RjhoNm9YeVJtZlhfSWVQTU1ZOXlWOXVoZmdQeE5iVjNNOVU?oc=5",
+      "title": "Knicks' Bruce Brown sends blunt message to NBA over CBA's impact on player opportunities - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSHBQaHo1ZzBEampwREg2d0tXcFZnVkZjUWt6TldQdmtyUDZRQTlzd0YtVVFVSUpMal9lSDUzUzk5TmZMNHBVcWlJcU1qNkdFVnltX3A1Z0RRcWlZQi1wQmR2NGM4M3J6SXFfWm92eVJmSTRjSHNESUEtY0pXRUpwX1NtMTFmUQ?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1791529500000,
+      "ts": 1791558441000,
       "tag": "league"
     },
     {
-      "title": "Lakers vs. Kings: Don\u010di\u0107 in midseason form, growing connectivity and woes on the glass - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ2xqQk9lT0p6bW1VZEx4ZnpvdDBKSlc0X20zZnRmeDVTbEk5OWNUMS1Gc29yazdHZzZXd3lCUkNMSEJDdG1nM0dPVmQ3U1Z6akYzbDZKYjFFWDdaSkYyMVZOaC03ck85TFVUaWJMWTFQano0N2F6UkF4S1Z1ZHJkTWFLY1U?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791528960000,
+      "title": "Kevin Durant Injury: Will sit out Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm5BTWdiNjdtMXZGLXZ1U0lZd1k2bWVKR3RneHBueEUxVHo4M242Z1pBS1h4RWw4TVBnWnlPZ1hLMmFoTjQ4d1Q2WTAzZFVwclpOWjFSYV9sWWVpUDViOGhTR0NnU2NpbEw1MXc3U3hueDJDRnpXdXAtNFNJUlJuYkMyS1NEOV9XeUtCdEV6UDBLSXpEYWRz?oc=5",
+      "source": "RotoWire",
+      "ts": 1791558184000,
       "tag": "league"
     },
     {
-      "title": "LeBron James shines in Sixers\u2019 preseason debut - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3eW9ocENiUXlrWFVuRk9mZC1GZ1hZRG85elN3dEJZRDZvbm5Gd3F6VVRJNWViQXNBbWplN2V0bjRrOXc0TlpPbGVBMDdSLTJocWNJSUF6T3ZGemJKUTNyeE5zM2ZCYzZoeHdrUQ?oc=5",
+      "title": "NBA Commissioner Adam Silver says he still intends to get a deal done with EuroLeague as he plans launch of NBA Europe - CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNNzVKTFl3VkZxR3JuOVh1MDZmeGNYY1BYMkpVSnk3Y1NfT0o0Y0dLN3dCcFZWby1ndHRPTk1jZUtHamJ6YVJlZm5pNk43Uk5WTUZmVlAwRC0wVER2V0M3UU1DbERWQ18yV0tkcVFILWVzVXJEZmlTNzhMMnAtWFJUYVNVa1dxamJpQ3hCdUE4QXhYRmFwelVnb0pqMlA0Q0JEbThN0gGoAUFVX3lxTE9ubjJaQ180VW9HY1IxNUQ1cXB2S2tlXzR1OG1IekRjejFLcXFEZm1meDMyVHhCYXFSNU9McE16ajRZZTFmLTRvRXFYMy05TWxaTE4xdVNjUUVhaFVvVVAwY24zWTdGcVZDWFZJY212N3Nmb09KdlJGZFJUbVBnSVJGRF9OcmJsN3gxUjBfYnJDMzUzZ2hmVG8wSDZmUnh0ZW5GR0pldzZ6Yw?oc=5",
+      "source": "CNBC",
+      "ts": 1791557432000,
+      "tag": "league"
+    },
+    {
+      "title": "Everything Mikel Brown Jr. Does at NBA Media Day - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQbF9rLV85WUpBUVZJLTdGbldlckZzMnluUENrUHF6Sk1DXzY0T2c2M3V0elhZdUJ6eHd4bGFIRjlNdkFUNVhSY2Z0WUtFc2FFQW9tXzkzTUt0dmNNMXBfd2M3UmcxeXQ1b2ItbmRFTElwd1Q0QWQ0N2RMT2pMRjR4VFNXdjc1QQ?oc=5",
       "source": "NBA.com",
-      "ts": 1791524807000,
+      "ts": 1791557202000,
+      "tag": "league"
+    },
+    {
+      "title": "1 Player Every NBA Team Should Trade This Season - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMUFDZWJZV2d0dDNHaG1vb1NKSWNPZzItSUE2b1JOSGdxaVhlZXlkVFVQalVlb2UyNjV5R1N4ZVUxYzl2eHBNZVlYamhmNERzVmVCajhwTjM4ZU1Yd2tIdzFSR0hQaVZZU2tIeTltenBMNnZuek9GdzNSNDJDeHJsUGdQQWV3dzB1dTl1YVp4M1Z0QQ?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1791552443000,
+      "tag": "team"
+    },
+    {
+      "title": "Dylan Harper Shines in Spurs' Preseason Loss vs. Hawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2FQM2dOSnA0Zm1iTWpmVFJyTVNVMG5NMGNCUk5rd0JWUS1uN21TcVhiakdJSnR3MnpfSWtyY3JMZ0JSNTlSWm8tM1gxT0xMZEQ5TlozVENwRXMzcThLR2g0WjNlUTk2ZkpTZ2JqV2pqX0dJM1FZR2J5M181WHNlbGFsMnluM0JkdWZXeg?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791547820000,
+      "tag": "team"
+    },
+    {
+      "title": "P.J. Washington Injury: Dealing with ankle injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPbFpVdU5GMjdnMmdFOWZSRWxtZkNmTVp6TlZUalZ1bk9PU0VjVTRmbEprTkJjNXhUem5oLVBrdGlFVk1DZFpZNmVMenJGTC1RRzNaX3JlUTB6SXdEWDhYUmVHTDlub0F6elFLRDdZR0ZFYl8tM0NqcTZkLVpuNmlFa2syRjdSak1rSWtEa3FaREprMl9HLVBIZVliLTZDU1Uy?oc=5",
+      "source": "RotoWire",
+      "ts": 1791547690000,
+      "tag": "league"
+    },
+    {
+      "title": "Caleb Martin Injury: Dealing with illness - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUldibzZXNDVvRmdJLU1vdTZIUGVQcFZhTXBPUVFKMFhVZ3BpQlJ5TGZobjBodzlMQzRUQTFCcVVZMGU5VmNPb2VHXzQwQUp1VmpUNzYtNm5mSWZnUDloelRPOXhEQ2Rld1hNc21ZZ0lQZGZIME12b0JnbEh1UEhyU1ZBX3hnMTM4WjRid043cDBWRlN6M0tiNQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1791547556000,
+      "tag": "league"
+    },
+    {
+      "title": "Jalen Duren, Pistons need each other -- for better or worse - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSE9lY2F0MXI4SXR6ODhEcGRyYVZZcEJRazlKU25TUFJ5aVg2T2pmM09CdW56WXBVRENrbHB5QnQ3TkZKUl9YN2w0WGZfMURYSWo2TE1sTlI4aHZhbG5vMkxtSFhtTlo2ekkySlNhczhCUmtNckhvZnJST2t5cExPenN2b24yYlhZZjVzcVRn?oc=5",
+      "source": "ESPN",
+      "ts": 1791543600000,
+      "tag": "league"
+    },
+    {
+      "title": "\"This was eye-opening\" - Max Kellerman questions Giannis Antetokounmpo for throwing Jrue Holiday under the bus - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnFqbXZCaF9vc3ZKMVdkQzlJSERPUUhRWVk0N1B5MjExRzByYU5mVmo2d0NPOXgyR3dxVTNUazhKUEpzYm8xcGt2RnRtV01udjBQcnVmbG1ycnh1WlJFRzE5VmtCSFZsZG0ybHN5bzlMNFpPSWJBUzBRc2VPaUtrRFZ3dGRwNXo1blFMZg?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791540526000,
+      "tag": "league"
+    },
+    {
+      "title": "Bucks entering uncertain new era as they adjust to life without Giannis Antetokounmpo - News4JAX",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcldXT2tYcU1CUXozYTFWT1F1LUo3N3dZeWhQd0tQRHRYaXFxUElWRFVKX2l4OWJuTlk2U3BiaF9KVlBURXZuUkNxMGlGeU1xZ0NWRGVuOXJlTXh2cUhxS0hSYm5QSU4zRWtTdWhjVjRNNkx0WGVkdXlrUWdmU3h6R1FvNlNvQUFnc1g4dWNDTk43VGtENE85V1hUaEluN3MtZGdYWlgwc2RVUzl0enlPeVhyQ1dBV1VlaTVJZ0luRHBla09CZWJnbw?oc=5",
+      "source": "News4JAX",
+      "ts": 1791525431000,
       "tag": "league"
     },
     {
@@ -34,45 +90,38 @@
       "tag": "league"
     },
     {
-      "title": "Mitch Johnson, Post\u2011Game vs Atlanta Hawks | 10/08/26 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdXVEMFBCckFscVlVanNDN2RfUmV4VVpONHhQNDNna3E2a3h3dTgxNERhWktkbXNNbFlUYXVKTS12MU1Bc2VNbFBsTktRTGpLaGp3T2NpZ1BXNTNQSlRlV2lsaFM3WGx3YWxRVkI2dzlPTnRZXzJMM1A5OFZMb1dRRVZ5SkN6Z3NKX0E?oc=5",
-      "source": "NBA.com",
-      "ts": 1791516202000,
+      "title": "3 Winners and 2 Losers From The Atlanta Hawks' Preseason Win Over The San Antonio Spurs - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUQyMjA5T3Jkd3EtbHJQZmozZGFsTmNLT2t2U2Zhdm5NOER4RGlNSHA3TlNVYVdNXzlGOFFVeXBsNVdSY0VIaktvVFNERjFPRzFxaG1Ta0NRY1YwekRzcUp0RjlRT0FRWWlpSUo4WEhEbWRoVE9URnp0N2x0ZGc3RXJCcmYxZkUzcHdGaC1TbVo1OUg2RDhIVDJMdG44WlFvdnBndzhaakVPaUpGM2ljdmVublpqQ1MwWWw2ZFRZY0djOVMzUFdUR181ODFMdw?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1791515439000,
       "tag": "team"
     },
     {
-      "title": "Atlanta Hawks at San Antonio Spurs - NBA Game Summary - Oct 08, 2026 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZTQwR3kwcUIyQmc0UTRIZXJGVFR6WUxXZThMUmpfVGQxTkxZUlhJVkNGUVdiYUkzZVlXQmtMRDJ2UEVGazlHbkNFR29ZWkxwSTFISW5wYnhkNlRQQ2xLTjhjRlRDaTFvVkZQVGRQNGgzLTdlSlFmcXJKbVM3REFaWWMzSTYyZk1qOE83eS1aNUQ4dkFfeEJCRy0xdEU3RkpwVGlfQW94S2E2M2M0YzE0YllVNlR6ZWZJS054YjV1cXRjZndObmE3X3BheUJNTzMtNlhZUXE3ZDNJTXk1cW5neXFMRC1qOU1rLTE5blln?oc=5",
-      "source": "USA Today",
-      "ts": 1791514743000,
-      "tag": "team"
-    },
-    {
-      "title": "How LeBron James did in his first game with the 76ers - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVFabnhsTzZnNUswVWp4VnRmeEpCcXRLLS1ydUpPMnFSSUcwSU5BcWxmOFJnTWNCQXhTdXFLY0VZTm5BZTFnVE1oemxOb21EZ290VnBmZV9TcGIzcXRKWW0wQWFFaGNDb0hsT3dmZFh3VGpPa1hpZmh0YVNTaF9SVUR3?oc=5",
+      "title": "Nothing prepared the Hawks for Victor Wembanyama\u2019s absurd move - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPU2N6eHl2Mlc3bk9nQXhvc3YyaFBRYkZnbmNXbklkOXFPZGlWdDY4RHotamFXRFU2VEV0TWNTU0tVOFJJUVdYMFZhcWwyWFNCc0YtVkdDVU1CbWFpV3VXeGlGRE1YTnY5N3N6QVItRUtYWHVBZm5CWlBJU1A2NGhuUjFadzBGQmJHcnV6NGhEWDFCNWc?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1791514140000,
+      "ts": 1791514020000,
+      "tag": "team"
+    },
+    {
+      "title": "Giannis, new-look Heat again impress in home preseason win over Pelicans. Takeaways and details - Miami Herald",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0yVWFET2U5VkRTMDlScGlxb2JzWENiZDl4eTBKdE9MT1YzemphMXY0SGItNjFKTmE0SFpUS2JLeE1xM1BHUkl2SkFyNUF1VlQwcjRJc0xHVVk2QVBDcVVKcEUxcDl5VHZjdmVPVmtfSW5Cdm9WX2c4Q0Ytc9IBe0FVX3lxTE52YjdkbTRRc240QmROY0d4eE1vNTVGRVVrX1NfbURidHRpQWlObWQ0MEk4MUZrY0tSUXJNaXloLUM4dDdNT2dXel9kM2t5WlNLU3ptblZnX2kxOWZnLXhjbWZHbUxITC1KNnJGMGhKZUdiOXk5S0dyZFB4RQ?oc=5",
+      "source": "Miami Herald",
+      "ts": 1791510840000,
       "tag": "league"
     },
     {
-      "title": "Keshon Gilbert Injury: Nursing knee issue - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmNISWhDLXVpTy1Qc0V4dmVPRjRUbktUTmV1d1ROTW5SMWx6YmdFb0JkTTZ4OXQ1Ql84eU9GMGNidkRHUjRCbnFvbWhnTmtxcExhUmdVUXl0N1pCTkxNTFplaG1odjU3c1BRNUxHakpyTTZaRXJJSkx3S0tKTFR4dm9TRDFmal9SZWFRZnRSSzJvUjAwWUVIbw?oc=5",
+      "title": "Domantas Sabonis Injury: Ruled out Thursday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONVpOLXFRdkRPMVF2c2h2RjlWZE5kd2dDWVF2QlNnaF8zUzhVeU5vN3lhanVLZzg5emJNYThNTXE2blFpdk5ZaXBZQlBoemozOWxScjVZczVPRTJPZXlBTzF2V291bEU5WUhRMndJMk9QdllwV3Y4a0tkWXM4Ujd6ckpweTUzNE1sRVUwZWwzY3ZIcXcxOHkyQWdmNA?oc=5",
       "source": "RotoWire",
-      "ts": 1791513004000,
+      "ts": 1791509977000,
       "tag": "league"
     },
     {
-      "title": "Ben Simmons Injury: Unavailable Thursday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSW1ZbDB0cVJuTzhMWWhrSWtYZEUyc1F1SGcya3VETG50ZlNyRERaM0x6ZjhkMzRKMjBVSG9rcG5ZdTBsbmhXVmRfSlZjY2t4Q3EtRk5DdjIza3ZJdUZKdEdSWV95QXlIUzJHc1NZYVZBT2RIOVZ0UlJYSUdHWU1pclk5Tk1xdGM1RUlCUjY1c0xVdmE5b1pF?oc=5",
+      "title": "Keegan Murray Injury: Ruled out Thursday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVG5PeThNLV9UdGRMWURNaWU3WXd3WXJkYWZTQ0U3M1ZXX3pjQnlDd2hhaXAxaEpCYVJYVXJiMHI5Sm5wVUctR2xwc3owRGJYRFUyeEtBeElTQXFRRWNrZXl2SzdYeEZFOHliMXViQjNwRThROWo1cUE0aWU4LUt3T2RWVDJ5MEtkZ0dmWTNKS01OaFFscXRJ?oc=5",
       "source": "RotoWire",
-      "ts": 1791509794000,
-      "tag": "league"
-    },
-    {
-      "title": "Ziaire Williams Injury: Remaining out Thursday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ1ZDNlpwX2lXV2wtMG9LdWxHTzN3RV9GRFMwTEp4bEM4TUcwLVYwQmpKV1dkaVk4eS1sQks3ZktJRzNuY1dNX2VBakl2ZEh5eUNpN24xellXTmJIR3JaUzdVZGNPZHB5VTdENzluLU9lcl8zQzV5UkgwVlZLTXNrSmc2ZmdlM3dxR0pfc3NJM0lGbnNZVXRab1dLUjNUM1E?oc=5",
-      "source": "RotoWire",
-      "ts": 1791507351000,
+      "ts": 1791509906000,
       "tag": "league"
     },
     {
@@ -97,6 +146,13 @@
       "tag": "team"
     },
     {
+      "title": "It\u2019s time for Preseason Basketball: San Antonio Spurs vs Atlanta Hawks - Pounding The Rock",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeHpkenhORmF5VnM1azBTUDVRYmZ5SVZBZHB4VVVBdkxOM2ptcWlsLTVNdzNiSkpoSU5BTDl5RGJJRlFjbTNZX09fVjE5Rm9EQ3lXdkN0NHlnQTVIeEMxSEs4czJHT2JoSkZHZnRhdl9xYXVzdU5NcWtfcFdQejZwUWJyTFp0dmlOZzQxOFFPRVV4bXU4Q3Q0a1dUYlNjYUloQW1JUl9NNmxoanpxRkRjbkxwMzNzQQ?oc=5",
+      "source": "Pounding The Rock",
+      "ts": 1791502200000,
+      "tag": "team"
+    },
+    {
       "title": "Hawks at Spurs, preseason: start time, TV, streaming, radio, game thread - Peachtree Hoops",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOSGhrQmxOOWNYcXJ5Nkt4VzhtbVFXWXBYdUEyU2FWMmlwZ1ctMDBIUkFIbklwUEx3ZlFSeTJOcHdnS3ZqTjhOV1pCTWNPT1BQNWw0WEM1b0ZYdUtXNjlwQ3F0X0RNYkFPSi1ESkxfa3ZLVnJ5STVXcjNuUG9kRVpsVW9EZFpJZFJxMEIxZkhwN21VTGVBOGFwRXRPWU1PaXdSOTM4dUk4QktJcmU2M2JpcVlmOVJ6UWNyU1ZDRmo2Ul84NTJFZHNrZFNGbjhmMV9lZkJ1SDllUHl1djNV?oc=5",
       "source": "Peachtree Hoops",
@@ -111,10 +167,10 @@
       "tag": "league"
     },
     {
-      "title": "Sources - 76ers plan to play starters in preseason game vs. Nets - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZFB1aFFUV2dET0xfTm1NNVhKOVdRb2FiMTkwbVVyN1hGSkwyMlVXa3ZmSlJaSFZZVURhcFFTek1MM2dHa3l6eWQwVkMtb1Vzb2d2YlNMeVcxVlRtZG9VUWdKWUlCOGdldWlodGlYTjlIT0dYaThLQXJFTFlCa3ZiS0NWTjZ3X3RZUFJ3Ykx0d3h4OXRGc3RrTDktYmJhR3BLb2c?oc=5",
+      "title": "Fantasy basketball: Category league draft tiers - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY296LWdJdTB1OXk0Q09ubXRmREU0Z3AyUWI2QlJpTEEtaXNQdWUtV2o0NUVUS2pUOGtOU1YzWF9NbFQ1UkhKeDZPX2M0emF5bnFrRlJvMFlFQzAwN3Z5M2twZlpSS0ZrNlc5US1zbGxka2ZmNEo4bHZ4S2puOXB2NHNqUm5Ua0dENWNzdkV5TXpzZE96Z1NVNk0tc2w3cTlXVHRPcUpnVDNFQjFXampqSjJ4Mmk?oc=5",
       "source": "ESPN",
-      "ts": 1791489720000,
+      "ts": 1791489605000,
       "tag": "league"
     },
     {
@@ -125,45 +181,17 @@
       "tag": "league"
     },
     {
+      "title": "Fantasy Basketball 2026-27: The biggest question facing every NBA team - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWRZaHFvcFMwNmpGNDdEWGxWRVM4QVNYc0JOYXJmZ3NzWGJOZFlHM0hRZkxXbktuX2pFUGE4RmdpTkRSbVI3RDhJWlVadUc1SEZUcUJSTmRNYi1iaEdXMERKOVBGQ1huMnhjell5V21kTEpQR2FUU2tfQXByQWcyMnRnTk5tdkVZa2xR?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1791479625000,
+      "tag": "league"
+    },
+    {
       "title": "The NBA wanted to partner with Europe\u2019s biggest basketball clubs. They said no - Deseret News",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMFNYTXM0Y1k3aG4zWXBDZzl0Y1lmbWxTeF9ZRlp0V1JGRGE5YXhQY1ZiR1FCeEZTWUtCYUpuZlQ1MGpZYmE1cTlDeXpqVWhweldWN0ZnLVBWS3ZidGJvTzBjZkZJdFV5dTRBQWNvdE1uZzdWTXo1Z1UxMFFtamZfc0RBMURrNjhKV1VHMllFdGJibDJ2b09xb3l3MzkzeUQya2pCRmZxYUNjUQ?oc=5",
       "source": "Deseret News",
       "ts": 1791475846000,
-      "tag": "league"
-    },
-    {
-      "title": "Lakers' Luka Doncic Takes Blame for Season-Ending Hamstring Injury, Missing 2026 NBA Playoffs - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWlzZjNBUWxXVTM5TUdIblYwLWI2UHZiVzBncUlVMDd1eFp0NnpIcU9WLTJWRDJWWXh5c3A1cEpmXzRXalk5UndKTXFoNU1mS2JFMzZVX3pTTER3OG5jUEd2SGdTQUZMekx0U0pkYk9GbEszeTNMSzRfY2lqeXc5ODNqR0Z4YWQ4WGxKUlBpYlhHckhkaEVLeUdGV1diM2xDTWhWOVJCVmZ1bWtnN1hZeEJ2bWlQdElCZklDOFo3cWlTdkxVeEpzTkxPR0Y?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1791474344000,
-      "tag": "league"
-    },
-    {
-      "title": "Fantasy basketball rankings 2026-27: Sleepers, breakouts and busts from top NBA model - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV1lEVHhHZEVEZENielJBc0xuODY2bWQxWjc4eEdBb18zNWtsRkEyZFg2SzVZcXJPUTVJdGhZNERwT0NDNFE5VFdCanJ1eTJtMThOZ2VkeFQwS2lsX2tjblAtSzNhU1lFRE1Td2psdi1OZkZ5VnNVd1N1NHNBQ1hfRjFiQlBRSUhERFE2NjR5Z1N3T2ROOXczU3UxaHB2VTFHWUMzZlJBUEk2WWNfMHBBMW8zUDZVYkVzMmstaVRqeFotM0pfLW5oXzZIM0taSDA?oc=5",
-      "source": "CBS Sports",
-      "ts": 1791470170000,
-      "tag": "league"
-    },
-    {
-      "title": "What does your NBA team need? The biggest hole on all 30 rosters - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQYXhfNW9fRVFFRlBUOFFrRWMyVGQ2c01GMUpEa3NJYlhSZnFCTFF2NzhZU2pWSkxnQVViS1VjbkNlTUJPcXYtSzR2a09kNjJmSmVXR0tKcTdqYjFJb19qRjNvQ2p3czVWdGgzYlQyNTk3NDVDM09zMFpFNW1Mam1xZE1EQW5DVnc?oc=5",
-      "source": "ESPN",
-      "ts": 1791457200000,
-      "tag": "league"
-    },
-    {
-      "title": "Inside NBA Europe\u2019s $10bn plan that has football clubs queueing to join - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFBwMTBDLURWaUNlQUJhREdNRnlXaXpiS0tHM2p6YWdLM1JIY1RUMFoxRl9HYmg1MGlDdG9DZHV3ckdqaDFTeGx5UGlOdHhFNVRMLXB6OFRPQkdQYzBFQVNwckVBNHdBR1ROTlljQUZLOG9HMXllR004MlZubUpJOVpkY1liMnQ3dHVsZElZaEo5X0tDZHRBTA?oc=5",
-      "source": "The Guardian",
-      "ts": 1791457200000,
-      "tag": "league"
-    },
-    {
-      "title": "Fantasy basketball: Andr\u00e9 Snellings' Ultimate Draft Board - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTGc2Zm1IY3cxQzNXLV9ERFQtMjdXX2JjNmx3SDJaZTNoUzBTMm1BbVVYUkwzT0Nsa3h5eGZUVklVdWJEQ0EzaURGNWZnakhIRGNuZFJadG9NTV95NUN4VmxXMVZ3aE9sOVVIbUR3Rm0yNDlCT2p5X1VhRXd2U24yYmhZekd3dE5RTjVRY0ZwZGxOZGx6QVgxWXNXc2xkekRjbkZHbG9KUlQwdXQ1RHhxN0ZxM1lMazlqVWl4bmxlUVZvaUJtRmlmRUZRWHBDaXh5eUxZ?oc=5",
-      "source": "ESPN",
-      "ts": 1791455820000,
       "tag": "league"
     },
     {
@@ -185,34 +213,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPX0VXVVBHV3BpTkk4M0FHY0dSUGh6YUtDeXZwMFpsbWpKS3JweXV6TC1UeDFSaVM3MEktR1BpeGpOLUZEWUp4QWhmNm9xem9SQTI1QmZ6ME83SFhRY3hnWnNxMENCbFl6WmZCUWc5cVliTjJCV1NjR0p0T1Rzb29QUmJrMTVYam4zVVFNOEttQ0lMU041d2c?oc=5",
       "source": "Heavy.com",
       "ts": 1791420600000,
-      "tag": "league"
-    },
-    {
-      "title": "Sixers already down several big men for preseason showdown with Celtics - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbl95V0NCbVJTaFhNeVFBdnd6U0t6bXphZnVNRkR4T0o4YjkzVDhwWTVaa3R3OXJRN1V6enFzWWtlZnJlS2QwYmVZMWFOSGw2WVlWc3FrNG5iWnhoR3ptYVlTdDBHNFdjRDg5SzZZRGZaeUw4MkVBOVFvUXBiU1ZnWkQxckhhdHM?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791415527000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade Idea Sends Tyler Herro To Suns, Jalen Green To Heat: Who Says No? - Fadeaway World",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbm5ObVl1Ml80RS12b2NRZDVEVVdVTVhWOFEyZDlTQk9BU2l5cWpncFh5M2tWbVdZZnYyLUI5SzNJV2dlaVA5X09MdUIzejVVQWlzcHhhcTBVb1B3VW5nMFVFd2lodTI4M1pVSE1vdUVmZTFxRnh5UHpkeUo2ampJd2F2V1ZjcVNZX0VwQmV5empsT0Q3dmFVbnFXZnN5LTIyU2hMQ1VHNjg3eDdBWktJM1hTcGZrc1FfR2Y4c3FBSEM1azRuWC04?oc=5",
-      "source": "Fadeaway World",
-      "ts": 1791398516000,
-      "tag": "league"
-    },
-    {
-      "title": "The Hawks have everything except a closer. Can Jalen Johnson be the guy? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2dPcHBwSlVuYnlzejBHS0E3SWcyT0tFSUY2YU56bGJPRHlodDNfMFVldnRYdTJvSkNVTmo5Q0lUNWFXWDliLVJ0UHF6OXVvOHdtemtRNnVlVVk2cGlwaXJhWUFfZ19uWUdfUTRPd1pmQ003cVZvVjd6ak9RUWVNWEJkR2RuOGowUEI0cmtUTjA0dWxESExmRkZGRGw4UnNwRnJJMGg1a2JjNmZqNWdfOUk5OUdVRkRqMkdDMWc3Yw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791391379000,
-      "tag": "team"
-    },
-    {
-      "title": "Heat firmly in position to finally reap the rewards of the Jimmy Butler trade - All U Can Heat",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOLXo4akpyTjNHaGFLOElPOU93QUJtRGJPVWs5LXVVUEdvdU1jeWVpWmpZb19VNVF6b3pGR1U3RHc1MFIxWkQ4aEJ0aml2MXpCdXl4clVaSl9VYXBQRHNQNzR1TXFPb1ozWVA2bXJjb0R5ZGFhWDR3UTR4Z0l0UURRVksydDNfajZoa2p0eVZZLUtJWndYVTJQeWUyVERkOWM5NzZz?oc=5",
-      "source": "All U Can Heat",
-      "ts": 1791387313000,
       "tag": "league"
     }
   ],
@@ -682,6 +682,11 @@
     "keshongilbertinjurynursingkneeissuerotowire",
     "ziairewilliamsinjuryremainingoutthursdayrotowire",
     "clevelandcavaliersvsbostoncelticsstreamlineupsinjuryreportsb",
-    "heatfirmlyinpositiontofinallyreaptherewardsofthejimmybutlert"
+    "heatfirmlyinpositiontofinallyreaptherewardsofthejimmybutlert",
+    "kevindurantinjurywillsitoutsundayrotowire",
+    "1playereverynbateamshouldtradethisseasonbleacherreport",
+    "pjwashingtoninjurydealingwithankleinjuryrotowire",
+    "calebmartininjurydealingwithillnessrotowire",
+    "warriorspredictedtotradekristapsporzingispodzfor71mveterandu"
   ]
 }
