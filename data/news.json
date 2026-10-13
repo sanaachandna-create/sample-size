@@ -1,23 +1,44 @@
 {
-  "updated": "2026-10-13T03:54:16+00:00",
+  "updated": "2026-10-13T11:13:45+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "\"The man doesn't walk on water\" - Olden Polynice warns LeBron James he can't just walk into the locker room and take control - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQzZ5ck5qN1ptRWZObFVEUzhrN1lCNHdJUUFSNWFrUXA0cmxMNmI2d3dyZTAzaGZoX1lQMy1vdVRhZFpvVWtUUTJyaUc5OHpCT1ZZcTZJeUthR0lzTFpTNWZ5UDlINHJhQmNTazZjaldld3k4bVFJcEhxSWtMU2hQTlZB?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791861926000,
+      "title": "Atlanta Hawks watch guide: How to watch retooled roster in 2026-27 season - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTTJQSE12M3VKenFKeUQxSVd6NzJONTI4S0E0VXJzOC1keUJ1aFgtakRRaUxyU3R6RTA5RnN4U1d0M3k2X3JZTnc0QXd3VzBwc3lyWlRQN1RrRDM4ZlhOdmdGYWJtX3VObUhFTWVYclE2VUZPdmZKYWFQYjVQblZpeVIxNWp5cDBpTEhkVlEwU05PZTRKQ3U3engtTjM?oc=5",
+      "source": "The New York Times",
+      "ts": 1791887448000,
+      "tag": "team"
+    },
+    {
+      "title": "Could the Rockets trade Kevin Durant this year? - The Dream Shake",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb2FlRFFVRm53NEhxaXZrNjZ6Nk1mUHVmaXRVVjdjRzc1ZlVuWjdGX2pndnlGN0sxRVI3cURRN3otZWNWZlNFcmpXblpXcmJ0TEFFRHJlQWM1allqQjZaVTItSzEwU3Vlb2dOa2NaZzczT1RFUEcxcVkwVzhKdlViTEJ2bHF4eUl0cUFCY053RUdoOFA0c1FyMXhTOU5PQQ?oc=5",
+      "source": "The Dream Shake",
+      "ts": 1791882888000,
       "tag": "league"
     },
     {
-      "title": "Chris Finch: LaMelo Ball Has Helped Wolves Trade 'Moodiness For Giddiness' - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLVMtZW9ZdlNSeVdSdktrYlBFVHcwRWNjN01NdDRWWWxXQUNQclhyYTZCZ1Jaa1AzZ3NWUzdzQ1U3R3J0OXRBQ1ZMd0t4MXJYU1U4NGcxOGIwaFV6dENzZU5wYVh2X3kyX0w1YmpXS1h3ZWFiV3gyTEYxSTRLLVFZUDh4ZWZTbGZxYmVXcEU4b2VnLUplTTktZzlrNDFsTThFUjZ6SXRPbUtQREhsVjhRUlV0bGxVRlk?oc=5",
-      "source": "RealGM",
-      "ts": 1791860580000,
+      "title": "Michael Jordan\u2019s \u2018Last Dance\u2019 NBA Finals jersey sells for record $14m - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY0VXSUd5a1RlUVhkTjJjYk4zajlyc0JZLU5PMGNQSkplelRqMThRNVV2RUxQaXJsQWRQSmNlYjkwMWlRUWU3clNLOTNZRG5Da0RPQk5JNTJncGJfY2g2MG1abWpKeDAyNlZNOEJEa1ZMY0pmM1NRVTkxTUNXdDFoMkNQRTVUb0NaajZCTXdmWXRFMXZscnJhU2EzaFVReHlPSTVKUFR3TFNOSDEtakHSAbMBQVVfeXFMTUExUTlUek1SVXlydG1FeUo5SS1ER2lsVy1Zd3Vid3BNcnNqV1o4eW1DX1pMdWZkTXlpU1VGNkRWZ2dmWW5sbWZtYUhybFdpS0h1TXB4Q2RfMHlPZE9aV0tkWHJOelJrQ3ROU1JKYmRjQWJydzNqZkFpdmx5cXp6a1hBU1VDbFpvMTlyb0hTZXpXdmtFSDVOZVNkS245TlJlZWp4UTF4Zkh6ZkpESkdfZFEwS1E?oc=5",
+      "source": "Al Jazeera",
+      "ts": 1791871496000,
       "tag": "league"
+    },
+    {
+      "title": "The one thing Knicks need to repeat as champs with possible \u2018issue\u2019 looming: Reggie Miller - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY0hsYVFOckllNU4xWTdCYTJUNXI2ci0zSGkzdi1nNkFIOHhjdUU0S2JCN2x1TURzQ1Y2cGN3WVBiOFlmdHJ2N2tHSTVUV21lM0swdGFyc1Y3RHRkc0xlVGlPUjNsLXZxT1Z6MUdiaHRFN21uRGpIRHpfWVFvR2VQZWhyNDRzNEM5TGYySmV1MnVQbDAtYjNQcElGNEtqZ2ZOMnU1XzNOMzY?oc=5",
+      "source": "New York Post",
+      "ts": 1791865620000,
+      "tag": "league"
+    },
+    {
+      "title": "Thunder vs Hawks highlights: Bennett Stirtz, OKC fall short in NBA preseason game - The Oklahoman",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVm1pbERlQ2JNZ0h1aVdkVk5nM1JmckdWZjRlOS1NUkFBRkNxOG56amFMN0V5QzhLaXpmNU9wNFNKRGVCM0JUdEM0MVhmWlprcWU4R0NDcC1MU0RjbkhhQlA3T2VhNDdLM3hUV3FWV2pVVTdwajlXT28wSkQzQWpjRGRFRzVYaUI3QkxCRUVuRjFwb1JIeGExc202UVZ5SGVkWmdNeWhSTUZ0S193RjFDalhlZFphYmZPQUg5dm5fMXpHRGlfZTdlNmNVQjBRM2VaUGVZNlI2RkNFVnNFaG9ucUJOeVY4NS1sZ2plWFdB?oc=5",
+      "source": "The Oklahoman",
+      "ts": 1791861060000,
+      "tag": "team"
     },
     {
       "title": "Oklahoma City Thunder at Atlanta Hawks - NBA Game Summary - Oct 12, 2026 - USA Today",
@@ -27,17 +48,10 @@
       "tag": "team"
     },
     {
-      "title": "Michael Jordan NBA Finals memorabilia sells for $14 million - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTzNDeUZBYktEdmJvU21XVGVtZE9fdVNJZDlXLU5ucXJxMWhZU1c4d0o2MlN4c2Mtc0hvSDJiaVdYVDZfbmNNNHNkaXFHNmhBaWhieE0wczlDeFVwZ2V4eTl3aHRjUVFLOFBUU2FmNWNpc25rQWs0QW1CbHhzcW52c3EtMTVyWEJxX1E0OTB1bw?oc=5",
+      "title": "Winners and Losers From The Atlanta Hawks Preseason Win Over the Thunder - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOc0NqR1Nnc1dFRlVTaXlzdS1vV3N2VDhCOGRYZlNjMlFra1l0b2VyX3pVZVMxOGxYeUlZR0ZDN3JWdm40T2dSVVdSaUVndng3WU1ZbWY4XzBqVnlFU0wxTUw4VWQxaGV3clNoQjEwdTQ1YlUybmVlY0UtSWFrV2M0WGtPZzlRT1dNaFhUWExPVzQ?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1791855960000,
-      "tag": "league"
-    },
-    {
-      "title": "Winners and Losers From The Atlanta Hawks Preseason Win Over the Thunder - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWlvdTRweUd1T1AyMGhmX2tFVVlIcndkVDVCQWdPNmdMMXFWczR4ZmVBbVNjR2Q2bjZQSlRUZ0JyVTNmYXNWY3lQcURtbWJKQ19VY0xXd1c1cG5sSDJqcE9jNTBSY2tvVlBwcUFBQmtuU1RNYkRRRUtMYUpRTk9BUENhbHZOcHZkZWFpUFJ6bnBQT3RPU2VvSmZVM3hLTk9wYkxCU1FjZ01oMDc4VGR4RkpucFh6R2NVSVgw?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1791855786000,
+      "ts": 1791855780000,
       "tag": "team"
     },
     {
@@ -52,13 +66,6 @@
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDVFNlRia2lDUmdnUVJPbXp3TGt0VTYtbkVQaHRwMEM0SDA4Q0VBUDBQMDh1OGFveXdPZjRMMVhpdmJBdUIwMjhPRzVwd0MxNmxpWFMxbXl5UE1QS282dDlnMkUxekR6a1JYcGdzUjB1d0FuMjBqWl91ZzJyNmlvTFBwWVNLbnhUY0VoVXBYRWNHT2JwYnYwdTJLTERnWnlaVVVXMEk2TDB3cGtEZDE5UlBGQQ?oc=5",
       "source": "ESPN",
       "ts": 1791849180000,
-      "tag": "league"
-    },
-    {
-      "title": "Minnesota Timberwolves vs New York Knicks Oct 12, 2026 Box Scores - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVSnR5dXk1cjJNdmhKLTBWVWhZM01YQkZybVlTU3pRN3lad2F0eG1FLWR6cGtNSTVVaGhOZGNlelR0ZjBEcjM1Rnp1V0JfbHlTMi1OR1V0RDNDV3B3c3NpV25LS0FnbDQ?oc=5",
-      "source": "NBA.com",
-      "ts": 1791848989000,
       "tag": "league"
     },
     {
@@ -90,11 +97,18 @@
       "tag": "team"
     },
     {
-      "title": "Hawks Inactives for Preseason Game 4 vs. Thunder: Who's in and who's out for Atlanta? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSklkaE5mZmpmcEY2dGQtV3FaMW9pLTRDLVVwYjJkd1RBQ3pkSm4wek81TGVUR0Zka3lqODczWUFPV2ZSM0ZuRGNyc2IweUxDWUpfbkUzRmdMbVRzTkhrYllkcGR5enNBb2NNRVZYWGpsc2VQd29oRmg4WTVWYzg0ckQtc2s2TnQx?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791844811000,
-      "tag": "team"
+      "title": "Nets, Pacers, Nuggets, Spurs Launch Throwback Jerseys, Courts to Mark 50 Years Since NBA-ABA Merger - SportsLogos.Net News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVFBBRUV3VGtkS01wS3FSWTBLZGtmYnI5cHV6YUtYcjNHMUxlUVhmM3BULUo1eVF4Q28tMnZqSkFNYXNOMUJzc0JDSWNIRTFTdmxILWZKN25xYlFaT2p2ZWpjSDlxa2h0aC1Eb3BLcTZhM2tuWkxsR0hMdWVtNHBsNzZRa0p5T0VwR2p3WjlFUUZzNU1BYnRLUVlVXzVsUVNBWXJBS1ZhZE5XeUpBQW4xVDlJUHFxVzdnTklMZ2xjRFRwN1E4U19vMy1DbDhScDRWVEVjRFJZMzVvci1wRmNR?oc=5",
+      "source": "SportsLogos.Net News",
+      "ts": 1791846191000,
+      "tag": "league"
+    },
+    {
+      "title": "Kristaps Porzingis to meet with Warriors\u2019 medical team after extended absence - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRTdxOUlLd1YzdTBqQWJnNGd6SVkxeUtueVAtVnpQS0p3ZFVsMUxHZ1VHZUt6T0M2aG5ZWEVaZzRTX3ZhM3FJbF8zakpQLTAxcjhjTWhkQzVULTJJMlBLdnJILXluYWYzcEdpYVplb3BJT1FXbVpKeVBhWnZRLVdLdTNCZWtQVU5YQk9qeHk5VEN3dw?oc=5",
+      "source": "The Mercury News",
+      "ts": 1791845995000,
+      "tag": "league"
     },
     {
       "title": "How to Watch Thunder vs Hawks: NBA Preseason TV Channel, Live Stream - Yahoo Sports",
@@ -118,6 +132,13 @@
       "tag": "league"
     },
     {
+      "title": "Ranking NBA teams ABA-style uniforms in honor of the 50th anniversary of the historic merger - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTW01cDA5blVvZzVacm80R1AwWG1NREJaTVVscmJiR3NmXzNJUU1NSHhkUTh5WGhubFQwOEVzMlF5eUdZVmtkLThfNWptU1I2VEYwbkRQQzhkM09Bb2ozSFR6bzdFekhRNmhXbmt0UEVENHdBVjVNSlpKb0daUUl4ZENoa1RUakZRd3RoMTNHQ1ZVREdPVExWUHZmemZfMHUwZWFQRkkzNmMxMVkyUVVVREZVbDE?oc=5",
+      "source": "Fox News",
+      "ts": 1791840259000,
+      "tag": "league"
+    },
+    {
       "title": "Kristaps Porzingis expected to be at Warriors' facility on Tuesday - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2kycXBpTl85RHZoZmpyQTR4N2JoSjg1RUFzRHAzdS1TMkxMc3hWdkprRjY2bm5kdWRJTTR6cW1xMTNObElFVWgzdUJaLUhpM244Qk1hLVlxOVI5XzFDSWRrYmkzWTY3dFoxejBoOWFLSGRzcThLWGdHUXFLVS1HS3RqX001cVk2ZGVtTUUzc2VpTU1GX28zMGpB?oc=5",
       "source": "ESPN",
@@ -132,31 +153,17 @@
       "tag": "league"
     },
     {
+      "title": "Michael Jordan 1998 NBA Finals Game 2 jersey sells for record $14 million - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmpHNHFiSmhUemtTOHhMNkM4TF9wdkw5S2NueDlMWjA1bDRCNUUzN2lTVTlDSHFKc0JvY1hrMEliWG5NeGNhZEZIeUo2TWRQNXV5R2tGejRJaDRxWlpfSXY1LVk0ZGtMZzYyUnhyZHhCZThiNnVnTG1lUm5KSmRQZkVuemY4c3gxem9yOWU3TXQ5NlJKcVBsWmF4M2dOT0laVTNrb013?oc=5",
+      "source": "The New York Times",
+      "ts": 1791837187000,
+      "tag": "league"
+    },
+    {
       "title": "Domantas Sabonis Injury: Full participant in practice - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNR01NQmxiVWg4S0pHclBGd2FiWGpGQWdUdVI4Skt2b2lVY3dJNk1FLWVkaWV5ZTNLU2Y3VWVXbFV1djRLa0RzUTItdWNMd3k2YXJoYzdmb0otS2g4R2h5dUhkbXJBbGdsSWlRbk5Cc3RlcWVNSEVzUkE5dXhidExqeFRxUEpyMzM3SGdaMGJqTnNYOGtnV21YQUZIZno1VTg5X3VROHRFNlc?oc=5",
       "source": "RotoWire",
       "ts": 1791837147000,
-      "tag": "league"
-    },
-    {
-      "title": "Cavaliers Star Jarrett Allen Issues Strong Statement on Dealing With Trade Rumors - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3JRNDdUSk9SdWk4OHItV3ZtME1lWVRSVzZic1d3X1dGdjUwOG4yYlAxYUVJdjJZUmdEbk1tdEw3QTN4VGRJcnJQaVQ2eFR0amEzMmRaQThhR3FxUWJkS1c1YXN4Q3U4UlQ4VUQ2Wkh6eW9zd19KQWpIaklrUlRFdmZ2VmZVNzB5bnJZR2hINU05cUZEaUdjb0RqZ3AwVjBOckRBQUJJc2xBQlJtTjJFRmlSVWNEemxuWlpCRlB4d08?oc=5",
-      "source": "roundtable.io",
-      "ts": 1791836822000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks host Jr. NBA youth shooting clinics in Sandy Springs - FOX 5 Atlanta",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1IdmM2TnRJTFJ1cHJyc3VCeXZKS2djenpqQ3Y5dzNJWVB6ZUE5QTJKaEU4RC1GNG1YY2lUU1BTWk41RWZUYWt2QUhQOVFvcERzaHpFcUNNNWw1LWVGczNOQkRtNmzSAWpBVV95cUxOcS0tZ1VfVjBsUWVPSmNEU3ZLanFZZ0pkXzMzYy1keEhneWxVZENRNHlhU1R4ZlFIYVRQOWl1M3dHT3ZpR2kyMVFNMmc5dlJVc0htemRmcXJmY2dOZjYzVFJIRE5sLVZjbFFB?oc=5",
-      "source": "FOX 5 Atlanta",
-      "ts": 1791834997000,
-      "tag": "team"
-    },
-    {
-      "title": "Michael Jordan NBA Finals jersey sells for record $14 million - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVNXb0IxNnZNMDkyeW80dzJwSldLYWkxaUh1MDVha1FRaV9ra3FDS2xfOHFLaHZzaWZqRUhDQWxjc2Rnb1pZZ0NSWm1LcjBoTXdWRWIyVkMwdjM5Ny1rY1dlLUZjMXY5NEJMLVIwUmZEYkd5WDNtZmdCcEFoSHFSUDZtYlgxYTRk?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1791830736000,
       "tag": "league"
     },
     {
@@ -181,10 +188,17 @@
       "tag": "league"
     },
     {
-      "title": "Adem Bona Injury: Limited practice Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTWk0UnBtcVVrV25zUFpqblNzRGYyZHN0aGNuM3ZOZ2lhalA3M0ZScjBQVWVjSWstSXRLNUhMeHI1N3ZzdFFad2N6ZFhmZHc2QlZWN3hUY1VzZUVreFUxbE5wWklLT3NxZzBNX2ZVZ0NIU3JPQzFIS2NvR1RGTTNGQUJ2MzZaSEpKN1JuOUlZM2ZGa3hjN2E5Sw?oc=5",
+      "title": "Anfernee Simons Injury: Limited at practice - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZGZsWHo1OTVoeXpPTFVVNE1WaDVleDFNeWVjb0Y4MVBONjFGVDZxU3pabnoxSjB5U3R2N2VHNm9wR0pwX1NwODA3QlpFN2x5ZGVYWnhjWTR6WnRFZHhwV2E0VDJ2MUU0VnlhOWxOekhYS3BFX0RNTUctQURVQkpRaW5TZTdTUW54VXRsSFEzWnpydnNqT2tNR3cwSQ?oc=5",
       "source": "RotoWire",
-      "ts": 1791826057000,
+      "ts": 1791825862000,
+      "tag": "league"
+    },
+    {
+      "title": "Brooklyn Nets Unveil Classic Edition Uniform and Dedicated Court Ahead of Milestone 60th Season - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdzFUUjh4VXZJcXg1NHhVOHhhRFJ6empDWm8tQVNpWTdOVnFqd0g5UU1WLUtPRG14eVFUYXNUODYzVzEwUnRHQTlIVFJNSEhZaDg2c2hPZEZmcVFqNjdoSkZNS3hkVGJUNHM3Wk05S2dWajZOUXphWFEzanRPQTRKd2xZVHlKQlBGb0JrS1E3V0h4UlY2YXpzQnVZaXpibDlSTnFsM21IS0taX0dqMUFYTEdtZzFXS2E2QjZUZXU2Nlg1RDA?oc=5",
+      "source": "NBA.com",
+      "ts": 1791825240000,
       "tag": "league"
     },
     {
@@ -192,20 +206,6 @@
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUkE2cFRTVDRjY090MmhBV2s1WVdGRktSd09ZRG8yOHNiRWdiM2V6d2g2UXN4U0h0dTNlMnlYYnFVTVJER3BGVm9wUG1oa1lDUENpcG1pa29kWWJ3VEFIcFo2YUJPWTNOR3dXdkF4Qi1acHJ1V2FucFU4MkJRc1c3TmQta0F3YTZaYjB0ZUNrWThTUjFfQ0FCWUd1QTVHQjU5cEJCTg?oc=5",
       "source": "RotoWire",
       "ts": 1791825079000,
-      "tag": "league"
-    },
-    {
-      "title": "Oklahoma City Thunder vs Atlanta Hawks Live Stream: How to Watch NBA Preseason (Oct. 12, 2026) - Fubo",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWVgySEl5QlVYVDJlM1hOYzduR2xGcEJJVGRJa1lCUkRTQmJuNW5STTJUcUlqY25Ca1J6SXoyamZ3b3MzWkp3OTlNV1p2d05KQldCcmhnTG5KcmJIY3JpSUlWYXprNnZ0cHNNOFVhTGJGTkczVzNPSTV0Tkl0X0N6cWhHX0lpYXpTZW56dElya1pmNHE5QkRIVlRpNjhScHBpaE1kaFdWVXp5SUozTFp6NHF2dThsWUU1WjJr?oc=5",
-      "source": "Fubo",
-      "ts": 1791820230000,
-      "tag": "team"
-    },
-    {
-      "title": "Ben Simmons, back in NBA with Sacramento Kings, now knows a life without basketball - Andscape",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmxtcWJVMUZMd0h5RDhkeWtKOWpjaEQ2ajFRbEM3cGhnS1hvVTFYWkktSU8xOGlKb1Y2YVB4cU9BSTJEcU41RGRmM0V3TzEzcEJkYWg4YUlIdHQ5TTJMall6Z2xRME1YNHBjczZRSUFMcG05NVhrODBzaDFDbU9EUWlkNlJhQ0pfZmRaWnAzWkpOeDg?oc=5",
-      "source": "Andscape",
-      "ts": 1791817640000,
       "tag": "league"
     },
     {
@@ -217,11 +217,6 @@
     }
   ],
   "pushed": [
-    "nbainjurystatus202627seasonespnsingapore",
-    "brandoningraminjurytradetoclipperscompletedrotowirecom",
-    "fredvanvleetinjuryprogressinginaclrehabrotowirecom",
-    "nbatraderumorswarriorsdraymondgreenexpiringcontractstodealhe",
-    "thundersjalenwilliamsleavesgame2earlywithinjurynbacom",
     "nbatraderumorsdraymondgreenmichaelporterdealsforexpiringcont",
     "clippersmoreirrelevantthaneverdespitekawhileonardtradeassets",
     "tradeideahascelticsacquiringexnbachampionfromnetstopairwithj",
@@ -716,6 +711,11 @@
     "nbatraderumorscasonwallacenuggetscalllakerschatterheavycom",
     "laurimarkkanennewsnotlistedoninjuryreportrotowire",
     "cavaliersstarjarrettallenissuesstrongstatementondealingwitht",
-    "threetradetargetsformiamiheatthisseasonyahoosports"
+    "threetradetargetsformiamiheatthisseasonyahoosports",
+    "couldtherocketstradekevindurantthisyearthedreamshake",
+    "warriorswaivepreseasonleadingscorerinsurprisemovebringindoub",
+    "deaaronfoxinjuryremainsoutmondayrotowire",
+    "anferneesimonsinjurylimitedatpracticerotowire",
+    "welcomebackkyrieirvingscores17formavsinchinahisreturngameaft"
   ]
 }
