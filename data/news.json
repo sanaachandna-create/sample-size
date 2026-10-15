@@ -1,37 +1,86 @@
 {
-  "updated": "2026-10-15T15:45:02+00:00",
+  "updated": "2026-10-15T19:23:49+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Jonathan Isaac Injury: Uncertain for Friday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWU1rLTd6LTFJQlFldFh2dFRqUEtEeTJWR1NZdTg0RURSdjlkR0V4dGNyWmtaSzBLRzJnRERRU01ydklhWDZUSDFINERYX2lTUHNMSm1VWkxPSzZyQmNxWDhYNUEydzNUdGwyd01WTnpaUnpOOExsWmcwaWtRdGZVekpQUnEySjNqem1Fd0RnQmNKR2JpRmZJbXJjWQ?oc=5",
+      "title": "Micah Peavy Injury: Progressing well, won't play Friday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZmtWTDhmWUpSa0E1dEtaOExtR0VzM0NWdHl0M3NzZll2Skh5dENIeUNLd1ZtSTI4NzRzWG1zTlAwNnNjOWFaT3VYUEpGREJvMk82MFVRWWtaby1zcTR4Z09XUXplMUdWVjRWSlo3Mkc3cVJpbVJyZExNRjR6RXZpNG9MUjVvYjhzQ09URmJTTjRfZlR0Wk1fTm0zbHZiamlid3NKcmJhYmg?oc=5",
       "source": "RotoWire",
-      "ts": 1792077972000,
+      "ts": 1792091156000,
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks Opening Night Starting Lineup Prediction: Did the Preseason Change Anything? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTnA2QTR4UW5NSTZXRW91dlFLR212dXZIeVN2NjlndlkzZjdIemRWSkx5WDhDTVAya0xpS0Q0LVVaZEtiSHRHRVo4bVhJbHk0eUVFeUc4ZGJwU2M1dS1uYUFvdC1nS3czVHpDX2xRQ2dURmxDNHZjbmpvdVMtdUVBTmJjSmVUN054bENsSGxUeW5rdFpSOUVoZHhLbVpQZ3hhRmN1V3dXZ2xfUnFvRzVoN0dCUE1COUNwVjk1SzdPMmpwZHNUeDdzcHB4dmNkOEdq?oc=5",
+      "title": "Luke Kennard Injury: Dealing with sore knee - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPai1uSnllSkJRLXdmamMxTWw4NFRhelNzTS0xdWstaHBrWUt1T1FucDgxRWhKRGdMZVlYbExyM3F1TENYTkRWdzRWNWpSTUZ2VFlKYTBWZXluU3JLV1Q2VXVNSHc0UTdud0FHX2RWbmp6T3A4Q25xMzZTYnhLa1Y4NlJ0WXJsNDRJck84clJaR3Q5SFVGUFU3YU0wOA?oc=5",
+      "source": "RotoWire",
+      "ts": 1792089839000,
+      "tag": "league"
+    },
+    {
+      "title": "Santi Aldama Injury: Doubtful for Friday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVWxjZk44OGNMcTVIa2NGRktiemczam95dHc1WVk1bzA5Y1RwVERCdFFkdUpOR2NqYzVoTDh4M0lFem51M2x3LW5xRkd5ZDQwNXQ5S3hUYmREWVdPdnVMMVFxRTd1ZWM1V3FGV1dfSlJTUmtzejl3N0ZzTGY1OEE0T2UteV84Z25FV2tCeXlORjBPWUItVU1J?oc=5",
+      "source": "RotoWire",
+      "ts": 1792086379000,
+      "tag": "league"
+    },
+    {
+      "title": "Aaron Nesmith Injury: Out with hamstring issue - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcEVZU1BlT1ZNVjVEcnZ5dE81b19jNnA0SDlWUGI3UGQyLUVORUlUdUIzYmlCZmNYVzZyTlI4RFIwV2xIOTlsM01oSHJaYU5ad1FlV1E3VlFtYzhEMHZTRFlZSlhaaVFrUlY4eDlCRUNTYzNRYWVCb0NON2psYURNUzBnRmVpSHpTaEM2YTAzNC1DaWdIRERIQU1GSnkwQTA?oc=5",
+      "source": "RotoWire",
+      "ts": 1792085596000,
+      "tag": "league"
+    },
+    {
+      "title": "Anfernee Simons Injury: To miss final exhibition - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZktxcTltc3ZvSWEtWVc2RG1GcFJteHV4Smw1RFhfOUJ5MVdZR1V5UVlaVW1aYXNvRl81OHoxYlFnYTZxX2l6T1F2Y0owSFlITEJ1bGVSbXJHR0lkenlOMzJ0eUpoXzl5VVdxaFUxTmJmeUxncjVXWlBoQnhieWY2R2dWbnc2M2IyanFkV2tuRUtYWjktN0Y4SnJqS2ROUUtZdUE?oc=5",
+      "source": "RotoWire",
+      "ts": 1792085295000,
+      "tag": "league"
+    },
+    {
+      "title": "Adem Bona Injury: Out for preseason finale - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOLXJRWFJRNTNVM0UzcEJJcnBpNVJSc0l3QTROVjdhOG4tdlI5QVBhWVVpaUh6clJWZTVLOGJKenNzRWdpUnNXMGFHdmJDS3NZUXoyRXoyVG5qZDg4YU1mU2RGNWp5QXhvLTBPcTJIWlNKT3ZZZnpFcHhXLWxUNHNFckR4c1B0UmNKZlRSNTJiOE1TV2FmQlRwX3FB?oc=5",
+      "source": "RotoWire",
+      "ts": 1792085218000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks Opening Night Roster and Rotation Prediction: Who's In, Who's Out, Analysis - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTTZiQjd3cTR5bVlnNGprWkNLVDJmUm5WUjQtb3ZldVBYZmszY2pRTTF2MDZGTVVFczNCaXgyN3dOT2dhYk1xWEstdUFmSFlndjdaY2tnTTRra3hZTXdJNWRMcEk3RnJMbThRSEZxM1haNjZDYzVaUnZMa0NsWkI5eHFLZlVjZW90aW9peHNhS2Z3NFhKYXp1MFZIRlptTGxaU25YdUNjQ1BENTZHVlJhZ3VFa0pJX1p6WVlrRk9fbkVFQm1heGphVmdCRks3dw?oc=5",
       "source": "Sports Illustrated",
-      "ts": 1792077932000,
+      "ts": 1792083602000,
       "tag": "team"
     },
     {
-      "title": "Anthony Black Injury: Ramping up for Magic - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHp6TEp6UVhHNTUwbW1PZTQ5MUhDSHhLTEhzam9fTGhhRlk4R29oQ2VibFRneVNZT3ZuTXFvQ19YUnNlekZzTGo3UDBySGpQNlgzWUc4dkhFbEVQeWRtVEY1b1h4SEFPNy1GV1lDbnpQTmF6Zll6WW9QZEJkQ0dSVnhSeVR5WXdTdGVDakZPN3NBanpPOG5td05B?oc=5",
-      "source": "RotoWire",
-      "ts": 1792077901000,
+      "title": "Fantasy basketball rankings 2026-27: Top sleepers, breakouts and busts from proven NBA model - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc2tpZ1lFS3dKdENBZ1NteThfSlVfZlZhcldSclRoaUdnbEJINnpGMXp2R3ZRUjhFRlVvN0xzTUo5dlhpQzB6U204WTZRNTMxYWVrSXBmbUIwVTJsQUludnc0ZjNldTE1RmJuek1DbEtta3BTVlNtUDhFODZ3VzhibWRQLXNvaXZIeGZnWVAySGV0THdBMnR2bTVfWW04S0c5MEFYTXFtbkc4TGp3OTJVRzkyM3BYQ2ZoTjBoTG16aWtTc1JTT3pCcG03eWZwRVJqYkQ0SXBGWTk?oc=5",
+      "source": "CBS Sports",
+      "ts": 1792082240000,
       "tag": "league"
     },
     {
-      "title": "Karl-Anthony Towns is \u2018very disappointed\u2019 after Knicks pause contract talks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZG1peVFRQVFpendSZzV3anFxVE1NcHFxU3V1aXJmWGhnTWh3SV9WMlZoMHFSaFlqSmhKUHJRZ2pKajNiMEFQVDFxUU9hckQ1UThyd0lPUDFDWlRCQXdQUHFXZUYtQkxTbEs3YTZzWlRrZGREMWVHSlF6ZFU1b2dtR3lzQ1QycGc2TG5CYl9n?oc=5",
+      "title": "2026-27 NBA Season Preview: Team outlooks, power rankings, players to watch, fantasy spin - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ3ozVEJEdmZ3M3RJN21yNEY0c1JhdjAxRnRrUERFV3ltckJWZDNOT2YzOUhuWWdONzFQRk5Id2VvWkoyakNqT2ZUNWd4MGZILWx5VVlTZ2FRWTBLdF9QS0h2Y1RXTDdiWmFSdmcwZkJSdDBOcGU2b2xrSHh6VGVPR1VYQTcwLVdJR003cU9lYlkzdUxtTjVBMVJQNHJnY3Y3Q0trUVpRc2FJWDM2T1hWeWM5c29DSEdpSkRBWWVLc1hEZUM3dzRVc2FKSjY1TllBZUI4?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1792077300000,
+      "ts": 1792079986000,
       "tag": "league"
+    },
+    {
+      "title": "Knicks\u2019 roster battle thins as they waive Drew Eubanks after brutal injury - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZUdNRnBicXdIYVN2czE3X2N1dkg2MEU3LXlNaF94WDZ3QlJHTUV1MkxQTVdGU0FVZDdjTXF0REJvRGJ5YTliaHlYdWVYWXY3ZlowZkJPZUg1ZVdDMWFhV1ctVVgzMWpucnNRNmliWEZMaUFjazBMVFJ1aDRlam40eUtfcmR2ME9faVNnSjRQc3JIV1pPd3J4Vl81MG0?oc=5",
+      "source": "New York Post",
+      "ts": 1792079760000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA GMs Leave Hawks Out of East Rankings After Division-Winning Season - roundtable.io",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb2RtUGt0M0NiOTJWQmlFemtoaU5QQXBsRmNmV0tudDBvSVU2bjV6WlBIU3N6aElJdGtJZFROazRXYmZrMFRub0lPV3hqa2l5cTczOElGaW9qdHV5R2Nha2FIZVlFam1EcUFTR1AyQ1RBaldpc0hDUERGYkoxcy1iRjVQR3gxaWJJWFRiUlVLZEVpMnpTXzVhem1OZzExYkpyLXRpTXBobFZzcEtwMlFqeE4xNXY?oc=5",
+      "source": "roundtable.io",
+      "ts": 1792079559000,
+      "tag": "team"
     },
     {
       "title": "Kristaps Porzingis Trade Market on Kalshi Remains Low Amidst Unavailability - Sports Illustrated",
@@ -46,20 +95,6 @@
       "source": "NBA.com",
       "ts": 1792075200000,
       "tag": "team"
-    },
-    {
-      "title": "Maxime Raynaud Injury: Likely to miss 5-6 games - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1pFRXlUSlhuZlVnSW5vWXQzTFNVcDRITkU1cXpVMFJ1RWpuWXdZY1J6elhPdlR5djdNaXhjZkVIakpoVC0zdWNNNTZFd2ZVNUdNVGZxdlhVQ2FMbVk1M3ZKRXRjcFBuTC1TWWhPUWFfMkFuMXlaVTVFT0pUWUZqU3R1UE5uRGJkYkZvMzBrU20wZFFtc0hscllqRmNwUE51?oc=5",
-      "source": "RotoWire",
-      "ts": 1792075005000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade Rumors: Lakers Face Deadline, Bulls Big Man in Demand & the Big Board - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPd0xQR3VkTF83VGZ3Z0ZQWlBWSnBPTVVGU1p6QlFlTGdhbWhsUXc3RU5ZNndBcmJHUE01SXhoVnJkS0NMc2VpQUtsZmt2U1lHV2k0cGllcXRacGZxUjN4MnVwV011aExuM3FhckNFaXVVenFyaTZuai0xUlloaC1DejJvaWNEeTJZTnhadnVaaw?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792073792000,
-      "tag": "league"
     },
     {
       "title": "Atlanta Hawks season preview: Opening schedule, win projection and everything to know for 2026-27 - Yahoo Sports",
@@ -118,17 +153,17 @@
       "tag": "league"
     },
     {
-      "title": "10 people who will define the NBA season: Zion, Kawhi, Kyrie - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaWJQQngzX1ZLVGN1c0RGNlFsbHdyWXlBTlFWcmw0dmQyNVZKVFlGVlZLbm9EZlJIdDV6T3VoSmJ4TWxRRjQ4RnNGVjBCMm1rd2k5RlBwZW9fRmMwLXFqWGplTWxmRFJrOGJlcXd2MnJ0SGtwOGxoWFNhRkxPLTJldHRR?oc=5",
-      "source": "ESPN",
-      "ts": 1792062000000,
+      "title": "\"I committed professional suicide\" - Allen Iverson admits his ego cost him the final years of his NBA career - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNczVSMmRyQ2hYa3NzcU9yUTVMMjJ5TGJiOUl0bWFiWjYySTkzNXlwZUh3SkhfWGJnQnhGSGlxWk5Bb2x3bVZ2SHI3OWxhTHJ4MHAwTldpTWdNazdPNjhrRVlhV1B5OHMtMjZzcVFYVlVRMXNzRElGZ2ZnajU4UjBEdXdrYk13TzZCSm96dTBtLUhqODI1RDBXZGlybDZ1N01pdExqc3U2RXVDVDJ6UkU1T0VwTVY1VEZJUjJN?oc=5",
+      "source": "Basketball Network",
+      "ts": 1792055700000,
       "tag": "league"
     },
     {
-      "title": "Dusty May puts players in unfamiliar positions in Mavericks' preseason game vs. Pelicans - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVUyZkg1ZE5IZEZtcS1oS0c4ZktkYXNiSkt2TU43NTNKQkkzcmJyVldVNnBRZmpJR3hjZ0pldm9WXzJILWJQaklLQXZDbnV0b0dpcnJYc3FYUDk3RmFBT2k4MldMWWF1WW83YlNjT1RoUlQ4emowak9oUWlpXzAzUE9mWnFRVTUwaW1nT2xrbEJrUldQcVBzX0U4VFUwUlBMdjExSndiNHFFdDhGMEtV?oc=5",
-      "source": "Dallas News",
-      "ts": 1792038979000,
+      "title": "Nuggets\u2019 Julian Strawther leaves preseason game with leg injury - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeTFpamtTOXAxU2NoVnljdGhpSlhHLU1jbDlYTE4tVnJOUTZuTGFEV2s4OUc2a2xkaUpwLUNxQVR5TGNycVI1RmdFMllxTUZuQ0pSZDQzNUtCa2RGNFBvc09BS3VIV2tOTktYRkowQkpMQjFKMTEtQzI3ODFaeXJRTTZyS3dxV1FNbEpjeEpBU3lzR3RUTmxJeWtrbGROdw?oc=5",
+      "source": "The Denver Post",
+      "ts": 1792039713000,
       "tag": "league"
     },
     {
@@ -139,38 +174,10 @@
       "tag": "league"
     },
     {
-      "title": "Nets\u2019 top 2026 draft pick Mikel Brown Jr. impressive in long-awaited NBA debut after ankle injury - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjJNY2EtVkZmRm1VVlhmYlJGTjMtcVNHcmFDdHBqMHBLX1hVYUdhQVJJZVdNSWVJNXBMNjJLZzVWaWxYMnJMY21VWXVPSG9XTFdhT3ZtYTNqcDJWbjlYWDQ5QVZvdWtHS1R0YkFTNXJzUzIxeHZmdkFtRHhLZHA1NUlSdVV0ZkJtM3NEdnFtUjVVTWs4VHRkbg?oc=5",
-      "source": "New York Post",
-      "ts": 1792032720000,
-      "tag": "league"
-    },
-    {
-      "title": "Kylor Kelley Injury: Doesn't play Wednesday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNU2pJLV96Wk96ZVBKYUpmYk96akpVX1lIUkJrR1A2dFpna0NLNWZUV0xtNmR3S2I5aEFycWZtTlRSbUhQUXpycVVwcVJwTjU0MjhKSGRvdF92amdDci1tOGF1MUd4ajV3ZW4zeTl5WjR2eFMxMG9BMW9IT3pLRi1xSWEwTzU5SThkRzFtWlJWRnBXTmxhVWMwaUNn?oc=5",
-      "source": "RotoWire",
-      "ts": 1792030852000,
-      "tag": "league"
-    },
-    {
-      "title": "Bradley Beal Injury: Won't be ready for Opening Night - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWDh2SmJLNmcwdHFzVG5oR3hVa1JDUGI2bHNGT3ZLcWwxR2NWZk9nUXFCSU93ZHgzbG5sTVQ3ak8wVnpQUzZlMEV4bjdmUEt3LUI3NWZfN3RHRllvLXVBcUZWUkU1cU42Q21Cd01aV0U5bXc3YWROcWlDNHY3blRGV25kU1NQa2pqUlBaQnBUVFpRSUtLSEpYTWIxYUxjSkpoYjRfV1prbw?oc=5",
-      "source": "RotoWire",
-      "ts": 1792026212000,
-      "tag": "league"
-    },
-    {
       "title": "NBA Trade Rumors: Celtics Ready for Market, Thunder \u2018In Position\u2019 for Deals & Big Board - Heavy.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSHF6UEtKbUdoNnVVVC1pOVpnYW1rQ3FhdUZHUTlSeGpvT0Z2MXZfeHd3T1k5LW15RWlub3lvZ3h4d0R0UDc2eDV0aENlbkhvd1hBZnhJWm9yNUpyWDVHVDdNTGZ0VW5NSVoyMXZVT0o3TGJiR251MTBTQy1jakFEQ0hxeERJMVVPRHhGU19ZMUs4ZHNtVjNLMm4wQ09FSWRBYkhBY1p3blVyN0R2Z1k0Q1NWZjlBM0ROaVhrejlUZm0zQ1VZ?oc=5",
       "source": "Heavy.com",
       "ts": 1792025700000,
-      "tag": "league"
-    },
-    {
-      "title": "Prosecutor says 3 defendants to plead guilty in gambling case involving 2 NBA players - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGwwVElfaWdHRE51TVBXTktUVkhpbTlZcms0T3BVc1JBZ0diSy03VzV5ZlNWX3M1TDhJcktQd1VxT08ydmlOaGZnM05kQmJDNVdvRVEwQXlfRWZ5c0RnVWVyY2hNajhTSlZWMzJaR0VBOW8zMTFwQkdXcEZUVU9QNnlKSldPeGRzZjEyMWF2RzNCQVVSSUV3SU5mQm04d3J6Yl9UT01wZWkzcDFsSlE?oc=5",
-      "source": "The New York Times",
-      "ts": 1792018161000,
       "tag": "league"
     },
     {
@@ -202,26 +209,14 @@
       "tag": "team"
     },
     {
-      "title": "How Basketball Hall of Famer Amar\u2019e Stoudemire Found a Second Act As a Police Officer - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd09xaE90UkVLaHd3RVJnRW1hZkU1em0zN2xZeERvTThjNmYzSzNqS3hKcy14em5YSEV3ZllYOWEyTVFVY04yOU9OZ1oxbm9taVJ1eEk0cGdESkF6WHRLM0RDNEZEYTM3ZjMxUTBIREJsLW5ERDV2ZkV2eU1RN01nazh0dDRPUnZaMzhLNG5ZZG5acmsxX2xFWUtCMUZfelRSMEkzczBlSTNzZw?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1791993602000,
-      "tag": "league"
-    },
-    {
-      "title": "A revamped Hawks team chases a bigger leap after a first-round playoff exit - Bozeman Daily Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMU81a2czdGVUNnc3ZnJ5bnRsWmpJSUNOU1VDNHliLWFuY3FVQ2RVUGgtZmxJX3I5ZWlXX2NfTW1nY1dqdTRhRGF2Yk1NZFYtd202R2dWN0NRU3BmQlNJc0sxZXkwOUtoOFBZYTh4ZkZ0LVItQTA5UnBZS19LY2t0TXUwd1RZbndlUzAxT3dZZmU4V1A2Z0gxaXgwN2RkeUhuUDJfUjVpN0JNMUdoTk51Qko2VW13bmRJSjdyWnlDS2JxRF9CVUdyZVlsc3dQSVRTM3UzM0R5ZGh4YU1uaV83ckF6ZnFDclBsTVN5dVZCR284dEVkY1cybGdiWFlVS2VqNkNXRXBB?oc=5",
-      "source": "Bozeman Daily Chronicle",
-      "ts": 1791992077000,
+      "title": "A revamped Hawks team chases a bigger leap after a first-round playoff exit - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFX3drUWpHQTBYT1daQXRydS1KM1lXbWMxanFISFgwZEl3SWpLTGZiMnFrcklESEpqejhLdE44WHZmVHlvZ0RJRWhqemxfb1AzbjV3UHZJT1Q2SnptV2xiZzlBckFUQm1HVTZVTVVLVDJaZ0VqOWIzMHdXLTFaTzQ?oc=5",
+      "source": "Newsday",
+      "ts": 1791992096000,
       "tag": "team"
     }
   ],
   "pushed": [
-    "keyontegeorgeagreestofiveyearextensionwithjazznbacom",
-    "keyontegeorgeagreestofiveyear1575mcontractwithutahjazzkutv",
-    "bostoncelticspresidentbradstevensseemsunworriedaboutjaylenbr",
-    "detroitpistonssfausarthompsonagreesto5year155mcontractextens",
-    "ausarthompsonnewsagreestofiveyearextensionwithdetrotowire",
     "reportsausarthompsonsigns5year155millionrookiescaleextension",
     "spursdeaaronfoxtradedilemmahasanobviousanswerairalamo",
     "theatlantahawkshavehavewaivedcenterwillbakerhoopshype",
@@ -716,6 +711,11 @@
     "anthonyblackinjuryrampingupformagicrotowire",
     "kristapsporzingistrademarketonkalshiremainslowamidstunavaila",
     "maximeraynaudinjurylikelytomiss56gamesrotowire",
-    "nbatraderumorslakersfacedeadlinebullsbigmanindemandthebigboa"
+    "nbatraderumorslakersfacedeadlinebullsbigmanindemandthebigboa",
+    "micahpeavyinjuryprogressingwellwontplayfridayrotowire",
+    "lukekennardinjurydealingwithsorekneerotowire",
+    "santialdamainjurydoubtfulforfridayrotowire",
+    "aaronnesmithinjuryoutwithhamstringissuerotowire",
+    "anferneesimonsinjurytomissfinalexhibitionrotowire"
   ]
 }
