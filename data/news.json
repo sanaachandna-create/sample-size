@@ -1,15 +1,99 @@
 {
-  "updated": "2026-10-17T01:19:40+00:00",
+  "updated": "2026-10-17T05:40:06+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Orlando Magic vs Atlanta Hawks - National Basketball Association RegularSeason, 2026 - Fox Sports",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9DdVhYRWcycmpEN0p5emxVZzNaR3k2TFpVZk15QUJpTUZTU01vOWRWT0JOLWt6VVVSdzJWQ3R2NW5IbHgwNU9xQTF6MWVXNXgwVlFzMzhZSHpPbEotcUhRa3VQaDRIVVpfX1g2YUVtcFBfNkJCWURVMDRBa0xyUQ?oc=5",
-      "source": "Fox Sports",
-      "ts": 1792198902000,
+      "title": "3 thoughts from Mavericks' preseason finale vs. Hawks: Kyrie Irving's AAC return, more - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ01YOVNKMy1LektNVmtKU2dPSkYzeHg4Y0RibTZnS2kxNjhBRVFtNUFZb0lLU29TSnkxRWhUZWhvX3NWRmhSQnpnVzlLS21YaC1Rc0lNb2ZyLWRJcHYyU011YWN3ZXlXMVVQb09walpnM0JWVElnTTl2ZWZzUzU2dnViTFBfUVU2UWpkTkdPS3I3ZFZraU1QdU1RVWVNYzMyVTFzVmFFRGtFZUpwWjQ0?oc=5",
+      "source": "Dallas News",
+      "ts": 1792206058000,
+      "tag": "team"
+    },
+    {
+      "title": "LeBron fires up crowd with monster slam in Sixers home debut - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWUNXeGNnNG5QZEc2RkJEblEyX1M5YjlydkpzZXJ0eXNqZExlMHlPQ1dEc25jc0pFMlAwWS05RFh4a0NuUGZodkNLNm8tblNWWkxQUXRyYUlqSzEwNFhadl9qNWdfbExZRmxmT1NMMEsxSkRibFowcllvMGYyT3RTcXFpTW9MRlZIZ1BLc2VsQnNDMnZrR0dLTDV3?oc=5",
+      "source": "ESPN",
+      "ts": 1792205700000,
+      "tag": "league"
+    },
+    {
+      "title": "Winners And Losers From The Atlanta Hawks' Blowout Preseason Win Over The Dallas Mavericks - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQTY1ZHlaR1lFXzNFcUNhc2VIQWFSTktGZmJ2eS1fZlVmVUpkM21vQlhzZXh1bGFyamg1RHZFV3oybXQtRU9TMTZNRFlOSGZfV2ZjSnZkRlN1ZHV1SlBoZlZXSWdCTHhGSl9VdXpKcGJpOWF1aDhEVkhCbnNVTy1HYWZUNk14WmRTc3ZUY0U0bGwxendhTF82dTY0a25HUkx2TngtNjJvRGtfTUt2akE1MkVPVTBYU3o1Z3dXUmpJN0pNNHFnMGVkZGxNSnBkNmR4M0E?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1792205549000,
+      "tag": "team"
+    },
+    {
+      "title": "3 musings as the Mavericks lose their preseason dress rehearsal, 135-111, to the Atlanta Hawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQ1ZLRkkwdWpOT1Uyb05ab1lZZWhWdWthcFFPX2tlNThPeEIxMWZSaGlOWm13M2x3TWJuSTRnNkdVYnFPckpyX1E2NVpXNXVscEFsWi13d0RHekQ0RjlLRHNQNjJEalFGQXFSQUdMZmFnYkdyMEhxV3ltbDhxU0JCYVNZelNfNXZ5S3Aw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792205460000,
+      "tag": "team"
+    },
+    {
+      "title": "Gui Santos Injury: Suffers left knee injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV2tlQ2lYQlhJUDlfTDh6U0VvUzBmZndhamM2c1pHVlZYMG5QZjNWQXAzNEVtMXNwblZ2cVkzdnJtckRSQUpUbDBDWW5pNmpMZ2ExdE91cWF4anppQ0RRZ3lwX1M4eTRTc1Z2ZG5PTnlZUGNBRFRWSXZ0LUcwWVF1MnBJQnRiUVUtazZJSEpzMWhCNjBxMDBuV29nVQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1792204538000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks at Dallas Mavericks - NBA Game Summary - Oct 16, 2026 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdnA3M3l0bVJEY2JVZmgxT0lKN0hKOVFCcVNZeVJKNXdxNEFfUlQyYklCZ1hfRHhtSjlMWjFSWXFsRThXODgwX2pkdjlRbGxSUzVWSExELTROTWZLUmFidXQzbnpST0FsYUN4Sm9ua1hwSlAzcGpObk0tNlJJMFRfMldIQjAxQTFHQ1Yzbzl3dlRNMjNMUnQ4aXFZc1R5d0RiLUdCZFFaV09wZndkX0JXcGN6VWxGRkQyMVF3alo2MExtUlp3OGRkRHplU0FNSnBYN2c2Y3Y0cVZ6bW1TODV3Nl9WckFnakF4Zm9NblNB?oc=5",
+      "source": "USA Today",
+      "ts": 1792204305000,
+      "tag": "team"
+    },
+    {
+      "title": "Denver Nuggets vs Los Angeles Lakers Oct 16, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zQmRyM0l3eWJDVkVrVXIzVUhGN2l5eUlIdTg3ZHM2ZC1IM0hDYVlrVlNVbUtfY1FxM0hxaUlWUUN2MnJaWWI2SndPd25QNjAtTi0zOGVZeWIyZkQyVEwtOGhlckJ4ZUE?oc=5",
+      "source": "NBA.com",
+      "ts": 1792204200000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: A Lakers Target, Knicks Seeking Deal, Celtics \u2018In Position\u2019 - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME50MGRmTU9xM3hFaTkxMDBianN5eFoxblBDenQ3Y1g3NDNlY3daeUU3c1I3UTJWQmxWUEJvTEdrSi1tTVAweS1IVUFKZDNRVFhEcTlJdXRxWTJZOGdjT1dIUlJoR3JVbTFIbkc3Z0hjaFd5S2lQMGhQbldHLURBX0ZiS01HYnNPNklpcDBSWk9ncFhFUXdZOFM0a0tPVjJvSWxQLThHdTM?oc=5",
+      "source": "Heavy.com",
+      "ts": 1792202460000,
+      "tag": "league"
+    },
+    {
+      "title": "Franz Wagner Injury: Exits with right shoulder soreness - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFY3d3ZlWjlWcWprTDJqa0pSbWpPd0UzdWFkVldubEhOU2FPMEF1YUF3djVRa3hEVUxOWEc5LWJsNlI1OG1iYzBnMVQ3bnk0eHNlX0k3ay1wOVVlOHptUGlvd0pyelN6NWsxOUhwYUlpNG5Ud2Z2S2FvVlpDdVE5ZmhqZ0RYUmdHX01NaWl2QkxDNXFGaEN5akI4aE1YRHB4S0FqMl9LVEt1SG8?oc=5",
+      "source": "RotoWire",
+      "ts": 1792202079000,
+      "tag": "league"
+    },
+    {
+      "title": "Lakers called Wolves about potential Naz Reid trade during offseason - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOamNlZzJ5SXlBcWQ3QkxUelNldF9tYmhBM21GamFubVNWYlNJcmgwNk1TcF94cVMxLUV2aHRJQXdpa2NqYUpsbDdPZmo3S0x1Z213ajIxN05FLU82ak1iM1NfUlh3WjJwNzU3c3JhZGRiaHUxb0lnd0p4ZjVmN3ctMm45bWs5ODhMdDRF?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792200900000,
+      "tag": "league"
+    },
+    {
+      "title": "Spurs' 3-guard lineup of Fox, Castle, Harper to start in opener vs. Thunder - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRUxpNjdaalBuMHREd0t1WkxfRjQ3RTJkTXFqTng2V2N4bzNESnRWcHV0ellTdENNQXl6YmZoSjJZa3JmSWZIR3ZMNU1nVUxPRGVtUndFbU43UGZnSUhfbnU4YXRFMXktYkJhUUROM3UwVmNBUVR6SlhHN0t0R3RRZUNBNVM0QjdBU09qWU8zTnotT2JYNEFVTmhBRDg?oc=5",
+      "source": "ESPN",
+      "ts": 1792200600000,
+      "tag": "league"
+    },
+    {
+      "title": "Blake Hinson Injury: Ruled out Friday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYTYwSDJDUnYzOHJ1bGhXajU2MWFsMGRmWTNUSE93LTZ5LVpNTXhxOFVEV0NTLVBPQmY2cjVwSTlLcUR6VkFxVDBUOTJaVi1FTVN5Mm5sdUluMW93ZXphYW9XejJYM3FiMmtLeFBfWWhPZldJdzhvd0RvbVI0cUFQY0wwWG5mUVhiT1ljRS1ORmJldEk?oc=5",
+      "source": "RotoWire",
+      "ts": 1792200523000,
+      "tag": "league"
+    },
+    {
+      "title": "Cliff Hagan, Hall of Famer and NBA Champion, dies at 94 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzI1clY1LUQtMWRYeVJNMDUtQzExOUNyeVhibkdyUUZQb281ZHVTS19kR0pzdFIxMTQxSDY2NFlDblBQNVUyUlVkZHBvZHl1UmhXaUt5WnJPNTVhOEk5NURHbzl1S0w0OGFBcnhCck9TdWN2Wmp4dV82YVRwVUJ2RXNUS0xORzU5TEh4S0ppZnVwbU9oUW1NY0JlTWdabnNTYlZ6aHdTZ0Y?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792198800000,
       "tag": "team"
     },
     {
@@ -34,31 +118,31 @@
       "tag": "league"
     },
     {
-      "title": "Hagan, Basketball Hall of Famer and Kentucky legend, dies at 94 - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnd0OVRPTk10c09yVkVrc2REOXdiNDRRUGZDY29CQ1ZyWDNwaE1Lb2xpWE1PZTFCM1haRkpZQmY3R3YxZGxlNE9wTHBvbUxBaGZRMEcyRFRNTkpmbHlqUlpCWjJfYmVjVVliUnhGNGFoNVVKWDhwcWVNcEhjNnhYY0VRc0hIYUhfU09vMTVsRDFEem92SmI2T18zQUc?oc=5",
-      "source": "ESPN",
-      "ts": 1792192380000,
-      "tag": "league"
-    },
-    {
-      "title": "GG Jackson Injury: Won't play Friday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWR6SXlwV254X2dQVFMySGctQ1dXTU01T0RaS2RJRmpfRVk2SGpQSDZsTWoyU2FJbDlvaE9rZWZJRlFvMVJ0THF1UjlvbUNTX3RDYUxpcEw0c1Y3ajNlaEQzeDRWOVNUYmxZeFMyNk93WXZpcV9VV1NzQ05tMDc2V0NGQ0FjNFUtVndOT2U5N2M?oc=5",
-      "source": "RotoWire",
-      "ts": 1792191724000,
-      "tag": "league"
-    },
-    {
-      "title": "Mavericks vs Hawks Preview and Injury Update: Once more before the official games start - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVkxrTDNEbnRjSnFmaW9tTjZkQTY1cTRWVGlMdU9QaWVpU0dqWTVpX0gyTlVCNl91LWdNTG9BR1ZtUVp4Z2I5UVp6X2gwd1NuQlppX3RTREJJTGhtUlJGbDc2MENNUEZ5dWtiVUFpQ0VqY0NoLVY5N1RWUjB4ZG1CNHNqVFlleHA5d0E?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792191600000,
+      "title": "+\u03c9#*\u3010High-Quality Live Viewing\u3011!\u3011 Dallas Mavericks vs Atlanta Hawks NBA Match Live Streaming free - Universidad de C\u00f3rdoba (UCO)",
+      "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxOd2FRZUxvay12aDRmQmwtdFRCU1ZaOTJQOFNCLU5mb2NCYktIZ19Nb2RmSkVWd3F0M1FRMGREUERpanA2US1mYUotUnVNZEE1cnJrYndfQ2pKOXQ5aGVLTEZ0QmdZcmtjQnpKV3ZtWEx6WWxuTGFDRm9tTTJhYTlWcmp3dGpidkJ4S0t5ZFlJZmZZbFhOWEtGbDBzMk9KUlNMR05fY21VSm9CS1NacWhaeS04X1dmeXpqa21vYTJDVDJORDFELUFEYTBELUF4U3JhbEw5a2FNSjNzb2k2UGRMNFFRRVZuZXdGc0o0NlJFLWZYdEFkWVdWMEJ2cFY4eVM0bWlKOE91aUpjYW5McXFKZTd1ODVJUU5yVkpUQzVGeTdkZVdKdUFYeVE4X3hkbWR3c1ozWjA1VUdmLXhvTXRMSGRwY3V0VmxzZ0t3clJESWl3UG94TkhxVGI3OXNkbEhL?oc=5",
+      "source": "Universidad de C\u00f3rdoba (UCO)",
+      "ts": 1792195358000,
       "tag": "team"
     },
     {
-      "title": "Mavs at Hawks, preseason: start time, TV, streaming, radio, game thread - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWkxIbVRlOW53ZjlJVEd1d2NjZm1DaWhRYlNFS290di1lc1h4akl4YmdxblhBZlh3clZBb1BMRXJkYUZMaGp0ZktqZzNtREdqSGNkMmd3MFQyMndiVXhxVDFOaTNxdzZBOUdHWmFlUmtFTzFPTnBXSzM5Smg3SzVDSVRmMmh6bFk?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792191600000,
+      "title": "(LIVESTREAMs!)Orlando Magic vs Miami Heat Live free NBA Basketball October, 16, 2026 - Universidad de C\u00f3rdoba (UCO)",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbXVsVUlnelRHQXNqM0Y0czdDMVBDbFV5TmJyb1ZqaE1IUTRlWnRvTXp0STVuNElGVFpTNE1WbmZHWjFyMDMtM2RmMlVrblBsTkJQVEtyVzFSVGdVZXEzYTM2QlpBa1pOU1FqdHJ5dTI4Q0RFUEdqdG1fV1JvbjgtdzNNQ1ZUQjlialYzakFGYWFubHowWFVxemM0ZHViM1pqMVVtREtISTVOcmlMdFdJVGJGa2JoblJ4Z2VELXBxTFhwd2g0VTFWYjYyeG9uTVJaZEVHUmNoYmY2b24zWXBQSVJhTm52MWdsdzhvaVRIZk9tc1NFVkF0bkJxejVCejR6U0NJTzJidUoxNXJScU1TVVk4dDFJVkQyblEtM2dDQzlZNjg4TzVIRDhmMGdzME5kUDdOQ2ZPX2dIYVlKT2VYZUdn?oc=5",
+      "source": "Universidad de C\u00f3rdoba (UCO)",
+      "ts": 1792192044000,
+      "tag": "league"
+    },
+    {
+      "title": "\u3010LIVESTREAMS\u3011FREE]Miami Heat vs Orlando Magic Live Free NBA Basketball October 16, 2026 - Universidad de C\u00f3rdoba (UCO)",
+      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNc0pOYlNES2F2QnI0TzU2UE0tanJJdWNvUExfYnFDLTlraG9JTGJWSGNsc3pxZXpBU3QxcTJ5NjFNc3lzYXlCbmhNTDBGMk1FUWtIRF8ydl81SkxLdUg1WWlseHBHcTk1TUJzY29rbHlOeEpPZ3dJOVg3T1d5QWU0X1pfNW1OeE9TSTdqaTZsV3RsWW9sY05oR0kydm5LY0pwLXk0S0w1VzRCYUZOYmVSOGVnTWVubzV4eEVjTjFXOWJzQjNxVmVwTFp0UE1oM3QtNHphbFZ2eHJ6cUFhZEF6MEppcnhreTdPOVZaamR0WDNCLUhSdmRETFQxenVBXzljWGJ3Z3ZCekZheGpYaEZOSmROLXdvU1JFcHppN1FDa0E5YU1sbURYTS1oWVdYazV3QmJrRkJoa0JtOXhudEU0QzJZM1M1NlFMMVE?oc=5",
+      "source": "Universidad de C\u00f3rdoba (UCO)",
+      "ts": 1792191648000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks vs Dallas Mavericks Oct 16, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNUtKR0pJSFRfeTIwczJoZUJ3cVJScUo2VkxGVDhUS0tQcG5aY2ZaNDJhZTQ4UWxnTjhUWmdteFhCX2xMa3VQMS1YWl9QZUhNN0tCX3Z2ak5idnBwTHZmTVcxWW5ja1E?oc=5",
+      "source": "NBA.com",
+      "ts": 1792191542000,
       "tag": "team"
     },
     {
@@ -69,74 +153,32 @@
       "tag": "league"
     },
     {
-      "title": "Cliff Hagan, NBA champion and Hall of Fame forward, dies at age 94 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05a0trX0d4Vkhkb2RQR3hQU2IxZ2l4OFMyWmNSN2c2V0x4bjE1c0lqNmstUWY1LWthSDFsS2hmQnhKYjNxWjFnTTZwTmxwR3pMeU1odURDQ0VWRDR1MDM2aUVBWlp1MWRHVnVsY2d1Z1NudFYzVmlz?oc=5",
-      "source": "NBA.com",
-      "ts": 1792191453000,
-      "tag": "league"
-    },
-    {
-      "title": "Zach Collins Injury: Ruled out for Friday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWluenNIN3JKTDdxZEEweXF0a0g0OXozVXpib2dDT0Jzbmo4MERKaml0azB4SGI0bjhQdEtwb0oxVjJaSEp6TjRqNW90SWxIZXVCNW9paS15d0NFOW5EUVJFZ3RSZjZKUmxqMW1YT0k2VFpya1dzak9Nbi1OMDhSYkhBU2Z0SFdXOWxRZWJVUXlYOUJNX2VTUg?oc=5",
-      "source": "RotoWire",
-      "ts": 1792190917000,
-      "tag": "league"
-    },
-    {
-      "title": "%*[[[SPORT TV>]* Dallas Mavericks vs Atlanta Hawks NBA \ud835\udc0b\ud835\udc08\ud835\udc15\ud835\udc04 \uff33\uff54\uff52\uff45\uff41\uff4d\uff53 \uff2f\uff2e \uff34\uff56 \uff23\uff48\uff41\uff4e\uff4e\uff45\uff4c 17 October 2026 - Universidad de C\u00f3rdoba (UCO)",
-      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPbnlZelEya3c4UW1mU2Z0Q2ZILTN3d1hBZXJ6TXpfdkczMTl1bHBjbUYtN2tiQ3YxVHNPNXE4REcwMUdlY1U0RFhOT2tmQ0tZRnZMQ1BnRy11aU41bU5sNkxkdHhLUGRqN0ZvbkkyQ3FyX2Y5Tjdya3MyYU9fQzM4aVRtZjd4Q0pVZ2NvOGtpYTdTamg5VHlOUXQtb1NzeW1ZUF9xeHVieHV4TW4wVUNOcnVEOGg4bEpfbnVyZHVybGhGM0ZPNUppdE1sWVBwZlF6SVd3WTlJQmVENEduQXd6aUxXMkZOdTlQRkRGYV80QzFWcW5ETlh3MVUwZUhTdUtkLWhxQTRydW5uUF82aWNLNjBCc3pqY2ZmMW5tNDZpaGZER0dIUm40dzFCV2xwUEw0Q1F6VWNvcFZYS2JMbFdmSGx3dw?oc=5",
-      "source": "Universidad de C\u00f3rdoba (UCO)",
-      "ts": 1792190804000,
-      "tag": "team"
-    },
-    {
-      "title": "Marcus Sasser News: Not listed on injury report - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWS1rWkF6aVFPdldadTJNci1maTRzQkpHamswOS12cTlLeUIyZFhrSWJTV1h6V1N4ZVdoTjRXcXVCTkdXOURFUWVfVzFNdE9rZm5qRkpvNHFaZnRWRzNpR3NBb29rMEFheDlia0VNblU5VFJYVUV3cXFnNkxtdDdfdHpJS1o2MnY4UUlTUU9jSlBtaVRMUUlvcGlnWVJrTjJf?oc=5",
-      "source": "RotoWire",
-      "ts": 1792190142000,
-      "tag": "league"
-    },
-    {
-      "title": "Daniel Gafford News: Not listed on injury report - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWllQNG54LXMxbUNRbWUwMmJFTUhYTUZpNmc2Y012cFo4bE80V21Eejl6amtXamlMb0w2MWVLU18yUUlEM3Y3di1ZRHBsaTBPaXNyQlBzMHNfeGh5Y09yMTZHQ0VjY0FzUDloRGlHUGpMaDN3bFJINlI2MEExX1M0THFVclFoUFlBOG50MzFlZE10Z213bjlRSUN5d1hhdXVscWc?oc=5",
-      "source": "RotoWire",
-      "ts": 1792189894000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Fantasy 2026-27: Last-minute draft tips - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCZEhrbFBvWnFXalpNcF9QcjZkeXZXWHEyT0M0WERXb2ZwVl9lZUdfc3o4V3k5dzBPTEtRN2h5MHpPWFdSb0VQQWl3X092M3E3TE9xMzJfWGN4YVZ6WHNFUUgtd3FxMF9Gd25NZ0JDYTE4azk2enc?oc=5",
-      "source": "NBA.com",
-      "ts": 1792187304000,
-      "tag": "league"
-    },
-    {
-      "title": "Lakers Get Good Trade News on 6\u201910\u201d Center Ahead of Final Roster Deadline - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMGRlZ0VpLUh3ZF9NY1FpdEl4WWlaMXU0YVFLanBBNG1QVkpzQnhITnUxVGdLRkJyTlpraTBfX0Q4WmI3MFUxMlRBNjNJRm9NdmY5S0JCTXNZVGItTWlPazRyR0Z0dDZQWG42by15Ykx4OVJkX09EU1c4bVUxSzdyTFN1WVczdy1TRm9NWmJUVQ?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792185445000,
-      "tag": "league"
-    },
-    {
-      "title": "Report: Atlanta Hawks Could Be Team to Watch If Karl-Anthony Towns Hits Free Agency Next Summer - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPN3dQdVR1RGFMUmxHc25FdTQ4RkdibnIwcEFycFNtVzdLaHYyaHl2NkV6RTJlTzhQaWNZckgzN1lEdW91UDRlM3R0NGozNmRhT2sxMmNVZjlRNEtjX3l4X09HRHJtMjA0U3NCZkt3clRxRGtNd09ZYno1ZzBpQkpTM0tPdTBDUjB6REV3YlhPd2tNRGEtTG9pLTF4d2txbC1ZQjVCTWNqWWpuUVZrcWhpOV9ha1RQVU9PSUtCYTFsNVNuUktiWGlrM0E3RjZHT3ZQNU5tU3FvclE?oc=5",
+      "title": "How a Potential Tyler Kolek Trade Could Impact the 2026-27 Knicks - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUFldUtyS2lZd1pYYjF5ekVhNG5JMU5Jdm5tTUV0WlkzVnRvZWhrNXo4RS0xZ0x1M3hxVEU2RmZhTFB1SS04Mk5qYVppMkJGMGhvNjIwTF9YVUl1VmF5WW02elc0QXZhNWM2bW1jdnhRdDB2cWV2b2QxUHdsY2dkTmFhOWxsWEtTY3ZHQV8yNWNMWGpDempyVGlRZGN4cDQ2ODlYUzdXa2VoYWc?oc=5",
       "source": "Sports Illustrated",
-      "ts": 1792184808000,
+      "ts": 1792186200000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA players union prepping for second-apron fight years before CBA expires - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLVJNZUtqLWNBOEM4M2RpUWx6SjM0bzN6bnVoRkhPdWNLaExhaVFfLVZRWTRZY1Vha29zclhDeWwzWFpKQjlrM3Rtb0pWUUU3ZE1iWTB2SVFYUnlha1F2dEs0NjEzZFhLbjNKMHk0Q2lVdERDdGFOYTJaNXlFSng5Z3ZwQkhtT1F0QzI3eFBqMzc?oc=5",
+      "source": "The New York Times",
+      "ts": 1792183490000,
+      "tag": "league"
+    },
+    {
+      "title": "Former NBA star Delonte West gets married after years of legal, drug woes - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYU9xWW1IN2tGRnhHQkpualhMT1ZWZmJoTFl4Rkx6bXdjWjRZYWI2Wi1OVTVlTVNqZjZmYkc4SDl6MVFRZmRDa3JrcWpfVWpIYUhmRVVkcERaYlFDd25CZDVVenpSZ1d6cVRVUS1DbHZOMUx5OGFjMDhwMkFhdjR1d1BHUTY3Mm1UYWN4RzR4YXBaOXdmR0FBcHpCb1JtWVFIZjItRlA2bjNwZw?oc=5",
+      "source": "New York Post",
+      "ts": 1792181700000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks season preview: Opening schedule, win projection and everything to know for 2026-27 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTFxZDEwTUJmdmdnNnNKM2ExN0VIZUg3RUhieUNKS0RJS3VJcG5Kd2pGN09JQ1F6TThXVVlfS2dFYWFEcVZpdWFldEdvaXJHVHU1Ymd6Nm9uUHhqVFpYalZwOGZLdHBsREpTOWxSQV9QSk5SblB6X0FxMHZrN1duNUNMTkxtV3RZRW5JbTRPT2VsSTJWY25VakcwYTZVQ1E2NkJSMmlOVWJOeElYX1pwOHhWMVNKRXZQdlk4MUdsQTlhMThnU0JLWVhHbWx5ZUtmV3cySGlTclhyZ2NfY2l3Rw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792176940000,
       "tag": "team"
-    },
-    {
-      "title": "Report: Hornets among teams exploring trades to create roster space - Rookie Wire",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbllvNUFvSUsyLVlFZ2N0TElha0otQzQ1a2V5Um5wZUZwbUd4TUZmNWhXaFVYdzNSRm5VUjByaGVVMHJDYVpUV2VabnJ3blMyNWRHb28yaGtqaEk0YTFfZFRWd3c0ck1yVUFFM3ZPc0ZHbFpvZTctOHRaOVNUTlp1dGdCRW84ME9jcGtEdENuRmRsODJaMzEyTjd1NUl0UVFiMU1YSXdpSjUzMFdzRFZvai1XazhISjlGY0F1bmVjaFVGLXRCb202aGtVb0JRSUtMeVlVSFcyUWd1dw?oc=5",
-      "source": "Rookie Wire",
-      "ts": 1792182780000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA teams up with major sportsbooks to ban high-risk bets and wagers tied to game-fixing - MARCA",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRFoya1RWTnFlekhjRFY0ZThLeFZsTWVsa1p1NU0yb25nRG91ejBETmxzbzBCQTV6Ym9xTGx0a0I5OW5DYUlzZE41dTdYb0JVR19HMlJfZ2tTMm1xNkhWUWktZUZDbzRWT2ZZcWJQT2NjM0h0S05QS09EUlpENDMtcEIzb1UxYnNhU2hXaEZMcEktb1AtSTFpVktHTzB4NDZYSld5ZjJfVkU3ZVZPamZWd1k5VzJOeDdzU0kteHZMb2M3UmlodGlTTjE2d19HSjdJUUtEV1d4M200bmJa0gHcAUFVX3lxTFAyRkE1MDdyN3JQMC1BS3dZaEotVm9RNHoyRlFfNjM5dmUxOHJ2eWQyaGJ5VEpvWDRaNFhZLWZuUUdESUZ5c3JmQTA0d3NHQTBWbzdfU3hTU3FHLXlPcDY5RnUyOTh1cXFFMng1Y19CYnpSWFFYd1dkNzlzY0JHOW9FQ2JOQWR1SVVRV2hHWWNVUTFqSjh5bll1aGh3UTctX190TVFCc1dORncyOWFzVi0ta194ekNpa2JmY0pwSE1xaGtmakdtakREdEFHc3A5anNRVWdTMlV1bXRnSXM?oc=5",
-      "source": "MARCA",
-      "ts": 1792181276000,
-      "tag": "league"
     },
     {
       "title": "Knicks have a $500,000 reason not to trade Pacome Dadiet to sign Bruce Brown - Daily Knicks",
@@ -146,10 +188,10 @@
       "tag": "league"
     },
     {
-      "title": "NBA Trade Rumors: A Lakers Target, Knicks Seeking Deal, Celtics \u2018In Position\u2019 - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME50MGRmTU9xM3hFaTkxMDBianN5eFoxblBDenQ3Y1g3NDNlY3daeUU3c1I3UTJWQmxWUEJvTEdrSi1tTVAweS1IVUFKZDNRVFhEcTlJdXRxWTJZOGdjT1dIUlJoR3JVbTFIbkc3Z0hjaFd5S2lQMGhQbldHLURBX0ZiS01HYnNPNklpcDBSWk9ncFhFUXdZOFM0a0tPVjJvSWxQLThHdTM?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792170382000,
+      "title": "Spanish club Basket Zaragoza attempting to block Thunder rookie Aday Mara from making NBA debut - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcllIdlRwTTNCTTNlX2dTOHFqdVRvYm5ZVTRDQW9NUG4wNVZ5cE52aGFVWUsyeU84YldpcnVGUjZmYWhrQnR0WDhLenpPaUZDZ2dYTGpNTkVSTzduRVBtaVVQbVQ1Mm45UUdlTGJQLXdTem94bzVwVFJMLWk1TWViTGR3UmdCX0puem02a0xuRGR5aTlwdHc?oc=5",
+      "source": "CBS Sports",
+      "ts": 1792169400000,
       "tag": "league"
     },
     {
@@ -160,20 +202,6 @@
       "tag": "league"
     },
     {
-      "title": "Spanish team challenging Thunder rookie Mara's NBA eligibility - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWW5kQkx6bE9MYjhLM0lHX1RTcmRqZEhhU1hjTkYyMHpvdHEwV1BkQ2tVNGpxLTJaejMxWV9kalZ3ckRsMlFMZ3dqcjUyNlZiQjhLZldkRUtHRkpkdWg1MUdNaElPeFBGTVdjZk9VZ0F3aFFRTDZUa3ZNSUJoeUYtRjVLV3VRTEYxU1M1RnpmOVRnYm5JQnFJeTc0TFQyM01ER0dMZlpyYUQ?oc=5",
-      "source": "ESPN",
-      "ts": 1792168800000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA bans single-player unders parlays as gambling cases progress - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaGh3MlFjTFh6aUc1YzgyemFXYXpkZUhGMDM3LTlwVUFlaGNJb1lxajJ4TGNGLU4wSVNiazZ6MTZwbG9wNl9MVXVPc2d4SmVzVEQtdThVR2Niam1velZ5cFUtRklnNzk4UkwtTDFuTk11bDk3VVdwempOU3kzcnBSZngzajk?oc=5",
-      "source": "New York Daily News",
-      "ts": 1792168712000,
-      "tag": "league"
-    },
-    {
       "title": "New NBA Trade Rumors on Anthony Black's Potential Availability amid Magic Contract Talks - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQkkwWnUzRWhCNlFkT3p6azdLbHFKNlJYM3EyRGo2M25YcVR0MmtmYTVxOGpKaHBFRm5paU9COWZpQzk1c3BVX3RmWDZuQW5ENEpOR1Z3WEN1UGNucldkNTRVWlA2V01kcHJ2WTdla2hZLWtSQjA2WHBUQVpRNmhxZW10elJrbVZ0UlZRZ2RodURnc0lSek1pdkpPU3VOVHlSV0NOWFRMTmhITk5Ianhsd2V0alBFYTRaWE9ZdDBYYTBqRkVVYVZWbg?oc=5",
       "source": "Bleacher Report",
@@ -181,47 +209,14 @@
       "tag": "league"
     },
     {
-      "title": "NBA tells sportsbooks to stop certain bets, restrict parlays - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU3BxVE5MNVdaa1NBSG9TMkV5M2tkQ1ZJcHdmYVRTaXQxa2NkcmhkaFdOTTk3WnFud29zLW1wb1Jhb0tjZWVHT0ZEX19CZEF1SkpfNXNBZF9tcF9WbUx0WHlTUER3RXpaZk9SRUFoclJHd0thcU1rZlVOZW5iQU9NYklpRkN4TmNuVWxZYkJKeTRUU0R6ODVONzBSX0ktZld3TGdB?oc=5",
-      "source": "ESPN",
-      "ts": 1792162800000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks' Controversial Zaccharie Risacher Trade Is Looking Better Already - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbjhSZlBGUUtZMUtpVmcwamRIWl9SUEpONVhDNkpHM2xuLXB5d0NCVVhZZmxhU3gyRVl3SHhCLU5Fd2ZKSjlzN3MtUEstUjRnMkhxTWVxMURyR3BwZm9aNTBJOVk4RDEwcmFxZ0Y2QjlZRkVLTXVVMENlZEwwNVd3NFBWVEE5el9GWUg5Z2xWTnM4S3JITXN5Qg?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792153109000,
-      "tag": "team"
-    },
-    {
-      "title": "Sports store backed by Atlanta Hawks coming to Centennial Yards - The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzlHTS1kaExtVVlzdnRMbHViWVlOOV8wb0NiOTZJaTFqR0l0aUFWc19wa29yTkNPaHJ2NHItd1hZTWFRRG9GMmtCcU12ZDRTV1U1NExVdk1aRE5pVXNIcEV4cV9LLVJMNVI3Mkkxc3otZ3FTdm5ZcUE1QTVSSVJyNVc2aWhZUVRUOUhOUDNYNWFuMTVBVGpBY1B3WXdpMFhTSThxSEF2SHlrcW8w?oc=5",
-      "source": "The Atlanta Journal-Constitution",
-      "ts": 1792152124000,
-      "tag": "team"
-    },
-    {
-      "title": "Atlanta Hawks vs. Dallas Mavericks Live Score and Stats - October 16, 2026 Gametracker - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4wRmd5c2V5QVVWY3dsZ1FkNmdBbUFxLVJiYktmSFJlN0FhLThHNncxM0ZLV2tnQmVydnRtQWtWaW9qcmhzMlNkZUNfeko0NElWeWRQNWdSNVBVVF9sZ2E0Sm51OTBOTGhLNjRreTNfLWZUV3BaRGtB?oc=5",
-      "source": "CBS Sports",
-      "ts": 1792148826000,
-      "tag": "team"
-    },
-    {
-      "title": "NBA Team Values 2026: Warriors Still Rule After Lakers Sale - Forbes",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSC1BaHBZYkI1UFNiVHM2UTQ1eFhneW8tU3BaY01ZalVHZ3dFbjl6VzBrM2FCMkVqbHI0d2hpY0Vmd1V2NnRSQXJ1QkFlRFRFb1lHd0RYZDRkbFB0eTM1dEVVVlhXTjZKbzB2eTZHRE5rSV8tRzN6cjhvV281a3dEZTlPQVV3eW1fVnZDdXhROUNmd2hU?oc=5",
-      "source": "Forbes",
-      "ts": 1792146600000,
+      "title": "Jimmy Butler puts entire NBA on notice with fiery injury comeback declaration - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQ3dsTS1FZWRzdFBYUkd0STdPLUpOb3hsSjVNUXhmRXRQQmpzWEFRX1UxMkh4cFFRRk15WWRnOWNoem5aT1kyeGI2aTdWRnVZeUVicV8zeXhBQnZxRTFYT21JbUZycGNUb3VwUEdCNHQ5aS1OT0RlaklSREZndEp1TVpZZ3h4YTJidkg2TzhuRkR6aXh1S3hTLXF0eVFGMlpWYVB3YXBYV21DeEtQbnZhTWN0N20xNGl4M0pzWktiMlVjNm1EUnY0S1FXSEtNMWd6bmc?oc=5",
+      "source": "USA Today",
+      "ts": 1792165740000,
       "tag": "league"
     }
   ],
   "pushed": [
-    "hawksannouncebrutalinjurynewsamidreportedtradetalksheavycom",
-    "atlantahawksrookiehenriveesaaroutfortheseasonwhyitmattersand",
-    "threeveterantargetsforatlantascenterrotationfollowinghenrive",
-    "hawksrookiehenriveesaarhasatornaclyahoosports",
-    "rumorrounduphawkstalkingtradeforfinneysmithpeachtreehoops",
     "buddyhieldtradewouldsendloudmessagetohornetsfansyahoosports",
     "atlantahawksrookiehenriveesaartearsaclexpectedtomissseasonsp",
     "hawksrookiesuffersbrutalaclinjurybeforenbadebutbasketnewscom",
@@ -716,6 +711,11 @@
     "collingillespienewsnotlistedoninjuryreportrotowire",
     "jrueholidayinjurywontplayfridayrotowire",
     "mavericksvshawkspreviewandinjuryupdateoncemorebeforetheoffic",
-    "danielgaffordnewsnotlistedoninjuryreportrotowire"
+    "danielgaffordnewsnotlistedoninjuryreportrotowire",
+    "guisantosinjurysuffersleftkneeinjuryrotowire",
+    "franzwagnerinjuryexitswithrightshouldersorenessrotowire",
+    "lakerscalledwolvesaboutpotentialnazreidtradeduringoffseasony",
+    "blakehinsoninjuryruledoutfridayrotowire",
+    "howapotentialtylerkolektradecouldimpactthe202627knickssports"
   ]
 }
