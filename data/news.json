@@ -1,15 +1,22 @@
 {
-  "updated": "2026-10-17T09:39:41+00:00",
+  "updated": "2026-10-17T13:10:34+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 2,
   "error": null,
   "items": [
     {
-      "title": "Wizards Rookie AJ Dybantsa NBA Regular Season Debut in Doubt After Preseason Injury - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkRCcG5rMHJtOE5mUDFvTUlyTDVkTHBGV1FzcXJPWktrU1VTU2pZVEZ3SENrSWEzcmdNUkNvV2hoSnpPeG9pZXBSZ2ZDM20wNlBfcGJpV3E5c25jTHRtZGphOGNIaHZITFZGa1c5RlJNd1NDYXlIWjJZUW8yWHdLRlQzNlRhNHBXVFRianQ3eHAxdw?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792217006000,
+      "title": "Atlanta Hawks vs Orlando Magic | October 21, 2026 | NBA Matchup - theScore",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mOUhycldxNTdac3JmZk45SHFoaE0xWHZWSmFnaUZzdVRhWkdqX0lxalZ0U0l4eTB4OHpfRVBSVXNOMW1GQXF6Q0dpczJtVi1aTmN1aVVaNG9XbExhdW9CWUxCdEhWaklUbnVrMVJB?oc=5",
+      "source": "theScore",
+      "ts": 1792239983000,
+      "tag": "team"
+    },
+    {
+      "title": "No Giannis, no Bam, no victory for Heat in preseason-closing loss to Magic - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYUcyeUh1djhCOUl4Zmp6bm9YbE9JU01WOEUwZVdhaDlWWTlWU1JIZ3E4LVh6ZkprSFZnT2R6OFpHdXBYVTV3cHRyTm1sNk00c0NvSzJzMWVyaWx4TXJUWEowN0huazFQRnRqQTJRWWs5UnVVTzV1bVFHSFh0dEc5ZUE1Z0VNRkNuZDF4dmxLOVN6YkpaektrX01pc0xIdHJFRV93WThTRFYzTFVCMW10cHpZTQ?oc=5",
+      "source": "Sun Sentinel",
+      "ts": 1792213546000,
       "tag": "league"
     },
     {
@@ -17,13 +24,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNN1gwVy1wY2Fmc1RaajNkQXFBTFFZTTIwN0pqVGVkMkhzTFdSNFNtNHhwbEI4YUxYbTNVUnlsQmNPQ0dDeHdVcDd4ZW16QVQ4Vl9FY0cyUmRsankwWU9Sc2pPdzVCYXNHZEp1WXI2b0pvdGg2dDVEUnNBVERUZ3d6WWllYnc5dUpDNk9NcVZrNHNJWmRyM1hMUWNaSTV2YTdYRURWTjI4REdUYVIwMUozZg?oc=5",
       "source": "New York Post",
       "ts": 1792211520000,
-      "tag": "league"
-    },
-    {
-      "title": "Illinois Basketball's David Mirkovic Lands in First Round of 2027 NBA Mock Draft - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcklyYV8yLVpYRUNWMDRTZkJMUWxVcVJvREZpcVNmeVQtdUJIZHA5Smx0ZjhXckJSZGs3RGVBMmZIdGJ6Vkh6azBKZWlLYUVQSU5FY3lEWVBfRnhyWHUzX2lHRVpMcFctQjc2MjVCVWN4NkYzM21nREJ4NXBUaUVLYWN1Q2dRSlZNSzhQcWtTczZaTm5jekkteDgwMWpOd0hSWldhdWZnc0o5WjZmQUhqR0p5MA?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1792210741000,
       "tag": "league"
     },
     {
@@ -48,10 +48,10 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks at Dallas Mavericks - NBA Game Summary - Oct 16, 2026 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOTk4dlZBNEFUTVg0eVE3blJSOXhoT09JQkNic3paWmZuMXBZa1RnVUVwWWhJa0ZTVUh5Z3BFQUFFRGxqNzY5R2lxOHpPMTRsaVROWTdTOG9Ra0k2MWtvOEt2VGYwN05uR0JsLXFYcGFDd1JRMlF3bFVrdV9CeTY0dW40blQzTmpvcUwwMGdBZEg1MU9ZMmtrNFZBSGE1Z1l4Y3hZQmZWZlZwVXZjbHhpeWhERWtBVV9mbnpXdFNMbTgwRkNwWlpVQUcta2dNOW43LUR1RTNpdTJyenVnYnFVdDZZdnJoMDVtS2g2dnpB?oc=5",
-      "source": "USA Today",
-      "ts": 1792205147000,
+      "title": "3 Takeaways From Mavericks' Ugly Preseason Finale Loss to Hawks - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmlySzBGRHF5VzlaMExpX0tuY1NxM196Q3BYcmNucldGQkE0WGlPZmZoNUNfUVl1d1JIYlZiTjFBNm9FYS13NWducU1VLW5neDVFaUV2cVliREZDbUhBdG9EUXNEN05VcjR0UUtwSmd4WWU2V0RibEI5SzBkUDVIU2UzS3ZEQklWZ1h2di1BNjVVeVFXVTJCclE2NDVNLVhMd3dmTlZBd1dnc3B6RzFiMFR4cw?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1792204588000,
       "tag": "team"
     },
     {
@@ -62,10 +62,24 @@
       "tag": "league"
     },
     {
+      "title": "Atlanta Hawks at Dallas Mavericks - NBA Game Summary - Oct 16, 2026 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdnA3M3l0bVJEY2JVZmgxT0lKN0hKOVFCcVNZeVJKNXdxNEFfUlQyYklCZ1hfRHhtSjlMWjFSWXFsRThXODgwX2pkdjlRbGxSUzVWSExELTROTWZLUmFidXQzbnpST0FsYUN4Sm9ua1hwSlAzcGpObk0tNlJJMFRfMldIQjAxQTFHQ1Yzbzl3dlRNMjNMUnQ4aXFZc1R5d0RiLUdCZFFaV09wZndkX0JXcGN6VWxGRkQyMVF3alo2MExtUlp3OGRkRHplU0FNSnBYN2c2Y3Y0cVZ6bW1TODV3Nl9WckFnakF4Zm9NblNB?oc=5",
+      "source": "USA Today",
+      "ts": 1792204305000,
+      "tag": "team"
+    },
+    {
       "title": "NBA Trade Rumors: A Lakers Target, Knicks Seeking Deal, Celtics \u2018In Position\u2019 - Heavy.com",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQME50MGRmTU9xM3hFaTkxMDBianN5eFoxblBDenQ3Y1g3NDNlY3daeUU3c1I3UTJWQmxWUEJvTEdrSi1tTVAweS1IVUFKZDNRVFhEcTlJdXRxWTJZOGdjT1dIUlJoR3JVbTFIbkc3Z0hjaFd5S2lQMGhQbldHLURBX0ZiS01HYnNPNklpcDBSWk9ncFhFUXdZOFM0a0tPVjJvSWxQLThHdTM?oc=5",
       "source": "Heavy.com",
       "ts": 1792202460000,
+      "tag": "league"
+    },
+    {
+      "title": "Julian Strawther out at least 6 weeks with knee sprain, Nuggets say - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM2FaN05VT3FfZkkzVDNRcGZZTFdXUkxGVlZRcHkzNVRCSnd4UUtUQUp3ZlhWVzFDOU1nN1VPY2ZmdGNzUjN1eS0zRjNueElkb0dBMnBEdUlNY0F1WGwtUXlabFItTWRpM3pldzlRWDgycXJXb2w3aTBGM2ZHb3doSk9Jd3hKYmJ3aGl1V3dEa0szZ1Ba?oc=5",
+      "source": "The Denver Post",
+      "ts": 1792202351000,
       "tag": "league"
     },
     {
@@ -97,6 +111,13 @@
       "tag": "league"
     },
     {
+      "title": "Atlanta Hawks vs Dallas Mavericks Oct 16, 2026 Play-by-Play - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZi1DOWJhWTF5ZmhBcHAxczJaRFRFX3R6amFnWFMzZW9mbzgweWk1VjBQMm1oX0FzY0ZMRWdKeXFUV19CQkNDOGJqb2lnZFZrLUd4M2NKWm1jZkFzWHNWdWpPakNUM1lFaUVz?oc=5",
+      "source": "NBA.com",
+      "ts": 1792198576000,
+      "tag": "team"
+    },
+    {
       "title": "Collin Gillespie News: Not listed on injury report - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUFlSTI0RmNUNVp6RHdnY19ZeGozdlpZVnc0ekRBdTQwbTFzUXl1YXktQlkwd2lpRXBDeUFSQ1cwenlHcDJ0MDhDd1NNbzlCYzNHQTE3bmhPR0dfUGRzNmlpM2xzMlp6Q0dmbE5Dc0tTczdCcWRxLUpzcWNNRkRSNUpZRUw1TE9EeGdPN3p6VmlQX2JCRWRieXNZalVxYjRlaFUtVg?oc=5",
       "source": "RotoWire",
@@ -118,31 +139,17 @@
       "tag": "team"
     },
     {
-      "title": "(LIVESTREAMs!)Orlando Magic vs Miami Heat Live free NBA Basketball October, 16, 2026 - Universidad de C\u00f3rdoba (UCO)",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNbXVsVUlnelRHQXNqM0Y0czdDMVBDbFV5TmJyb1ZqaE1IUTRlWnRvTXp0STVuNElGVFpTNE1WbmZHWjFyMDMtM2RmMlVrblBsTkJQVEtyVzFSVGdVZXEzYTM2QlpBa1pOU1FqdHJ5dTI4Q0RFUEdqdG1fV1JvbjgtdzNNQ1ZUQjlialYzakFGYWFubHowWFVxemM0ZHViM1pqMVVtREtISTVOcmlMdFdJVGJGa2JoblJ4Z2VELXBxTFhwd2g0VTFWYjYyeG9uTVJaZEVHUmNoYmY2b24zWXBQSVJhTm52MWdsdzhvaVRIZk9tc1NFVkF0bkJxejVCejR6U0NJTzJidUoxNXJScU1TVVk4dDFJVkQyblEtM2dDQzlZNjg4TzVIRDhmMGdzME5kUDdOQ2ZPX2dIYVlKT2VYZUdn?oc=5",
-      "source": "Universidad de C\u00f3rdoba (UCO)",
-      "ts": 1792192044000,
+      "title": "Hagan, Basketball Hall of Famer and Kentucky legend, dies at 94 - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUnd0OVRPTk10c09yVkVrc2REOXdiNDRRUGZDY29CQ1ZyWDNwaE1Lb2xpWE1PZTFCM1haRkpZQmY3R3YxZGxlNE9wTHBvbUxBaGZRMEcyRFRNTkpmbHlqUlpCWjJfYmVjVVliUnhGNGFoNVVKWDhwcWVNcEhjNnhYY0VRc0hIYUhfU09vMTVsRDFEem92SmI2T18zQUc?oc=5",
+      "source": "ESPN",
+      "ts": 1792192380000,
       "tag": "league"
     },
     {
-      "title": "\u3010LIVESTREAMS\u3011FREE]Miami Heat vs Orlando Magic Live Free NBA Basketball October 16, 2026 - Universidad de C\u00f3rdoba (UCO)",
-      "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNc0pOYlNES2F2QnI0TzU2UE0tanJJdWNvUExfYnFDLTlraG9JTGJWSGNsc3pxZXpBU3QxcTJ5NjFNc3lzYXlCbmhNTDBGMk1FUWtIRF8ydl81SkxLdUg1WWlseHBHcTk1TUJzY29rbHlOeEpPZ3dJOVg3T1d5QWU0X1pfNW1OeE9TSTdqaTZsV3RsWW9sY05oR0kydm5LY0pwLXk0S0w1VzRCYUZOYmVSOGVnTWVubzV4eEVjTjFXOWJzQjNxVmVwTFp0UE1oM3QtNHphbFZ2eHJ6cUFhZEF6MEppcnhreTdPOVZaamR0WDNCLUhSdmRETFQxenVBXzljWGJ3Z3ZCekZheGpYaEZOSmROLXdvU1JFcHppN1FDa0E5YU1sbURYTS1oWVdYazV3QmJrRkJoa0JtOXhudEU0QzJZM1M1NlFMMVE?oc=5",
-      "source": "Universidad de C\u00f3rdoba (UCO)",
-      "ts": 1792191648000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks vs Dallas Mavericks Oct 16, 2026 Box Scores - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VNUtKR0pJSFRfeTIwczJoZUJ3cVJScUo2VkxGVDhUS0tQcG5aY2ZaNDJhZTQ4UWxnTjhUWmdteFhCX2xMa3VQMS1YWl9QZUhNN0tCX3Z2ak5idnBwTHZmTVcxWW5ja1E?oc=5",
-      "source": "NBA.com",
-      "ts": 1792191542000,
-      "tag": "team"
-    },
-    {
-      "title": "Daniel Gafford News: Not listed on injury report - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWllQNG54LXMxbUNRbWUwMmJFTUhYTUZpNmc2Y012cFo4bE80V21Eejl6amtXamlMb0w2MWVLU18yUUlEM3Y3di1ZRHBsaTBPaXNyQlBzMHNfeGh5Y09yMTZHQ0VjY0FzUDloRGlHUGpMaDN3bFJINlI2MEExX1M0THFVclFoUFlBOG50MzFlZE10Z213bjlRSUN5d1hhdXVscWc?oc=5",
+      "title": "Moussa Diabate Injury: Dealing with right elbow injury - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUXk0U3U3anNjNFg1WFFzaWcxYU9CNDduRjVtc1AyRkQ2UEJtTWdlQjNXNWl1YkcwbmJtM0UwSVFWVVprTTJ2a3ZJbURwcV83WlNoVHA2NmpSdUlBb3Z1WVhYazZpREJWRnNGNWxFMldDTDRlNTRsQzBrVFFsYkwwdjBWUmp6aTAwU1BxM2RIWG9yX3FjRlFkcXdwUl9Kcng2NmhaU3ZGMEx3QQ?oc=5",
       "source": "RotoWire",
-      "ts": 1792189894000,
+      "ts": 1792191533000,
       "tag": "league"
     },
     {
@@ -153,17 +160,17 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks' Jalen Johnson Named 26th-Best Scorer in NBA - roundtable.io",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQjVXTE5XZEgyamtZYWlNeVpxNjdGMFNOZEoyWWZGT19xN3poLW9aR3ZDam9IUXJScnVUTXhCMEMzMUUwMkVtMmE3WjdiVHE3bEFCNTVqTVlSeUlscXZjc1BRWHl5WWlkMkxPVlFMbVVXM0RTNDhrRUxLajhoeGR0VS1aUXBlaW8xZUt4Yy1QWE1rU002MUpWV0piazdpQVFfZ0M0?oc=5",
-      "source": "roundtable.io",
-      "ts": 1792181727000,
-      "tag": "team"
+      "title": "Some wagers, certain parlays no longer can be offered to bettors, NBA tells sportsbooks - Newsday",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2UDl0U3p2dEdPWGNLQ0xvU2xfcXZ4XzhxZmVhdEozWEU0NXFCRi1Yd1lxU3kzYUkzcEFYeWdodlkyVmpUZWxRWEZmU3ZfZHBoUTdUaE4xTkdHVkU0cGZpOUJBVF94MHk3dTZJQ2ZPdXdXTllwcVE?oc=5",
+      "source": "Newsday",
+      "ts": 1792179555000,
+      "tag": "league"
     },
     {
-      "title": "Atlanta Hawks season preview: Opening schedule, win projection and everything to know for 2026-27 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUTFxZDEwTUJmdmdnNnNKM2ExN0VIZUg3RUhieUNKS0RJS3VJcG5Kd2pGN09JQ1F6TThXVVlfS2dFYWFEcVZpdWFldEdvaXJHVHU1Ymd6Nm9uUHhqVFpYalZwOGZLdHBsREpTOWxSQV9QSk5SblB6X0FxMHZrN1duNUNMTkxtV3RZRW5JbTRPT2VsSTJWY25VakcwYTZVQ1E2NkJSMmlOVWJOeElYX1pwOHhWMVNKRXZQdlk4MUdsQTlhMThnU0JLWVhHbWx5ZUtmV3cySGlTclhyZ2NfY2l3Rw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792176940000,
+      "title": "Sports store backed by Atlanta Hawks coming to Centennial Yards - The Atlanta Journal-Constitution",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVzlHTS1kaExtVVlzdnRMbHViWVlOOV8wb0NiOTZJaTFqR0l0aUFWc19wa29yTkNPaHJ2NHItd1hZTWFRRG9GMmtCcU12ZDRTV1U1NExVdk1aRE5pVXNIcEV4cV9LLVJMNVI3Mkkxc3otZ3FTdm5ZcUE1QTVSSVJyNVc2aWhZUVRUOUhOUDNYNWFuMTVBVGpBY1B3WXdpMFhTSThxSEF2SHlrcW8w?oc=5",
+      "source": "The Atlanta Journal-Constitution",
+      "ts": 1792173271000,
       "tag": "team"
     },
     {
@@ -174,13 +181,6 @@
       "tag": "league"
     },
     {
-      "title": "Spanish club Basket Zaragoza attempting to block Thunder rookie Aday Mara from making NBA debut - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcllIdlRwTTNCTTNlX2dTOHFqdVRvYm5ZVTRDQW9NUG4wNVZ5cE52aGFVWUsyeU84YldpcnVGUjZmYWhrQnR0WDhLenpPaUZDZ2dYTGpNTkVSTzduRVBtaVVQbVQ1Mm45UUdlTGJQLXdTem94bzVwVFJMLWk1TWViTGR3UmdCX0puem02a0xuRGR5aTlwdHc?oc=5",
-      "source": "CBS Sports",
-      "ts": 1792169400000,
-      "tag": "league"
-    },
-    {
       "title": "Catching Strays | Karl-Anthony Towns says Andre Drummond has been \u2018amazing\u2019 Knicks addition - New York Daily News",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElrMmlqc3NxRy1zaFVBdGRMZlp6YjVDT2hCMkgtdGpMWHFYc2lyTlBDd3F2YzlROGNoN2dka3lmVEYyNUMtTy01V1B0VFN6Q1BjeFBtblE3dEluYmtjUjF2SHUzdVhHbXNYeFcwUThTSjl2VHd1ajhhMV92VzNLSkNWcTE1M3NYQjlCWWdPcFgxRHNNdF9VLTQ3dlFqUWZOTXRR?oc=5",
       "source": "New York Daily News",
@@ -188,10 +188,10 @@
       "tag": "league"
     },
     {
-      "title": "NBA Preview 2026-27: Seven players most likely to be traded this season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zbHVSc21GNGIwWnZqLUlxV3hHdjFQSk1EczNqdTBuQU9CWVlDUE5qLXM4Tl9XS2NzTk9GSzNJcFdxc0dGVHR1bTZ4YWFnSWpkZThSUHQ0azBsS0dQZFlGTFBnVlVSM0lWcHBtLUkxU0JQd0t3c19sbnpqU1pLLTQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792169038000,
+      "title": "NBA Preview 2026-27: Seven players most likely to be traded this season - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTW5VT3lGb1EwZU1aeWJJb2tpY2pGY3VxX2U2Q0dRdWM2RTctNUVidzdzUlJXWVhodDlRTWstYzJMZ1VfUHI3SWFTV05EeWV2ckNwQ3FLNWpPOHkzcDE3VWM1M3EyTl8tcl9OZDF0MmEyenZraDhpSmpZakhZZDlRUG9vWVFzbkxRVHl3T0hweWctUVBxMkpnYlFGanpGemVVQ1g4dkExUnY?oc=5",
+      "source": "NBC Sports",
+      "ts": 1792169150000,
       "tag": "league"
     },
     {
@@ -209,16 +209,14 @@
       "tag": "league"
     },
     {
-      "title": "Kingston Flemings' preseason foreshadows rising star for Hawks - Soaring Down South",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE96b0drWUF0ZDhpbUdDT2RwczZES2JYbG1qZko2V0UycV90Ml9zcDY2Mk9WZFVJX0lTY0pMWWp1TEZoakd0TFphNWlONnJWd3dpZXZxdzc2QkF4SzQ3QS1DNmJsc3J0NzFXa3E1ZWRLVHRtU2xEOGtobWNn?oc=5",
-      "source": "Soaring Down South",
-      "ts": 1792157400000,
-      "tag": "team"
+      "title": "Jimmy Butler puts entire NBA on notice with fiery injury comeback declaration - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOSnFEc1BOM2M3UlpETjRiT0RMMGdpcDluXzB4eExqVnppOUFGWV9BQTd2SThwUWVjdEZWT0RONE5lY0drb2ZrLWJWck1NVzlNWHNnUW1TLUVfSVdSRF91bnQzT2FNcnBKNlJEOTRMYVBrR0hhVEc2alJyVUNSQ3ZHWHpjVQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792165786000,
+      "tag": "league"
     }
   ],
   "pushed": [
-    "traeyoungontradeoutofatlantaiknewitwastimeandformeiwantedtol",
-    "whyannbascoutbelievesthepeytonwatsontradewillcomebacktohaunt",
     "hawkssuffermajorblowas22yearoldcentertearsaclaheadoffirstnba",
     "sanantoniospursgetsignificantkyrieirvingtradeupdateyahoospor",
     "hawkshornetshavetalkedbuddyhielddorianfinneysmithtraderealgm",
@@ -716,6 +714,8 @@
     "wizardsrookieajdybantsanbaregularseasondebutindoubtafterpres",
     "cliffhaganbasketballhalloffamerandchampioninvolvedinfamousbi",
     "nbapreview202627sevenplayersmostlikelytobetradedthisseasonya",
-    "4besttradedestinationsforggjacksoniiasgrizzliesexploretradem"
+    "4besttradedestinationsforggjacksoniiasgrizzliesexploretradem",
+    "nbapreview202627sevenplayersmostlikelytobetradedthisseasonnb",
+    "whatadaltonknechttradeforbucksbigmancouldlooklikeyahoosports"
   ]
 }
