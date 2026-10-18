@@ -1,16 +1,58 @@
 {
-  "updated": "2026-10-18T21:07:54+00:00",
+  "updated": "2026-10-18T23:03:52+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 2,
+  "pushed_this_run": 5,
   "error": null,
   "items": [
+    {
+      "title": "Ben Simmons Injury: Suffers torn Achilles - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMXFFRFlJMUVxdFh2dkhYaDYySmV6YmhmRC1KQkowT000cDRxcU1yTEstSEl1VURMM25xdk1HUmpVVFdjN3FRdEx2aUdZeUtJOVZ2ZWNGSEFCTE9ZVkxsNjVoLWUzbjZOR1JqdWpRcEVVZjZMN3hOei1laG5UWEp3Yl9DZm9zb0FPOEc0UFl4MzdMM1E5Mm8tZw?oc=5",
+      "source": "RotoWire",
+      "ts": 1792364380000,
+      "tag": "league"
+    },
+    {
+      "title": "Ben Simmons suffers torn Achilles injury, ruins NBA comeback - BasketNews.com",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX3lZV0ZJX1pkaDdfR0RhbHV5cDFXeW5WVnZGU3M1NEkzSTA1Q3dqUDhveF9ob0M0STNGZ0stOEhTOTZuZi1nTF9ZalFXSnJZWUNjN1Nkb3lfZG9MU2dKdC02bDhJYjYwVWliNDJqUVQybFZYYkdxVDRob09rYndDSEkwd3dHQ3M?oc=5",
+      "source": "BasketNews.com",
+      "ts": 1792363320000,
+      "tag": "league"
+    },
+    {
+      "title": "Ben Simmons Injured, Latest Rumors on Kings Star's Achilles and Status of NBA Comeback - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSzhodFdZS3dGZ19NOGNWazF6Ti1sa2VHakN4aWpVUnFqSkJJSGlMLUQxX2xyQ1NMajVoeWczQkdib1h3Ulg4dE5mb2JrRGV2MUMwM1NYNnpWdHFDcTVXQ3dnZk5mTVhhUVR3OHd4SEFqclIwTHFnYldqOGl0TmxiZDUweVhwdUhmaGk2bjVlR0cwZU5sNWhFakpvVUtTaFg0dllxaVVKd19MckFzbXdMTDI4c1JtbDB2TEh3bVNMSWU?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1792363286000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Magic Pressure, Warriors\u2019 Jimmy Butler Plans & More - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVJCSklCNUZCSzF3MjZzR3gzeGl3T2x3VkJ0VzhmLVhqemdnMHE1T0dkYTBoNzVERWtfTkpJeWxlMXc5dnRGUzUycngtWW1mdmxvR0tDUnhDdmNyZ21abkNPekZKd1NEaWt3YWpLVWpCYUxUS0d2MzJxUE9Vcms2dU5PakhFQWxMcVZYZ3B2N1NMeGthSTRaekQ1SEE4VTVheDNWalRXX1FWUQ?oc=5",
+      "source": "Heavy.com",
+      "ts": 1792354941000,
+      "tag": "league"
+    },
     {
       "title": "From saving basketball to title speech, Aaron Wiggins reflects on Thunder tenure, future - The Oklahoman",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUko0LWw0c3ZfcW1SdXd2ZmptTU5lTU5oR2xQNVlPNUFIVHJ0XzM2ZVdyZHNJZnZadHpQUElPXzRGTTlwNXVSZFNhdV9nTkJ2c1ZKazUyMkJ4QjVDQXF5YXFvNDlxWk5mdVRjY0tfTmo3eWVKSEVVZDlhTEwxRVl3M3p0LUlYQTRUak5RQVpFVWg0aWx3TXppd3NJV01XX0VCLXJNcGFDM2phaDRkVEFZaWlLWHdEanlUWEpWc1BiTmxaYkJG?oc=5",
       "source": "The Oklahoman",
       "ts": 1792354440000,
       "tag": "team"
+    },
+    {
+      "title": "Lakers Trade Pitch Ships Bronny James for 23-Year-Old March Madness Legend - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQnVEaUY1ZVc1UjNTRUZtQlZBUXRnMkpRV0xTRFhUNGxidUNnZ2xET1dPMlV6S1pWa1AtbGM4ekpnUkF6ZWhCZG5TU1lrMGpwT2IxVGllWnEzYmpBNGp6Q2ZwYVY1eUdnYVlkcmlOSmhpbExzbEVKQWMzQ1p6SkVISTNOTVVGSGxTXzA1N3JTYw?oc=5",
+      "source": "Heavy.com",
+      "ts": 1792353168000,
+      "tag": "league"
+    },
+    {
+      "title": "Nikola Vucevic noticed that people in America speak about racism differently: \"As a white person I can educate myself\" - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdGJpR1EtMm9VRDlfOHBQTmU2WDA0aUlUY3ROcTU1REVjTHBwMzJ1dHBkRHhrY0c2REltamRrRTI1WXB2VWJoSFI5M2ozQ1ktUHFVenV5N3kwYXJKWWUxMmtFWTQxQW9zd2x0ay1UeTlneXdZN0pjRUprSVRGTVBHWE84dDB2Vng4ZV9qZGJLSktCSGx2UmxkdVdhNHZ2MnFoLU9Xa2gwSmkzUVgxOHZFMEV1cWI0VHR3WmU3cjBQYXo1QQ?oc=5",
+      "source": "Basketball Network",
+      "ts": 1792351260000,
+      "tag": "league"
     },
     {
       "title": "Santi Aldama Injury: Uncertain for regular-season opener - RotoWire",
@@ -20,9 +62,9 @@
       "tag": "league"
     },
     {
-      "title": "OKC\u2019s Shai Gilgeous-Alexander could join rare club of back-to-back-to-back NBA MVPs this season - FOX16.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOajlWT3MtdUFETWhmN2NxdlRZMHRveWwzYUpuME1lNXBFY1FDX0ZQYnVUVUdWMXRONWVvVEdNUlpFcWpEYnNGVFZNZ05yQ3ZVZmhONzExRFRjZ0h1dTlMdDVUSWt2MVphdlExYWZUNUR6WFo4WmY3SUtYZjI0WEhrbHZGZmhWRDFiU21FZ0JvMzJwTGNQQ3NQYnNOWG5ETHlhTDhEeFdtR0l6X1k0VWZaR0xOLUl5LXphbTRmajlTcEl3UjRnVWfSAcsBQVVfeXFMTll6aGx3RllnaHc2YmcxemtpTTRDSFM5aFBCT3BONm1WSkdYUjZyeGd0VXBON2tCNlBXRVFZa09HVTlNb295MXZGYm1WV1VvMVBZeDZWYlA4NHIxblp4bGxOWFZXdmxTOURDUDBnRVNBUGQtM1VwQVhUTEpaVHFLQkZhWWdxeXYzSE5EaG5USGRXaFdHYVFXcDNDMUJVWEFKSV9wOTJVZ1hHNmR3eXZGU1pqQkJXSm5haVlsaWs2SlRXYkFoNUZ4MnNENGs?oc=5",
-      "source": "FOX16.com",
+      "title": "OKC\u2019s Shai Gilgeous-Alexander could join rare club of back-to-back-to-back NBA MVPs this season - WOWK 13 News",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbEJOMktPVmdBUFlKZ2k3SG82T1FmZzI1WGNaWkdnZDJ2ZGtEc3p3aG1KZG9YellCWm5sQ05DNXBUZTIzczBlWC1GejUzUVBMTlR6Uk4tOENZLVVqNi1ma3h4RHA4LVdDZ1hPaFBhSXAzN2ZJNzVFLXR3blJOX0Qxa3hna2dxNkstajgyS19NMHl2bFVYRzZwdWZpU3U0WmxTQ2RnblZwZk5CZGYzbW92NENSUmNxY0NOSGtmZndTdUlYWDFxTGJr0gHMAUFVX3lxTE5BaTRNVnFwci1mbVQ1YU1ZcC12VHZrd3dMeTVGeXRRVFNncXdJVGhQMFpLUzFZOWdHN24yUjVXZUwtaS03LW5VbmI5NEpjeWVENWdISFlPSVN0LWZsdktGTTNsa1oxYV8zU3VpSkM2RFFDMlpQR2RvTmRFV1hsNzVfbFAxSkVGRnBHbi02dThzRGM1dEVYV0NrY29MdE1ORDluUE14RkM3V3BtLWxUUFBaRlBJa1N1VG5TcGpoeTVCMzMyOGYxS0ExMVYzYQ?oc=5",
+      "source": "WOWK 13 News",
       "ts": 1792350831000,
       "tag": "league"
     },
@@ -41,6 +83,13 @@
       "tag": "league"
     },
     {
+      "title": "Fantasy basketball rankings 2026-27: Sleepers, breakouts and busts via proven NBA simulation - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSloyX1QwZHBMWUxSb0xfZHVkZzJqY3E4dWN2MEVrdFh2WWJGS0tiaDlfVmdzdDB5cGdvelJJNTAzT2NHTV8zZ0t5V3V3TzBmemszSnV1R0N5dTZGTVhIek9CTExrOVFzbFBUZWZudWY5ZUJQcnBVSGM3aXFzV3RsWUNHeVR3THNWbTVHYTFFMm8yVFpwcjI2WWV5ei1Na0JiY3VqdWZfY2M4YWVqWVJKc3UyR1ZUNllrREFGT2tlWi15VlpNR0ZBdjVVNkRWSU1qNE5Fb0lvSko?oc=5",
+      "source": "CBS Sports",
+      "ts": 1792349160000,
+      "tag": "league"
+    },
+    {
       "title": "Cam Boozer adjusting to life as a solo act, feels he\u2019s prepared for next chapter - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0dqRlA0Z0xhR21CVFQ2OHh6SjJsRV92RnY3U2toRDFuamdmMDQ0eFc0YmJTLTRwa29neEk1a01kcFM5bzlQV2lfVWYtU29QeGRxVFZRakk2ZEhXZ0d2d0xZZXY0ZW1VZzlJNjhQaFZsbF9nd3plazYyNjFtNW8xUlNHdlpTeWgyUUlvenkxQU1aM29QR0hZZXZ1S2lJaERWSVNub21R?oc=5",
       "source": "NBA.com",
@@ -55,13 +104,6 @@
       "tag": "league"
     },
     {
-      "title": "\"I wanted to find out, and I did\" - When NBA rookie tested positive for drugs just two days after trying crack for the first time - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONG9NRkhoWG1vU1k1NnlOWExIRGhuaW9WZTZWb3lULWtCVUpRLV9aNlpxb0JsR1BBeXBkTWJYZUZCVkI5WWl5WWNnMGFXVmxRYmo5SUxCWDlObU40MGFWNk1tdXVlNDlQTjZFTjlFX2lXZjdtaVY3Yk9FaGhibXlHSV84SQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792347639000,
-      "tag": "league"
-    },
-    {
       "title": "Adem Bona Injury: Full participant in Sunday's practice - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0VPS2hQY0VmeHBSQ1RmZG5rQXV2M2wwdEFzSVk1T1J2MXkxXzJla3FkWnhmTjl3a3B4UUoxYW1KbUVKRnptTTl2UU9CVmk4WHZQdE9XQk8tY3dPWTloMVhaQnZVQlBiLUd1ZkNSZjI4Q3Q4TGxEU1NubUtnVGhrWnpUbldyM0d0dzhWd01jT2NMMlE1OXVZS2ZpX1UtdlRhazdkTUMyLWlaQQ?oc=5",
       "source": "RotoWire",
@@ -69,45 +111,17 @@
       "tag": "league"
     },
     {
-      "title": "Anfernee Simons Injury: Practices Sunday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTUJfaG5vYVFhalRXRl9welV4RFQ5WFc0V2pEbXA3ZHBFLWtoRFUzMk01WWNodWhPUGFfX2J6NF9YRF9RM3NjVDJvYWdRWnpBbnJuQllEUVViYXVxRnhoOTlOa1J5d2RVMnc0dGxNSXBwbzd0Y3N1UkY5UnMzTlAyMGhPRkRtMVVfaUFNWmZTazFObHdaLUhN?oc=5",
-      "source": "RotoWire",
-      "ts": 1792346224000,
+      "title": "Knicks fanatic\u2019s viral Halloween display reinvents OG Anunoby\u2019s NBA Finals \u2018tip in\u2019 with an undead twist - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeEd3ckNIYVNqVUtPUTZpbTdsQlZ3eXdrZ3E0MlB6M3BjTTNFZGJDcE96cmw3OGV3cmFyNzJwbUxXbXRQUWNDTUxtenF5U0pqd1pia0VBcGhGQU1CM3hJZFk5RlJROHhUVFRsczZCeXU3RzJtZnAzMk9tWHhKMGc3RWhHbVpWcG04SXV2UU11cjJPbC1kNWkxdk5VNUhVZXVZZURvYUhpX1Q3U3BYWlRESWN3N0ZYMmR6T1RhSmFKSzY?oc=5",
+      "source": "New York Post",
+      "ts": 1792345320000,
       "tag": "league"
     },
     {
-      "title": "Dominick Barlow Injury: Unable to practice Sunday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZWloNWdHczJsdzk1Y1VUd3VrbEFTSzhJVHN0VWl1WTNEcDFHUWtwT0ppMTJiU1BjdEROVWdpSUp4VjdJUk1WUHoyWnRVZ2hwRHh5aG5lenl0U2lSZ1hRZ044aWFORWFoWEJEN3F2azVKUC1maUdWZTk0N0JuYlAwV2R0eFpNckI1S1liYWJwTG1PaHhEZ25TUUVGcnlCQUdzTnNV?oc=5",
-      "source": "RotoWire",
-      "ts": 1792345871000,
-      "tag": "league"
-    },
-    {
-      "title": "Dean Wade Injury: Doesn't practice Sunday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM3R6Y3hSN29INkVMa2hFMW1tLUVOa3g3SWxvdFpXR3RCUVFlcDhWdTlzNGpFR3F6TWZUOEIxS1lNZEtjd3YydG84NkR1aS1zUjRwaVQzLVg5NHp5UjZIZVVBazFYWV92WUJ6em5VaWtrU1k2OWJDbDV0ZEFCc3BMWHowZTBPdEhDZGI2ekl0V3lFYXJ4RW5j?oc=5",
-      "source": "RotoWire",
-      "ts": 1792345709000,
-      "tag": "league"
-    },
-    {
-      "title": "Will Memphis Grizzlies' Cam Boozer win NBA Rookie of the Year? - DAZN",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQN0xuYTJ4Y081Y2hmWFctZUZaTzN5clV1VmlCZ2NhYVRRMnNwU2sxZDVJNk51My0tbXcyT2cxZWRkTGNWNlhORHNFX3VWQU9LSi1KTVlaa21VMlIxVDlXcjN4WUkyVVk2N1Y0aVdOYlZ0b1YwYmxSWHJ3Y0VpWDUtVmpiTXh4b05BWWRHSzcwcUpWT2ZOakwxZDdqdHVWU3NiQnRlQ3hVN2FUaTdUSVhaYkVyVEFmWkVrTzhBWGZkdUIta29MZzM5azJYVDZROFVmTVZFQk5Ic0NwSmtSSE1WbERBTF8zY1BiSVV5T0pIWDQzSXltN1p3?oc=5",
-      "source": "DAZN",
-      "ts": 1792344155000,
-      "tag": "league"
-    },
-    {
-      "title": "What I Got Right (and Wrong) About the Atlanta Hawks This Preseason - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHNzYlB0REN3NUV5eHgtNVpRQnV1TGlHUVZMbUpyN3pZTkItOXVSY05KUy1raDJIU05haGxPVzNDdFc3eFRhTXpaRXVEamIxVkJDWmIzY3FCRlo3VFZMYklHVUhNSl9ZNm1OWlJsd0oweFVWclM4WHhkdmlVakFnYjBGV1J5T0tFWWJvSXhaN2VzVnBRNmNyYTh2blFIWU1aOWxoQ1BHMzVCbFlvNm12X0J3?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1792343551000,
-      "tag": "team"
-    },
-    {
-      "title": "Dorian Finney-Smith talks Hawks, flipping real estate - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQMUQ5aUlSMTVKZ3FDSEtYUmRkQi1Tc21mR1BVQnJ2V1gwUWJ6LUxsdE5LN2pSZEFQaERUNTdHclYyZWNDZHBxMlpiMFJJb3RGX1hjSTc2b3Itb1F5SUtxaDV5cmNGTmMtRXdjVXVhbXVRSXNhUEdzUkFCY2NhRzl5UU5fb2lMMk0?oc=5",
+      "title": "What I Got Right (and Wrong) About the Atlanta Hawks This Preseason - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSjh1UHdaYi1vWmpBeHo3LURuSkZvMWhjd1h2VUc0bGZGd2dxLWxuRWFsODl4NDFzSGpQWEdCa2lrRjd2d0VPUjNwU2NXOWhFSUIyWFpKdDBFRkhXSHo5YUdYSEFWTExHUnk2TkdMY1RRcThsaGVKR1JLYk8yTmEyeTJ2M25YdW9hREE?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1792336080000,
+      "ts": 1792343551000,
       "tag": "team"
     },
     {
@@ -118,17 +132,17 @@
       "tag": "league"
     },
     {
-      "title": "NBA Trade Rumors: Magic Pressure, Warriors\u2019 Jimmy Butler Plans & More - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdVJCSklCNUZCSzF3MjZzR3gzeGl3T2x3VkJ0VzhmLVhqemdnMHE1T0dkYTBoNzVERWtfTkpJeWxlMXc5dnRGUzUycngtWW1mdmxvR0tDUnhDdmNyZ21abkNPekZKd1NEaWt3YWpLVWpCYUxUS0d2MzJxUE9Vcms2dU5PakhFQWxMcVZYZ3B2N1NMeGthSTRaekQ1SEE4VTVheDNWalRXX1FWUQ?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792328340000,
-      "tag": "league"
+      "title": "Hawks Beat Mavericks 135-111 to Finish Preseason 4-1 - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWHVrcmhSekRnUU9uUGd6dFFSaTB2YkllMi1ZUl9Ed1l3S2FBdlBuRTFYWWdiZnhhT1lJak1aeXAtREZYcTYzVFNwTEw3a09QR0tDYmxaeV9IU0UycDhGcDNXWWI2d05SQnZoaDIyamlZX1RsU2ZXMTc5OHluQ1Y5Qm03VQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792331995000,
+      "tag": "team"
     },
     {
-      "title": "Mavericks Notebook: 5 Takeaways On Eve Of NBA Regular Season Tipoff - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbG5lTzMzWlpDbGVyRjBtVlVtazEyX3ZoVEVKdjJENzhmNmhhU0o3Nzk2dTBPdEpLdDAyRHgtV0lEcXI0SHoya1IteFZzYTNnRlNMcUQ0SndNX0NWazBiVVhsLUdXZkZrYS1aU0xlcWxXWk90aGNWanRFa01YQXJzVDdXVEFFS2ZFUlp3?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792328104000,
+      "title": "Aaron Wiggins Interview: Atlanta Hawks Chemistry, Lu Dort, Defense - RG.org",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUXpfcnRsNUNxejRKb2xpVU9KNVZCWHhJN2k3MVE3eEhpQ3lSd3NLd01ZVlFoN09fM0RJcmI0SVNVbDQtdFFlcUNNaWVCbmlFR0lRMk5STUE2NnZYOHhrbDlCZXE2V195SkJsbFE3ZUtrZjN5WWlhSERHMURndjQtMERtSjRZM3pKRndQa2xia3d2YUVlTkpGbXpseXNvQQ?oc=5",
+      "source": "RG.org",
+      "ts": 1792330158000,
       "tag": "team"
     },
     {
@@ -139,10 +153,10 @@
       "tag": "league"
     },
     {
-      "title": "California Post\u2019s NBA Power Rankings: Lakers among top teams - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnF4bGlSOTJTTkxtN1BYSldKb25mNjZwVk8wUGNnZWNmZUp4MjluWEd2VU15cWF1UWhtOVZuTnYxM1FHeDVYWTltVTRnS3RVWTVtTEVrMUJ0XzhSb3oyaUJIM0ROQTVIcHlBRnpfNFQtdVRObHROQ2NNUmJvRk44Tkc2cG5VcmdtWFktRkxB?oc=5",
-      "source": "New York Post",
-      "ts": 1792324800000,
+      "title": "Key dates for 2026-27 NBA season - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5",
+      "source": "NBA.com",
+      "ts": 1792325703000,
       "tag": "league"
     },
     {
@@ -153,13 +167,6 @@
       "tag": "league"
     },
     {
-      "title": "Blake Griffin dropped a reality check on massive egos in the game of basketball: \"Don't think you are God's gift to Earth\" - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUV93NGpDcTE2dDh0a1NEYWpXU0gxZW1oQnZvLTNaY3VaTUZpTUk4OXlNVVp5X3h0ZzlaQl9qX3R1Qmk4RnBad3R4di1aU1RENXg1Rm1XaWtFeThtX2RxNXZLMFo1RUpSUDlFbkVxaERPeXBMVkU4MFRhZHRGcTZaRVRtWEJvSVRuVnJDYlRLbG5GczFhMlJDakNrdFJhLWx0Ul9ZOV9uYXE3N3daT0lVWEJwaEtRaTE2WjV4RzZ2X2I2aVRZcUE?oc=5",
-      "source": "Basketball Network",
-      "ts": 1792307172000,
-      "tag": "league"
-    },
-    {
       "title": "Rockets' Kevin Durant, Suns owner Mat Ishbia spar on social media - Sportsnet.ca",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX2tsVGR1VFB0LUt2aU5jbEQ3bzFHcHhyMzhjb1h2S0ZNWkVmSHVfMUl0bjFBSVNKTWpkdHVYVEZUcjAtTl9oQl9qUWVhS19OdlFyTV9pSzJkN2VHYmxHME9CMXdnTmJNbzFQaXdSUzhrSDg4YTV4WGpfQW5PZnNOTy1veHN1THZKWmJqamFCLVhTbmZyaDhmRG1jTlNCYV93RkE4?oc=5",
       "source": "Sportsnet.ca",
@@ -167,10 +174,10 @@
       "tag": "league"
     },
     {
-      "title": "Andre Drummond\u2019s hidden skills finally have a home with the Knicks: \u2018Better late than never\u2019 - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUndnanlxUENMT3F5X01tb0llMGphamd1dXhsMFRBMlNreFRsWUQ5SFlsZl93Znh0WVlmX3c0UVpDU0dlanRPdjU2RTFTMVdKX2dUajZ1UVU2OV8zdWhtcDhCMkkxOFp2Z3dtdFpRbWtPNDY3czU4THd1aWhYS1Bkd1Jyc2dKRVMtQkdpVUthVEpsUlkxN20xQWJaWDFIU3BrZHNNZEcwWlVoZmZ1RUNsNkw5MlF0N3dnbk85Tkd0Zm1icV9Mc0dOXzhyQWFKMGJvdkE?oc=5",
-      "source": "New York Daily News",
-      "ts": 1792269270000,
+      "title": "Knicks waive Bruce Brown, keep James Wiseman ahead of opener - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZUY5Z2FYRlliSkY3YWMzNFB3TjZCbkY0MHJaZml0ZzZqdUdIY0hDMlJWNDVPRE8xQ0FwN011OU81SExFVXJaY3M3NGxXZU1SajNiNGV3VzFZNWxuMFBkaHRBUUd5bXhUU01kM3BvTG1ySnBCVWNTa1FDX1BsUzRfYkxpQmpncGJmZk13R3h6M29RWXNUeGZoYUVRRGs5aXJ5UmVR?oc=5",
+      "source": "ESPN",
+      "ts": 1792273080000,
       "tag": "league"
     },
     {
@@ -188,6 +195,13 @@
       "tag": "team"
     },
     {
+      "title": "3 Takeaways From Mavericks' Ugly Preseason Finale Loss to Hawks - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQmlySzBGRHF5VzlaMExpX0tuY1NxM196Q3BYcmNucldGQkE0WGlPZmZoNUNfUVl1d1JIYlZiTjFBNm9FYS13NWducU1VLW5neDVFaUV2cVliREZDbUhBdG9EUXNEN05VcjR0UUtwSmd4WWU2V0RibEI5SzBkUDVIU2UzS3ZEQklWZ1h2di1BNjVVeVFXVTJCclE2NDVNLVhMd3dmTlZBd1dnc3B6RzFiMFR4cw?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1792204588000,
+      "tag": "team"
+    },
+    {
       "title": "Atlanta Hawks at Dallas Mavericks - NBA Game Summary - Oct 16, 2026 - USA Today",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOdnA3M3l0bVJEY2JVZmgxT0lKN0hKOVFCcVNZeVJKNXdxNEFfUlQyYklCZ1hfRHhtSjlMWjFSWXFsRThXODgwX2pkdjlRbGxSUzVWSExELTROTWZLUmFidXQzbnpST0FsYUN4Sm9ua1hwSlAzcGpObk0tNlJJMFRfMldIQjAxQTFHQ1Yzbzl3dlRNMjNMUnQ4aXFZc1R5d0RiLUdCZFFaV09wZndkX0JXcGN6VWxGRkQyMVF3alo2MExtUlp3OGRkRHplU0FNSnBYN2c2Y3Y0cVZ6bW1TODV3Nl9WckFnakF4Zm9NblNB?oc=5",
       "source": "USA Today",
@@ -200,28 +214,9 @@
       "source": "Heavy.com",
       "ts": 1792202460000,
       "tag": "league"
-    },
-    {
-      "title": "Cliff Hagan, Hall of Famer and NBA Champion, dies at 94 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTzI1clY1LUQtMWRYeVJNMDUtQzExOUNyeVhibkdyUUZQb281ZHVTS19kR0pzdFIxMTQxSDY2NFlDblBQNVUyUlVkZHBvZHl1UmhXaUt5WnJPNTVhOEk5NURHbzl1S0w0OGFBcnhCck9TdWN2Wmp4dV82YVRwVUJ2RXNUS0xORzU5TEh4S0ppZnVwbU9oUW1NY0JlTWdabnNTYlZ6aHdTZ0Y?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792198800000,
-      "tag": "team"
-    },
-    {
-      "title": "Atlanta Hawks vs Dallas Mavericks Oct 16, 2026 Play-by-Play - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VZi1DOWJhWTF5ZmhBcHAxczJaRFRFX3R6amFnWFMzZW9mbzgweWk1VjBQMm1oX0FzY0ZMRWdKeXFUV19CQkNDOGJqb2lnZFZrLUd4M2NKWm1jZkFzWHNWdWpPakNUM1lFaUVz?oc=5",
-      "source": "NBA.com",
-      "ts": 1792198576000,
-      "tag": "team"
     }
   ],
   "pushed": [
-    "nbatradetalkexploringmylesturnersfitwithdetroitpistonsyahoos",
-    "nbainjuryupdate6foot8newclippersstarhitwithbadnewsaheadofmed",
-    "atlantahawksacquiredorianfinneysmithnbacom",
-    "updatedatlantahawksdepthchartprojectedrotationaftertradeford",
-    "traeyoungsayshawksfrontofficeturnoverledtotradetowizardsreal",
     "kawhileonardsignsmultiyearextensionwithraptorsnbacom",
     "3wayshenriveesaarsaclinjuryimpactstheatlantahawksyahoosports",
     "clippersnametrentreddeninterimpresidentofbasketballopsinplac",
@@ -716,6 +711,11 @@
     "dominickbarlowinjuryunabletopracticesundayrotowire",
     "deanwadeinjurydoesntpracticesundayrotowire",
     "santialdamainjuryuncertainforregularseasonopenerrotowire",
-    "spencerjonesinjurypracticessundayrotowire"
+    "spencerjonesinjurypracticessundayrotowire",
+    "bensimmonsinjurysufferstornachillesrotowire",
+    "bensimmonssufferstornachillesinjuryruinsnbacomebackbasketnew",
+    "bensimmonsinjuredlatestrumorsonkingsstarsachillesandstatusof",
+    "lakerstradepitchshipsbronnyjamesfor23yearoldmarchmadnesslege",
+    "knickswaivebrucebrownkeepjameswisemanaheadofopenerespn"
   ]
 }
