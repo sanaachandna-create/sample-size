@@ -1,92 +1,155 @@
 {
-  "updated": "2026-10-21T10:25:04+00:00",
+  "updated": "2026-10-21T15:25:27+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 5,
+  "pushed_this_run": 3,
   "error": null,
   "items": [
     {
-      "title": "Hawks vs. Magic Prediction, Odds and Best Prop Bets for NBA Season Opener - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZzI3VjNTUDVoLVhLZkt5M0NMemFhRXJOMXhEc24zckxjblZvUUZuNzc5dGFEV19XX3V6TEpwcGkxNHNDZGc4UlFVNWFHVWxRTDJWaXRLMkp4UWxETEJZd1JSTHppcU5pT0hhUGVLc2ZXM1BpdzNzVmN2bVJmYUpQellacmZ0SC1nUzJPYkg0SERsRW12d01VdzJ1WXdHTDZBaEVBV0Z3?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1792577700000,
+      "title": "Blake Hinson Injury: To be waived - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONG1fWkZKQmpMT0JTc2ZLeWJWRVhaV1U2N2tPSGpnemI3T29obi1Hckx4QmNLS1BpNmxJNjgtMnJsVWlEc2lIU2p6YUNnWUFLNHNabE5JTjJ5TnEyZnZremJEWWhYZmRpbm95THJiVkxvU2pCWnBDYVhnVFJYclBSRlZnSll6VDktWHlRaWZ3?oc=5",
+      "source": "RotoWire",
+      "ts": 1792595832000,
+      "tag": "league"
+    },
+    {
+      "title": "Kalshi Promo Code WTOP55 | Claim $55 Bonus For NBA Trades (Oct. 21) - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xMHYzdnpXUFNidnFGbkxZTF9GempRd00tTi1DT085WHB1OE1wV0xPU0FQYTkzM2tDeXRNRk9scWV5elFNdmlXZnRWNFB4Q29VUmNVQkJDNTREVGdrU0VIYU9LRVJiWjJXTG5UekFCYmNvOTZ2WFhxM1F6VQ?oc=5",
+      "source": "WTOP News",
+      "ts": 1792590456000,
+      "tag": "league"
+    },
+    {
+      "title": "Novig Promo Code SBWIRE | Get $50 in Bonus Credits for NFL, NBA Trading - Golfweek",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObUZwZVctSHg3d2EwQkZfUF90M185bFBZNlpLT1BPOWEtelE0NkllT21RY2o3RkVYV3BLa0Z1TGZYZzlZX2hYTEQ5VHFpcE9nazQxWXhjWjZXcVE2VXh6bWpjU05JYjJjTnF0X3dUNWpncWUxQ01WdkNCOE1uOHlVODAwRGxzZWJnZ3JXbFlLSG1ONE1kWG9lck9acXVKa3NfSlhz?oc=5",
+      "source": "Golfweek",
+      "ts": 1792589880000,
+      "tag": "league"
+    },
+    {
+      "title": "Dame Time is back in Portland \u2014 and the Blazers look dangerous - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbEdEdEdqYXBQdDJRVDliNi1FcTdfT0dqRGhRbDJMQ2RWTTBxbUcwRTRsZ0txV0xPcng0SHJZSU9hM0NXRlFPbVJmRHV0RVYyWGRIVWc0MW9QNnpEZ1NQWS1RVUpZS2tWUVlPbm1PdEhSRHNaTXJfUTJLNHlJYjRPSHNMTWFnejVEMlB6Mi1JTzBYTHpMWjhudThfeUtLb192NzZfZnFUNGFXdUxJNVFfQ3g4NjNING8?oc=5",
+      "source": "OregonLive.com",
+      "ts": 1792589340000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Kyrie Irving, Anthony Davis & 10 Blockbuster Targets for the New Season - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHYzc09Ccl9TQ2hIUGp4LVVoMWZrQVV0TlVyQ1RvRG5VYV9GaWprR1B6WUZ1Y1p6c3ZxaU9HZ1phaDZpdGhaSFRlcDMybWZlT2JqQnBzdzFleWFya0JQN2kyaVRObmE0WDM0NV9GcVNyeWQxREo3VzhSYzNZSWZ2NDlUbE5uTk05blhHbnVFVVktSWpDZGlzNWplRlBVbHE1?oc=5",
+      "source": "Heavy.com",
+      "ts": 1792587420000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks vs Orlando Magic Prediction, Pick, NBA Odds -- 10/21 - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRXhGY1NYeGRrSDhmMHNpSVhxcUNxVUFKWUVYdUlMUVI0ZHpDaGZVVTQ3eEsxcjJTV3pJOEhjcG5yM1hBRUtyX1YxNy1tdE8xaEdYOWdVY3hUbHpWbnA1RzdJaEtJQ2c5dFRLYWM1eDVaVGVQeDB2M1c3c29wcEZrVmg5T21CMkdUNVRTcTZVeHZXY2ZUeHlGOUxtaDZGNmxZVnFSZjM2dURJZjRvZGZr?oc=5",
+      "source": "Action Network",
+      "ts": 1792586880000,
       "tag": "team"
     },
     {
-      "title": "The NBA star helping protect his opponents\u2019 feet - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU01YZkQ4MGF6NVlmc0dVMXhqVXljVUtxb1ZJYXI1SjR2c3V6SG1XOGphMkhDcVk1d0dyN1YxeTdkSGFBYWl6eFdIbFhJaWRRdHBKczEwQW5xOWhxWHdFM0tfNHJUblB2T2xMaWc0SlRKS1NiLTRWNDNNYnJDQXUyd3YydWNNb0hPeGlkRmt1Q0hpZ2U5Mm1qV01QUQ?oc=5",
-      "source": "NBC News",
-      "ts": 1792577280000,
+      "title": "Clippers\u2019 franchise curse strikes again as scandal threatens years of misery - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWWdVT2RkUUdGa0VxVDA4Q0QtSzBydnJMd3RiT3RrMUlfUmdUemV2NGV4ZVo5VkVJOGZLMjB2dDRuQVIxb3NtMjdCVUQxNUlHSTN3RzlVRWszN0JLQmEzb0tqR2hqX1lMVTVpME1ERzhqQ3F5ZU82WU1hNFNvcndVRE9USU00RWgxMnRVVW43RnlTSFF5UXJYQVE0RF90aFMtM0h1X0FKdVh2MDZ6c1E?oc=5",
+      "source": "New York Post",
+      "ts": 1792584000000,
+      "tag": "league"
+    },
+    {
+      "title": "\u201cThis Is Not the Sport I Like\u201d: Victor Wembanyama Gets Brutally Honest After Worst Night of His NBA Career - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORHNXWjJPQ29ZVTRydnJrNFBlSnVDeVlQcDltVWlCTXk0QUstUHRyV3J3NVBHQTlEQ2Y3eGZBOHNtdVRHb1d6MUhEMkJ1U1p3azlQalIwSGZTNzlpWnp1Y1I5X2ItY25kX1JmMXZpMGdFakRUZFZDRXdob3lIOXBxbHo4dVBBdkE0?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792584000000,
+      "tag": "league"
+    },
+    {
+      "title": "Why To Watch the Orlando Magic's Opener Against the Atlanta Hawks - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQem5CeTJ3NU1zR2JCUmN6TEpQSWJuZDFVWkc1V1FIdjI2R2dacDhfUzVlb1NvSjczcjlPUWtNTm9NeWEyLXpiMzVTSjFHSk4zc2YyVmF4eG14TjFDWExKdkZWQ2RtMUNGck5wOVdnYWl3cnZ6ZnZEYjJWZ0xJb2lhUUdIRVItbmM?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792580407000,
+      "tag": "team"
+    },
+    {
+      "title": "Takeaways: LeBron at center?! Why the 76ers had to get creative on opening night - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNFJVeDBLV29uelhiT2RVb2ctN2ZCQlBlNkl5R1Fqckp4aFozOS0yRHhEYmI0SExEQXdFSkUtejgtaFlhRlZ3Vl9ndHFUY0tWRzBmZTlwUzF5R3ZQaXRMYjRMV1NqMS05YlBXMUhKakZDMktTYzR4ZDFaUFNKUnhpcUNvaUEwREZDb2x4d1UwbDc4SWZuS0JLNWZB?oc=5",
+      "source": "ESPN",
+      "ts": 1792580400000,
+      "tag": "league"
+    },
+    {
+      "title": "Dallas Mavericks at Houston Rockets odds, picks and predictions - Pocono Record",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOXRQWXdfYWk5eFF4b3ZKN2lwaXBPbUJBSHRpdEhTbDJCbmk2aml2XzlBbjl4M3hhdjJEaGV3MFUyekt4RDY3QXdJZndHSmNBVTlnM29IUzlDNzhFUWx0N242RFFwakl2UTY0V2Y2NXBKbEVMZl9TX0tHVFl3bG9Tci1DZHp2NVdCSk42aWVyX213Tng3M01sRXluT2FJTmZDUV9xWC1oTzh4QUR2ZDV5Y2Z4aW1CVW5r?oc=5",
+      "source": "Pocono Record",
+      "ts": 1792579620000,
+      "tag": "league"
+    },
+    {
+      "title": "Kalshi Sign Up Bonus: Trade $25, Get $55 (NBA Opening Week) - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSjlrMXVwNkpZZGFfSlQ0emlPWnM5YTV4SktTSFBYMGh5Zzk1bVh4clJmYTVERnB6Szh6Sk5FUk9heUlnSlpSdVQ1TWNtWnh4UmNGakE4aWtrVDhPSWxOYUQybUlOQnlBTUNhUHZQZkRWUjNtTU02ZnFIVEk0R2RBVDlsU01JVWhmQVNfd0VIYmlmek9xQ2RyVnhaSFYzRUNXUGNQUTdMV2NocWZnLUNKRlJBT2pFSWZ3?oc=5",
+      "source": "Action Network",
+      "ts": 1792578240000,
+      "tag": "league"
+    },
+    {
+      "title": "Knicks\u2019 title defense won\u2019t be easy \u2014 and they wouldn\u2019t have it any other way - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQzJDTWExbHU5V0ZLdmFMVzBvR1NUR21oVzE5WDMwZ20zVk5rSTM1NU1jTDBlNU40QkxON3cwTFJxdWZ5MnRhWVRmblRMQ29wN2U1SVRnT1J6Sk9GWTFQMml4cW9Wa09XSHdGRmtHRzZkbVJLdFIycTA4YjBNbWFIMFFXTGlYenlWUm5adXA4UXdXX0EzZ0kyME9n?oc=5",
+      "source": "The New York Times",
+      "ts": 1792574591000,
       "tag": "league"
     },
     {
       "title": "How State Farm Arena will shift from Atlanta Dream to Hawks to concerts - The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVlHeUxaVmJUX3QzNXZLRUlOemxIejg5MVY5ZXRXN1Jjd0ZEN1NLM1lrMVltUDJhR3Z6djcwT0IyLXM3V196STdpS1VVMDRvLWJ3QkltVE9Bb2owYjZuUFlNMHY0aXpsRTNiSWZ0WnZfWjdqQUtMd1ZDR2taLWF3WU1oS1FNcWpaMWFwcDZNQURFeTl6aHZtTkl2LUFXRy1aZmlOR0JB?oc=5",
       "source": "The Atlanta Journal-Constitution",
-      "ts": 1792573262000,
-      "tag": "team"
-    },
-    {
-      "title": "76ers\u2019 LeBron James Caught Making Controversial NBA Officiating Accusation vs. Knicks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWGt6Q1JJd2JISFk5NGc5UFpGT3QtazQzUFY2aDNiRE1Mc2tpT3hjcko3VzZ4Ums3SUVJb0NhbnFvU2w5aF9oTEdrWHpGZHdQZWpjbTlveXR4SFlxN1dqWXFNRHZaajhzRFpVa0RwYThONWRIQndpeFBnbW1kbHhteHFxYndsaXVu?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792572528000,
-      "tag": "league"
-    },
-    {
-      "title": "Spurs' Victor Wembanyama misses first 12 shots in rough opener vs. Thunder - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcmZOSnZhOFctaGQ3cWVsc3M1Q0JyWFk1Nmk1cjQxTlZ4ZUpPYmhBb1lQZVRCZk9mVERJUWZsNFRPSDgwNzdzbjdtLXJPS0ZvSHRLNmRzQ1FaWGlOMFVYNVJkOEs4bmNROVFpMWZXUzhxdTdjaTRBNUNMeXRnVjRHVzMtajViMTFhX0R1aXZwY1VMY2MwUXE1SVFGZFZJZGU0OC1lVFp5STk2bk9oRHA0SzdLQVVmRmhlYjRaOVlB?oc=5",
-      "source": "ESPN",
-      "ts": 1792566480000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA: LeBron James' Philadelphia 76ers beat New York Knicks in the season opener - BBC",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vX3Z5a1JVb1hLM2dxeXlYUjM1VzMxeVJYV2xGaXlaTUlBZUZ2WlBNOF92NldPYlhtNUhUSWpBbUFUUVZZemJKcHZSUDNoeHZLVVJmZy1ONHdGN0hLYXZIQ1dFVlVrRTBCVTB3?oc=5",
-      "source": "BBC",
-      "ts": 1792564455000,
-      "tag": "league"
-    },
-    {
-      "title": "LeBron James talks smack with Knicks fans in victorious 76ers debut - NPR",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WTGo3WmdidjVwMGhwbmctR0NQVlh2cDNQdVU3N1Zfd3c2ZTVnSUdlZ0FRUE81Y2pRMHBLTEd6aG02MFBCdHVxQXdVTnBNSHdkbks4Ni1YLXhNQ3RmYkVaY0lqWFFDeEVNaFYtNXZHN0k2UQ?oc=5",
-      "source": "NPR",
-      "ts": 1792562836000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks vs Orlando Magic Prediction, Picks & Odds | NBA Wednesday - Sportsgambler",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajZuWVZpaGZpaUxINXZNbHAteHk2SDB2Sld1WXZfcUI3TU5IUzF5Rzd2T3pJNElaejhKdFlHcTZ4OE9GN0lkUW1oelJqenMzcnVacEp1VlNiWmZ0cWlUUGs1R1FqcTRzSFYwd2VDT2FlZ1Y1WGhmZmYxTTVnUkk2TmJuSmxEVGtWSEZEMGw3NXB3SXo2TFIteGkxOGFSZE1pUWhVbk9mWTl2ODNHWnc?oc=5",
-      "source": "Sportsgambler",
-      "ts": 1792552509000,
+      "ts": 1792573820000,
       "tag": "team"
     },
     {
       "title": "NBA opening day: Celtics-Pistons, 76ers-Knicks, Thunder-Spurs results, highlights - ESPN",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcUh2VUdkR3dZOFFTZUVZWnJGOTVreG1xUlV4emEtWU1pempucW9vajFabktWVjR6a0Rsb0RTdEI0OXk1bXJDd1ljWXRUT2VkVy1FR0laUm8ySEJ0blpLT0lZeHpmVWRkZEVZdndqYkZiVXRtb3lzUXBJNlIxSVZKRUJFUGlGY1pNZnZTWA?oc=5",
       "source": "ESPN",
-      "ts": 1792552025000,
+      "ts": 1792573625000,
       "tag": "league"
     },
     {
-      "title": "LeBron moonlights at center, helps limit Knicks' Towns in winning Sixers debut - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3k1Z3dVMlhDM0w3ZGdFQ2s3Unl2ZHNqZW5OcV90bjNybnVXTnhKNlpQRi1NMm1NU1RibW44bnk5WElka3QxaEFLM1Z1UGN6aF9XeVFTSnlQM1laSFZFSl9VcDljenRjX2wxT21pYy1JQVMtVmlyTEsxblpwQ01aZ2JZY3Vvd1k2LWl5RzBERGxJMUVaSVdqYWt2QQ?oc=5",
+      "title": "Thunder win chippy opener vs. Spurs, throw support behind Chet Holmgren - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcE9ybm1yX29ET1BhU2JFb3FRZUpBMVNzY1RjRkRjVDYyX3N5NDRlQmVHbjFNTFRkUTZFMXg3SkxwR0UxVDI1VjFMT1IwdFl4Q1FOcmZ6UVFhdGx4OHNuTzdKNjVnQXhnVlhvZHAzYU5MTDhJSzBQSExsTndhX1FGOUIyT1Qza0k2dno2STZqaVJFRE1jamY1cXRwTVpUUEE?oc=5",
       "source": "ESPN",
-      "ts": 1792549380000,
+      "ts": 1792565340000,
+      "tag": "league"
+    },
+    {
+      "title": "Bigger, stronger Cooper Flagg looking forward to NBA season - Bangor Daily News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMUduTlJYLVJQcm1HSjFteEMwVVRoWFBOQlBNWlJRYXdBaGM3X0tuZUw1b2VHTHlhalEwZmZzS1ZlYnpLVjZtdF84S1RJOGdfWHB0OXBNRHBRbkZwa0xKMUlaMkI4dkFZZnBCZ2N1WFVhZWxVNnNxSm5rd281UjJSc2RmaUpKMzNOVVVBY3EwRWJOMXVrSXNlei1uc1U0SUZEOXFaQWF5cHRjbzdMT2hsRGxJLU8?oc=5",
+      "source": "Bangor Daily News",
+      "ts": 1792558800000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks vs Orlando Magic Prediction, Picks & Odds | NBA Wednesday - Sportsgambler",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajZuWVZpaGZpaUxINXZNbHAteHk2SDB2Sld1WXZfcUI3TU5IUzF5Rzd2T3pJNElaejhKdFlHcTZ4OE9GN0lkUW1oelJqenMzcnVacEp1VlNiWmZ0cWlUUGs1R1FqcTRzSFYwd2VDT2FlZ1Y1WGhmZmYxTTVnUkk2TmJuSmxEVGtWSEZEMGw3NXB3SXo2TFIteGkxOGFSZE1pUWhVbk9mWTl2ODNHWnc?oc=5",
+      "source": "Sportsgambler",
+      "ts": 1792552441000,
+      "tag": "team"
+    },
+    {
+      "title": "76ers win opening game with LeBron James and Jaylen Brown, beating NBA champion Knicks 106-100 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTdGUDZlWGUtOW80b2l1cHcwN1Z5YXZlRkNpak4wc1c4Q25FS3lEVTBXd24wWEhIejJvcHFOZ2dueHZTNVdsc1ZXcGRTVW1SZlJVdGN6OHlzUVB3dDJPMXRSQ0NNYmFrUmpGWm1CZ2Z4THlxazFCb1AxRXVQcjRoX0RyTjc?oc=5",
+      "source": "AP News",
+      "ts": 1792549080000,
       "tag": "league"
     },
     {
       "title": "Fanatics FAIR PLAY Expands NFL, NBA Injury Protection - Casino.org",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00UmkxWGFNVGU5Tmh3aUd5dkJSNVlXNnI1R2xNdWlkeEZWSXhaa3h5SnpKeERtakoxMnEwUkRyRy1fa1dab3k1SkVjRW1ieDkyZ21fbkRidU0tNFdNUUh2aFlyaGw1WUNRcWF0d3hMZmdoYmR4blVITklR?oc=5",
       "source": "Casino.org",
-      "ts": 1792546330000,
+      "ts": 1792546364000,
       "tag": "league"
     },
     {
-      "title": "Jerami Grant (soreness) off injury report for Wednesday - FantasyPros",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGVGaUlNN1NwcXhHMEFkV3hCQnVuMTNQOThLczF1Sy1MSkpOR2ppb2JrNWp1UnFmOFdpeFZGNUV4SGwtTUgzaTVIbmlEUjdtdDNZS2hTQnVaeDlRVDZDLW9HLUxiZlZVNEJNVzAzWnZfT0RLRnRtUTFvVU8zWjJVSllJSU5FaDFxUjUweTk3N1lra0JXNWQzdVpLV1prd9IBowFBVV95cUxPcDktNWh6Y2hKUjBURmJ5ZDdqRmkyTUM4WGFYMzFPczVGUnR3M0hSbUJKZGY5dk5YUDl2SkRHcDdGVlpiYlNvS2lmRnBURXJQekEyVnFhbUlKa2MxWmtGZ1k1aWVvVlgtY3d4YUdLeHl0YmxpWk9ybzI3WTllNVk0dmFjaElEWkNwc1phNGNCNC15dkYwdEM0NmREbkRoZ3FGeGVz?oc=5",
-      "source": "FantasyPros",
-      "ts": 1792544880000,
+      "title": "Oklahoma City Thunder vs San Antonio Spurs Oct 20, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9VbV9fTjAxZnBrZk1lQm8wX0FWc0wtaXd0dl9yaU4zWDRKTEp5N1lkV3dfcmVQdTVhUDRvazZCMV8wNEtIVXJyc1FCNzlkakxwdXM0TEFmYmZ3QTU0UklxUWczUVhsNEU?oc=5",
+      "source": "NBA.com",
+      "ts": 1792544855000,
       "tag": "league"
     },
     {
@@ -94,13 +157,6 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTHpFYTlFc1hIemlOVFU5VlBoTUVZMGJ1UkRwZUZKWXIxa0NtWWtxWUQ3dHBhSFpCbFNvcmJiNUxqdDFScllIbFhGR3BwajJNdmZWT2wweXdkemhRT01UNnFUM2lEZWI5RlVYdDgzWTNtM0Q2YlJuSUV5Wm5zeXdCOEppR25XUE9fUm40TmRKTVlXcXJjTUl6OURUdTVyQdIBowFBVV95cUxPNnR0Rm9FRW5HdV9aUl9QNlhpZGFVZDdRdmV0VFBiSXN0bE1oWjZmNHAzc2YxY2hoYW02ZU9hcGdRWlJ6a0VSQzBlM2pfSEkxZmgzLXh3RkwwVVg5bUlNTDQ4LXJtdjhhZWhLWlZMM255Nzd5Nk9lbXpJWWU5RGc0RE9YQWZXcE5BbnYtZjAtd20xZ2c3REpHbTFsdE1CNkVkZ3pr?oc=5",
       "source": "FantasyPros",
       "ts": 1792543560000,
-      "tag": "league"
-    },
-    {
-      "title": "Kalshi Promo Code AL55: Collect a $55 bonus for Thunder vs. Spurs on NBA Opening Night - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ01xNkRlMTVpN0t6OFJHVjF2VzhhYjN1RDFBTFhYMXlpaV8wQ0xENk1fRjFZdl9MSjRvLXJoWUp2YXBqekwyRFZNQ1MzRW00Q2tINURmMUYtYzltUVlNWV96eWtjT2NLR1BNNUpPX28tQ1pXSjlDUnpvM0U3cEhueEMyTmtLMnBrNS1PMEJOV18yVjdNMXktV0ZPcHZaN2VDaGtHN0I3a21mYjZPTlgwdGl0alNEMTc0T3RvaTRWb3Y?oc=5",
-      "source": "AL.com",
-      "ts": 1792543500000,
       "tag": "league"
     },
     {
@@ -118,38 +174,10 @@
       "tag": "league"
     },
     {
-      "title": "Thunder vs. Spurs Prediction Markets | Trade NBA Opening Day With Polymarket Promo Code ACTION - Action Network",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTk1JRExXaC1UZF9lUkRpWF9mcUREdE9PNmhTNTVIZ19uZ0c3ejdaMERrbUNtb0Q0SGhTeFpacHBQS1JzalNYcFlCUWxlU2ZRUjEzc0tpbXVGc3B6ZTdrcC0tZEkzQXV0Rk5OOTl5b25Cek5GYy04T21peEFRUnRrVnphWUFlVmlLejZVV2N2M3VaejVRS0JQY0k1UnFLQk9UNFdGOXYwWUZuam1sR2tHZ244YXAwNjRvRU1WOWkyem5qcmxw?oc=5",
-      "source": "Action Network",
-      "ts": 1792539360000,
-      "tag": "league"
-    },
-    {
-      "title": "Deni Avdija Injury: Questionable for Wednesday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWlA3WDlocmV1OW5qS1lfR2tEYllVdFhKTGJnWkpHeFFVNVdjbTR2LV9sSHNsMmFwR0FDZEpYbVNkTHh6S1Y3dEhqTUo0ZEoxQUJqVlhoOURPeVc5TW5YR3MyTjJfZTUtQVJ5WlNKM2UyTGFuY3lmVzBXc3lMWnJoRV9sdzl0LUlhRjVMMEszVzViV25OZml4ck94ekNiUmM?oc=5",
-      "source": "RotoWire",
-      "ts": 1792539284000,
-      "tag": "league"
-    },
-    {
       "title": "BetMGM BetDefense: 1st Quarter NBA Injury Protection - sports.betmgm.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWUhuMjgwaVZEV2RfMUZXb3pOVmgtWUVvNm5rTThYaHd2NEt6SXh1T0EwUFdnajA1aTQyS0VVSGR2S25COHRvS0lVbzVpZEpyeHB4RnJ4QzNTeW5pelNBLWpxeUY0T2w3eklCRWt2MG5HTENEYXhyTDY2X1BLUzBQejNxX091QzRkWG1SR1YxSVg5ZFNzZGNJVG1BQQ?oc=5",
       "source": "sports.betmgm.com",
       "ts": 1792538499000,
-      "tag": "league"
-    },
-    {
-      "title": "Adam Silver playing dangerous game with NBA expansion and Seattle - The Seattle Times",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOERtM0tsS1AwLV8wTXRwNDA3UHVMWHRiek9XS1VjMFFTb3pXb29NMVIwRG56LU5iM1VXb29vWEpVTS1CdEItTVFrN1BqdXFmV1VuajdGb01xTVVoR2lQSENWVk5idW5pWHU4WjkzazZqNlFGeEowaUVFUjFZMlJtdTNjR2RQRU1UVU9FSFN3M2I1WE52Z2JGYXZ3LU16LXVBeWVoLU4wdExfWjdtbGc?oc=5",
-      "source": "The Seattle Times",
-      "ts": 1792534754000,
-      "tag": "league"
-    },
-    {
-      "title": "Kyle Filipowski News: Not listed on injury report - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY2cwbmU5QW9KbnlrampJSzVGSkJPc0t0SmRBSWNqMzBtNnBGNlhSM0IxQzQ5QlVtV3A1dmRQODlyWHdyTlRMRUhpX0d1alpaSzhpWDVVQ2U1U3hwNG14OEpBaGNQUFJDTExpWHRoaXJfUzBxRUxYb1VDS29HMVpsZjVIOGtLR19CRk1PeHVZM0RVc0hDWDdRYUVwOEt5YkxJSVk4?oc=5",
-      "source": "RotoWire",
-      "ts": 1792534031000,
       "tag": "league"
     },
     {
@@ -167,20 +195,6 @@
       "tag": "team"
     },
     {
-      "title": "NBA Trade Rumors: Kyrie Irving, Anthony Davis & 10 Blockbuster Targets for the New Season - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHYzc09Ccl9TQ2hIUGp4LVVoMWZrQVV0TlVyQ1RvRG5VYV9GaWprR1B6WUZ1Y1p6c3ZxaU9HZ1phaDZpdGhaSFRlcDMybWZlT2JqQnBzdzFleWFya0JQN2kyaVRObmE0WDM0NV9GcVNyeWQxREo3VzhSYzNZSWZ2NDlUbE5uTk05blhHbnVFVVktSWpDZGlzNWplRlBVbHE1?oc=5",
-      "source": "Heavy.com",
-      "ts": 1792524263000,
-      "tag": "league"
-    },
-    {
-      "title": "Stephen Curry Injury Update: Is Steph Playing vs. Lakers on Wednesday? - PrizePicks",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHJkc2JKUnJ6bWdWM1ExRko4UTV4RVFSZU9yajBXYzk1Si1PdWprTXcxcXNQUDFxZzRnODJnWklNS1VDRHkxYW8zeXAzSTd5dnJBblFWX2VoN3gxWTZHekU2X0FmdktDR3VManBlS2JnWEpMU3NXTHBMc2dueWtxT2lfOGlHckRYMzNTOUJyRlc3U2Z5amM4dXNYNDlhX3RUN1RzTk1LVEdkRWxQ?oc=5",
-      "source": "PrizePicks",
-      "ts": 1792523962000,
-      "tag": "league"
-    },
-    {
       "title": "The Pelicans Broke How I Understand Pro Basketball - Defector",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBENVJDZmNfODZBejM4N2d0U1FfMUpKeHhrbGRZU2dSMC1ES1JGQ0JvSURCN3hYaGRCRV9yakpyM09nTEhKTlBRXzktVlNBcnVDeTQ5VnlYeThrd2RvMk9kSnJ6bXlDSmlxN2NYYWNRSzVHaWVPMnFUUXIyRQ?oc=5",
       "source": "Defector",
@@ -195,31 +209,14 @@
       "tag": "team"
     },
     {
-      "title": "100 bold NBA predictions for 2026-27, forecasting every team's season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOemEyT3lCU0MwRzA0a3Z2XzlVY0pnR3VLVVdaT3FYUTkybkVQdVBFRnRBQkUxWW5qc0dqM3pNb1Z1Y0lLWTZxMU50R0QzQlhGNGhGNUtncmpaWG9tWTlBRGtjSFNvaXJ1RUxDaTMwTWxyNmdaQksyWnJobFBJbmc4cWxuNEFBMThzZGVrZHlrT0c4eTJYSkZzRDNJNURaeVBoNmo3dFZxYWp0X0hvd09hUXJCWU00NzdvVEFr?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792518620000,
+      "title": "Atlanta Hawks announce Prime Video streaming deal while keeping free local TV broadcasts - CBS News",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOczFlRlFWQzJ5aWVVR0Vhdl9FdUJMa0lSU0JBSm9kRHFBZ1dFb0RqdGlSaFc4MWRoc1QyeUVLLXR5MTlNMlBKN3NVel9zbXZkRGQtYUd1ck1qYzV3OFdoX1ZLZC1POURQQUs1azROVUYwM1ByMWZEQ1Y1eDVJTUEtbkNNa0tabVFLcGxKNGcwRkdUd2NHTkxOR2sxS2EyUV9OX1hjVEEwQXlJVHp4RXI3Y3NrenEzVFVoSEVXUzJVdXFhZGo5?oc=5",
+      "source": "CBS News",
+      "ts": 1792518032000,
       "tag": "team"
-    },
-    {
-      "title": "NBA Kalshi Promo Code VIP60: Trade $25 on NBA Tip-Off Games, Get a $60 Trading Bonus - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcjEtd05LazlVakdLdGI4YmJzNFBXbndzYk5lYmZKVk54el9DdEhmVGFja1pEWFdnRjZxYlk1R3l5bkFDOE5BSFNMUTBSTDMtMHhaVDZaU3JWakdxRFBGeFpzc2J5Z255aXRvb2J5bVV1UEtITEN3RU1xUWRUVHpZbV9zU3cydElBcnE3U1R2aVkwNDIxRENHYWdITHN5ZGRnbHc3dHB1TUNXY1paVkM4S1Z3REVBSjhwbWJIWnhVU1o4VWxERlB4eXo0cTVKS3c?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1792515000000,
-      "tag": "league"
-    },
-    {
-      "title": "Who are the 2026-27 Spurs? Here is this season\u2019s roster breakdown. - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZnVMUFR1UGlCQWw5eU5sdXJ2M2ljNEE3ZDVXUGlLOGFtbUtnRGh5b3hrcjBkekNkMnN0czJzbzNzT0dVMFZKNlR1eVV2cURMYlBweWZpRW1qYzNITlNlTFhUVy03X0lSWGlBdElQX3JBWUl0bFF2eEN0NTRfSGtvWFhSZnl0bVBDS0xmY0Z0djliVENwTE16aHFJYw?oc=5",
-      "source": "San Antonio Express-News",
-      "ts": 1792509125000,
-      "tag": "league"
     }
   ],
   "pushed": [
-    "sourcesbullstotradedillinghamtohornetsforbuddyhieldespn",
-    "nfalydanteinjurysignsexhibit10dealrotowirecom",
-    "jasonprestoninjurysigningwithlacrotowirecom",
     "robdillinghaminjurytradedtocharlotterotowirecom",
     "santialdamainjurylimitedduringsaturdayspracticerotowirecom",
     "stevenadamsinjuryexpectedtobelimitedinbacktobacksrotowire",
@@ -716,6 +713,9 @@
     "brandonwilliamsbackoffinjuryreportforwednesdayfantasypros",
     "deniavdijainjuryquestionableforwednesdayrotowire",
     "nbatraderumorskyrieirvinganthonydavis10blockbustertargetsfor",
-    "nbakalshipromocodevip60trade25onnbatipoffgamesgeta60tradingb"
+    "nbakalshipromocodevip60trade25onnbatipoffgamesgeta60tradingb",
+    "blakehinsoninjurytobewaivedrotowire",
+    "kalshipromocodewtop55claim55bonusfornbatradesoct21wtopnews",
+    "kalshisignupbonustrade25get55nbaopeningweekactionnetwork"
   ]
 }
