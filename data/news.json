@@ -1,22 +1,85 @@
 {
-  "updated": "2026-10-22T22:31:05+00:00",
+  "updated": "2026-10-23T00:53:04+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Tobias Harris Injury: Ruled out for Friday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWHMtZjV1VjRvQjdNQ2NPa094ZlkwbDg0eDZ0VVQwOGlPZmI2aXhOUkwzN1A5akpjSjRsakd0UXV6eEhIY055LUJSRjBobDhQdHVoWllYZV9vQkxxSjJNYjBzY2RKTlQxWV9DV0x5VGhiRWpicjg2cnB6N281X1EtMGRmcTZlTEVjdGJsTDZHZVl6ZUtEMV9YTWl3?oc=5",
+      "title": "Isaiah Stewart Injury: Tagged questionable for Friday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZWFCd25sSFR4dmJXSXhnLUZ4bC13LUkxSWR1WjhFZVdaUnlZQlhGUFdwRGJYS1JyeDF5YlcwLTVjc3R4cmpwZkFtczJ0bm9UQW9EMEd3Ykt5bjdlR1k5N1pVNEtHOE4xWEpkRDFkUE5vd1dEcDFGY3BBbVNmLVdvaldZX3pMYldGN2ZBLTF2LTAzTXg0NEZERE1YcFVlTDh3c0xIODN5Vjk?oc=5",
       "source": "RotoWire",
-      "ts": 1792706634000,
+      "ts": 1792714568000,
       "tag": "league"
     },
     {
-      "title": "Coby White Injury: Still sidelined with calf strain - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWEJnVm01WmIxOFhwSVNhd0t5d1gxOURVRGNXWllFS2hYT1BJVzNTRkxjUDR0RDNsYndPZjZCWUVqVUtUNHY4M1hSbUVtNFQ0aHkzb1pOekFHd216WW40aXpGdTd4anFmcW5lMXhhZmIwYTIxNU03bnBlVXVhVTdDbGZGVGNybDE4LWlYajRlNEdzbVhzb1J1LV9MOG50NTVqVjJIbGF3?oc=5",
+      "title": "Brandin Podziemski Injury: Questionable to play Friday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMlh3dEZ0SnZkdkFSVU42S3FubXBMcThBcEloU2FPb3h3YW9ySzFWQS14TmhudTZPdTJfczRyMExCQm1LVHFUd0FfVDRNZENUakt5LWowRkhjOXpZc3VOTkp4Yno0NzZoQ1JleVhrVHlaelZLTU51RWRFSXBmcFZ6b1Rwd2k5VENZRDJvZnNHTHpBU3BxekVVU3ZHSldjQ1BtOXRoOGR3cHRmQQ?oc=5",
       "source": "RotoWire",
-      "ts": 1792703254000,
+      "ts": 1792713887000,
+      "tag": "league"
+    },
+    {
+      "title": "Collin Sexton News: Left off injury report - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNelpHX1RWVHFHUFBJX1BLRmhsVi15QVpNSzdPVTBITnJFMk82Tm9TbmNRa2FHV2lkb1Y5X3NaS2lqOXJDSjlmN2gtX3piQ3JmNERiMzdPSXA0U2dWRXNYZ0huQXd3blRPSnU3SjVQT0J6Sjc4MjZ4TWVXdERlWElranJWRTFCWkVOM1dxQkhWdk05VTNtTFhZQ0tn?oc=5",
+      "source": "RotoWire",
+      "ts": 1792713803000,
+      "tag": "league"
+    },
+    {
+      "title": "Kalshi Promo Code AL55: Trade $25, get a $55 bonus for Patriots vs Bears & NBA - AL.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYXl3bTBFTlNZcV9iblNPYVJETHBwanlvZkQ1Mkl2ZXZNQW05ZzBreDlQWHY5LUZoYnd5d1cxVnVOSUNNOGw2ZGhhS0RhSEJyd29CNFRfOGNZMDRRVWRncS12RzktLXU4eEVxbmJqWmViU2NFQ3JNNjhMNGI4TElLTWJZSi1wRHBlWmZuSG50R294NFVsbnE4bmRKU0ZubE1DLUllbFRRYllZSVZ4NG5GSWdn?oc=5",
+      "source": "AL.com",
+      "ts": 1792711800000,
+      "tag": "league"
+    },
+    {
+      "title": "Co-defendant denies Billups gave him info, pleads guilty in NBA gambling case - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1RMeGNBSVFacm5KQklzR0tManBfbzBqY0hoMTIzdXpLOGJFRjlQVlJFZWM3TU9zRFNTRmlxYU1vdjczNEpzeElaOW8za3BsQzg5bE9UYWRCRnRnTnRqR21pc3JRd2FzXzhhQU5QdUxMZTFES0xFZWp2T3M2Rkw0UVB3b0ZRWGRISEljdWtMWlAxdHh4QTMtSGdjQU01ci1ZaVE?oc=5",
+      "source": "ESPN",
+      "ts": 1792709040000,
+      "tag": "league"
+    },
+    {
+      "title": "76ers\u2019 LeBron James vs Donald Trump Feud Takes Wild Turn After Latest Reactions - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRV9sU2k1bnNyM2Q0cEhGOC04MW5mZXptY0xBTV9kN01fZVRLcko1dTBfWjROWDU2bVpiakwyeC1xZU5iOTJqc3JjMXpNUi1NTG9vV0FVTEVRa3FkV1VxRUU0U1NKUGY1U1pjQ1BRTWRvckt6Nk5kVUZETXdvMFFWbEZIaw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792707706000,
+      "tag": "league"
+    },
+    {
+      "title": "Tyrese Haliburton breaks down in tears on NBA return from brutal Achilles injury - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejItVy1UcEM3UWlZUXlQRFE1bzFWWTVWTWFhNVdRUm1BdXRZNE5ON2hHa0FtN2hzQ2wwSTlWSHZYQkFQSG5qU010a1FUX0hyMXVaVFd2eFlJZFdheW5EendFRzNwNmpxbU03MG5RRHpfNmRqMFBHSmVFRXpxdGpkVE9tcm1fcE5UX3hrb05PS3FBQVFHRzJnc0ZXQmFuTFUweVFv?oc=5",
+      "source": "The Sun",
+      "ts": 1792705534000,
+      "tag": "league"
+    },
+    {
+      "title": "Stephen Curry on exactly why Kristaps Porzingis\u2019 absence puts Warriors in a tough spot - New York Post",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdDJpQlkwTFFXTGE2M0xCSjhjYnRMdE51T3EyX2w5U3VQSEllV3FOVDhna083TlJxd21BWGRKN1B1b3ZLMEVXdzFud0hfRGY2UzMtZUI4eGZvWTBqT0tkS0gtenZUeUU0LXk0MjlMQjQ0TWdFckRGYUlQMEt0Mk51WmlkN01ISEl6VkhETFBvejNwQzByOTlJajFKbkZKV2dRc0t4NmRHeDl4N2pELVE?oc=5",
+      "source": "New York Post",
+      "ts": 1792704780000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Fantasy: Week 1 Power Rankings - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JWGVERDRIS1hHOEJnSktJS21mN05HTk9zTV9fb3EzSjM1bWlYNmJlWTl5X3hhZGhWcGVTZ0pfUk5yV21ydnBoTFdVb21aSnlKNy1aNUhYTkJWXzJJUXRsOHVyNEpZRjd1Y3c?oc=5",
+      "source": "NBA.com",
+      "ts": 1792703233000,
+      "tag": "league"
+    },
+    {
+      "title": "Isaac Okoro (knee) without injury designation for Friday - FantasyPros",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZ0Ewd1E0aC1qZTBKekJUa20xTVUwVFRrTWpGSDR3SGhnenppWGRrVl9WLWE2LXBMaTFnaFkyWlV5Y3pHUGV1UlpmTmhGaGhYcWNQUVljck1rRDYxUWtBaUJwd1dLYmpIeDR4eFdXVW1LU09wQlBNRXl1U3Q5TFE2X0EyUWs5d2lLTVV3bUQxOVBWaUJoZEV6dDY0elk5OWvSAaQBQVVfeXFMT1M0SmZxUmkxdG14RXZ5Wm9YX0Q5RGt4Y21NS3dod3FXemM2bk03bmlPazBNWXk3SjhCWERjcnJ5cXc5WkxyWE1uNl9xZ2R6REVMaXZreUJ6bGNDcDFDLXVRWHBtclZqdUN2d2pLeVlZN0lZYThhZjQtVDFJOXJpd1lLM21KaVBJdXE0cHJnOXJySHBYQVV5MHZNVXFvU3FQR1hWZVc?oc=5",
+      "source": "FantasyPros",
+      "ts": 1792702163000,
+      "tag": "league"
+    },
+    {
+      "title": "Leonard Miller (adductor) off injury report for Friday - FantasyPros",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVHZkR0FXMVZmRklMZEpGVDh3ZFBaY0szWG92djRnYTFJVzVKWFRxenowcko2UkFyTzlGQ0RsT0JfQXlWUURoLTdzanJDTnBxREhLX1NiUVRHcHJJRWVPRXdHMGtnd1ZpYnF3WERBMFFtUkowdzAxdjlVbElJOV9uZkFzOWNaZGNfU0pWRXVtcjlkM1ZabXB5Z1M1OWM?oc=5",
+      "source": "FantasyPros",
+      "ts": 1792702044000,
       "tag": "league"
     },
     {
@@ -27,24 +90,10 @@
       "tag": "league"
     },
     {
-      "title": "Russell Westbrook Explains NBA Retirement Decision, Talks Life After Basketball & More in New Video - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRG5oR0xZNEp1dE5wM3hnTlNVQm1uTGNrMnMxNktDbTl1QjhtRG52ZE9hQzRGNzdOXzBwOHllWHMtZkUxQlFMWlB3Q1ZaMDd6OUktQmxscGtvdF9mXzBldEpzNk1KZ0Y0eU1XLXJjSUZ4MXpnVWZOYTFuODViWVZJVlZQSGdnWEZqbk4yLWhNemg3M1lWUXZZcUpYaHhEV0RYNlJ3V2M2TktZekUwV09ycmFvNy14LVVwRFVZSENzSVQ2bnRCVGl0RkZPX0NFNHRxaFk3bg?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1792700233000,
-      "tag": "league"
-    },
-    {
-      "title": "Trump accuses LeBron James of disrespecting US anthem - BBC",
+      "title": "Trump accuses LeBron James of 'disrespecting' US anthem - BBC",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZazI5SXN2alhXdHMtQVpLaTJjVFNfVWQ5U1ZSUUFIcXlKRm14NGZibjZFVGFnOU9UWWpGY2V4NjZjYzd4WG5COWU4cE1wSnlET2JGRUVQS2tiUEE?oc=5",
       "source": "BBC",
       "ts": 1792699467000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA finally reveals if LaMelo Ball travelled on viral play - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcHlZUlJpN1dtX0FvRUl2UFhPRVQ3SEFIY3hSN3ppZHBaaWlDRE91YjVtMk94ZkV4ejE3bVRUVzFrYUx1bFdOV2V3NnVfMGpUdzB1bGNpMklLV2F6T2dQeUxmRTU5T2tERTF1Z2FVLVVpZGpyT0VRWmEyZUdNbmhLRGcwSzl3ejQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792698816000,
       "tag": "league"
     },
     {
@@ -55,31 +104,17 @@
       "tag": "league"
     },
     {
-      "title": "Trump blasts 76ers' star LeBron James as 'disgrace' for not standing still during national anthem - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNUgxR2FFOThLekhqb3BGZnVkRDJGVkxmcDNCN3VVM3M0YU1pYWhjMXJJc0FFZTFPc2thckdyenJGS2NuVkdOV0tSazM3blJTMFV0eXdOWWlWMjZGTUhBTUI3VFRHQ3ItSXRCWmlhY21GR1c4eXdScVExenAtU04teklRd05XbFRNbE9INVNKLUJ6dUxrYVR3?oc=5",
-      "source": "AP News",
-      "ts": 1792697700000,
+      "title": "OG Promo Code ROTOWIRE: $50 Bonus for Tonight's NBA Games - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNTh6NmlHMFY1X3h3YzI4OTZONi05eU5lV09OaW1sVkhPX3dLSUdrUHpuV0U4bFk2YlptTXJRcGxTMmRPSkJwTlh1UGI3anlTYXhMZGs5TVo5V21VOGZMa1N1MWJTWGItY29GSC0tOEVPVUxVSTBoUFRJSGVVSnE4bnlyY3RWZkUtQzN6WjRPalIzQTg?oc=5",
+      "source": "RotoWire",
+      "ts": 1792692900000,
       "tag": "league"
     },
     {
-      "title": "LaMelo Ball obviously traveled on way to 3-pointer, NBA refs confirm - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR2xDdEpCZlp3aGkzQmNhY0Z1Ync3MTNEUk11TlhFT2lYeFM0VGgxVE9EYjhnU2M5cEg3bzVjWDBpN1h6QjcyMGg3U2laN3hhbnN4dmlBTVZPSFVtek05c3F2ckVlaHVsYldaSjhQN2hvUnA1Tk1pSUJieUJhMV9mZGNZeV9jUWdHNGFwNll3OHVZeUQzT3BxWTlkdFo0cUpCcEpBTTlEU0hGUEtFdUdZeVlZX3dfOU0?oc=5",
-      "source": "ESPN",
-      "ts": 1792693200000,
-      "tag": "league"
-    },
-    {
-      "title": "Trump says NBA star LeBron James disrespected US national anthem - Al Jazeera",
+      "title": "Trump slams NBA star LeBron James for disrespecting US national anthem - Al Jazeera",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONl9PdDlVUk9kNG84cFRMMklQYTJDdEtCOUtmY3dDSXRXNTY2Zk5sQndLeTl0ZlNaR2pfN0g2WUlLYVFFeVVfUmxtLUo4MXdJNWpJbWtDNVlVQXVaVWxoU2RLYVo0UkxaNlA3MUM2WnJwRDBMbWdSSFBEVkJLSElaU01OVElDVGV3VlprZGFsWktGa2JDRkJmRnVEQldsOVlzSGtkMU9RbDdldjU10gGyAUFVX3lxTE1TZXdZRHhidzBsWHpFQ2dtRWhHejMyaTM1UkF0bGVhVGk5NXQtX0duSkJHSmh3OWx3TXdWRUEtZ050Ukh1bUJqdHBMNkhzR0Q2STdldUxPS0VZYjhTeWV6WlBrYWU5VXFlR3hNVlA3NTBGY3E3RHFqVkhBMnYtSU8yUXI4Z3A1NFVWcXJZdHV3RUk5dUJ0Wjl1cGlkMHNNT2Z0M01aTXljZUFuUTVGRkNPZVE?oc=5",
       "source": "Al Jazeera",
       "ts": 1792692496000,
-      "tag": "league"
-    },
-    {
-      "title": "Kalshi Promo Code ROTOWIRE: Trade $25, Get $25 Bonus for Tonight's NBA Games - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWlCN2NhcElnNEN1VzBuYWEzakFsdGdSS1VXZ21RcU1yM3RrOXRoU3VxRUZ4VmljSFBDTnFyNUp1UFUwVmsyR0dDY2UwYW11bE5IMHd1dmFiaW5BZTN1TF9zSFhXSS1weXpkNVJSTm1MTWxiaUVXcmRfZ3RubWRnUU03RXEtMHdBS3d2YmI1eWZ4N2hYb0NPRjh2enFtbHlUVUJz?oc=5",
-      "source": "RotoWire",
-      "ts": 1792692360000,
       "tag": "league"
     },
     {
@@ -90,24 +125,10 @@
       "tag": "league"
     },
     {
-      "title": "Ant erupts, Lakers roll, Ty Jerome shines + more NBA season opener thoughts with Amin Elhassan - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZlhLSms1SHVGaGNiZHVfb0U5bUdLLVJtNEZybzZWY2E0c3c4VXVKTkc5Wm96QzY0REpNQUVEQXIyTWRKUGY4MlFXVW9oSW1iSVh1VUZETkRnYUJtanhrd3VVQUE0Z2g5N1M4Z2hHX1ZoNVZoZHJvTEgtZGR0QjJFQzdhcXNzWGd0VUxDZlR5WGJ4Z0g0dXRZcUxtNXBtR2FYYnFiVWpILUZZeDZXYnJ5OENCV29TeU1OQ0o4czVVdzlUdFR5eTFpbGNCRUpTb1FiTnhZTXFxQWxiU0k?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792689963000,
-      "tag": "league"
-    },
-    {
       "title": "Basketball Game Interrupts Shit-Talk Session Between Luka Doncic And Yaxel Lendeborg - Defector",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0ZMV1BNQXdVM2F3RC1ES2dQN21CVzlwaDhoUHpOSEktN0d2blc1dDQwTENoSEpuMFdLSGluZE1kTEhSQkVOeGZGTDlGVjZRdi15N0UzMzNZU0x3ZXBIWUlwQVBRaHRvdWx4YUxKSWtkY0pWaWNJSzhoVy1sbXJhRnotZlQ5aksyVXlBd2JEdGVfUXQwU3Z5Y2w3SG85alBGNXc0X2pid0M?oc=5",
       "source": "Defector",
       "ts": 1792686360000,
-      "tag": "league"
-    },
-    {
-      "title": "Apps like Kalshi: 5 other prediction markets to trade Patriots vs. Bears TNF, 76ers vs. Cavaliers - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYVpYSWctZER2Z0FLb2Z2Z3ltdThaYVRieXNPSmVWdnQwZWJZN3otSHQxcWNMcjQ4WmpXdWQyNm5qNjBKeWsxUmdxeHoxWHhXbmhBUnJFazBqYmhEcDQzWTFfQUtkbnE0UXdzQUwyQUJtYjVxYXhUUEQycnh4eWptS05PVVpvNm1PVGx4VHJoRjNqUGR0dFlZU1E5aTY3b2p4Q1A4LWxwTTRrUk9sd2VBQ25FX0hJVnNHR3pPQ3lyeWZZcmIwdUJlMTZpeWFIQQ?oc=5",
-      "source": "AL.com",
-      "ts": 1792684800000,
       "tag": "league"
     },
     {
@@ -125,10 +146,31 @@
       "tag": "league"
     },
     {
+      "title": "Pelicans Announce Upcoming \u2018Basketball Night\u2019 - The Onion",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fWUdydW16cFN4d1dibmlIY1VGX3Q5YlRzajVlVGZSVGdzM0lpbTg0cG5BWlc4OWRLN1VWcVJOVUluWGkyZlFCR2NGdUFtNXpRY2dqOEN5LUdqNGQ5dVdobjdnSDFmcG1SbnlId29tSWJxN0E?oc=5",
+      "source": "The Onion",
+      "ts": 1792674000000,
+      "tag": "league"
+    },
+    {
+      "title": "Kurtenbach: Golden State\u2019s season-opening blowout loss was not a one-game fluke - The Mercury News",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQVoxcmRtWEZBYXNSencxNlhyWllEOW1OMWppeHNXVFctMm9GWjZHMW5zY2p5c2hlVklyUjZ2OWZ6YjRkeTdOaThiSVVYRm9MMFBKaC1OTXVjVWFGSnQxbjJDY011QTViY3ZkTFJfOWFWbjRxVThvaWRoYnhnbmg2OElrZ1UwaXV3Rm45OW1ocTdSSXptZWlMUExYeTBkNlBTYmVUOHZwaWJTQVhhaXhfYXJKRzdSamNUQlU0S25hUWV4b3M?oc=5",
+      "source": "The Mercury News",
+      "ts": 1792670411000,
+      "tag": "league"
+    },
+    {
       "title": "Ranking the Top 10 Realistic NBA Trade Targets This Season - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOHlPRVFSYzFTak5XZkRnWm1LOTVEeFEyNnl2c0w1M0oyQXJiZzMxWW9jREYtdTN2WXJuOVZZcWV4eGdrMkMzQi1iUDZPNU1adTZkTk9aSksxZWZXeGhkd0Y2ZE84MFpMNFFrNFVCcXJOMTFqdTJud3dYMnlRdExxQlMxUTVqcExzZ1NCQk9jS2NUd1BFWXlHTlVn?oc=5",
       "source": "Bleacher Report",
       "ts": 1792667839000,
+      "tag": "league"
+    },
+    {
+      "title": "How Sam Presti's 'slow and steady' trust in SGA created a two-time MVP - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQkF6Uzk4M0tvNzFGdThRN2s1aTVXMTlQLUYybWE1dTBLS1JPSEtZNjU0cXd1bllWQ2xla2pvRkRrWG5vNklpLVhmZ21obTFHZkRxN1hFaVpqYnpCMExjU2NhaHFYZFU3akt4MFhvdjdlWllDcXBCQkxmX3ZFN0N6eG5VNlk1eWF0RXd0TG43VmNjUzJnT1dWOURRRlQ?oc=5",
+      "source": "ESPN",
+      "ts": 1792666800000,
       "tag": "league"
     },
     {
@@ -153,13 +195,6 @@
       "tag": "team"
     },
     {
-      "title": "Warriors instant analysis: Lendeborg gets his \u201cWelcome to NBA\u201d moment in season-opening opening loss to Lakers - The Mercury News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUl9sSTZKNkFyenl2LS1EUWh4cDVtS0ZZbnBpYnkxMUg4c0NwWUdSQi1BVDRESkc4TGpLUTk0RTlIMVkzOHluR0Yzc3QzMURzemFpTUp1SmZvWTdKSWdJUUl3bzJPSW0yTW03b0JNcjZCeTAyc2Y2aFpxRThNM3ZOUFRwaVN1cTkyLUJJ?oc=5",
-      "source": "The Mercury News",
-      "ts": 1792644118000,
-      "tag": "league"
-    },
-    {
       "title": "NBA Trade Rumors: 10 Blockbuster Targets for a Busy New Trade Season - Heavy.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHYzc09Ccl9TQ2hIUGp4LVVoMWZrQVV0TlVyQ1RvRG5VYV9GaWprR1B6WUZ1Y1p6c3ZxaU9HZ1phaDZpdGhaSFRlcDMybWZlT2JqQnBzdzFleWFya0JQN2kyaVRObmE0WDM0NV9GcVNyeWQxREo3VzhSYzNZSWZ2NDlUbE5uTk05blhHbnVFVVktSWpDZGlzNWplRlBVbHE1?oc=5",
       "source": "Heavy.com",
@@ -167,10 +202,10 @@
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks vs Orlando Magic Oct 21, 2026 Box Scores - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5pZWpzRlNiVUJKSlJubmFUeW41emtWYUFOOFBQWkp3dXRXWEVrYUxyUTVJYUtNTURiMGNKTldpXzAwUjE3eVBMMkE4blJ2bmlQb3dTNWtGOUtQN2gxSDEtRzB5VXh0Y0U?oc=5",
-      "source": "NBA.com",
-      "ts": 1792625094000,
+      "title": "Atlanta Hawks vs. Orlando Magic Live Score and Stats - October 21, 2026 Gametracker - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XRE5xRVpDT0VHWHY2Ums5a1BSZWppY1gxa0t6V3dNMFlYTEJTVnp6eFZiaVBzMlVCN05iNUpER0lVNUw1bGk2SHdVaUM0TWxieFptRGw5RmpCUWdCSlhqN1dsbjBXczdma0hyNktYbkZnaXRqZ1dDaEU5bHo?oc=5",
+      "source": "CBS Sports",
+      "ts": 1792624569000,
       "tag": "team"
     },
     {
@@ -179,49 +214,9 @@
       "source": "RealGM",
       "ts": 1792606920000,
       "tag": "league"
-    },
-    {
-      "title": "Sources: Warriors exploring options to trade center Kristaps Porzingis - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNY2U5U1pvZE5MNlEzTEtJbHdRaElqUVpaZFV1LXpvLUIxV0dEV3h5TWM5NC14Vm5Tb0JQZmV4VmRPLVhOb0p0MlBiZWh0SDhQRjNNQk9ObktxOUdJTTFZbGczV3h0bDVodmNlbk9wYkZmc0tTTDluN1dDS0xHWWNNT2owUkJkZGJKSFZSLXF6TzI3Sm9JQWVqV1dkRjliVHZTQUw1V3hWWQ?oc=5",
-      "source": "ESPN",
-      "ts": 1792606560000,
-      "tag": "league"
-    },
-    {
-      "title": "Three Encouraging Developments from Atlanta Hawks Preseason - Yardbarker",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMktjeFBYMGMzWkQ2eE12YTlLamlmd0F6MldHU2lOTmJQVzNPMXBQZkwxMFFwS3hqVXNoWGFNZUFlSjJkT29LNFJVNVJYUHpFM0FJWklRMUVKVmgtanA2djY3WDBiUEFiS051djJLaTJ5VDY1a3VuVEdGMzNHczNKb3BzUE8wejFLNGF1SGlKM2NPcDVadlBKMm1maU1zMGdqV2dzMFN4cVVfM3pJeEM5R3VmWnpRWFZK?oc=5",
-      "source": "Yardbarker",
-      "ts": 1792604898000,
-      "tag": "team"
-    },
-    {
-      "title": "Atlanta Hawks at Orlando Magic NBA Prediction, Picks & Odds for Oct. 21, 2026 - Athlon Sports",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPaGNUcmtJZXpBVF9HTnEtZkF1ejJzVFVLaUMtQ2tQRGpiQzlFV3F2RFpSOEtmbE5qS25MYnVnWGFxU0xrWFhma05sNHE3WUF1NE1GbGcyclE1bXF1Rm9DV25XcDNnamMxVWVkMUxWRFJ3Mmo1ckcwZ1R5WktlZF84LW42aXlJdmxuUjNuT3ZUUE9FWEh4dEU4VVFDRVE?oc=5",
-      "source": "Athlon Sports",
-      "ts": 1792597839000,
-      "tag": "team"
-    },
-    {
-      "title": "Toronto Raptors Injury Report and Analysis vs. Chicago Bulls - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNGFhc2pWT3ZnV19hM3lQMjdKMFQ3bHp1bk5HVFh6QVAwbkpUTWJIeXBNc2Nxa2M2NFZVVEJhSjRFa2x0V1BUWUNES1YtV0MzMDdEdWNHYzlXdFhxMEVXRXQ0bDd2Z1dXY3p1TkFrMkQ4Zk56YXJYbl9HNEVMc0JvU3d1d3J5eDZNZlVmSUktbGI?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792595058000,
-      "tag": "league"
-    },
-    {
-      "title": "How State Farm Arena will shift from Atlanta Dream to Hawks to concerts - The Atlanta Journal-Constitution",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVlHeUxaVmJUX3QzNXZLRUlOemxIejg5MVY5ZXRXN1Jjd0ZEN1NLM1lrMVltUDJhR3Z6djcwT0IyLXM3V196STdpS1VVMDRvLWJ3QkltVE9Bb2owYjZuUFlNMHY0aXpsRTNiSWZ0WnZfWjdqQUtMd1ZDR2taLWF3WU1oS1FNcWpaMWFwcDZNQURFeTl6aHZtTkl2LUFXRy1aZmlOR0JB?oc=5",
-      "source": "The Atlanta Journal-Constitution",
-      "ts": 1792578560000,
-      "tag": "team"
     }
   ],
   "pushed": [
-    "jaylenbrowncallscharacterclaimsbizarrefollowingtradeto76ersr",
-    "dontedivincenzoinjuryoptimismforlateseasonreturnrotowire",
-    "jonathanisaacinjurylimitedtoopencamprotowire",
-    "micahpeavyinjurymanagingankleinjuryrotowire",
-    "atlantahawkmediadaytrackerquotesnotesinjurynewsandtakeawayss",
     "zachlavinetreymurphytrademarketonkalshiamonghighestinnbaspor",
     "proposednbatradegiveslakers6113ptshootingdemon2xblockschampy",
     "buyingorsellingthelatestatlantahawksjalendurentraderumorspor",
@@ -716,6 +711,11 @@
     "tobiasharrisinjuryruledoutforfridayrotowire",
     "cobywhiteinjurystillsidelinedwithcalfstrainrotowire",
     "nbatrademachinerankingsjaysontatumkarlanthonytownsandmorehoo",
-    "earlyseasonnbatraderumorsandkalshireactionswtopnews"
+    "earlyseasonnbatraderumorsandkalshireactionswtopnews",
+    "isaiahstewartinjurytaggedquestionableforfridayrotowire",
+    "brandinpodziemskiinjuryquestionabletoplayfridayrotowire",
+    "collinsextonnewsleftoffinjuryreportrotowire",
+    "kalshipromocodeal55trade25geta55bonusforpatriotsvsbearsnbaal",
+    "tyresehaliburtonbreaksdownintearsonnbareturnfrombrutalachill"
   ]
 }
