@@ -457,7 +457,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-04 · HONEST-FIX</div>
+  <div class="drawer-foot">BUILD 10-24 · MULTI-SPORT</div>
 </aside>
 
 <main id="scroll">
@@ -508,8 +508,21 @@
       <div style="flex:1"><label>Stake ($)</label><input id="f-stake" type="number" inputmode="decimal" placeholder="20"></div>
       <div style="flex:1"><label>Multiplier</label><input id="f-mult" type="number" inputmode="decimal" placeholder="3"></div>
     </div>
-    <label>Team (for your fandom tracker)</label>
-    <select id="f-team" class="log-select"></select>
+    <label>Sport</label>
+    <select id="f-sport" class="log-select">
+      <option value="NBA">NBA</option>
+      <option value="NFL">NFL</option>
+      <option value="Tennis">Tennis</option>
+      <option value="MLB">MLB</option>
+      <option value="NHL">NHL</option>
+      <option value="WNBA">WNBA</option>
+      <option value="Soccer">Soccer</option>
+      <option value="Other">Other</option>
+    </select>
+    <div id="team-wrap">
+      <label>Team (NBA only — for your fandom tracker)</label>
+      <select id="f-team" class="log-select"></select>
+    </div>
     <div class="book-actions" style="margin-top:12px">
       <button class="btn act" id="f-save">Save bet</button>
       <button class="btn" id="f-cancel">Cancel</button>
@@ -625,7 +638,7 @@ function renderMyTeam(){
   const news=(((DATA.news||{}).items)||[]).filter(n=>n.tag==='team').slice(0,6);
   let html=`<div class="mt-hero" style="border-color:${t.c}">
     <div class="mt-name" style="color:${t.c}">${t.n}</div>
-    <div class="mt-sub">${st?`#${st.seed} ${t.conf} · ${st.w}-${st.l}`:'Preseason opens Oct 3 · season Oct 20'}</div></div>`;
+    <div class="mt-sub">${st?`#${st.seed} ${t.conf} · ${st.w}-${st.l}`:'Record loads with live standings'}</div></div>`;
   html+=`<div class="eyebrow"><span class="q">"</span>NEXT UP<span class="q">"</span></div>`;
   html+= games.length ? games.slice(0,6).map(g=>`<div class="mt-game"><span class="mono">${g.ha} @ ${g.hh}</span><span class="mm">${tipET(g.tip)}</span></div>`).join('')
     : `<div class="empty-note" style="padding:20px 4px"><b>No games scheduled yet.</b>Fills in when preseason posts (Oct 3).</div>`;
@@ -757,7 +770,7 @@ function renderGames(){
   if(!DATA._live || !DATA.games.length){
     $('#slate-count').textContent='— 0 TODAY';
     wrap.innerHTML = DATA._live
-      ? `<div class="empty-note"><b>No NBA games right now.</b>Preseason opens Oct 3, regular season Oct 20 — this fills in automatically once games post.</div>`
+      ? `<div class="empty-note"><b>No NBA games right now.</b>No games on the board right now — this fills in automatically on game days (make sure the data worker is running).</div>`
       : `<div class="empty-note"><b>Waiting on live data.</b>This is just the preview. Your hosted app pulls the real schedule — no placeholder games are ever shown there.</div>`;
     return;
   }
@@ -1041,7 +1054,7 @@ function renderBag(){
   [...b.slips].reverse().forEach(s=>{
     const pend=s.res==='PEND';
     sw.appendChild(el(`<div class="slip ${pend?'pending':''}">
-      <div class="slip-top"><span class="slip-type">${s.type} · ${s.mult}x${s.team?` · <b style="color:${(TEAMS[s.team]||{}).c||'var(--muted)'}">${s.team}</b>`:''}</span><span class="slip-date">day ${s.day}</span></div>
+      <div class="slip-top"><span class="slip-type">${(s.sport&&s.sport!=='NBA')?`<b style="color:var(--royal)">${s.sport}</b> · `:''}${s.type} · ${s.mult}x${s.team?` · <b style="color:${(TEAMS[s.team]||{}).c||'var(--muted)'}">${s.team}</b>`:''}</span><span class="slip-date">day ${s.day}</span></div>
       <div class="slip-legs">${s.legs.map(l=>`<span class="leg">${l}</span>`).join('')}</div>
       <div class="slip-foot"><span class="res ${pend?'P':s.res}">${pend?'LIVE':s.res}</span>
         <span>$${s.stake} → $${s.payout}</span>
@@ -1088,7 +1101,10 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
   else { document.getElementById('soon-title').textContent=it.dataset.soon; setView('soon'); }
 }));
 (function(){const g=document.getElementById('teamGrid');if(g){Object.keys(TEAMS).forEach(ab=>{const b=el(`<button class="team-chip" data-team="${ab}">${ab}</button>`);b.style.setProperty('--tc',TEAMS[ab].c);b.addEventListener('click',()=>{setFav(ab);markTeamGrid();applyFav();const ft=document.getElementById('f-team');if(ft&&!ft.value)ft.value=ab;});g.appendChild(b);});markTeamGrid();}
-  const ft=document.getElementById('f-team');if(ft){ft.innerHTML='<option value="">— none / multi-team —</option>'+Object.keys(TEAMS).map(ab=>`<option value="${ab}">${ab} · ${TEAMS[ab].n}</option>`).join('');ft.value=favTeam()||'';}})();
+  const ft=document.getElementById('f-team');if(ft){ft.innerHTML='<option value="">— none / multi-team —</option>'+Object.keys(TEAMS).map(ab=>`<option value="${ab}">${ab} · ${TEAMS[ab].n}</option>`).join('');ft.value=favTeam()||'';}
+  const fsp=document.getElementById('f-sport'),tw=document.getElementById('team-wrap');
+  function syncSport(){if(tw)tw.style.display=(fsp&&fsp.value==='NBA')?'block':'none';}
+  if(fsp){fsp.addEventListener('change',syncSport);syncSport();}})();
 (function(){
   const lt=$('#logToggle'); if(lt) lt.addEventListener('click',()=>$('#logform').classList.toggle('on'));
   const fc=$('#f-cancel'); if(fc) fc.addEventListener('click',()=>$('#logform').classList.remove('on'));
@@ -1131,7 +1147,7 @@ function renderHome(){
   const ft=TEAMS[favTeam()];
   if(ft){const stt=(DATA.standings&&DATA.standings.byTeam||{})[favTeam()];
     html+=`<div class="hcard" style="border-color:${ft.c}"><div class="hc-lbl" style="color:${ft.c}">Your team</div>
-      <div class="hrow"><b style="font-size:15px">${ft.n}</b><span class="mm">${stt?`#${stt.seed} ${ft.conf} · ${stt.w}-${stt.l}`:'Preseason opens Oct 3'}</span></div></div>`;}
+      <div class="hrow"><b style="font-size:15px">${ft.n}</b><span class="mm">${stt?`#${stt.seed} ${ft.conf} · ${stt.w}-${stt.l}`:'Record loads with live standings'}</span></div></div>`;}
   if(DATA._live){
     html+=`<div class="home-strip">Tonight · <b>${g.filter(x=>dayKey(x.tip)===0).length}</b> games · <b>${live.length}</b> live · next tip ${up[0]?tipET(up[0].tip):'—'}</div>`;
     if(live.length) html+=`<div class="hcard live"><div class="hc-lbl"><span class="d"></span>Live now</div>`+
@@ -1201,7 +1217,7 @@ function b64d(b){return decodeURIComponent(escape(atob((b||'').replace(/\s/g,'')
 function ghHeaders(){return {'Authorization':'Bearer '+ghToken(),'Accept':'application/vnd.github+json','Content-Type':'application/json'};}
 function normalizeBag(d){const now=new Date();d=d||{};return {start:d.start||0,today:now.getDate(),
   slips:(d.slips||[]).map(s=>({id:s.id,type:s.type||'Power',mult:s.mult||1,day:s.day||now.getDate(),
-  legs:s.legs||[],stake:s.stake||0,payout:s.payout||0,res:s.res||'PEND',pnl:s.pnl||0,ts:s.ts||0,team:s.team||''}))};}
+  legs:s.legs||[],stake:s.stake||0,payout:s.payout||0,res:s.res||'PEND',pnl:s.pnl||0,ts:s.ts||0,sport:s.sport||'NBA',team:s.team||''}))};}
 async function ghGet(){
   const url=`https://api.github.com/repos/${GH.owner}/${GH.repo}/contents/${GH.path}?ref=${GH.branch}&t=${Date.now()}`;
   const r=await fetch(url,{headers:ghHeaders(),cache:'no-store'});
@@ -1247,7 +1263,9 @@ async function saveBet(){
   const m=$('#f-msg');
   if(!legs.length||!stake){m.style.color='var(--red-ink)';m.textContent='Add at least one pick and a stake.';return;}
   const bet={id:Date.now(),ts:Date.now(),day:new Date().getDate(),type,mult,legs,
-    stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0,team:($('#f-team')||{}).value||''};
+    stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0,
+    sport:($('#f-sport')||{}).value||'NBA',
+    team:(($('#f-sport')||{}).value||'NBA')==='NBA'?(($('#f-team')||{}).value||''):''};
   m.style.color='var(--muted)';m.textContent='Saving to your repo…';
   try{
     await mutateBets(d=>{d.slips=d.slips||[];d.slips.push(bet);},'bets: log '+type);
@@ -1287,7 +1305,7 @@ async function loadLive(){
     if(h){g.hrec=h.w+'-'+h.l; g.hrank=String(h.seed);}
   });
   const on=document.querySelector('.conf-tab.on'); renderStandings(on?on.dataset.conf:'east');
-  renderGames(); renderCands(); renderLog(); renderBag(); renderNews(); renderHome(); renderMyTeam(); tickClock();
+  renderGames(); renderCands(); renderLog(); renderAlerts(); renderBag(); renderNews(); renderHome(); renderMyTeam(); tickClock();
 }
 // open external links in the system browser (native app) or a new tab (web)
 document.addEventListener('click',function(e){
