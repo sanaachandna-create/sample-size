@@ -1,15 +1,43 @@
 {
-  "updated": "2026-10-24T13:25:45+00:00",
+  "updated": "2026-10-24T16:45:05+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "These 5 NBA Teams Already Need a Trade - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdGh4U0liZW5IU0hVS01fRk9sQ001T0dzTHJDSFZSSi1VY192a0NBNkRLR0lURnV6a1lEZm1EQlFfbWZtSi1TNTI5WlZ2OUg0MVlaaFdUTDJ1SWJXTl9FLWxHYlpzZUdlZnFrdXlONVRqR0RrUHVBZEctbm5Ib3A2NlNqN010X0tl?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1792844387000,
+      "title": "Saturday's fantasy basketball adds and bets to make in the NBA - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcmdic3ZUVEllREFSSktrbE1LY3MwZkk1eUFad3VLLUlxdmZ2SUtidVZ1UGE0d0hWbjFLQnU1cTdIWHBFSmViLVItdi1iTHQtc19la09vek5zcGljdzlfWTM5alFzZ3hxUlZvbWl5M3A4ZklYdVF2Z20waGRmMzdjSlVlc1p5RDBIS3ozU1RxZWMzQjRydWN5Y2VnRU9ZV1p3bUQyNHk3VGlPTDQ?oc=5",
+      "source": "ESPN",
+      "ts": 1792858380000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks Vs Rockets: Preview, Injury Report and Projected Starters For Tonight's Game - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNV05uSjgwVUlISGRiYjdDZ3JNWXhpNFNEOVlEYzZkQmZucGtFelpmZGRlbjZDNDdudk1Sb19qWDJEU0g2NmNjWnFlSVRDc3VDV3hzQW4tcTFrdWxvQUFqcnpNQ1BNSGhjWHdDbXN3cGpYV3ZGLWFqSUxFbTFuQ3I3ZHVtQWFlN2ZpTEpKZmxEdEZmTWFuTTNBeGFSY0hjRWpYcHQ1M1d5RnJac254TDhJbEZSNVZTTmVVSHRCU3lLMmpvU1BxLXc?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1792858069000,
+      "tag": "team"
+    },
+    {
+      "title": "Warriors Could Target $112 Million Star in Kristaps Porzingis Trade - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUGVkdXRXSkh3bDUwa1I4cktMcUREZWRqVDdRMFM0MEF4U01LU0l1QWp2ZlptSVNsZ1NreHdpWUZrNmRodERYYWN1YkxFYUNfRVhGQ3A5c2t6VjlyVmd2dmc3NC1IYUd0WGRUNUVlUEpsalotYUtZRnc5dU5Ha19LaHRhQkdaNnZ2cFE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1792854775000,
+      "tag": "league"
+    },
+    {
+      "title": "Rockets, Hawks vie to remain undefeated in new season - Raleigh News & Observer",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ZMVV2YkFtODBmVFMtczRWWlJFaV8xX0lfSlBGZnJiWGFuMEs0by0xYi1sSjhacEJyNnFPUEgwNGpJakdHcHgxUjJDTFJnV2hmblpfSXlfMjhLaHMwSFk5UlF1TVZHbmJ2cHFPNUd3?oc=5",
+      "source": "Raleigh News & Observer",
+      "ts": 1792852140000,
+      "tag": "team"
+    },
+    {
+      "title": "Brandin Podziemski Injury: Won't play Saturday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLU1GZmJjU3F0UHhTdklCZHJqcUsyckw1ZnZJYUVpT1oxeVFGdUh2ZlBnYkg1NnUzdkFNQll0SlNua1o2MWI0dU91cUw1cWFhZjdfSVJqUGtnVHJ0bFhkQnYyenc4R2ZIRVVxSDlyamlZc29Dalg3ckt4Y3ZsUGVpQ1owWHRxSFJTQ3NzY25rcjlJb0hEd3dRWndJSmhBQQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1792851061000,
       "tag": "league"
     },
     {
@@ -34,38 +62,10 @@
       "tag": "league"
     },
     {
-      "title": "Pistons' Jalen Duren, Ausar Thompson exit game vs. Heat with injuries - The Detroit News",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVzVKQlIyclZXV0JmWnBwcGtsNHFqMFNhQWRtZExyUzVkei1mT0hEQ0dYdmhZZW5XMjd2R2NORkJaM1E5YzFXTnNMdDJtYjVWX2ExU00yY1k1WHpoY0hwR2lGVnl3RHltanNuTEdUeW50b2ZLNmFvMFVDZ0pPcXNCZExwS1lmdEI5T1FzREtvRWE0SGFaRkNHaUl5NkQ5ZGFubG1idEpVMHBkNy1LSDZoMmx5Vk9UVEN0UWlkUlJ1d011NU5DdXNPSnRJZXRvdXIwVExz?oc=5",
-      "source": "The Detroit News",
-      "ts": 1792822534000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta plays Houston for out-of-conference matchup - FOX Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTEQwRVNKUG5JWGswZVNEaGg4OW83bExCWVJmXzVOMlpQLVh6WFJaRm9wTk5lVXZQZ09HWHRURnJ6OHU1bGRxVmpyLThjMEh0ODRHLXA5eE1sYXhqcDg0T1FEdS1zenl5azRqanhfeW52UFFJOGpnTVl2NXJPZ0plMnQyS0M5QnkyZ3IySjRrS3RDQQ?oc=5",
-      "source": "FOX Sports",
-      "ts": 1792821744000,
-      "tag": "team"
-    },
-    {
-      "title": "Cameron Boozer hits go-ahead jumper with 20 seconds left, Grizzlies rally to beat Warriors 111-108 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYkJwNkRWNVpqRkRhTEdLWXV2X25yN0M4Z3R4TDlhNDVydmdSRlY4NFZLY1FQcEphYW1fUmY5RHN4MV9LMzVsRHdoZ0c5WkpBcVFUS3dRMV9TMDBXVm1jTFQ4dHV5VnB2NUVpV2s2NFNyR0NfdnluVVo0azdmVTJaaEgtNTdRbEVG?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792818240000,
-      "tag": "league"
-    },
-    {
-      "title": "Nobody can protect the ball against Dyson Daniels right now - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZGNhV3lCMnpiUkh0bUJTclplWmU5NmtpMUhJRjNlUWsyT1FicXd0SFF5RmJmUXR0LThyZ3pmQ0JmbncwaHdVSmQzaE5HNDNUMTItdDBEeDVLZHZUemJCMHQ2OWNXSU5ZVEhtaVZjREtyaEtFQmJsLTBfYjZtSC1KMFlidXJzaGU3UXc?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1792816020000,
-      "tag": "team"
-    },
-    {
-      "title": "5 thoughts from Mavericks-Pacers: Flagg injured, Irving takes over in May's first NBA win - Dallas News",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbm5fRGN3ZEVfNXB0Zk90UmtGMFJlNmVrVG1OQ2QxaEJGdEMtOWt4NzAxWXlaeTdaTU93Vy12N2FUdTZ4bVdxdjFfWFVBRmV0ZjRVTUJVcWVGS296bS1yUkgtQkVzV3l4bk9CZDFHNlRJZm1WQ09LOThDd1ExcFROd2pMVXdmdW8yTzFtWGM4R2FKY05vbGZnN0JTTlpORWItYkpacDdBUXhUNm1wSEtPNQ?oc=5",
+      "title": "Mavs' competitive spirit 'off the charts' as Dusty May gets first NBA win in home state - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmRsdllTdkJQOWlRLXFQMEZwNG44dFlxZTNmbEhCc3RlZDFxS1VUSEFUWm9mb3E5Nlk2Vmt6anF4N0psOUZVdlRFWUNxelRUN1BqZ2JmaklMZlpHMEdJWHJBc1FNbERhN3NobjB3ZnNLMk1nT2Zka2xfc29vTzlnYXJUWHZISGxGY1hmd2RtamhRQm1WWjN6WHE0YUFQNy1mVlNLTlJNamk2eGlMZXYySVJNaw?oc=5",
       "source": "Dallas News",
-      "ts": 1792813607000,
+      "ts": 1792821103000,
       "tag": "league"
     },
     {
@@ -90,6 +90,20 @@
       "tag": "league"
     },
     {
+      "title": "Mavericks lose Flagg to injury, and ruin Haliburton's home return with 121-105 win over Pacers - AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMzQ4cXdHYmh2eXM3LTNqTGFPemlpM3lqMnF6djZnY3haV25oRFF4ZDgwbFlpTkZ3Yl9PdTJNSUYwWkhRNUYtVTZnaTd0WkFOM0p0QWRDRTZnenJYMnFiaC14WWlKSVZyQ3FMbkYyZGZqMldjVGxaQ0hMN0oxZmJySl94aU9qa19FZS1fczhPeHMzRW5PTzZ0cFJVaHU3dw?oc=5",
+      "source": "AP News",
+      "ts": 1792808400000,
+      "tag": "league"
+    },
+    {
+      "title": "Mavericks' Cooper Flagg lands on shoulder after hard foul, exits win vs. Pacers - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPd3V4ZDYxNnFWNFhOdThFMkIxaERRMzBzODRtQk5PN0dqWEpTZ0NzUzQ1YXhfUnhiRnd5MWRjMHpPNU9hcm9UX2VWUnpwYUNtNi1qZC01WFEtSVNUNHlPOXY4SlNYUzk5RnNJX1NDZ2R6bktmRmJKZ21nRHFDZGxfSFc5M1dVeW1uVDNobkJpWl95WHU5NksyRFA4V1JYMlN6YUM1azR6RXFtdw?oc=5",
+      "source": "ESPN",
+      "ts": 1792805640000,
+      "tag": "league"
+    },
+    {
       "title": "Jalen Duren Injury: Questionable to return Friday - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWk10MXFkWmgwaGdLU2Y0c0Z1b1ZPbVhkcWVYZFVhSVMzOU5VVGhuNDB0ZGZDUURyMThNb3hmbzhPYlVpRGtYMVRYNl94a3JJUk5IQWJUb2pacm1lcVg1UzhzNTdCM0lTeVNxbmNrT0dxbzNqcU5lWU9PdjJzZ0gxYVdXR2hCOE8yLUR4bk1IZ3UwMFlQVlpOWml1WjVlaWp6czBB?oc=5",
       "source": "RotoWire",
@@ -97,10 +111,10 @@
       "tag": "league"
     },
     {
-      "title": "\u201cHe was acting real arrogant\u201d \u2013 Kevin Garnett says Kobe Bryant\u2019s attitude kept him from joining Lakers in 2007 - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ2szbWlucU52RGVfRHhzOGwtalowQ3kwTi1Ub1c4cy1NWVUtN3JvYnk5cDJIbloyeVFuRjdKamFjeVVuaFhNVmFwSzdhTnJ2VEpXRGlRbS1hVXJZUVY0cFU1MzhnYjFZbXpVeWVpM2RXWHJ2UEJpaVk4NTBTcjc1bFBKMTk5R2tDX2RpLVQ5dTdKa0M3TExLWm1vbHotb2VoSEZ4YW5xU3lrb01ZR3MyaFE3cFF1RllUTF9xdXlWbw?oc=5",
-      "source": "Basketball Network",
-      "ts": 1792803600000,
+      "title": "Jalen Duren Injury: Leaves for locker room - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcmZiejJEUVJtd1otSjdsRTZselZkNEJQUDB6dUwyRWNsbUVqelpOZ3hpcjJkRmFPWWo0aTAydE1QNkpWT2VDczBGYlp4SzZYSldHSXpqUHQzNVZQeVpEY3p6cHhDcVZsVlI1ZHY1dGlTdmxBbkYwTGR6TlRQanZ5WlF3RzFuM01zcHBkYUFUaGNSYzhhSWR5bldn?oc=5",
+      "source": "RotoWire",
+      "ts": 1792803804000,
       "tag": "league"
     },
     {
@@ -125,13 +139,6 @@
       "tag": "league"
     },
     {
-      "title": "Knicks prepared for reunion with Celtics\u2019 Mitchell Robinson: \u2018Bittersweet\u2019 - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2RFLVhrR0F3OE1zY1dobElNa1ZoTk5ZN1RrYmVvT0pIekdrWnRaOU5hSzVaQzJzVEZxbHlidjVsc0c5WDVZMHBfamFDRk9NZTliTV9ZemlOV3pDYTdxY2lVTjVmVnFkNGJpQW1QR1ViZUpTM005NmNmMkZpeU1xRXNjd05mTGM?oc=5",
-      "source": "New York Daily News",
-      "ts": 1792777365000,
-      "tag": "league"
-    },
-    {
       "title": "Novig Promo Code AMNY: Get $50 in Trade Credits Friday NBA (Oct. 23) - amNewYork",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kUTFjbWJjQTlSOHktTFpyNDRweDBSSU0tSWo1VkV6Q2pLV1dmZXZucXdGR3JLZWRKX0VBRkp5ZDdGUzBxN09wZkZOX3p4dkxXTXoxSnE4SkpzazZsT3lrQV85Y1dLbVpP?oc=5",
       "source": "amNewYork",
@@ -143,20 +150,6 @@
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMmVXTkEzS2JLWVJwZFNYSWtKcjZMU2h2WEdFS3NIWnByVnRHMVZqMkFaUVZLZ200QTRycUJOUFRNemRpZzk4SDJtMTVWQ0FlY2FiNDhUYnNhME9WRnlINTVGVDMtVnlIQXRjT21McWMzZjVTdkMwQ1BOQUJyLVdnYVJIN0UtVGhYckhCRDVUZWJXMlhjUHhZMnBtSHMzV3NyV0N4V2Y4RER4Tnl0N0xReXBEVEc4Zw?oc=5",
       "source": "Heavy.com",
       "ts": 1792771463000,
-      "tag": "league"
-    },
-    {
-      "title": "Tennessee Basketball Legend Dalton Knecht Signs Deal With New NBA Team, Headed to Another Massive Market - Rocky Top Insider",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOUm5BSHFGclFvaTBsUi11Tm5admE1bG5XWTM4VGhNb3dzUDNEQUJZejBHWjB5S0lRNHhrb3N2LW5aRDQzMDNUYXdyUHAtZXdHRUZISWZZOXg4bHJEUi1rNXhQRG9TTk5mdElpM0M4bUlxcGhJZnhvd3pwYXo4NzlhbzlCUy03VmJIVXJvQkZwQ0dIMFh2OXJIb2ZVZjljLVpoSUpGZ2hDSHhDZVZJZDhfQ3E0bndBN1BoZEE5RFh1MURGYmxibG03RENCdW1pVFBHNWlfNVJNQXNHWkc5WGVGX29DanhFMVRWUmJseW1zWlQ0UjRzanc?oc=5",
-      "source": "Rocky Top Insider",
-      "ts": 1792769416000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Teams Get Tougher On Star Extensions Being Unhappy Is Not A Negotiating Position Anymore - RealGM",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUXg1dEVYdWUwcDBseUtqOHY1c210cW5NZFg4Z0wycUhrNF9WMlVzZzd5VklZOVJxWXdIQUdHeXVyWXFhM2FqcmFHUVJEaUhvb1RHTVFGeThnbDc5YjlVUVJhMURLMDlCZDlZWG10MjY4N0RmcG5xZ1dSUlRPNFlkT3BaQ3R0WUhjUFpsUldabnNHMU96d2tVSlNYRlpYRU5iRUViR2Nmay1MY0N3ekM3TE85QWFnUGVmVzE1aF9iT0hkVVVYMi1BcjQwcmhFUlhjbmN3?oc=5",
-      "source": "RealGM",
-      "ts": 1792765920000,
       "tag": "league"
     },
     {
@@ -188,14 +181,14 @@
       "tag": "team"
     },
     {
-      "title": "James, Embiid, Maxey spark 76ers' rally from 29 points down in home opener to stun Cavs 114-106 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRzUzLVdqTTBlY01SNmxEQTFJc2ZLR0w0dFVKbFh1U3RwQ21QZEhhalcyZnMweFRxb1I1Z2xKY0VoaEFVM2J4TEplX1lyQUVVdjVfbHNpV1BOMjBBc3BoMmdGaE03MHZPOHBrY252MmJRNUJ6bXJxMi1VNElKaDdJdU9tNEt1QVZa?oc=5",
-      "source": "AP News",
-      "ts": 1792721220000,
+      "title": "Trump blasts 76ers star LeBron James as \u2018disgrace\u2019 for not standing still during national anthem - WKBN.com",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWZ2d2l3OXJzQXZpaWFBY1JSR0M4MkpkaHF5amFoeUJwczNmTEhlR0VBRjlUaGM3emVMR0lzdU5LZFlQSmdZQzV6LWRKaHJ0c0k0V0UzbWRZb0lCR0F4aUprd3EyT3dlSEhoQTY0QndUTmFjTTdTa2Z5RWdWb0o4Tnh5Y0ZILWVGajEzYkdtbTJpd3JXUC1LNm80LWd2NjhvRjl6Y2p1WlFvSnRTNEdQMVFJOXhQR19RZ1phM1IyMkVtelZsckxnWjhuM242QmctZTE2amxn0gHbAUFVX3lxTFAzMW91VzBmaDBXdE9hSDdMNFZpREFoM2F4S2RYRC1QblpCcXU3XzAzSVRnbkhlc05iOVpaWVRxeDNVRzNqN3FCSWVyUzBpNmlFaWI5bi1xY0xnWkRScnJrdUxjRElVbVp6cXhQRnp3UFQtNXlveWRKRTdXUlhRalFuZkJiZnJsRlFSVG8yLWUyMnRkTWs5WXpFb1haekw2WHVMQTRyTWxFSXUyY0dxVklVY0NIX1RUQnoxM3hGLVZsUXRhc0FZYUttRmk3bl9KUXI2aExOVk1JQVp3NA?oc=5",
+      "source": "WKBN.com",
+      "ts": 1792725161000,
       "tag": "league"
     },
     {
-      "title": "Atlanta Hawks' bad blood with Orlando Magic still simmers - The Atlanta Journal-Constitution",
+      "title": "Bad blood simmers, and other takeaways from Hawks season opener at Magic - The Atlanta Journal-Constitution",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcDJ3dTdRN2NOSm1RdUZHZjlTLVRJcUNZU2EwS0pEQnhYR0lmQzNjUkRMdVFnUWNkT3lTZERoVFhsWTR1ay01Z2tRRzdKNmh5REpwajg3QXd0NHltMFlGWjdRUThzVEJlMjh4cno1M0VGd2FqMmdkNjkwb0trOGZzV1dQMA?oc=5",
       "source": "The Atlanta Journal-Constitution",
       "ts": 1792716980000,
@@ -214,14 +207,16 @@
       "source": "New York Post",
       "ts": 1792704780000,
       "tag": "league"
+    },
+    {
+      "title": "76ers' LeBron James after President Trump's anthem criticism: 'Slow news day' - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTmZlYzE5R0xieVYwUGNuX0FqcVhxQ1lyWEdJblVMb1hvMGV4UDNmMV9CZl9fSmpIeUFZQ3NORElRNkw4Z1VYTmVkU3ByWFo2MVgxX2ZUWXRDOHVnSF85N01hS3d5MHhiLXVfbW5pY1F3OWM4Z2xMZ3AxWUwxQ0VfY1VjbkR3OEtfRm81TmE5Q0M3V3RlbDdROWtSc29yaEp2?oc=5",
+      "source": "ESPN",
+      "ts": 1792698540000,
+      "tag": "league"
     }
   ],
   "pushed": [
-    "nbatraderumorsjalendurenmakeshisdecisionplusdeaaronfoxmorehe",
-    "jamisonbattleinjurysittingoutwithbackissuerotowire",
-    "formerdukebasketballstarhasinjuryaheadofnbaopeneryahoosports",
-    "regradingtheknicksblockbustertradeforkarlanthonytownstwoyear",
-    "milwaukeebucksjoinnbasinhousestreamerpartlybecauseofgiannisa",
     "jimmybutlerinjurystillmonthsawayfromreturningrotowire",
     "keshadjohnsoninjurytweakshamstringrotowire",
     "noahpendainjurytrendinginrightdirectionrotowire",
@@ -716,6 +711,11 @@
     "jalendurenexitsfridayswinwiththighinjurynbanewsfantasybasket",
     "jalendureninjuryquestionabletoreturnfridayrotowire",
     "novigpromocodeamnyget50intradecreditsfridaynbaoct23amnewyork",
-    "warriorsgmdropshintonnbatradedeadlineplansheavycom"
+    "warriorsgmdropshintonnbatradedeadlineplansheavycom",
+    "hawksvsrocketspreviewinjuryreportandprojectedstartersfortoni",
+    "warriorscouldtarget112millionstarinkristapsporzingistradeyah",
+    "brandinpodziemskiinjurywontplaysaturdayrotowire",
+    "mavericksloseflaggtoinjuryandruinhaliburtonshomereturnwith12",
+    "blockbustertradeideatoblowupthe202627nbaseasonbleacherreport"
   ]
 }
