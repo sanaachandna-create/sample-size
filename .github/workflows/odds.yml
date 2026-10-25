@@ -1,0 +1,59 @@
+name: Update team lines
+
+on:
+  workflow_dispatch:
+    inputs:
+      season:
+        description: "Season start year (blank = 2026)"
+        required: false
+  schedule:
+    # Odds API free tier is 500 credits/mo; 1 call = 3 markets = ~3 credits.
+    # every 6h = 4/day = ~360 credits/mo — safely under budget.
+    - cron: "15 */6 * * *"
+
+concurrency:
+  group: update-team-lines
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  teams:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the team-lines worker
+        env:
+          SEASON: ${{ github.event.inputs.season }}
+          BDL_KEY: ${{ secrets.BDL_KEY }}
+          ODDS_KEY: ${{ secrets.ODDS_KEY }}
+        run: python odds.py
+
+      - name: Commit the data if it changed
+        run: |
+          git config user.name "sample-size-bot"
+          git config user.email "bot@users.noreply.github.com"
+          cp data/teams.json /tmp/teams.json
+          for i in 1 2 3 4 5 6; do
+            git add data/teams.json
+            if git diff --staged --quiet; then
+              echo "no change — nothing to commit"; exit 0
+            fi
+            git commit -m "teams: update $(date -u +%FT%TZ)"
+            if git push; then
+              echo "pushed on attempt $i"; exit 0
+            fi
+            echo "push rejected (attempt $i) — syncing and retrying"
+            git reset --soft HEAD~1
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/teams.json data/teams.json
+            sleep $((RANDOM % 6 + 2))
+          done
+          echo "could not push after 6 attempts"; exit 1
