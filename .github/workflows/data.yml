@@ -12,6 +12,11 @@ on:
     - cron: "*/5 0-7 * * *"
     - cron: "*/30 8-15 * * *"
 
+# avoid racing our own runs; if a new run starts, let it supersede a queued one
+concurrency:
+  group: update-nba-data
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -35,6 +40,24 @@ jobs:
         run: |
           git config user.name "sample-size-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add data/today.json
-          git diff --staged --quiet || git commit -m "data: update $(date -u +%FT%TZ)"
-          git push
+          # Our worker regenerates data/today.json wholesale, so on a push
+          # collision we just grab the freshest remote and lay our file back
+          # on top — no merge conflicts, newest data always wins.
+          cp data/today.json /tmp/today.json
+          for i in 1 2 3 4 5 6; do
+            git add data/today.json
+            if git diff --staged --quiet; then
+              echo "no change — nothing to commit"; exit 0
+            fi
+            git commit -m "data: update $(date -u +%FT%TZ)"
+            if git push; then
+              echo "pushed on attempt $i"; exit 0
+            fi
+            echo "push rejected (attempt $i) — syncing to remote and retrying"
+            git reset --soft HEAD~1            # undo our commit, keep the file staged state
+            git fetch origin main
+            git reset --hard origin/main        # match remote exactly
+            cp /tmp/today.json data/today.json  # restore our freshly generated file
+            sleep $((RANDOM % 6 + 2))           # small random backoff to de-sync from cron
+          done
+          echo "could not push after 6 attempts"; exit 1
