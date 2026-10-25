@@ -521,7 +521,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-25 · TEAM READ</div>
+  <div class="drawer-foot">BUILD 10-25 · CARD-CLEAN</div>
 </aside>
 
 <main id="scroll">
@@ -862,6 +862,14 @@ function renderGames(){
     const fav=isFav(g);
     const showScore=(ws.cls==='live'||ws.cls==='final') && g.hscore!=null && g.ascore!=null;
     const trHTML=teamReadHTML(g);
+    const tcol=(ab)=>(TEAMS[ab]||{}).c||'var(--ink)';
+    const injOut=(g.injuries&&g.injuries.length)?`<div class="d-block"><p class="sub">Injuries & status</p>${g.injuries.map(x=>`<div class="inj"><span class="st ${x.st}">${x.st}</span><span class="who" style="color:${tcol(x.team)}">${x.p}</span><span class="note">${x.note}</span></div>`).join('')}</div>`:'';
+    const luOut=(g.lineups&&((g.lineups.away&&g.lineups.away.length)||(g.lineups.home&&g.lineups.home.length)))?`<div class="d-block"><p class="sub">Projected lineups <span class="tag-ctx">re-checks tip-40</span></p><div class="lu"><div class="col"><b>${g.ha}</b>${g.lineups.away.map(p=>`<div class="p"><span class="pos">${p[0]}</span>${p[1]}</div>`).join('')}</div><div class="col"><b>${g.hh}</b>${g.lineups.home.map(p=>`<div class="p"><span class="pos">${p[0]}</span>${p[1]}</div>`).join('')}</div></div></div>`:'';
+    const plOut=(g.players&&g.players.length)?`<div class="d-block"><p class="sub">Players to watch</p>${g.players.map(p=>`<div class="pl-row"><div><div class="pl-name">${p.n} <span class="pl-meta">${p.pos} · ${p.tm} · ${p.ht}</span></div><div class="pl-meta">${p.note}</div></div><div class="pl-line"><div class="s"><b>${p.ppg}</b><span>PPG</span></div><div class="s"><b>${p.rpg}</b><span>REB</span></div><div class="s"><b>${p.apg}</b><span>AST</span></div></div></div>`).join('')}</div>`:'';
+    const refOut=(g.ref&&Object.keys(g.ref).length)?`<div class="d-block"><p class="sub">Reference trends <span class="tag-ctx">context · not model input</span></p><div class="ref">${Object.entries(g.ref).map(([k,r])=>`<div class="cell"><div class="k">${k}</div><div class="v ${r.dir==='up'?'up':r.dir==='down'?'down':''}">${r.v}</div><div class="trend ${r.dir==='up'?'up':r.dir==='down'?'down':''}">${r.t}</div></div>`).join('')}</div></div>`:'';
+    const h2hOut=g.h2h?`<div class="d-block" style="margin-bottom:2px"><p class="sub">Head to head</p><div style="font-size:12px;color:var(--muted)">${g.h2h}</div></div>`:'';
+    const detailBody=trHTML+injOut+luOut+plOut+refOut+h2hOut;
+    const detailInner=detailBody||`<div class="d-block" style="margin-bottom:2px"><p class="sub">Game detail</p><div style="font-size:12px;color:var(--faint);line-height:1.55">Injuries and the team read for this matchup appear here once the data lands.</div></div>`;
     const node=el(`<div class="game ${ws.cls}${fav?' favgame':''}"${fav?` style="--tc:${(TEAMS[favTeam()]||{}).c}"`:''} data-i="${i}">
       <div class="rail"></div>
       <div class="g-top">
@@ -879,32 +887,7 @@ function renderGames(){
         <span class="pill ${ws.pill}">${ws.label}</span>
         ${injCount?`<span class="flag"><svg class="crossic" viewBox="0 0 24 24"><path d="M9 3h6v6h6v6h-6v6H9v-6H3V9h6z"/></svg>${injCount}</span>`:''}
       </div>
-      <div class="detail"><div class="d-inner">${trHTML}${hasDetail?`
-        <div class="d-block"><p class="sub">Injuries & status</p>
-          ${g.injuries.map(x=>`<div class="inj"><span class="st ${x.st}">${x.st}</span>
-            <span class="who">${x.p}</span><span style="color:var(--faint);font-size:10px;font-family:var(--f-mono)">${x.team}</span>
-            <span class="note">${x.note}</span></div>`).join('')}</div>
-        <div class="d-block"><p class="sub">Projected lineups <span class="tag-ctx">re-checks tip-40</span></p>
-          <div class="lu">
-            <div class="col"><b>${g.ha}</b>${g.lineups.away.map(p=>`<div class="p"><span class="pos">${p[0]}</span>${p[1]}</div>`).join('')}</div>
-            <div class="col"><b>${g.hh}</b>${g.lineups.home.map(p=>`<div class="p"><span class="pos">${p[0]}</span>${p[1]}</div>`).join('')}</div>
-          </div></div>
-        <div class="d-block"><p class="sub">Players to watch</p>
-          ${g.players.map(p=>`<div class="pl-row"><div>
-            <div class="pl-name">${p.n} <span class="pl-meta">${p.pos} · ${p.tm} · ${p.ht}</span></div>
-            <div class="pl-meta">${p.note}</div></div>
-            <div class="pl-line">
-              <div class="s"><b>${p.ppg}</b><span>PPG</span></div>
-              <div class="s"><b>${p.rpg}</b><span>REB</span></div>
-              <div class="s"><b>${p.apg}</b><span>AST</span></div></div></div>`).join('')}</div>
-        <div class="d-block"><p class="sub">Reference trends <span class="tag-ctx">context · not model input</span></p>
-          <div class="ref">${Object.entries(g.ref).map(([k,r])=>`<div class="cell">
-            <div class="k">${k}</div><div class="v ${r.dir==='up'?'up':r.dir==='down'?'down':''}">${r.v}</div>
-            <div class="trend ${r.dir==='up'?'up':r.dir==='down'?'down':''}">${r.t}</div></div>`).join('')}</div></div>
-        <div class="d-block" style="margin-bottom:2px"><p class="sub">Head to head</p>
-          <div style="font-size:12px;color:var(--muted)">${g.h2h}</div></div>
-      `:(trHTML?'':`<div class="d-block" style="margin-bottom:2px"><p class="sub">Game detail</p>
-        <div style="font-size:12px;color:var(--faint);line-height:1.55">Injuries, projected lineups, and stats for this matchup come online in the next data stage.</div></div>`)}</div></div>
+      <div class="detail"><div class="d-inner">${detailInner}</div></div>
     </div>`);
     node.addEventListener('click',()=>node.classList.toggle('open'));
     wrap.appendChild(node);
