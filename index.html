@@ -1908,8 +1908,41 @@ async function pollLive(){
       if(m.ch){ g.channel=m.ch; g.national=m.natl; }
     });
     if(hit){ renderGames(); renderHome(); }
+    driveLiveActivity();
     return hit;
   }catch(e){ return false; }
+}
+// ===== LIVE ACTIVITY (Dynamic Island / lock screen) =====
+const LiveActivity=(window.Capacitor&&window.Capacitor.registerPlugin)?window.Capacitor.registerPlugin('LiveActivity'):null;
+let _laKey=null; // which game (ha@hh) the activity is currently showing
+function laStatus(g){
+  if(g.status==='post') return 'Final';
+  const p=g.period||1, c=g.clock||'';
+  if(p>4) return 'OT'+(p-4)+(c?(' '+c):'');
+  return 'Q'+p+(c?(' '+c):'');
+}
+async function driveLiveActivity(){
+  if(!LiveActivity) return;
+  const games=DATA.games||[];
+  const fav=(typeof favTeam==='function')?favTeam():null;
+  const live=games.filter(g=>g.status==='in');
+  let g=live.find(x=>fav&&(x.away===fav||x.home===fav))||live[0];
+  // nothing live, but the game we were tracking just finished → show Final, then end
+  if(!g && _laKey){
+    const done=games.find(x=>(x.ha+'@'+x.hh)===_laKey);
+    if(done && done.status==='post'){
+      try{ await LiveActivity.update({away:done.ha,home:done.hh,awayScore:done.ascore||0,homeScore:done.hscore||0,status:'Final'}); }catch(e){}
+    }
+    try{ await LiveActivity.end(); }catch(e){}
+    _laKey=null; return;
+  }
+  if(!g) return;
+  const key=g.ha+'@'+g.hh;
+  const payload={away:g.ha,home:g.hh,awayScore:g.ascore||0,homeScore:g.hscore||0,status:laStatus(g)};
+  try{
+    if(_laKey!==key){ if(_laKey){try{await LiveActivity.end();}catch(e){}} await LiveActivity.start(payload); _laKey=key; }
+    else { await LiveActivity.update(payload); }
+  }catch(e){}
 }
 // open external links in the system browser (native app) or a new tab (web)
 document.addEventListener('click',function(e){
