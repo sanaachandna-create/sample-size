@@ -28,9 +28,22 @@ def device_token():
         return None
 
 
+def normalize_p8(raw):
+    """Rebuild a clean PEM from the .p8 secret regardless of how its
+    newlines/whitespace survived being pasted into a GitHub secret."""
+    import re
+    raw = (raw or "").strip().strip('"').strip("'").replace("\\n", "\n")
+    m = re.search(r"-----BEGIN [A-Z ]+-----(.+?)-----END", raw, re.S)
+    if not m:
+        return raw  # let it fail loudly with the original if markers missing
+    body = re.sub(r"\s+", "", m.group(1))
+    wrapped = "\n".join(body[i:i + 64] for i in range(0, len(body), 64))
+    return f"-----BEGIN PRIVATE KEY-----\n{wrapped}\n-----END PRIVATE KEY-----\n"
+
+
 def _jwt():
     import jwt  # PyJWT; needs cryptography for ES256
-    key = os.environ["APNS_KEY"]
+    key = normalize_p8(os.environ["APNS_KEY"])
     kid = os.environ["APNS_KEY_ID"]
     team = os.environ["APNS_TEAM_ID"]
     return jwt.encode({"iss": team, "iat": int(time.time())},
