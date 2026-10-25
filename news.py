@@ -35,6 +35,21 @@ HEADERS = {
 
 DISCORD = (os.environ.get("DISCORD_WEBHOOK") or "").strip()
 
+try:
+    from push import send_push as _apns_send
+except Exception:  # noqa: BLE001
+    _apns_send = None
+
+
+def apns_notify(item):
+    """Fire a native iOS push for a breaking item (never fatal)."""
+    if not _apns_send:
+        return
+    try:
+        _apns_send("SAMPLE SIZE — WIRE", (item.get("title") or "")[:160])
+    except Exception:  # noqa: BLE001
+        pass
+
 BREAK_KW = [
     "traded",
     "trade",
@@ -390,6 +405,7 @@ def main():
                 if discord_push(item):
                     pushes += 1
                     pushed.append(key_of(item["title"]))
+                    apns_notify(item)
                 else:
                     print(
                         "Alert was not marked as pushed, "
