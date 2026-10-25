@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T20:17:11+00:00",
+  "updated": "2026-10-25T21:16:00+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 209,
+  "injuryCount": 205,
   "games": [
     {
       "ha": "LAL",
@@ -19,11 +19,11 @@
       "tip": 1792962000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 6,
+      "ascore": 2,
+      "period": 1,
+      "clock": "Q1 9:50",
       "injuries": [
         {
           "p": "Cameron Carr",
@@ -411,6 +411,12 @@
           "st": "OUT",
           "team": "PHI",
           "note": "Injury/Illness - Right Plantar fasciitis injury management (2026-10-25, DET@PHI). Prior re"
+        },
+        {
+          "p": "VJ Edgecombe",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Injury/Illness - Abdominal Contusion (2026-10-25, DET@PHI)."
         }
       ],
       "lineups": {
@@ -518,43 +524,37 @@
           "p": "Tristan Vukcevic",
           "st": "OUT",
           "team": "WAS",
-          "note": "The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks. Alt"
+          "note": "Injury/Illness - Left Hip Impingement (2026-10-26, WAS@CHA). Prior reporting (2026-10-01):"
         },
         {
           "p": "Jamir Watkins",
           "st": "OUT",
           "team": "WAS",
-          "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. Watkins,"
+          "note": "Injury/Illness - Left ACL Repair / Surgery (2026-10-26, WAS@CHA). Prior reporting (2026-07"
         },
         {
           "p": "AJ Dybantsa",
           "st": "OUT",
           "team": "WAS",
-          "note": "Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls. Dybantsa will m"
-        },
-        {
-          "p": "Kylan Boswell",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "Boswell (knee) is out for Wednesday's season opener against the Nets. Boswell continues to"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-10-26, WAS@CHA). Prior reporting (2026-10-25): Dy"
         },
         {
           "p": "Coby White",
           "st": "OUT",
           "team": "CHA",
-          "note": "White (calf) has been ruled out for Saturday's game against Miami. White will miss a third"
+          "note": "Injury/Illness - Left Calf Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-25): Whi"
         },
         {
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "Knueppel (hamstring) has been ruled out for Saturday's game against the Heat. Knueppel wil"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-24)"
         },
         {
           "p": "Grant Williams",
           "st": "OUT",
           "team": "CHA",
-          "note": "Williams (hamstring) has been ruled out for Saturday's game against the Heat. Williams wil"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-24"
         }
       ],
       "lineups": {
@@ -707,19 +707,19 @@
           "p": "Caleb Martin",
           "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): M"
+          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-25): M"
         },
         {
           "p": "Cooper Flagg",
           "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24):"
+          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-25):"
         },
         {
           "p": "Naji Marshall",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA)."
+          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA). Prior reporting (2026-10-25): Marshall (il"
         },
         {
           "p": "Pelle Larsson",
@@ -1004,49 +1004,37 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Porzingis is contemplating his future in basketball as he deals with recurring symptoms fr"
+          "note": "Not With Team (2026-10-26, GSW@DEN). Prior reporting (2026-10-21): Porzingis is contemplat"
         },
         {
           "p": "Jimmy Butler",
           "st": "OUT",
           "team": "GSW",
-          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-26, GSW@DEN). Prior reporting (2026-1"
         },
         {
           "p": "Moses Moody",
           "st": "OUT",
           "team": "GSW",
-          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
-        },
-        {
-          "p": "Brandin Podziemski",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the War"
-        },
-        {
-          "p": "Stephen Curry",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Curry (rest) won't play Saturday against the Suns. Curry told reporters after Friday's los"
-        },
-        {
-          "p": "Draymond Green",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Green (back) won't play Saturday in Phoenix. Green is sitting out the second leg of this b"
-        },
-        {
-          "p": "Al Horford",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Horford (back) has been ruled out for Saturday's game against the Suns. As expected, the v"
+          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-10-26, GSW@DEN). Prior report"
         },
         {
           "p": "Gui Santos",
           "st": "GTD",
           "team": "GSW",
-          "note": "Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not r"
+          "note": "Injury/Illness - Left Knee Tendinitis (2026-10-26, GSW@DEN). Prior reporting (2026-10-25):"
+        },
+        {
+          "p": "Charles Bassey",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Injury/Illness - Right Patellar Tendinopathy (2026-10-26, GSW@DEN)."
+        },
+        {
+          "p": "Brandon Williams",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Injury/Illness - Left Low Back Soreness (2026-10-26, GSW@DEN)."
         },
         {
           "p": "Spencer Jones",
@@ -1388,19 +1376,19 @@
           "p": "Tristan Vukcevic",
           "st": "OUT",
           "team": "WAS",
-          "note": "The Wizards announced Thursday that Vukcevic (hip) will be re-evaluated in four weeks. Alt"
+          "note": "Injury/Illness - Left Hip Impingement (2026-10-26, WAS@CHA). Prior reporting (2026-10-01):"
         },
         {
           "p": "Jamir Watkins",
           "st": "OUT",
           "team": "WAS",
-          "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. Watkins,"
+          "note": "Injury/Illness - Left ACL Repair / Surgery (2026-10-26, WAS@CHA). Prior reporting (2026-07"
         },
         {
           "p": "AJ Dybantsa",
           "st": "OUT",
           "team": "WAS",
-          "note": "Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls. Dybantsa will m"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-10-26, WAS@CHA). Prior reporting (2026-10-25): Dy"
         },
         {
           "p": "Khalifa Diop",
@@ -1448,28 +1436,22 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Kylan Boswell",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "Boswell (knee) is out for Wednesday's season opener against the Nets. Boswell continues to"
-        },
-        {
           "p": "Coby White",
           "st": "OUT",
           "team": "CHA",
-          "note": "White (calf) has been ruled out for Saturday's game against Miami. White will miss a third"
+          "note": "Injury/Illness - Left Calf Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-25): Whi"
         },
         {
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "Knueppel (hamstring) has been ruled out for Saturday's game against the Heat. Knueppel wil"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-24)"
         },
         {
           "p": "Grant Williams",
           "st": "OUT",
           "team": "CHA",
-          "note": "Williams (hamstring) has been ruled out for Saturday's game against the Heat. Williams wil"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-26, WAS@CHA). Prior reporting (2026-10-24"
         },
         {
           "p": "Ausar Thompson",
@@ -1557,6 +1539,12 @@
           "st": "OUT",
           "team": "PHI",
           "note": "Injury/Illness - Right Plantar fasciitis injury management (2026-10-25, DET@PHI). Prior re"
+        },
+        {
+          "p": "VJ Edgecombe",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Injury/Illness - Abdominal Contusion (2026-10-25, DET@PHI)."
         },
         {
           "p": "T.J. McConnell",
@@ -1796,49 +1784,37 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Porzingis is contemplating his future in basketball as he deals with recurring symptoms fr"
+          "note": "Not With Team (2026-10-26, GSW@DEN). Prior reporting (2026-10-21): Porzingis is contemplat"
         },
         {
           "p": "Jimmy Butler",
           "st": "OUT",
           "team": "GSW",
-          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-26, GSW@DEN). Prior reporting (2026-1"
         },
         {
           "p": "Moses Moody",
           "st": "OUT",
           "team": "GSW",
-          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
-        },
-        {
-          "p": "Brandin Podziemski",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the War"
-        },
-        {
-          "p": "Stephen Curry",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Curry (rest) won't play Saturday against the Suns. Curry told reporters after Friday's los"
-        },
-        {
-          "p": "Draymond Green",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Green (back) won't play Saturday in Phoenix. Green is sitting out the second leg of this b"
-        },
-        {
-          "p": "Al Horford",
-          "st": "GTD",
-          "team": "GSW",
-          "note": "Horford (back) has been ruled out for Saturday's game against the Suns. As expected, the v"
+          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-10-26, GSW@DEN). Prior report"
         },
         {
           "p": "Gui Santos",
           "st": "GTD",
           "team": "GSW",
-          "note": "Santos exited Saturday's 131-122 loss to the Suns with an undisclosed injury and did not r"
+          "note": "Injury/Illness - Left Knee Tendinitis (2026-10-26, GSW@DEN). Prior reporting (2026-10-25):"
+        },
+        {
+          "p": "Charles Bassey",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Injury/Illness - Right Patellar Tendinopathy (2026-10-26, GSW@DEN)."
+        },
+        {
+          "p": "Brandon Williams",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Injury/Illness - Left Low Back Soreness (2026-10-26, GSW@DEN)."
         },
         {
           "p": "Donte DiVincenzo",
@@ -2027,19 +2003,19 @@
           "p": "Caleb Martin",
           "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): M"
+          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-25): M"
         },
         {
           "p": "Cooper Flagg",
           "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24):"
+          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-25):"
         },
         {
           "p": "Naji Marshall",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA)."
+          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA). Prior reporting (2026-10-25): Marshall (il"
         }
       ],
       "lineups": {
