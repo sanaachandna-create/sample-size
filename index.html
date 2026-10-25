@@ -289,6 +289,8 @@
   .menu-btn svg{width:19px;height:19px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round}
   .icon-btn{background:0;border:1px solid var(--line);border-radius:9px;padding:6px;cursor:pointer;color:var(--muted);display:flex;flex-shrink:0}
   .icon-btn svg{width:19px;height:19px;stroke:currentColor;fill:none;stroke-width:2;stroke-linecap:round}
+  .icon-btn.spin svg{animation:spin360 .8s linear infinite}
+  @keyframes spin360{to{transform:rotate(360deg)}}
   .drawer-back{position:fixed;inset:0;background:rgba(0,0,0,.55);z-index:49;opacity:0;pointer-events:none;transition:opacity .25s}
   .drawer-back.open{opacity:1;pointer-events:auto}
   .drawer{position:fixed;top:0;left:0;bottom:0;width:76%;max-width:300px;background:var(--surface);
@@ -446,6 +448,7 @@
 <header>
   <button class="menu-btn" id="menuBtn" aria-label="Menu"><svg viewBox="0 0 24 24"><path d="M3 6h18M3 12h18M3 18h18"/></svg></button>
   <div class="brand" id="homeLink"><span class="qm">"</span><span class="w">SAMPLE</span> <span class="o">SIZE</span><span class="qm">"</span></div>
+  <button class="icon-btn" id="refreshBtn" aria-label="Refresh"><svg viewBox="0 0 24 24"><path d="M21 12a9 9 0 1 1-2.6-6.4M21 4v5h-5"/></svg></button>
   <button class="icon-btn" id="searchBtn" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.6-3.6"/></svg></button>
 </header>
 <div class="drawer-back" id="drawerBack"></div>
@@ -457,7 +460,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-24 · MULTI-SPORT</div>
+  <div class="drawer-foot">BUILD 10-24 · SCAN+REFRESH</div>
 </aside>
 
 <main id="scroll">
@@ -494,7 +497,9 @@
 
 <section class="view" id="v-bag">
   <div class="eyebrow"><span class="q">"</span>THE BOOK<span class="q">"</span> <span class="eb-count">— PROFIT & LOSS</span></div>
-  <div class="book-actions"><button class="btn act" id="logToggle">+ Log a bet</button></div>
+  <div class="book-actions"><button class="btn act" id="logToggle">+ Log a bet</button><button class="btn" id="scanToggle">📷 Scan slip</button></div>
+  <input type="file" id="scanFile" accept="image/*" capture="environment" style="display:none">
+  <div class="form-msg" id="scan-msg" style="margin:-6px 2px 10px"></div>
   <div class="logform" id="logform">
     <label>The picks — one per line, or comma-separated</label>
     <textarea id="f-legs" placeholder="LeBron o25.5 pts&#10;Tatum o27.5 pts"></textarea>
@@ -576,6 +581,15 @@
     </div>
     <div class="form-msg" id="s-msg2"></div>
     <div class="set-help">Sends your team + players to the news worker (needs the token below). It then pulls headlines for them every few hours.</div>
+  </div>
+  <div class="setform">
+    <label class="set-lbl">Anthropic API key — powers Scan Slip (reads your bet screenshots)</label>
+    <input id="s-akey" type="password" placeholder="sk-ant-…">
+    <div class="book-actions" style="margin-top:12px">
+      <button class="btn act" id="s-akey-save">Save key</button>
+    </div>
+    <div class="form-msg" id="s-akey-msg"></div>
+    <div class="set-help">Stored only on this device. Get one at <b>console.anthropic.com</b> → API Keys. Pennies per scan.</div>
   </div>
   <div class="setform">
     <label class="set-lbl">GitHub token — syncs your bets across phone &amp; Mac</label>
@@ -1107,6 +1121,11 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
   if(fsp){fsp.addEventListener('change',syncSport);syncSport();}})();
 (function(){
   const lt=$('#logToggle'); if(lt) lt.addEventListener('click',()=>$('#logform').classList.toggle('on'));
+  const rb=document.getElementById('refreshBtn'); if(rb) rb.addEventListener('click',refreshData);
+  const stg=document.getElementById('scanToggle'), sf=document.getElementById('scanFile');
+  if(stg&&sf){stg.addEventListener('click',()=>sf.click());sf.addEventListener('change',e=>{if(e.target.files&&e.target.files[0])scanSlip(e.target.files[0]);e.target.value='';});}
+  const ak=document.getElementById('s-akey'); if(ak) ak.value=akey();
+  const aks=document.getElementById('s-akey-save'); if(aks) aks.addEventListener('click',()=>{setAkey(($('#s-akey').value||'').trim());const m=$('#s-akey-msg');m.style.color='var(--green-ink)';m.textContent='Saved on this device ✓';});
   const fc=$('#f-cancel'); if(fc) fc.addEventListener('click',()=>$('#logform').classList.remove('on'));
   const fs=$('#f-save'); if(fs) fs.addEventListener('click',saveBet);
   document.querySelectorAll('.type-btn').forEach(b=>b.addEventListener('click',()=>{
@@ -1256,6 +1275,46 @@ async function mutateBets(fn,msg){
   DATA.bag=normalizeBag(data); DATA._betsLive=true;
   renderBag(); renderHome();
 }
+// ----- force refresh (re-pull data + channels on demand) -----
+async function refreshData(){
+  const b=document.getElementById('refreshBtn'); if(b)b.classList.add('spin');
+  try{ await loadLive(); }catch(e){}
+  if(b)setTimeout(()=>b.classList.remove('spin'),500);
+}
+// ----- Scan Slip: OCR a PrizePicks screenshot via Claude vision -----
+function akey(){try{return localStorage.getItem('ss_akey')||'';}catch(e){return '';}}
+function setAkey(v){try{localStorage.setItem('ss_akey',v);}catch(e){}}
+const SCAN_MODEL='claude-haiku-4-5-20251001';
+const SCAN_PROMPT='Read this PrizePicks or sportsbook bet-slip screenshot. Return ONLY a JSON object (no prose, no markdown fences) with keys: sport (one of NBA,NFL,Tennis,MLB,NHL,WNBA,Soccer,Other), type (Power, Flex, or Team), stake (number: the entry/wager amount in dollars), payout (number: the to-win or total payout in dollars), mult (number multiplier if shown else null), legs (array of short strings, one per pick, e.g. "LeBron James MORE 25.5 Points"). Use null if a value is not visible, [] if no legs.';
+function fileToB64(file){return new Promise((res,rej)=>{const r=new FileReader();r.onload=()=>res(String(r.result).split(',')[1]);r.onerror=rej;r.readAsDataURL(file);});}
+async function scanSlip(file){
+  const m=document.getElementById('scan-msg');
+  if(!akey()){m.style.color='var(--red-ink)';m.textContent='Add your Anthropic API key in ☰ menu → Settings first.';return;}
+  if(!file){return;}
+  m.style.color='var(--muted)';m.textContent='Reading your slip…';
+  try{
+    const b64=await fileToB64(file);
+    const mime=file.type||'image/jpeg';
+    const r=await fetch('https://api.anthropic.com/v1/messages',{method:'POST',
+      headers:{'x-api-key':akey(),'anthropic-version':'2023-06-01','anthropic-dangerous-direct-browser-access':'true','content-type':'application/json'},
+      body:JSON.stringify({model:SCAN_MODEL,max_tokens:1024,messages:[{role:'user',content:[
+        {type:'image',source:{type:'base64',media_type:mime,data:b64}},
+        {type:'text',text:SCAN_PROMPT}]}]})});
+    if(!r.ok){const t=await r.text();throw new Error('API '+r.status+' '+t.slice(0,120));}
+    const j=await r.json();
+    let txt=(j.content&&j.content[0]&&j.content[0].text||'').trim().replace(/^```json\s*|\s*```$/g,'');
+    const d=JSON.parse(txt);
+    // fill the log form for review
+    document.getElementById('logform').classList.add('on');
+    if(Array.isArray(d.legs))$('#f-legs').value=d.legs.join('\n');
+    if(d.stake!=null)$('#f-stake').value=d.stake;
+    if(d.mult!=null)$('#f-mult').value=d.mult;
+    const fsp=$('#f-sport'); if(fsp&&d.sport){[...fsp.options].forEach(o=>{if(o.value===d.sport)fsp.value=d.sport;});fsp.dispatchEvent(new Event('change'));}
+    document.querySelectorAll('.type-btn').forEach(x=>x.classList.toggle('on',(x.dataset.type||'')===(d.type||'Power')));
+    m.style.color='var(--green-ink)';m.textContent='Scanned ✓ — check the numbers, then Save bet.';
+  }catch(e){m.style.color='var(--red-ink)';m.textContent='Scan failed: '+e.message;}
+}
+
 async function saveBet(){
   const legs=$('#f-legs').value.split(/[\n,]/).map(x=>x.trim()).filter(Boolean);
   const type=(document.querySelector('.type-btn.on')||{}).dataset?.type||'Power';
@@ -1306,6 +1365,52 @@ async function loadLive(){
   });
   const on=document.querySelector('.conf-tab.on'); renderStandings(on?on.dataset.conf:'east');
   renderGames(); renderCands(); renderLog(); renderAlerts(); renderBag(); renderNews(); renderHome(); renderMyTeam(); tickClock();
+  enrichChannels();   // pull real TV/broadcast info client-side (residential IP dodges the cloud block)
+}
+
+// ===== CHANNELS — fetch broadcast/TV info from the NBA's public feed, client-side.
+// The cloud worker is IP-blocked from this feed; your phone/browser is not.
+const NAT_SET=new Set(['ESPN','ESPN2','ABC','TNT','NBC','Peacock','Prime Video','Amazon Prime','NBA TV']);
+function etDate(ms){try{const d=new Date(ms);const p=new Intl.DateTimeFormat('en-CA',{timeZone:'America/New_York',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(d);const o={};p.forEach(x=>o[x.type]=x.value);return `${o.year}-${o.month}-${o.day}`;}catch(e){return '';}}
+function gameKey(away,home,ymd){return `${away}@${home}@${ymd}`;}
+async function fetchSchedMap(){
+  // cache per day in localStorage so we don't re-pull the big file every open
+  try{const c=JSON.parse(localStorage.getItem('ss_chan')||'null');if(c&&c.day===etDate(Date.now()))return c.map;}catch(e){}
+  const urls=['https://cdn.nba.com/static/json/staticData/scheduleLeagueV2_1.json',
+              'https://cdn.nba.com/static/json/staticData/scheduleLeagueV2.json'];
+  for(const u of urls){
+    try{
+      const r=await fetch(u,{cache:'no-store'}); if(!r.ok) continue;
+      const d=await r.json(); const map={};
+      (d.leagueSchedule?.gameDates||[]).forEach(day=>{
+        (day.games||[]).forEach(g=>{
+          const away=g.awayTeam?.teamTricode, home=g.homeTeam?.teamTricode;
+          const ymd=(g.gameDateEst||'').split('T')[0]; if(!away||!home||!ymd) return;
+          const b=g.broadcasters||{};
+          const nat=(b.nationalTvBroadcasters||[]).map(x=>x.broadcasterDisplay).filter(Boolean);
+          const hm=(b.homeTvBroadcasters||[]).map(x=>x.broadcasterDisplay).filter(Boolean);
+          const aw=(b.awayTvBroadcasters||[]).map(x=>x.broadcasterDisplay).filter(Boolean);
+          let ch,natl=false;
+          if(nat.length){ch=[...new Set(nat)].join(' · ');natl=true;}
+          else {const loc=[...new Set([...hm,...aw])];ch=loc.length?loc.join(' · '):'League Pass';}
+          map[gameKey(away,home,ymd)]={ch,natl};
+        });
+      });
+      try{localStorage.setItem('ss_chan',JSON.stringify({day:etDate(Date.now()),map}));}catch(e){}
+      return map;
+    }catch(e){/* blocked or CORS — try next */}
+  }
+  return null;
+}
+async function enrichChannels(){
+  const map=await fetchSchedMap(); if(!map) return;  // feed unreachable → keep League Pass, no harm
+  let hit=false;
+  (DATA.games||[]).forEach(g=>{
+    const k=gameKey(g.ha,g.hh,etDate(g.tip));
+    const m=map[k];
+    if(m){g.channel=m.ch; g.national=m.natl; hit=true;}
+  });
+  if(hit){renderGames(); renderHome();}
 }
 // open external links in the system browser (native app) or a new tab (web)
 document.addEventListener('click',function(e){
