@@ -34,10 +34,14 @@ def normalize_p8(raw):
     import re
     raw = (raw or "").strip().strip('"').strip("'").replace("\\n", "\n")
     m = re.search(r"-----BEGIN [A-Z ]+-----(.+?)-----END", raw, re.S)
-    if not m:
-        return raw  # let it fail loudly with the original if markers missing
-    body = re.sub(r"\s+", "", m.group(1))
+    body = m.group(1) if m else raw
+    # strip ALL whitespace and any collapsed marker fragments
+    body = re.sub(r"\s+", "", body)
+    for frag in ("-----BEGINPRIVATEKEY-----", "-----ENDPRIVATEKEY-----",
+                 "-----BEGINECPRIVATEKEY-----", "-----ENDECPRIVATEKEY-----"):
+        body = body.replace(frag, "")
     wrapped = "\n".join(body[i:i + 64] for i in range(0, len(body), 64))
+    print(f"(key body chars: {len(body)})")  # ~200+ for a valid .p8; tiny => secret is truncated
     return f"-----BEGIN PRIVATE KEY-----\n{wrapped}\n-----END PRIVATE KEY-----\n"
 
 
