@@ -627,6 +627,10 @@
       <button class="type-btn" data-type="Flex">Flex</button>
       <button class="type-btn" data-type="Team">Team</button>
     </div>
+    <label>Why this pick? (optional — powers your setup win-rates)</label>
+    <div class="chips" id="f-setup-chips"></div>
+    <label>Confidence (optional)</label>
+    <div class="chips" id="f-conf-chips"></div>
     <div style="display:flex;gap:10px">
       <div style="flex:1"><label>Stake ($)</label><input id="f-stake" type="number" inputmode="decimal" placeholder="20"></div>
       <div style="flex:1"><label>Multiplier</label><input id="f-mult" type="number" inputmode="decimal" placeholder="3"></div>
@@ -692,6 +696,9 @@
     <div class="team-grid" id="teamGrid"></div>
   </div>
   <div class="setform">
+    <label class="set-lbl">Bankroll ($) — powers unit-sizing in THE LAB</label>
+    <input id="s-bank" type="number" inputmode="decimal" placeholder="500" style="margin-bottom:10px">
+    <div class="book-actions" style="margin-bottom:16px"><button class="btn act" id="s-bank-save">Save bankroll</button></div>
     <label class="set-lbl">Watchlist — search any player, tap to add</label>
     <div class="wl-search"><input id="s-watch-q" type="text" placeholder="Type a name, e.g. john c…" autocomplete="off"><div id="s-watch-drop" class="wl-drop"></div></div>
     <div id="s-watch-chips" class="wl-chips"></div>
@@ -975,6 +982,16 @@ function renderGames(){
 
 const SETUPS=["Player's hot","Soft line","Someone's out","Rest edge","Good matchup","Just a feel"];
 const CONF=["Low","Med","High"];
+function bank(){try{return parseFloat(localStorage.getItem('ss_bank'))||0;}catch(e){return 0;}}
+function setBank(v){try{localStorage.setItem('ss_bank',v);}catch(e){}}
+function initLogChips(){
+  const sw=document.getElementById('f-setup-chips'), cw=document.getElementById('f-conf-chips');
+  if(sw&&!sw.children.length) sw.innerHTML=SETUPS.map(s=>`<span class="chip" data-v="${s}">${s}</span>`).join('');
+  if(cw&&!cw.children.length) cw.innerHTML=CONF.map(s=>`<span class="chip" data-v="${s}">${s}</span>`).join('');
+  document.querySelectorAll('#f-setup-chips .chip,#f-conf-chips .chip').forEach(ch=>{
+    ch.onclick=()=>{ const grp=ch.parentElement; grp.querySelectorAll('.chip').forEach(x=>x.classList.remove('on')); ch.classList.add('on'); };
+  });
+}
 const MKT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PR:'Pts+Reb',PA:'Pts+Ast',RA:'Reb+Ast','3PM':'3-PT Made','3PA':'3-PT Att','2PM':'2-PT Made','2PA':'2-PT Att',FGM:'FG Made',FGA:'FG Att',FTM:'FT Made',FTA:'FT Att',OREB:'Off Reb',DREB:'Def Reb',STL:'Steals',BLK:'Blocks',BS:'Blks+Stls',TOV:'Turnovers',FS:'Fantasy'};
 const LAB_ORDER=['PTS','REB','AST','PRA','PR','PA','RA','3PM','3PA','2PM','2PA','FGM','FGA','FTM','FTA','OREB','DREB','STL','BLK','BS','TOV','FS'];
 function teamReadHTML(g){
@@ -1731,15 +1748,20 @@ async function saveBet(){
   const stake=parseFloat($('#f-stake').value)||0, mult=parseFloat($('#f-mult').value)||0;
   const m=$('#f-msg');
   if(!legs.length||!stake){m.style.color='var(--red-ink)';m.textContent='Add at least one pick and a stake.';return;}
+  const setup=(document.querySelector('#f-setup-chips .chip.on')||{}).dataset?.v||'';
+  const conf=(document.querySelector('#f-conf-chips .chip.on')||{}).dataset?.v||'';
+  const edge=(window._pendingEdge!=null&&!isNaN(window._pendingEdge))?window._pendingEdge:null;
   const bet={id:Date.now(),ts:Date.now(),day:new Date().getDate(),type,mult,legs,
     stake,payout:+(stake*(mult||1)).toFixed(2),res:'PEND',pnl:0,
+    setup,conf,edge,
     sport:($('#f-sport')||{}).value||'NBA',
     team:(($('#f-sport')||{}).value||'NBA')==='NBA'?(($('#f-team')||{}).value||''):''};
   m.style.color='var(--muted)';m.textContent='Saving to your repo…';
   try{
     await mutateBets(d=>{d.slips=d.slips||[];d.slips.push(bet);},'bets: log '+type);
     m.style.color='var(--green-ink)';m.textContent='Saved ✓ — synced to all your devices.';
-    $('#f-legs').value='';$('#f-stake').value='';$('#f-mult').value='';
+    $('#f-legs').value='';$('#f-stake').value='';$('#f-mult').value='';window._pendingEdge=null;
+    document.querySelectorAll('#f-setup-chips .chip,#f-conf-chips .chip').forEach(c=>c.classList.remove('on'));
     setTimeout(()=>{$('#logform').classList.remove('on');m.textContent='';},1100);
   }catch(e){m.style.color='var(--red-ink)';m.textContent=e.message;}
 }
