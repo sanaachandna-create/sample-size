@@ -1,9 +1,402 @@
 {
-  "updated": "2026-10-24T22:49:06+00:00",
+  "updated": "2026-10-25T13:45:50+00:00",
   "season": 2026,
   "label": "2026-27",
-  "error": "HTTPError: HTTP Error 429: Too Many Requests",
-  "east": [],
-  "west": [],
-  "byTeam": {}
+  "error": null,
+  "east": [
+    {
+      "r": 1,
+      "ab": "PHI",
+      "nm": "76ers",
+      "w": 3,
+      "l": 0
+    },
+    {
+      "r": 2,
+      "ab": "DET",
+      "nm": "Pistons",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 3,
+      "ab": "TOR",
+      "nm": "Raptors",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 4,
+      "ab": "ATL",
+      "nm": "Hawks",
+      "w": 2,
+      "l": 1
+    },
+    {
+      "r": 5,
+      "ab": "CHA",
+      "nm": "Hornets",
+      "w": 2,
+      "l": 1
+    },
+    {
+      "r": 6,
+      "ab": "WAS",
+      "nm": "Wizards",
+      "w": 2,
+      "l": 1
+    },
+    {
+      "r": 7,
+      "ab": "BOS",
+      "nm": "Celtics",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 8,
+      "ab": "CLE",
+      "nm": "Cavaliers",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 9,
+      "ab": "IND",
+      "nm": "Pacers",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 10,
+      "ab": "CHI",
+      "nm": "Bulls",
+      "w": 1,
+      "l": 2
+    },
+    {
+      "r": 11,
+      "ab": "BKN",
+      "nm": "Nets",
+      "w": 0,
+      "l": 2
+    },
+    {
+      "r": 12,
+      "ab": "MIA",
+      "nm": "Heat",
+      "w": 0,
+      "l": 3
+    },
+    {
+      "r": 13,
+      "ab": "MIL",
+      "nm": "Bucks",
+      "w": 0,
+      "l": 3
+    },
+    {
+      "r": 14,
+      "ab": "NYK",
+      "nm": "Knicks",
+      "w": 0,
+      "l": 2
+    },
+    {
+      "r": 15,
+      "ab": "ORL",
+      "nm": "Magic",
+      "w": 0,
+      "l": 2
+    }
+  ],
+  "west": [
+    {
+      "r": 1,
+      "ab": "HOU",
+      "nm": "Rockets",
+      "w": 3,
+      "l": 0
+    },
+    {
+      "r": 2,
+      "ab": "LAL",
+      "nm": "Lakers",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 3,
+      "ab": "MEM",
+      "nm": "Grizzlies",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 4,
+      "ab": "MIN",
+      "nm": "Timberwolves",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 5,
+      "ab": "OKC",
+      "nm": "Thunder",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 6,
+      "ab": "POR",
+      "nm": "Trail Blazers",
+      "w": 2,
+      "l": 0
+    },
+    {
+      "r": 7,
+      "ab": "DEN",
+      "nm": "Nuggets",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 8,
+      "ab": "LAC",
+      "nm": "Clippers",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 9,
+      "ab": "PHX",
+      "nm": "Suns",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 10,
+      "ab": "UTA",
+      "nm": "Jazz",
+      "w": 1,
+      "l": 1
+    },
+    {
+      "r": 11,
+      "ab": "DAL",
+      "nm": "Mavericks",
+      "w": 1,
+      "l": 2
+    },
+    {
+      "r": 12,
+      "ab": "SAS",
+      "nm": "Spurs",
+      "w": 1,
+      "l": 2
+    },
+    {
+      "r": 13,
+      "ab": "GSW",
+      "nm": "Warriors",
+      "w": 0,
+      "l": 3
+    },
+    {
+      "r": 14,
+      "ab": "NOP",
+      "nm": "Pelicans",
+      "w": 0,
+      "l": 3
+    },
+    {
+      "r": 15,
+      "ab": "SAC",
+      "nm": "Kings",
+      "w": 0,
+      "l": 2
+    }
+  ],
+  "byTeam": {
+    "PHI": {
+      "w": 3,
+      "l": 0,
+      "seed": 1,
+      "conf": "East"
+    },
+    "DET": {
+      "w": 2,
+      "l": 0,
+      "seed": 2,
+      "conf": "East"
+    },
+    "TOR": {
+      "w": 2,
+      "l": 0,
+      "seed": 3,
+      "conf": "East"
+    },
+    "ATL": {
+      "w": 2,
+      "l": 1,
+      "seed": 4,
+      "conf": "East"
+    },
+    "CHA": {
+      "w": 2,
+      "l": 1,
+      "seed": 5,
+      "conf": "East"
+    },
+    "WAS": {
+      "w": 2,
+      "l": 1,
+      "seed": 6,
+      "conf": "East"
+    },
+    "BOS": {
+      "w": 1,
+      "l": 1,
+      "seed": 7,
+      "conf": "East"
+    },
+    "CLE": {
+      "w": 1,
+      "l": 1,
+      "seed": 8,
+      "conf": "East"
+    },
+    "IND": {
+      "w": 1,
+      "l": 1,
+      "seed": 9,
+      "conf": "East"
+    },
+    "CHI": {
+      "w": 1,
+      "l": 2,
+      "seed": 10,
+      "conf": "East"
+    },
+    "BKN": {
+      "w": 0,
+      "l": 2,
+      "seed": 11,
+      "conf": "East"
+    },
+    "MIA": {
+      "w": 0,
+      "l": 3,
+      "seed": 12,
+      "conf": "East"
+    },
+    "MIL": {
+      "w": 0,
+      "l": 3,
+      "seed": 13,
+      "conf": "East"
+    },
+    "NYK": {
+      "w": 0,
+      "l": 2,
+      "seed": 14,
+      "conf": "East"
+    },
+    "ORL": {
+      "w": 0,
+      "l": 2,
+      "seed": 15,
+      "conf": "East"
+    },
+    "HOU": {
+      "w": 3,
+      "l": 0,
+      "seed": 1,
+      "conf": "West"
+    },
+    "LAL": {
+      "w": 2,
+      "l": 0,
+      "seed": 2,
+      "conf": "West"
+    },
+    "MEM": {
+      "w": 2,
+      "l": 0,
+      "seed": 3,
+      "conf": "West"
+    },
+    "MIN": {
+      "w": 2,
+      "l": 0,
+      "seed": 4,
+      "conf": "West"
+    },
+    "OKC": {
+      "w": 2,
+      "l": 0,
+      "seed": 5,
+      "conf": "West"
+    },
+    "POR": {
+      "w": 2,
+      "l": 0,
+      "seed": 6,
+      "conf": "West"
+    },
+    "DEN": {
+      "w": 1,
+      "l": 1,
+      "seed": 7,
+      "conf": "West"
+    },
+    "LAC": {
+      "w": 1,
+      "l": 1,
+      "seed": 8,
+      "conf": "West"
+    },
+    "PHX": {
+      "w": 1,
+      "l": 1,
+      "seed": 9,
+      "conf": "West"
+    },
+    "UTA": {
+      "w": 1,
+      "l": 1,
+      "seed": 10,
+      "conf": "West"
+    },
+    "DAL": {
+      "w": 1,
+      "l": 2,
+      "seed": 11,
+      "conf": "West"
+    },
+    "SAS": {
+      "w": 1,
+      "l": 2,
+      "seed": 12,
+      "conf": "West"
+    },
+    "GSW": {
+      "w": 0,
+      "l": 3,
+      "seed": 13,
+      "conf": "West"
+    },
+    "NOP": {
+      "w": 0,
+      "l": 3,
+      "seed": 14,
+      "conf": "West"
+    },
+    "SAC": {
+      "w": 0,
+      "l": 2,
+      "seed": 15,
+      "conf": "West"
+    }
+  }
 }
