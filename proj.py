@@ -87,7 +87,19 @@ def r1(x):
     return round(x, 1)
 
 
-def fetch_season_stats(season):
+def team_abbr_map():
+    """BDL team id -> tricode, from the free teams endpoint."""
+    m = {}
+    try:
+        for t in api("https://api.balldontlie.io/v1/teams").get("data", []):
+            if t.get("id") and t.get("abbreviation"):
+                m[t["id"]] = t["abbreviation"]
+    except Exception:  # noqa: BLE001
+        pass
+    return m
+
+
+def fetch_season_stats(season, id2abbr):
     by_player = {}
     cursor, pages, err = None, 0, None
     try:
@@ -116,6 +128,13 @@ def fetch_season_stats(season):
                 # derived two-point splits
                 row["twopm"] = row["fgm"] - row["fg3m"]
                 row["twopa"] = row["fga"] - row["fg3a"]
+                # date + opponent for the trend graph
+                game = s.get("game") or {}
+                row["d"] = (game.get("date") or "")[:10]
+                tid = tm.get("id")
+                hid, vid = game.get("home_team_id"), game.get("visitor_team_id")
+                opp_id = vid if tid == hid else hid
+                row["o"] = id2abbr.get(opp_id, "")
                 rec["g"].append(row)
             cursor = (data.get("meta", {}) or {}).get("next_cursor")
             pages += 1
@@ -185,11 +204,19 @@ def build_player(rec):
         "TS%": r1(tot("pts") / (2 * tsa) * 100) if tsa else 0.0,
     }
 
+    # last 15 games, oldest->newest, compact raw values for the trend graph
+    glog = sorted(games, key=lambda r: r.get("d", ""))[-15:]
+    log = [{"d": r.get("d", ""), "o": r.get("o", ""), "mn": round(r["min"], 1),
+            "pts": r["pts"], "reb": r["reb"], "ast": r["ast"],
+            "fg3m": r["fg3m"], "fg3a": r["fg3a"], "fgm": r["fgm"], "fga": r["fga"],
+            "ftm": r["ftm"], "fta": r["fta"], "oreb": r["oreb"], "dreb": r["dreb"],
+            "stl": r["stl"], "blk": r["blk"], "tov": r["tov"]} for r in glog]
+
     return {
         "id": rec["id"], "name": rec["name"], "team": rec["team"],
         "gp": n, "min": r1(mean(mins)),
         "dd": round(dd / n, 2), "td": round(td / n, 2),
-        "rates": rates, "stats": stats,
+        "rates": rates, "stats": stats, "log": log,
     }
 
 
@@ -201,7 +228,8 @@ def main():
     try:
         if not KEY:
             raise RuntimeError("BDL_KEY secret is not set")
-        raw, err = fetch_season_stats(season)
+        id2abbr = team_abbr_map()
+        raw, err = fetch_season_stats(season, id2abbr)
         for rec in raw.values():
             p = build_player(rec)
             if p:
