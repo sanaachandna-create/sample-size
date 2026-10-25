@@ -26,12 +26,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - name: Install push deps
+        run: pip install "pyjwt[crypto]" "httpx[http2]"
       - name: Pull headlines + push breaking news
         env:
           FAV_TEAM: ${{ github.event.inputs.team || 'Atlanta Hawks' }}
           WATCHLIST: ${{ github.event.inputs.watchlist }}
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
           TEST_PUSH: ${{ github.event.inputs.test == 'yes' && '1' || '' }}
+          APNS_KEY: ${{ secrets.APNS_KEY }}
+          APNS_KEY_ID: ${{ secrets.APNS_KEY_ID }}
+          APNS_TEAM_ID: ${{ secrets.APNS_TEAM_ID }}
+          APNS_ENV: sandbox
         run: python news.py
       - name: Commit the data if it changed
         run: |
