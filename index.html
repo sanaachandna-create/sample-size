@@ -101,10 +101,10 @@
 
   .g-right{text-align:right;flex-shrink:0}
   .tip{font-family:var(--f-mono);font-weight:700;font-size:15px}
-  .chan{display:inline-block;margin-top:6px;font-family:var(--f-mono);font-size:9.5px;
-    letter-spacing:.06em;padding:3px 7px;border-radius:6px;background:var(--navy);
-    color:#C9CCFF;border:1px solid #1B1B6E;text-decoration:none}
-  .chan.local{background:var(--surface-2);color:var(--muted);border-color:var(--line)}
+  .chan{display:inline-flex;align-items:center;gap:3px;margin-top:6px;
+    color:var(--muted);text-decoration:none;padding:2px 3px;border-radius:6px;opacity:.85}
+  .chan:active{color:var(--ink);opacity:1}
+  .chan.local{color:var(--faint)}
 
   .g-status{margin-top:12px;padding-top:11px;border-top:1px solid var(--line);
     display:flex;align-items:center;gap:9px;font-size:11.5px}
@@ -955,7 +955,7 @@ function renderGames(){
     const injCount=(g.injuries||[]).filter(x=>x.st==='OUT'||x.st==='GTD').length;
     const lu=g.lineups||{away:[],home:[]};
     const hasDetail=injCount || (g.injuries&&g.injuries.length) || (lu.away&&lu.away.length) || (lu.home&&lu.home.length) || (g.players&&g.players.length) || (g.ref&&Object.keys(g.ref).length) || g.h2h;
-    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}">${g.channel} ↗</a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
+    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg> <span style="font-size:11px">↗</span></a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
     const fav=isFav(g);
     const showScore=(ws.cls==='live'||ws.cls==='final') && g.hscore!=null && g.ascore!=null;
     const trHTML=teamReadHTML(g);
@@ -976,7 +976,7 @@ function renderGames(){
         </div>
         <div class="g-right">
           <div class="tip">${(ws.cls==='live'&&g.period)?('Q'+g.period+(g.clock?' '+g.clock:'')):tipET(g.tip)}</div>
-          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}">${g.channel} ↗</a>
+          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg> <span style="font-size:11px">↗</span></a>
         </div>
       </div>
       <div class="g-status">
