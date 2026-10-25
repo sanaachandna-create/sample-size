@@ -1,16 +1,44 @@
 {
-  "updated": "2026-10-24T23:37:30+00:00",
+  "updated": "2026-10-25T01:22:53+00:00",
   "team": "Atlanta Hawks",
   "count": 30,
-  "pushed_this_run": 4,
+  "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Yves Missi Injury: Without timetable for return - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeVpXMFRtWngxeTUyNHFYWEhPR2wxTG1YY3pjRlBRZmFYcVdZU21DSG5hX25mb2ZWNWlxRndSaFJxUjBQQlVZd25BeThEbTFIUExZekg3UkNacXNjRXNaY1gxQnhyMWN3eVpTUVNRNUluRUZPcGl2NlZKQjNJeklheE1yWGQwZGItSTNQNVF4cUNRYkRJQldwaGhJQ3N5ekFH?oc=5",
+      "title": "Draymond Green Injury: Ruled out for Saturday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOampwTndsNDhLMUFEMHBDaWx1OFVKc3FpdUhPTjVfYmYyNTRYeVdHazFjY09ScU9LNWZDQm1sTDUxVEw3OFlqc1RGLTgzdXFUcDRJQ3pZSTVLRzd5WWttVDdPZXgyLXdpa3VWQUYxZDhha1ZrenZsdlhBUl9jNnZLeW9JTjQ2VFB1ZTUxTHdHUDN0SUFJRHN3bWYtZmtEUQ?oc=5",
       "source": "RotoWire",
-      "ts": 1792880269000,
+      "ts": 1792888418000,
       "tag": "league"
+    },
+    {
+      "title": "Keegan Murray Injury: Questionable to play Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUDBmTFY5eVhPT0tOUzV3dXNQNVFFNk5tbnNWdlYydTRLRzlrSWpRb2lrUlRoSjF1aU9kYlFveVVIWWtKLVM2SEs5cFBOenFsUFRxYV8waFpqeWk0RjExNjNkTnkyWTcwV1BDVGNCRGJuQjBCcWdQMGczUWlWQkpleERxMThDM1BsbmFDVk41dmpCcEtSLXM2aldoNUhpSTJlSU9V?oc=5",
+      "source": "RotoWire",
+      "ts": 1792887494000,
+      "tag": "league"
+    },
+    {
+      "title": "Cedric Coward Injury: Questionable for Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYjF6TG94RHlDV01QOGt5dzZlN2FxQXZvdWZobF8xTjdsUXh5bmhlMk1fX2VqV2FoQjVzNDVpaGZMZ3JJQnFPOG5haUZQWXpMY05Fc1RZeWE3UHlrMy1DY0xRNzdhLWVjVmo1MlV6UTVXS2FBV0U2S2lmSXQyV3JSQV83YUdLUXYxWDA1ZHpneXJybUJzMGpKcnVzdkllQQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1792887175000,
+      "tag": "league"
+    },
+    {
+      "title": "Cameron Johnson Injury: Day-to-day with ankle sprain - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVnZyRDBfeko0Um13d0hSc1RXMmJHQTRkUWw0Z0RoYTZWRXZWbnk0MllkMWM0Y2JWVjBGdzhxWEd2eWlqWmdIdEx1UHdHaUVjVjdXTGhGc0Rlc1RScUVFNWxRZzZtVm1KeEwwZmhycXZKOW5ZWldkandtYTJWM1U3ZWtOVjNJeTdXTEUwaTJWbURKcGNoRkl4Z0dRTC1ySjlpS2VTaVZvNA?oc=5",
+      "source": "RotoWire",
+      "ts": 1792885651000,
+      "tag": "league"
+    },
+    {
+      "title": "How to watch Rockets vs. Hawks: TV channel and streaming options for October 24 - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR3RQZGJZRXhhWFdHTmM0OXYtd0RpQTZ1ZmNPbjJOM24wTno5WUNuc05nTXZxLXIzWmNyZUFzVG5uVVBFVFdZNDd5ZzRtZlFWWGtjR1RvOU5TSWlvNWRoZVlfNFhaS2tab2VuTWI4Vm5DR1VJR1lrQVR1Y0JKVGN5Z0lGLW5SZmptelVDUGRtYjl5Z29TaXZibGQwZ3A?oc=5",
+      "source": "The New York Times",
+      "ts": 1792883181000,
+      "tag": "team"
     },
     {
       "title": "State Farm Arena workers change Dream's WNBA Finals court in time for Hawks to host night game - Newsday",
@@ -20,38 +48,10 @@
       "tag": "team"
     },
     {
-      "title": "Kyrie Irving Injury: Downgraded to doubtful - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQVE0em4xSUtoaW9TMkdjMVh6X295SEhteURKdFBWT3djZkpxUkZDa0FGYS1CVWhGLUI0N0kxUjFqSHppNlpkWnA4U0pzN19RdE1BMWNCSWxubS1UeTZtTjlzQ0RqYjlkOTFVM2tTX0hwTjdJYjduaXNOZ0VITU85aER2U2xJUkZkVkNaSm9QbWd5bnNxRFRoQzdwRQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1792878494000,
-      "tag": "league"
-    },
-    {
-      "title": "Mavericks\u2019 Cooper Flagg will miss game vs. Spurs with left shoulder sprain - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBoenVGODA5MlNRbmlyQUVoMDlCU2RtcDBlRkJYUThpRF9oU1piRy1zYnpwSUk5VnluRVRzQnpLY0ppRmF4WjdUZ0tBcy1lR2dwVEJGOVNfMWZpSzRvQXdha25KMFRZVkJGZXRKeXJUeXlJY3RwRkRsb01DclU?oc=5",
-      "source": "NBA.com",
-      "ts": 1792876180000,
-      "tag": "league"
-    },
-    {
-      "title": "4 things to watch for in Saturday NBA TV doubleheader - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aNkx6aTZqd1NHSnZyaFg1dU1Pa2c2WXNXNW1yaU9aX3ZxZFUwSUQwYmlGaVBkdEkyZW1XUEwxREJuOUxjWWJFNDhSTEQ0ZDBXcjllNlZsd1NJd01sMm5ndkc5NWp6NDFfZlVfVUtB?oc=5",
-      "source": "NBA.com",
-      "ts": 1792875515000,
-      "tag": "league"
-    },
-    {
       "title": "Novig Promo Code WTOP: Get $50 in Trade Credits for College Football, NBA Games \u2013 WTOP News - WTOP News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNFJKb21nQXhnc3V2ZC1wRjRKT1p2cS1nSEMtZ040ZXJqMUtYNDNMYnp0cDBrUnhVR3hMU1hrY3NtZXRjT3dXWktMbDQxTlZadWhrRWJaU0NoOXpvbnA3eGFiVGtTQ2VCalFDSzNCMUtKRlgxT0FENEtwVHlnWFdXeVVkdlo0VWNpQnoyUVVwV0xoZ1BWREFZc2FpR2ZvaDRKdThlWmVFTk9pOFE?oc=5",
       "source": "WTOP News",
       "ts": 1792873719000,
-      "tag": "league"
-    },
-    {
-      "title": "Draymond Green Injury: Doubtful to play Saturday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRkxleDFfbE1JYXh4blYwbGt4aXBKNVNqZG1IaXluVi1jekZJclpPQ29sc0t1d0xIYXFCY0NzaVdJWW9MWnY0Y0VNUlRXai1xSmVIUXRFMXFMcHZiemJTbTJYTnZ1S0s1RFVicXltMDVfQjZURkVFblVHYW1IaElkT0V1VXBMc2ZFaVVJWUIxZTF5Tm1oU1VoOHZVbmU1T1lfZnc?oc=5",
-      "source": "RotoWire",
-      "ts": 1792873040000,
       "tag": "league"
     },
     {
@@ -62,11 +62,25 @@
       "tag": "league"
     },
     {
+      "title": "NBA G League Draft 2026 Results, Full Team Rosters for Basketball League - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa1FrNGlPaHdoX3RwOGNwdGhNMTl6Q3pfN2x1YUQxRkNOeWMyUnJPaTROT0hydDhtZS1BT0d3c3dndzg4LWRoV0x1b1h6d0RPSk5NX3MxT3g5Y3JxSnpwR3Q5cXNiS01lYUFUbllDd1pVUjJPc0F1dzhkN2hEcFZaM2F2RllHSG9JNVJtYXEzOVZrTHYzaFlQV2h0Zl9MU2hhcHVRV2puU1EwcW9SZVM2Y1VB?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1792870811000,
+      "tag": "league"
+    },
+    {
       "title": "Rockets vs Hawks Prediction, Picks & Best Bet for Tonight's NBA Game - Covers.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPcHZ6dGdEMmhWbTlwMHBodUpTMEV0N3RKdHdhbGVVckNZSUJPNllRMERuOVhXTmg0RXZtVVRockMtMWxudlZOT0wyTElSQTdLZVExemJYV1hVMF9oQjdoUUUzb01Gd2dCem1UZG1VM3RPT0dtU0U5amFJQWtLTVdLMzJvTQ?oc=5",
       "source": "Covers.com",
       "ts": 1792870200000,
       "tag": "team"
+    },
+    {
+      "title": "Yves Missi Injury: Ruled out Saturday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdHgtemI0WVdwYUFaS3dKZDg2dzZ1WjZZcTVoc1lmQ2RramhXNVRjY3lwZTB1aEdVQWVUZWF3aFQ5d19ISS1OTURpcGFIdjlNQklFN3l6d0dMdEI0RTBEZnhhdDRLZlE1WTJPTW5JY3ZSUnYwUU1SNmZGbWVLMkl5S0plNzBnc3dlMmQyTUp4STQxODA?oc=5",
+      "source": "RotoWire",
+      "ts": 1792868724000,
+      "tag": "league"
     },
     {
       "title": "Wizards drop disappointing AJ Dybantsa injury update ahead of matchup vs. Bulls - Yahoo Sports",
@@ -97,17 +111,17 @@
       "tag": "team"
     },
     {
-      "title": "76ers' LeBron James to sit vs. Bucks in first game of back-to-back - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUGlpMmtCU3ExWGhCdmVqVWh1YkszZmJMeV9YTTFiNnRhUGV3NncyTVVRSGFpWHE3SGJ5NnF2aE1Sd1NORFluWk9lTW10V25JdkhkUDJGVnMzV21YOV81bndrRmMwTDNXZ1h1M3JhcmozWnU4MWFoUW5hYU1ycXAtd0dBbTRDSlVKcUd0SHBjSGVHbDZL?oc=5",
-      "source": "ESPN",
-      "ts": 1792864860000,
-      "tag": "league"
-    },
-    {
       "title": "Kon Knueppel Injury: Remains out Saturday - RotoWire",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeXE0eWNYajV3Yi1uLWdlQTA2b2dLUDhBakZKWTBEdzdXQ0NGVlgtV09Ndm1lRDFyQ1FTaE9qbURFN1dMaFc1Q1YxcUcwcEphTS0zT2tQRUlHRTJZZHlaVFpkenRyVngxcHVlQVc3N2pYMkI0NHR5dy1wWW0tei1mUU1BeUdrbVo1ZmczVUNSSmh2aFNhUnJkNg?oc=5",
       "source": "RotoWire",
       "ts": 1792861751000,
+      "tag": "league"
+    },
+    {
+      "title": "Blake Griffin reveals why Wemby is 'terrifying' and backs another Spurs star - The Sun",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNUxORF9zM2JwaXNyclh6VXVpZzBOWkQ3VjZBanJXNW53ZVhsQVpHWV9pbEV1SVIyeVNrZDVsTFBrNnlaMXBXMXVnWHdLNUZHQXJXd2FvR3BLNUkxam81RDhlNjhZejhMeWJFTW50T2lkb0M5b2t0bDFiLUV1R19mXzhsLXRhcllq?oc=5",
+      "source": "The Sun",
+      "ts": 1792861589000,
       "tag": "league"
     },
     {
@@ -118,17 +132,17 @@
       "tag": "league"
     },
     {
-      "title": "Hannes Steinbach makes NBA debut in blowout loss to Atlanta Hawks - Huskies Wire",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPYjd4ZzNWS1VDVUVCVjJPQUhFV2l0RkxrZWx5dHdDWWxxMmQ1UWdWZk4wTU5BbkxQV3lodXVNdDY3TUotYUNBYkJEa21oUWpjOFU4NW0wcW55RW9maHMxU3lZejdtZlc5c1JHOHQtVkpiQzZuT2IzM3UzTGwxelBKNDJacTJETmN1eFpRR3ZGbWJtY3F0Y1VoeV9ZYnBnUU5vZTdEaG1neFRla2p3Z0hCOGprMzRoR3p1WXp6eE04WkVQbFFvZ3YzVmlrUHdPaExyZEZJSW5LeXI3d1VKcHgxZkd1QnZ5anFVcnpZamFRVXEyeDZnZmI4b1V0SEJoOWVTSFRqX2ZGYw?oc=5",
-      "source": "Huskies Wire",
-      "ts": 1792857660000,
-      "tag": "team"
-    },
-    {
       "title": "Mike Lupica: In a league full of stars, LeBron James remains the NBA\u2019s biggest - New York Daily News",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdFhhRVYzYVctTXlqVDZzWHJmVTZqRk9WWVlrdm9ObnZ0S3QxZllDdkM2ME85ZXV0X2VnZ1F6UEZJZUc0NGpfbnQ4NF81YmM1b2UwTHdKMWxyU3p5ejZTLXdQcGhOVjNNNGRiTkZUU0VxM09FcHJZS2o5UVVQcG5tOW9hdXI3NlcxdzJvRzljZncyNUZpX1hZbjdteXBJMVc4aUZOdVFkVGlhSjg?oc=5",
       "source": "New York Daily News",
       "ts": 1792850943000,
+      "tag": "league"
+    },
+    {
+      "title": "Josh Pastner drops blunt verdict on Kansas' Trey Kaufman-Renn: 'Expiration date\u2019s over' - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNcXVUQXVnWHFpSTlISWFuM293RlFYdmVLT0ZRT1JwUlY0N0RaZGR3Q041UGZSRjA3WURIMWdRb1dmRXBQemZZSEREWUVKU1VJUzhjOGpZc1lDTGRLODNtMDlscXNwRS1xZWxXSFdHRnE0NkhZWkxZN0NEQTFhUkRsUGZCc0pnTUtUWU1iSkJwUXRkbm9oSk05b0hJWG1ZaXliQVpXRVJ5YlZPdm9aY3NEckpZUUp4T3QtQ1dwMVdqU28tUTlPWUwyNTdmblFkWlhKOEdPTXBXcHY0NHRHUG9WR3dYbEFCSjc4?oc=5",
+      "source": "USA Today",
+      "ts": 1792848360000,
       "tag": "league"
     },
     {
@@ -146,17 +160,17 @@
       "tag": "league"
     },
     {
-      "title": "Mavericks' Cooper Flagg forced to exit game after shoulder injury in 1st half - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9iNHluVEJnbUtmYXEyLXdYSUc4ZVIwaWdJWUNXOUNjYlZjQkVFWkFYaUtVOFVHMjZ3ZjlZT1UzOVN0MVFCNEhWNlpLWEN1TkdaNVJKV0FLZkVwcHd6Y0k0OHplTQ?oc=5",
-      "source": "NBA.com",
-      "ts": 1792811843000,
+      "title": "ASK IRA: Does Bam Adebayo have to be better, and where does that start for Heat? - Sun Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTjBMRzkyN24ya1VmYWhhTmVWc1FpYXBWLTJOa2trRkZqc3d1MU56RjBFUHh5elhmSXY4MU5tT2lpaDRtMi1fRlZnQXJ1ZnlvSXZQZGNHdDZ6d3lES0I1bFppM200TWYxaHNYcWV1cmNTOXVGNmhxTmM5blVFcXl5X05ZbWpzU0x4dWlsQjZWdDJjX0RhZ1N2dVJ3RGxlSTl1ZXNjTkxJUU5ObF8zSVByMWFCeHBIR0lsbnc?oc=5",
+      "source": "Sun Sentinel",
+      "ts": 1792836413000,
       "tag": "league"
     },
     {
-      "title": "Pelicans center Yves Missi helped off court vs. Jazz with knee injury - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmIwWklfT0FaVk9GNnpjYWZRaWtnSnc0SVB6cGtuLUMtUmI3RWVjY19SR1BGZnVaYlRuVUQ1SVRLSldYS2xENTJORDNFMHl2UGxsSnN1dEZpQXYwRlJNbTdVR2NzUGJzVmlSd0MzcjREamlraGllZWFFd1AtQWpaT3RueTNxSy1UVmJtQ2dVR0RudlRXMS1oNHJNOGk?oc=5",
-      "source": "ESPN",
-      "ts": 1792811400000,
+      "title": "Mavs' competitive spirit 'off the charts' as Dusty May gets first NBA win in home state - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZmRsdllTdkJQOWlRLXFQMEZwNG44dFlxZTNmbEhCc3RlZDFxS1VUSEFUWm9mb3E5Nlk2Vmt6anF4N0psOUZVdlRFWUNxelRUN1BqZ2JmaklMZlpHMEdJWHJBc1FNbERhN3NobjB3ZnNLMk1nT2Zka2xfc29vTzlnYXJUWHZISGxGY1hmd2RtamhRQm1WWjN6WHE0YUFQNy1mVlNLTlJNamk2eGlMZXYySVJNaw?oc=5",
+      "source": "Dallas News",
+      "ts": 1792821103000,
       "tag": "league"
     },
     {
@@ -200,28 +214,9 @@
       "source": "Heavy.com",
       "ts": 1792771463000,
       "tag": "league"
-    },
-    {
-      "title": "Blockbuster Trade Idea To Blow Up the 2026-27 NBA Season - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTy1URzhkVlFQbnJPUGxWYW5pb0NmUTM4bE9INTc2M01BRVlLaFlhNGQ0Q2NsSnAwQWtRT1h5bnpXb0hJclBISVRVUWNnTzdRV0I0YlhtNGZtbVdlak5CYkZRU2gzczNidndlR1VFdEJnS0ZyV3FkRlhkM1U2TGVNTTlxblBwRVBIR1BDMGVBR1had0VOekE?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1792753916000,
-      "tag": "league"
-    },
-    {
-      "title": "Trump blasts 76ers star LeBron James as \u2018disgrace\u2019 for not standing still during national anthem - WKBN.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeWZ2d2l3OXJzQXZpaWFBY1JSR0M4MkpkaHF5amFoeUJwczNmTEhlR0VBRjlUaGM3emVMR0lzdU5LZFlQSmdZQzV6LWRKaHJ0c0k0V0UzbWRZb0lCR0F4aUprd3EyT3dlSEhoQTY0QndUTmFjTTdTa2Z5RWdWb0o4Tnh5Y0ZILWVGajEzYkdtbTJpd3JXUC1LNm80LWd2NjhvRjl6Y2p1WlFvSnRTNEdQMVFJOXhQR19RZ1phM1IyMkVtelZsckxnWjhuM242QmctZTE2amxn0gHbAUFVX3lxTFAzMW91VzBmaDBXdE9hSDdMNFZpREFoM2F4S2RYRC1QblpCcXU3XzAzSVRnbkhlc05iOVpaWVRxeDNVRzNqN3FCSWVyUzBpNmlFaWI5bi1xY0xnWkRScnJrdUxjRElVbVp6cXhQRnp3UFQtNXlveWRKRTdXUlhRalFuZkJiZnJsRlFSVG8yLWUyMnRkTWs5WXpFb1haekw2WHVMQTRyTWxFSXUyY0dxVklVY0NIX1RUQnoxM3hGLVZsUXRhc0FZYUttRmk3bl9KUXI2aExOVk1JQVp3NA?oc=5",
-      "source": "WKBN.com",
-      "ts": 1792725161000,
-      "tag": "league"
     }
   ],
   "pushed": [
-    "projectednbatradegiveslakers673ptrecordholdernexttolukadonci",
-    "myrongardnernewsmovespastankleinjuryrotowire",
-    "sourcesgrizzlieswaivejordanhawkinsweeksafterpelstradeespn",
-    "alexsarrinjurydoesntscrimmagesaturdayrotowire",
-    "jalendureninjurynotpresentatsaturdayspracticerotowire",
     "mohameddiawaranewsmovespastfingerinjuryrotowire",
     "sourcesgrizzlieswaivejordanhawkinsweeksafterpelstradeespncom",
     "jamisonbattleinjurywontsuitupsaturdayrotowirecom",
@@ -716,6 +711,11 @@
     "yvesmissiinjurywithouttimetableforreturnrotowire",
     "kyrieirvinginjurydowngradedtodoubtfulrotowire",
     "aninsidelookatannbatradethatwasseriouslydiscussedbutultimate",
-    "konknueppelinjuryremainsoutsaturdayrotowire"
+    "konknueppelinjuryremainsoutsaturdayrotowire",
+    "draymondgreeninjuryruledoutforsaturdayrotowire",
+    "keeganmurrayinjuryquestionabletoplaysundayrotowire",
+    "cedriccowardinjuryquestionableforsundayrotowire",
+    "cameronjohnsoninjurydaytodaywithanklesprainrotowire",
+    "yvesmissiinjuryruledoutsaturdayrotowire"
   ]
 }
