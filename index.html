@@ -422,6 +422,44 @@
   .fan-read{font-size:12px;color:var(--muted);line-height:1.5;padding:2px 2px 2px}
   @media (prefers-reduced-motion:reduce){.splash-word2{opacity:1}}
   .empty-note{text-align:center;color:var(--muted);font-size:13px;line-height:1.6;padding:46px 22px}
+  /* THE LAB — live projections */
+  .lab-note{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 13px;font-size:12px;color:var(--muted);line-height:1.55;margin-bottom:14px}
+  .lab-note b{color:var(--ink)}
+  .lab-game{margin-bottom:16px}
+  .lab-gm-head{font-family:var(--f-mono);font-size:13px;font-weight:700;color:var(--ink);letter-spacing:.04em;margin-bottom:9px}
+  .lab-gm-head span{color:var(--faint)}
+  .lab-team{margin-bottom:10px}
+  .lab-team-h{font-family:var(--f-mono);font-size:10px;letter-spacing:.14em;color:var(--orange);margin:6px 2px}
+  .lab-empty{font-size:11.5px;color:var(--faint);padding:8px 2px}
+  .lab-p{background:var(--surface);border:1px solid var(--line);border-radius:11px;padding:10px 12px;margin-bottom:8px}
+  .lab-p-top{display:flex;align-items:center;justify-content:space-between;cursor:pointer}
+  .lab-p-name{font-size:13.5px;font-weight:600;color:var(--ink)}
+  .nbadge{font-family:var(--f-mono);font-size:9.5px;color:var(--faint);margin-left:8px;border:1px solid var(--line);border-radius:4px;padding:1px 5px}
+  .lab-exp{background:none;border:none;color:var(--muted);font-size:13px;cursor:pointer;padding:0 4px;flex-shrink:0}
+  .mstrip{display:grid;grid-template-columns:repeat(5,1fr);gap:6px;margin-top:9px}
+  .mcell{background:var(--surface-2);border:1px solid var(--line);border-radius:8px;padding:6px 3px;text-align:center}
+  .mcell .mk{font-family:var(--f-mono);font-size:8.5px;letter-spacing:.06em;color:var(--faint)}
+  .mcell .mv{font-family:var(--f-mono);font-size:15px;font-weight:700;color:var(--ink);line-height:1.2}
+  .mcell .msd{font-family:var(--f-mono);font-size:9px;color:var(--muted)}
+  .mcell.t-hi .msd{color:var(--green-ink)} .mcell.t-md .msd{color:var(--orange)} .mcell.t-lo .msd{color:var(--red-ink)}
+  .lab-detail{margin-top:11px;padding-top:11px;border-top:1px solid var(--line)}
+  .gmgrid{display:grid;grid-template-columns:repeat(2,1fr);gap:6px}
+  .gcell{display:flex;justify-content:space-between;align-items:center;background:var(--surface-2);border:1px solid var(--line);border-radius:7px;padding:6px 9px}
+  .gcell .gk{font-size:11px;color:var(--muted)}
+  .gcell .gv{font-family:var(--f-mono);font-size:12.5px;font-weight:700;color:var(--ink)}
+  .gcell .gv i{font-style:normal;font-weight:400;font-size:10px;color:var(--muted)}
+  .gcell.t-hi .gv i{color:var(--green-ink)} .gcell.t-md .gv i{color:var(--orange)} .gcell.t-lo .gv i{color:var(--red-ink)}
+  .linechk{margin-top:11px;background:var(--surface-2);border:1px solid var(--line);border-radius:9px;padding:10px 11px}
+  .lc-sub{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;color:var(--faint);margin-bottom:8px}
+  .lc-row{display:flex;gap:7px}
+  .lc-mkt,.lc-line{background:var(--bg);border:1px solid var(--line);border-radius:7px;color:var(--ink);font-size:13px;padding:8px 9px}
+  .lc-mkt{flex:1} .lc-line{width:112px;font-family:var(--f-mono)}
+  .lc-out{margin-top:9px;font-size:12.5px;color:var(--muted);line-height:1.5}
+  .lc-out b{color:var(--ink);font-family:var(--f-mono)}
+  .lc-out .lc-tag{font-size:11px}
+  .lc-out.good,.lc-out.good b{color:var(--green-ink)}
+  .lc-out.ok{color:var(--ink)}
+  .lc-out.warn,.lc-out.warn b{color:var(--orange)}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
   .sample-banner{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.03em;color:var(--faint);
     border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 2px 12px;line-height:1.55}
@@ -462,7 +500,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-24 · SCORES</div>
+  <div class="drawer-foot">BUILD 10-25 · THE LAB</div>
 </aside>
 
 <main id="scroll">
@@ -853,10 +891,69 @@ function renderGames(){
 
 const SETUPS=["Player's hot","Soft line","Someone's out","Rest edge","Good matchup","Just a feel"];
 const CONF=["Low","Med","High"];
+const MKT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PR:'Pts+Reb',PA:'Pts+Ast',RA:'Reb+Ast','3PM':'3-PT Made',STL:'Steals',BLK:'Blocks',BS:'Blks+Stls',FS:'Fantasy',TOV:'Turnovers'};
+function projTrust(m,sd){ if(!m||m<=0) return {cls:'t-lo'}; const cv=sd/m; if(cv<0.20) return {cls:'t-hi'}; if(cv<0.40) return {cls:'t-md'}; return {cls:'t-lo'}; }
+function labDetailHTML(p){
+  const s=p.stats, order=['PTS','REB','AST','PRA','PR','PA','RA','3PM','STL','BLK','BS','FS'];
+  const grid=order.map(k=>{const t=projTrust(s[k].m,s[k].sd);return `<div class="gcell ${t.cls}"><span class="gk">${MKT[k]||k}</span><span class="gv">${s[k].m} <i>±${s[k].sd}</i></span></div>`;}).join('');
+  const opts=order.map(k=>`<option value="${k}">${MKT[k]||k}</option>`).join('');
+  return `<div class="gmgrid">${grid}</div><div class="linechk"><div class="lc-sub">Check a PrizePicks line</div><div class="lc-row"><select class="lc-mkt">${opts}</select><input class="lc-line" type="number" inputmode="decimal" placeholder="line e.g. 25.5"></div><div class="lc-out">Enter a line to see your edge.</div></div>`;
+}
+function labBindLine(root,p){
+  const sel=root.querySelector('.lc-mkt'), inp=root.querySelector('.lc-line'), out=root.querySelector('.lc-out');
+  const calc=()=>{
+    const k=sel.value, L=parseFloat(inp.value), st=p.stats[k];
+    if(isNaN(L)){ out.className='lc-out'; out.textContent='Enter a line to see your edge.'; return; }
+    const edge=+(st.m-L).toFixed(1), lean=edge>=0?'MORE':'LESS';
+    const strength=st.sd>0?Math.abs(edge)/st.sd:(edge!==0?2:0);
+    let tag,cls;
+    if(p.gp<3){tag='sample too small — n='+p.gp+', a lean at best';cls='warn';}
+    else if(strength<0.25){tag='inside the noise — basically a coin flip';cls='warn';}
+    else if(strength<0.75){tag='real lean';cls='ok';}
+    else {tag="strong edge — still check tonight's lineup";cls='good';}
+    out.className='lc-out '+cls;
+    out.innerHTML=`Proj <b>${st.m}</b> vs line <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · lean <b>${lean}</b><br><span class="lc-tag">${tag}</span>`;
+  };
+  sel.addEventListener('change',calc); inp.addEventListener('input',calc);
+}
+function labPlayerRow(p){
+  const s=p.stats;
+  const strip=['PTS','REB','AST','PRA','3PM'].map(k=>{const t=projTrust(s[k].m,s[k].sd);return `<div class="mcell ${t.cls}"><div class="mk">${k}</div><div class="mv">${s[k].m}</div><div class="msd">±${s[k].sd}</div></div>`;}).join('');
+  const node=el(`<div class="lab-p"><div class="lab-p-top"><div class="lab-p-id"><span class="lab-p-name">${p.name}</span><span class="nbadge" title="games of data">n=${p.gp}</span></div><button class="lab-exp">▾</button></div><div class="mstrip">${strip}</div><div class="lab-detail" style="display:none"></div></div>`);
+  const detail=node.querySelector('.lab-detail'), btn=node.querySelector('.lab-exp'); let built=false;
+  node.querySelector('.lab-p-top').addEventListener('click',()=>{
+    const open=detail.style.display==='none';
+    if(open && !built){ detail.innerHTML=labDetailHTML(p); labBindLine(detail,p); built=true; }
+    detail.style.display=open?'block':'none'; btn.textContent=open?'▴':'▾';
+  });
+  return node;
+}
 function renderCands(){
   const wrap=$('#cands');wrap.innerHTML='';
   if(DATA._live){
-    wrap.innerHTML=`<div class="empty-note"><b>No projections yet.</b>THE LAB compares PrizePicks lines to your projection and a bookie read. It comes online once player stats + odds are wired (the paid data layer) — for now it fills on game nights you're building a card.</div>`;
+    const pj=DATA.proj;
+    if(!pj||!pj.players||!pj.players.length){
+      wrap.innerHTML=`<div class="empty-note"><b>Projections loading…</b>Run the "Update projections" worker, then pull to refresh. THE LAB fills with per-player season projections and their noise band.</div>`;
+      return;
+    }
+    const now=new Date(); const sameDay=(ms)=>{const d=new Date(ms);return d.getFullYear()===now.getFullYear()&&d.getMonth()===now.getMonth()&&d.getDate()===now.getDate();};
+    const games=DATA.games.filter(g=>g.tip&&sameDay(g.tip));
+    if(!games.length){
+      wrap.innerHTML=`<div class="empty-note"><b>No games today.</b>Season projections are live — <b>${pj.playerCount}</b> players loaded. THE LAB fills with the day's matchups on a game day.</div>`;
+      return;
+    }
+    wrap.appendChild(el(`<div class="lab-note">Projections off this season's games so far — early, so read the <b>± band</b> and the sample size <b>(n)</b>. A big ± means the average is lying. Tap a player for every market + a line check.</div>`));
+    games.forEach(g=>{
+      const block=el(`<div class="lab-game"><div class="lab-gm-head">${g.ha} <span>@</span> ${g.hh}</div></div>`);
+      [[g.ha,(pj.byTeam&&pj.byTeam[g.ha])||[]],[g.hh,(pj.byTeam&&pj.byTeam[g.hh])||[]]].forEach(([abbr,ids])=>{
+        const tw=el(`<div class="lab-team"><div class="lab-team-h">${abbr}</div></div>`);
+        const rostered=ids.map(id=>DATA._projIndex[id]).filter(Boolean).slice(0,6);
+        if(!rostered.length){ tw.appendChild(el(`<div class="lab-empty">No projection data for ${abbr} yet — players need a game logged.</div>`)); }
+        else rostered.forEach(p=>tw.appendChild(labPlayerRow(p)));
+        block.appendChild(tw);
+      });
+      wrap.appendChild(block);
+    });
     return;
   }
   DATA.cands.forEach((c,ci)=>{
@@ -1347,7 +1444,8 @@ async function loadLive(){
   const grab=(u)=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
   const raw=`https://raw.githubusercontent.com/${GH.owner}/${GH.repo}/${GH.branch}/`;
   const b='?t='+Date.now();
-  const [gd,st,bt,nw]=await Promise.all([grab(raw+'data/today.json'+b),grab(raw+'data/standings.json'+b),grab(raw+'data/bets.json'+b),grab(raw+'data/news.json'+b)]);
+  const [gd,st,bt,nw,pj]=await Promise.all([grab(raw+'data/today.json'+b),grab(raw+'data/standings.json'+b),grab(raw+'data/bets.json'+b),grab(raw+'data/news.json'+b),grab(raw+'data/proj.json'+b)]);
+  if(pj && Array.isArray(pj.players)){ DATA.proj=pj; DATA._projIndex={}; pj.players.forEach(p=>DATA._projIndex[p.id]=p); }
   if(onLive){
     DATA._live=true; DATA._betsLive=true;
     DATA.games=(gd&&Array.isArray(gd.games))?gd.games:[];
