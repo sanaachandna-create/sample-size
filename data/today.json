@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T12:55:18+00:00",
+  "updated": "2026-10-25T14:59:21+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
@@ -132,7 +132,7 @@
         },
         {
           "p": "Tyler Bilodeau",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
           "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland. This will be Bilo"
         },
@@ -402,7 +402,7 @@
         },
         {
           "p": "LeBron James",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of Ph"
         },
@@ -618,13 +618,13 @@
         },
         {
           "p": "Noa Essengue",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The"
         },
         {
           "p": "Patrick Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athlet"
         },
@@ -693,7 +693,7 @@
         },
         {
           "p": "Kyrie Irving",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The At"
         }
@@ -801,7 +801,7 @@
         },
         {
           "p": "Oso Ighodaro",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHX",
           "note": "Ighodaro (oblique) has been ruled out for Saturday's game against the Warriors, Duane Rank"
         },
@@ -864,19 +864,19 @@
         },
         {
           "p": "Fred VanVleet",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "VanVleet (knee) has been ruled out for Saturday's game against the Hawks. VanVleet will si"
         },
         {
           "p": "Steven Adams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks. As expected, Adams"
         },
         {
           "p": "Marcus Smart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of"
         }
@@ -984,25 +984,25 @@
         },
         {
           "p": "Brandin Podziemski",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the War"
         },
         {
           "p": "Stephen Curry",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Curry (rest) won't play Saturday against the Suns. Curry told reporters after Friday's los"
         },
         {
           "p": "Draymond Green",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Green (back) won't play Saturday in Phoenix. Green is sitting out the second leg of this b"
         },
         {
           "p": "Al Horford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Horford (back) has been ruled out for Saturday's game against the Suns. As expected, the v"
         },
@@ -1014,7 +1014,7 @@
         },
         {
           "p": "Spencer Jones",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Jones (hamstring) is out for Saturday's game against the Pelicans. This will be Jones' sec"
         },
@@ -1026,13 +1026,13 @@
         },
         {
           "p": "Cameron Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle"
         },
         {
           "p": "Alpha Diallo",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Diallo (wrist) won't play Saturday against the Pelicans. Diallo will hit the sidelines aft"
         }
@@ -1065,7 +1065,7 @@
       "injuries": [
         {
           "p": "Tyler Bilodeau",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
           "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland. This will be Bilo"
         },
@@ -1482,7 +1482,7 @@
         },
         {
           "p": "LeBron James",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of Ph"
         },
@@ -1650,13 +1650,13 @@
         },
         {
           "p": "Noa Essengue",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The"
         },
         {
           "p": "Patrick Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athlet"
         }
@@ -1689,19 +1689,19 @@
       "injuries": [
         {
           "p": "Fred VanVleet",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "VanVleet (knee) has been ruled out for Saturday's game against the Hawks. VanVleet will si"
         },
         {
           "p": "Steven Adams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Adams (ankle) has been ruled out for Saturday's game against the Hawks. As expected, Adams"
         },
         {
           "p": "Marcus Smart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Smart (forearm) has been ruled out for Saturday's game against the Hawks, Varun Shankar of"
         }
@@ -1752,25 +1752,25 @@
         },
         {
           "p": "Brandin Podziemski",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Podziemski (back) told reporters Friday that he will not play in the second leg of the War"
         },
         {
           "p": "Stephen Curry",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Curry (rest) won't play Saturday against the Suns. Curry told reporters after Friday's los"
         },
         {
           "p": "Draymond Green",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Green (back) won't play Saturday in Phoenix. Green is sitting out the second leg of this b"
         },
         {
           "p": "Al Horford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Horford (back) has been ruled out for Saturday's game against the Suns. As expected, the v"
         },
@@ -1815,7 +1815,7 @@
       "injuries": [
         {
           "p": "Spencer Jones",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Jones (hamstring) is out for Saturday's game against the Pelicans. This will be Jones' sec"
         },
@@ -1827,13 +1827,13 @@
         },
         {
           "p": "Cameron Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Head coach David Aldeman said that Johnson is \"day-to-day\" due to his sprained right ankle"
         },
         {
           "p": "Alpha Diallo",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "Diallo (wrist) won't play Saturday against the Pelicans. Diallo will hit the sidelines aft"
         },
@@ -1977,7 +1977,7 @@
         },
         {
           "p": "Kyrie Irving",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The At"
         }
