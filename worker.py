@@ -85,6 +85,8 @@ def one(g):
         "tip": to_ms(iso),
         "channel": "League Pass", "national": False,
         "status": status_of(g),
+        "hscore": g.get("home_team_score"), "ascore": g.get("visitor_team_score"),
+        "period": g.get("period"), "clock": str(g.get("time") or "").strip(),
         "injuries": [], "lineups": {"away": [], "home": []},
         "players": [], "ref": {}, "h2h": "",
     }
