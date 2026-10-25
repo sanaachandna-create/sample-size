@@ -587,7 +587,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts</button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist</button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-25 · EXTRAS</div>
+  <div class="drawer-foot">BUILD 10-25 · PUSH</div>
 </aside>
 
 <main id="scroll">
@@ -1917,6 +1917,9 @@ document.addEventListener('click',function(e){
   if(a){e.preventDefault();window.open(a.href,'_blank');}
 });
 loadLive();
+async function savePushToken(token){ try{ await ghWriteFile('data/push.json',{token,platform:'ios',updated:Date.now()},'push: device token'); }catch(e){} }
+async function initPush(){ try{ const Cap=window.Capacitor; const PN=Cap&&Cap.Plugins&&Cap.Plugins.PushNotifications; if(!PN) return; let perm=await PN.checkPermissions(); if(perm.receive!=='granted') perm=await PN.requestPermissions(); if(perm.receive!=='granted') return; PN.addListener('registration',t=>savePushToken(t.value)); PN.addListener('registrationError',()=>{}); await PN.register(); }catch(e){} }
+initPush();
 initLogChips();
 setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); }, 25000);
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
