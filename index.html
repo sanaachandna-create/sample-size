@@ -112,11 +112,10 @@
 
   .g-right{text-align:right;flex-shrink:0}
   .tip{font-family:var(--f-mono);font-weight:700;font-size:15px}
-  .chan{display:inline-flex;align-items:center;gap:4px;margin-top:6px;
-    color:var(--orange);text-decoration:none;padding:4px 8px;border-radius:7px;
-    background:rgba(244,131,40,.12);border:1px solid rgba(244,131,40,.32)}
-  .chan:active{background:rgba(244,131,40,.22)}
-  .chan.local{color:var(--muted);background:var(--surface-2);border-color:var(--line)}
+  .chan{display:inline-flex;align-items:center;gap:5px;margin-top:6px;text-decoration:none;
+    padding:4px 9px;border-radius:7px;background:var(--surface-2);border:1px solid var(--line);color:var(--ink)}
+  .chan .wl{color:var(--orange);font-family:var(--f-mono);font-weight:800;font-size:10px;letter-spacing:.1em}
+  .chan:active{border-color:var(--orange)}
 
   .g-status{margin-top:12px;padding-top:11px;border-top:1px solid var(--line);
     display:flex;align-items:center;gap:9px;font-size:11.5px}
@@ -779,6 +778,8 @@ setTimeout(fitApp,300);setTimeout(fitApp,900);
 
 // ===== FAVORITE TEAM =====
 const TEAMS={ATL:{n:'HAWKS',c:'#E03A3E',conf:'East'},BOS:{n:'CELTICS',c:'#1CAE57',conf:'East'},BKN:{n:'NETS',c:'#FFFFFF',conf:'East'},CHA:{n:'HORNETS',c:'#00A2B3',conf:'East'},CHI:{n:'BULLS',c:'#CE1141',conf:'East'},CLE:{n:'CAVALIERS',c:'#C8102E',conf:'East'},DAL:{n:'MAVERICKS',c:'#3E7DD6',conf:'West'},DEN:{n:'NUGGETS',c:'#FEC524',conf:'West'},DET:{n:'PISTONS',c:'#E4022A',conf:'East'},GSW:{n:'WARRIORS',c:'#FDB927',conf:'West'},HOU:{n:'ROCKETS',c:'#E03A3E',conf:'West'},IND:{n:'PACERS',c:'#FDBB30',conf:'East'},LAC:{n:'CLIPPERS',c:'#E4022A',conf:'West'},LAL:{n:'LAKERS',c:'#FDB927',conf:'West'},MEM:{n:'GRIZZLIES',c:'#6189C4',conf:'West'},MIA:{n:'HEAT',c:'#E4295D',conf:'East'},MIL:{n:'BUCKS',c:'#00A85A',conf:'East'},MIN:{n:'TIMBERWOLVES',c:'#48A9C5',conf:'West'},NOP:{n:'PELICANS',c:'#B4975A',conf:'West'},NYK:{n:'KNICKS',c:'#1D8FE1',conf:'East'},OKC:{n:'THUNDER',c:'#007AC1',conf:'West'},ORL:{n:'MAGIC',c:'#0B77C2',conf:'East'},PHI:{n:'76ERS',c:'#1D8FE1',conf:'East'},PHX:{n:'SUNS',c:'#8B6DC8',conf:'West'},POR:{n:'TRAIL BLAZERS',c:'#E03A3E',conf:'West'},SAC:{n:'KINGS',c:'#9E7BD6',conf:'West'},SAS:{n:'SPURS',c:'#C4CED4',conf:'West'},TOR:{n:'RAPTORS',c:'#E03A3E',conf:'East'},UTA:{n:'JAZZ',c:'#5CADE0',conf:'West'},WAS:{n:'WIZARDS',c:'#E4325B',conf:'East'}};
+const TEAMSHORT={ATL:'Hawks',BOS:'Celtics',BKN:'Nets',CHA:'Hornets',CHI:'Bulls',CLE:'Cavs',DAL:'Mavs',DEN:'Nuggets',DET:'Pistons',GSW:'Warriors',HOU:'Rockets',IND:'Pacers',LAC:'Clippers',LAL:'Lakers',MEM:'Grizzlies',MIA:'Heat',MIL:'Bucks',MIN:'Twolves',NOP:'Pelicans',NYK:'Knicks',OKC:'Thunder',ORL:'Magic',PHI:'76ers',PHX:'Suns',POR:'Blazers',SAC:'Kings',SAS:'Spurs',TOR:'Raptors',UTA:'Jazz',WAS:'Wizards'};
+function teamShort(ab){return TEAMSHORT[ab]||ab;}
 function favTeam(){try{return localStorage.getItem('ss_fav')||'';}catch(e){return '';}}
 function setFav(t){try{localStorage.setItem('ss_fav',t);}catch(e){}}
 function isFav(g){const f=favTeam();return !!f&&(g.ha===f||g.hh===f);}
@@ -967,7 +968,7 @@ function renderGames(){
     const injCount=(g.injuries||[]).filter(x=>x.st==='OUT'||x.st==='GTD').length;
     const lu=g.lineups||{away:[],home:[]};
     const hasDetail=injCount || (g.injuries&&g.injuries.length) || (lu.away&&lu.away.length) || (lu.home&&lu.home.length) || (g.players&&g.players.length) || (g.ref&&Object.keys(g.ref).length) || g.h2h;
-    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span style="font-size:11px;font-weight:700">↗</span></a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
+    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${teamShort(g.ha)}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${teamShort(g.hh)}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;flex:none"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span class="wl">WATCH</span><span style="color:var(--orange);font-size:11px;font-weight:800">↗</span></a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
     const fav=isFav(g);
     const showScore=(ws.cls==='live'||ws.cls==='final') && g.hscore!=null && g.ascore!=null;
     const trHTML=teamReadHTML(g);
@@ -983,12 +984,12 @@ function renderGames(){
       <div class="rail"></div>
       <div class="g-top">
         <div class="teams">
-          <div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span>${showScore?`<span class="sc${(g.ascore>g.hscore)?' win':''}">${g.ascore}</span>`:''}</div>
-          <div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="ziptie"><svg viewBox="0 0 70 24"><rect class="zt-fill" x="1" y="6.5" width="11" height="11" rx="2.5"/><rect class="zt-cut" x="4" y="9.4" width="5" height="5.2" rx="1.2"/><rect class="zt-fill" x="9" y="9.6" width="28" height="4.8" rx="2.4"/><line class="zt-tooth" x1="15" y1="9.9" x2="15" y2="14.1"/><line class="zt-tooth" x1="19" y1="9.9" x2="19" y2="14.1"/><line class="zt-tooth" x1="23" y1="9.9" x2="23" y2="14.1"/><line class="zt-tooth" x1="27" y1="9.9" x2="27" y2="14.1"/><rect class="zt-fill" x="33" y="2.5" width="35" height="19" rx="3.5"/><circle class="zt-cut" cx="38" cy="12" r="1.8"/><text class="zt-txt" x="52" y="15.2" text-anchor="middle" font-size="8.5">HOME</text></svg></span><span class="rec">${g.hrec}</span>${showScore?`<span class="sc${(g.hscore>g.ascore)?' win':''}">${g.hscore}</span>`:''}</div>
+          <div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${teamShort(g.ha)}</span><span class="rec">${g.arec}</span>${showScore?`<span class="sc${(g.ascore>g.hscore)?' win':''}">${g.ascore}</span>`:''}</div>
+          <div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${teamShort(g.hh)}</span><span class="ziptie"><svg viewBox="0 0 70 24"><rect class="zt-fill" x="1" y="6.5" width="11" height="11" rx="2.5"/><rect class="zt-cut" x="4" y="9.4" width="5" height="5.2" rx="1.2"/><rect class="zt-fill" x="9" y="9.6" width="28" height="4.8" rx="2.4"/><line class="zt-tooth" x1="15" y1="9.9" x2="15" y2="14.1"/><line class="zt-tooth" x1="19" y1="9.9" x2="19" y2="14.1"/><line class="zt-tooth" x1="23" y1="9.9" x2="23" y2="14.1"/><line class="zt-tooth" x1="27" y1="9.9" x2="27" y2="14.1"/><rect class="zt-fill" x="33" y="2.5" width="35" height="19" rx="3.5"/><circle class="zt-cut" cx="38" cy="12" r="1.8"/><text class="zt-txt" x="52" y="15.2" text-anchor="middle" font-size="8.5">HOME</text></svg></span><span class="rec">${g.hrec}</span>${showScore?`<span class="sc${(g.hscore>g.ascore)?' win':''}">${g.hscore}</span>`:''}</div>
         </div>
         <div class="g-right">
           <div class="tip">${(ws.cls==='live'&&g.period)?('Q'+g.period+(g.clock?' '+g.clock:'')):tipET(g.tip)}</div>
-          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span style="font-size:11px;font-weight:700">↗</span></a>
+          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px;flex:none"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span class="wl">WATCH</span><span style="color:var(--orange);font-size:11px;font-weight:800">↗</span></a>
         </div>
       </div>
       <div class="g-status">
@@ -1974,15 +1975,31 @@ async function driveLiveActivity(){
 function renderLaSlot(){
   const bar=document.getElementById('la-slot'); if(!bar) return;
   const LiveActivity=liveAct(), games=laGames();
-  if(!LiveActivity || !games.length){ bar.style.display='none'; return; }
+  if(!LiveActivity){ bar.style.display='none'; return; }
   const cur=diSlot(), f=favTeam(), fn=(TEAMS[f]||{}).n||'My team';
   const opts=['<option value="auto">Auto — best live game</option>',
     `<option value="fav">My team${f?(' ('+fn+')'):''}</option>`]
     .concat(games.map(g=>`<option value="${g.ha}@${g.hh}">${g.ha} @ ${g.hh}</option>`)).join('');
-  bar.style.display='flex';
-  bar.innerHTML='<span style="display:inline-flex;align-items:center;gap:6px;font-size:11px;letter-spacing:.12em;color:var(--muted);font-weight:700"><svg viewBox="0 0 24 24" width="17" height="12" fill="none" stroke="var(--orange)" stroke-width="2" style="flex:none"><rect x="2" y="7" width="20" height="10" rx="5"/><circle cx="7.5" cy="12" r="1.9" fill="var(--orange)" stroke="none"/></svg>DYNAMIC ISLAND</span>'
-    +`<select id="la-sel" style="margin-left:auto;background:var(--surface-2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-weight:700;font-size:13px">${opts}</select>`;
+  bar.style.display='flex'; bar.style.flexWrap='wrap';
+  const island='<span style="display:inline-flex;align-items:center;gap:6px;font-size:11px;letter-spacing:.12em;color:var(--muted);font-weight:700"><svg viewBox="0 0 24 24" width="17" height="12" fill="none" stroke="var(--orange)" stroke-width="2" style="flex:none"><rect x="2" y="7" width="20" height="10" rx="5"/><circle cx="7.5" cy="12" r="1.9" fill="var(--orange)" stroke="none"/></svg>DYNAMIC ISLAND</span>';
+  const select=games.length?`<select id="la-sel" style="margin-left:auto;background:var(--surface-2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-weight:700;font-size:13px">${opts}</select>`:'<span style="margin-left:auto;color:var(--faint);font-size:12px">no live games</span>';
+  const testBtn='<button id="la-test" style="margin-left:8px;background:var(--orange);color:#120a02;border:none;border-radius:8px;padding:6px 12px;font-weight:800;font-size:12px">TEST ▶</button>';
+  const status='<div id="la-status" style="flex-basis:100%;font-size:11.5px;line-height:1.4;color:var(--muted);margin-top:8px"></div>';
+  bar.innerHTML=island+select+testBtn+status;
   const sel=document.getElementById('la-sel'); if(sel){ sel.value=cur; sel.onchange=()=>{ setDiSlot(sel.value); _laLast=''; driveLiveActivity(); }; }
+  const tb=document.getElementById('la-test'); if(tb) tb.onclick=testLA;
+}
+async function testLA(){
+  const LA=liveAct(), st=document.getElementById('la-status');
+  const say=(m)=>{ if(st) st.textContent=m; };
+  if(!LA){ say('No plugin found — this build is missing the native code. Rebuild & Run in Xcode.'); return; }
+  say('Starting…');
+  try{
+    const r=await LA.sync({featured:'LAL@UTA', games:[{away:'LAL',home:'UTA',awayScore:88,homeScore:84,awayRec:'2-0',homeRec:'1-1',awayColor:laColor('LAL'),homeColor:laColor('UTA'),fav:'',status:'Q4 2:10',phase:'live'}]});
+    if(r&&r.ok) say('Started ✓  Now LOCK your phone — the score shows on the lock screen and in the pill at the top (long-press the pill to expand).');
+    else if(r&&r.reason==='off') say('Live Activities are OFF for this app. Settings → SAMPLE SIZE → Live Activities → ON, then tap TEST again.');
+    else say('Could not start: '+((r&&r.reason)||'unknown')+'. If this persists, rebuild & Run in Xcode.');
+  }catch(e){ say('Native plugin not responding — rebuild & Run the app in Xcode so the new Swift ships. ('+(e&&(e.message||e.errorMessage)||e)+')'); }
 }
 // tap a Live Activity / Dynamic Island -> open that game in the app
 function openGameByKey(a,h){
