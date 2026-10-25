@@ -460,6 +460,18 @@
   .lc-out.good,.lc-out.good b{color:var(--green-ink)}
   .lc-out.ok{color:var(--ink)}
   .lc-out.warn,.lc-out.warn b{color:var(--orange)}
+  .rates{font-family:var(--f-mono);font-size:11px;color:var(--muted);margin-bottom:7px;letter-spacing:.02em}
+  .rates b{color:var(--ink)}
+  .ddtd{font-size:11.5px;color:var(--muted);margin-bottom:9px}
+  .ddtd b{color:var(--ink);font-family:var(--f-mono)} .ddtd span{color:var(--faint)}
+  .combo{border:1px dashed var(--line);border-radius:10px;margin-top:4px}
+  .combo-h{font-size:12.5px;color:var(--ink);padding:10px 12px;cursor:pointer;font-weight:600}
+  .combo-tog{font-family:var(--f-mono);color:var(--orange);margin-right:4px}
+  .combo-sub{color:var(--faint);font-size:10.5px;font-weight:400}
+  .combo-body{padding:0 12px 12px}
+  .combo-body select,.combo-body input{background:var(--bg);border:1px solid var(--line);border-radius:7px;color:var(--ink);font-size:12.5px;padding:8px 9px}
+  .combo-body .cb-a,.combo-body .cb-b,.combo-body .cb-mkt{flex:1;min-width:0}
+  .combo-body .cb-line{width:108px;font-family:var(--f-mono)}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
   .sample-banner{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.03em;color:var(--faint);
     border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 2px 12px;line-height:1.55}
@@ -500,7 +512,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-25 · THE LAB</div>
+  <div class="drawer-foot">BUILD 10-25 · RATES</div>
 </aside>
 
 <main id="scroll">
@@ -891,13 +903,19 @@ function renderGames(){
 
 const SETUPS=["Player's hot","Soft line","Someone's out","Rest edge","Good matchup","Just a feel"];
 const CONF=["Low","Med","High"];
-const MKT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PR:'Pts+Reb',PA:'Pts+Ast',RA:'Reb+Ast','3PM':'3-PT Made',STL:'Steals',BLK:'Blocks',BS:'Blks+Stls',FS:'Fantasy',TOV:'Turnovers'};
+const MKT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PR:'Pts+Reb',PA:'Pts+Ast',RA:'Reb+Ast','3PM':'3-PT Made','3PA':'3-PT Att','2PM':'2-PT Made','2PA':'2-PT Att',FGM:'FG Made',FGA:'FG Att',FTM:'FT Made',FTA:'FT Att',OREB:'Off Reb',DREB:'Def Reb',STL:'Steals',BLK:'Blocks',BS:'Blks+Stls',TOV:'Turnovers',FS:'Fantasy'};
+const LAB_ORDER=['PTS','REB','AST','PRA','PR','PA','RA','3PM','3PA','2PM','2PA','FGM','FGA','FTM','FTA','OREB','DREB','STL','BLK','BS','TOV','FS'];
 function projTrust(m,sd){ if(!m||m<=0) return {cls:'t-lo'}; const cv=sd/m; if(cv<0.20) return {cls:'t-hi'}; if(cv<0.40) return {cls:'t-md'}; return {cls:'t-lo'}; }
 function labDetailHTML(p){
-  const s=p.stats, order=['PTS','REB','AST','PRA','PR','PA','RA','3PM','STL','BLK','BS','FS'];
+  const s=p.stats;
+  const order=LAB_ORDER.filter(k=>s[k]);
   const grid=order.map(k=>{const t=projTrust(s[k].m,s[k].sd);return `<div class="gcell ${t.cls}"><span class="gk">${MKT[k]||k}</span><span class="gv">${s[k].m} <i>±${s[k].sd}</i></span></div>`;}).join('');
   const opts=order.map(k=>`<option value="${k}">${MKT[k]||k}</option>`).join('');
-  return `<div class="gmgrid">${grid}</div><div class="linechk"><div class="lc-sub">Check a PrizePicks line</div><div class="lc-row"><select class="lc-mkt">${opts}</select><input class="lc-line" type="number" inputmode="decimal" placeholder="line e.g. 25.5"></div><div class="lc-out">Enter a line to see your edge.</div></div>`;
+  const dd=p.dd!=null?Math.round(p.dd*100):null, td=p.td!=null?Math.round(p.td*100):null;
+  const ddtd = dd!=null ? `<div class="ddtd">Double-dbl <b>${dd}%</b> · Triple-dbl <b>${td}%</b> <span>of games · n=${p.gp}</span></div>` : '';
+  const r=p.rates;
+  const rates = r ? `<div class="rates">MPG <b>${r.MPG}</b> · FG <b>${r['FG%']}%</b> · 3P <b>${r['3P%']}%</b> · FT <b>${r['FT%']}%</b> · TS <b>${r['TS%']}%</b></div>` : '';
+  return `${rates}${ddtd}<div class="gmgrid">${grid}</div><div class="linechk"><div class="lc-sub">Check a PrizePicks line</div><div class="lc-row"><select class="lc-mkt">${opts}</select><input class="lc-line" type="number" inputmode="decimal" placeholder="line e.g. 25.5"></div><div class="lc-out">Enter a line to see your edge.</div></div>`;
 }
 function labBindLine(root,p){
   const sel=root.querySelector('.lc-mkt'), inp=root.querySelector('.lc-line'), out=root.querySelector('.lc-out');
@@ -928,6 +946,35 @@ function labPlayerRow(p){
   });
   return node;
 }
+function labComboBuilder(players){
+  const popts=players.map((p,i)=>`<option value="${i}">${p.name} · ${p.team}</option>`).join('');
+  const keys=LAB_ORDER.filter(k=>players[0].stats[k]);
+  const mopts=keys.map(k=>`<option value="${k}">${MKT[k]||k}</option>`).join('');
+  const node=el(`<div class="combo"><div class="combo-h"><span class="combo-tog">＋</span> 2-player combo <span class="combo-sub">like PrizePicks</span></div><div class="combo-body" style="display:none"><div class="lc-row"><select class="cb-a">${popts}</select><select class="cb-b">${popts}</select></div><div class="lc-row" style="margin-top:7px"><select class="cb-mkt">${mopts}</select><input class="cb-line" type="number" inputmode="decimal" placeholder="combo line"></div><div class="lc-out">Pick two players, a market, a line.</div></div></div>`);
+  const head=node.querySelector('.combo-h'), body=node.querySelector('.combo-body'), tog=node.querySelector('.combo-tog');
+  head.addEventListener('click',()=>{ const open=body.style.display==='none'; body.style.display=open?'block':'none'; tog.textContent=open?'–':'＋'; });
+  const a=node.querySelector('.cb-a'), bsel=node.querySelector('.cb-b'), mk=node.querySelector('.cb-mkt'), ln=node.querySelector('.cb-line'), out=node.querySelector('.combo-body .lc-out');
+  if(players.length>1) bsel.selectedIndex=1;
+  const last=s=>s.split(' ').slice(-1)[0];
+  const calc=()=>{
+    const pA=players[+a.value], pB=players[+bsel.value], k=mk.value;
+    if(!pA||!pB||!pA.stats[k]||!pB.stats[k]) return;
+    const m=+(pA.stats[k].m+pB.stats[k].m).toFixed(1);
+    const sd=+Math.sqrt(pA.stats[k].sd**2+pB.stats[k].sd**2).toFixed(1);
+    const minGp=Math.min(pA.gp,pB.gp), L=parseFloat(ln.value);
+    if(isNaN(L)){ out.className='lc-out'; out.innerHTML=`${last(pA.name)} + ${last(pB.name)} ${MKT[k]||k}: proj <b>${m}</b> ±${sd} · <span class="lc-tag">enter a line</span>`; return; }
+    const edge=+(m-L).toFixed(1), lean=edge>=0?'MORE':'LESS', strength=sd>0?Math.abs(edge)/sd:(edge!==0?2:0);
+    let tag,cls;
+    if(minGp<3){tag='small sample — n='+minGp+', lean at best';cls='warn';}
+    else if(strength<0.25){tag='inside the noise';cls='warn';}
+    else if(strength<0.75){tag='real lean';cls='ok';}
+    else {tag='strong edge — check both lineups';cls='good';}
+    out.className='lc-out '+cls;
+    out.innerHTML=`${last(pA.name)} + ${last(pB.name)} <b>${m}</b> vs <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · <b>${lean}</b><br><span class="lc-tag">${tag}</span>`;
+  };
+  [a,bsel,mk].forEach(e=>e.addEventListener('change',calc)); ln.addEventListener('input',calc); calc();
+  return node;
+}
 function renderCands(){
   const wrap=$('#cands');wrap.innerHTML='';
   if(DATA._live){
@@ -945,13 +992,15 @@ function renderCands(){
     wrap.appendChild(el(`<div class="lab-note">Projections off this season's games so far — early, so read the <b>± band</b> and the sample size <b>(n)</b>. A big ± means the average is lying. Tap a player for every market + a line check.</div>`));
     games.forEach(g=>{
       const block=el(`<div class="lab-game"><div class="lab-gm-head">${g.ha} <span>@</span> ${g.hh}</div></div>`);
+      const gamePlayers=[];
       [[g.ha,(pj.byTeam&&pj.byTeam[g.ha])||[]],[g.hh,(pj.byTeam&&pj.byTeam[g.hh])||[]]].forEach(([abbr,ids])=>{
         const tw=el(`<div class="lab-team"><div class="lab-team-h">${abbr}</div></div>`);
         const rostered=ids.map(id=>DATA._projIndex[id]).filter(Boolean).slice(0,6);
         if(!rostered.length){ tw.appendChild(el(`<div class="lab-empty">No projection data for ${abbr} yet — players need a game logged.</div>`)); }
-        else rostered.forEach(p=>tw.appendChild(labPlayerRow(p)));
+        else rostered.forEach(p=>{ tw.appendChild(labPlayerRow(p)); gamePlayers.push(p); });
         block.appendChild(tw);
       });
+      if(gamePlayers.length>1) block.appendChild(labComboBuilder(gamePlayers));
       wrap.appendChild(block);
     });
     return;
