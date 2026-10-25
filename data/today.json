@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T16:09:56+00:00",
+  "updated": "2026-10-25T16:57:02+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 199,
+  "injuryCount": 202,
   "games": [
     {
       "ha": "LAL",
@@ -57,6 +57,12 @@
         },
         {
           "p": "Harrison Ingram",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+        },
+        {
+          "p": "Kobe Bufkin",
           "st": "OUT",
           "team": "UTA",
           "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
@@ -933,6 +939,12 @@
         },
         {
           "p": "Harrison Ingram",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+        },
+        {
+          "p": "Kobe Bufkin",
           "st": "OUT",
           "team": "UTA",
           "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
@@ -1896,6 +1908,12 @@
         },
         {
           "p": "Harrison Ingram",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+        },
+        {
+          "p": "Kobe Bufkin",
           "st": "OUT",
           "team": "UTA",
           "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
