@@ -1,0 +1,52 @@
+name: Update player list
+
+on:
+  workflow_dispatch:
+  schedule:
+    # rosters change slowly — once a day is plenty
+    - cron: "40 11 * * *"
+
+concurrency:
+  group: update-player-list
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  players:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the player-list worker
+        env:
+          BDL_KEY: ${{ secrets.BDL_KEY }}
+        run: python players.py
+
+      - name: Commit the data if it changed
+        run: |
+          git config user.name "sample-size-bot"
+          git config user.email "bot@users.noreply.github.com"
+          cp data/players.json /tmp/players.json
+          for i in 1 2 3 4 5 6; do
+            git add data/players.json
+            if git diff --staged --quiet; then
+              echo "no change — nothing to commit"; exit 0
+            fi
+            git commit -m "players: update $(date -u +%FT%TZ)"
+            if git push; then
+              echo "pushed on attempt $i"; exit 0
+            fi
+            echo "push rejected (attempt $i) — syncing and retrying"
+            git reset --soft HEAD~1
+            git fetch origin main
+            git reset --hard origin/main
+            cp /tmp/players.json data/players.json
+            sleep $((RANDOM % 6 + 2))
+          done
+          echo "could not push after 6 attempts"; exit 1
