@@ -1930,7 +1930,12 @@ async function pollLive(){
 }
 // ===== LIVE ACTIVITY (multi-game lock screen + Dynamic Island) =====
 var _LA=null,_LAi=false;
-function liveAct(){ if(_LAi) return _LA; _LAi=true; try{ _LA=(window.Capacitor&&window.Capacitor.registerPlugin)?window.Capacitor.registerPlugin('LiveActivity'):null; }catch(e){ _LA=null; } return _LA; }
+function liveAct(){ if(_LAi) return _LA; _LAi=true; try{
+  var C=window.Capacitor;
+  if(C && C.Plugins && C.Plugins.LiveActivity) _LA=C.Plugins.LiveActivity;
+  else if(C && typeof C.registerPlugin==='function') _LA=C.registerPlugin('LiveActivity');
+  else _LA=null;
+}catch(e){ _LA=null; } return _LA; }
 function diSlot(){try{return localStorage.getItem('ss_dislot')||'auto';}catch(e){return 'auto';}}
 function setDiSlot(v){try{localStorage.setItem('ss_dislot',v);}catch(e){}}
 function laColor(ab){return ((TEAMS[ab]||{}).c)||'#333333';}
@@ -1975,7 +1980,6 @@ async function driveLiveActivity(){
 function renderLaSlot(){
   const bar=document.getElementById('la-slot'); if(!bar) return;
   const LiveActivity=liveAct(), games=laGames();
-  if(!LiveActivity){ bar.style.display='none'; return; }
   const cur=diSlot(), f=favTeam(), fn=(TEAMS[f]||{}).n||'My team';
   const opts=['<option value="auto">Auto — best live game</option>',
     `<option value="fav">My team${f?(' ('+fn+')'):''}</option>`]
