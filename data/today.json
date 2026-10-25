@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T18:43:28+00:00",
+  "updated": "2026-10-25T20:17:11+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 203,
+  "injuryCount": 209,
   "games": [
     {
       "ha": "LAL",
@@ -452,6 +452,12 @@
           "note": "Injury/Illness - Left Ankle Injury Management (2026-10-25, MEM@SAC). Prior reporting (2026"
         },
         {
+          "p": "Karim Lopez",
+          "st": "GTD",
+          "team": "MEM",
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-25, MEM@SAC). Prior reporting"
+        },
+        {
           "p": "Dylan Cardwell",
           "st": "OUT",
           "team": "SAC",
@@ -474,6 +480,12 @@
           "st": "GTD",
           "team": "SAC",
           "note": "Injury/Illness - Left Ankle capsulitis (2026-10-25, MEM@SAC). Prior reporting (2026-10-25)"
+        },
+        {
+          "p": "Sean Pedulla",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "G League - Two-Way (2026-10-25, MEM@SAC)."
         }
       ],
       "lineups": {
@@ -644,7 +656,7 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-10-26, CHI@BOS). Prior reporting (2026-10-18): Carter has b"
         }
       ],
       "lineups": {
@@ -677,37 +689,43 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs. Aldama continues t"
+          "note": "Injury/Illness - Right Knee Surgery (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): A"
         },
         {
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Lively (foot) has been ruled out for Friday's game against the Pacers. Lively underwent ri"
+          "note": "Injury/Illness - Right Foot Surgery (2026-10-26, DAL@MIA). Prior reporting (2026-10-22): L"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio. Biberovic has"
+          "note": "Injury/Illness - Right Heel Bursitis (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): "
         },
         {
           "p": "Caleb Martin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
-          "note": "Martin (thumb) has been ruled out against San Antonio on Saturday. Martin has yet to suit "
+          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): M"
         },
         {
           "p": "Cooper Flagg",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forwar"
-        },
-        {
-          "p": "Kyrie Irving",
           "st": "GTD",
           "team": "DAL",
-          "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The At"
+          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24):"
+        },
+        {
+          "p": "Naji Marshall",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA)."
+        },
+        {
+          "p": "Pelle Larsson",
+          "st": "AVA",
+          "team": "MIA",
+          "note": "Injury/Illness - Left Finger Sprain (2026-10-26, DAL@MIA)."
         }
       ],
       "lineups": {
@@ -926,6 +944,12 @@
           "note": "Injury/Illness - Left Ankle Injury Management (2026-10-25, MEM@SAC). Prior reporting (2026"
         },
         {
+          "p": "Karim Lopez",
+          "st": "GTD",
+          "team": "MEM",
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-25, MEM@SAC). Prior reporting"
+        },
+        {
           "p": "Jusuf Nurkic",
           "st": "OUT",
           "team": "UTA",
@@ -1091,7 +1115,7 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-10-26, CHI@BOS). Prior reporting (2026-10-18): Carter has b"
         }
       ],
       "lineups": {
@@ -1208,6 +1232,12 @@
           "note": "Injury/Illness - Left Ankle capsulitis (2026-10-25, MEM@SAC). Prior reporting (2026-10-25)"
         },
         {
+          "p": "Sean Pedulla",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "G League - Two-Way (2026-10-25, MEM@SAC)."
+        },
+        {
           "p": "Jayden Quaintance",
           "st": "OUT",
           "team": "SAS",
@@ -1309,6 +1339,12 @@
       "period": 0,
       "clock": "",
       "injuries": [
+        {
+          "p": "Pelle Larsson",
+          "st": "AVA",
+          "team": "MIA",
+          "note": "Injury/Illness - Left Finger Sprain (2026-10-26, DAL@MIA)."
+        },
         {
           "p": "Henri Veesaar",
           "st": "OUT",
@@ -1973,37 +2009,37 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs. Aldama continues t"
+          "note": "Injury/Illness - Right Knee Surgery (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): A"
         },
         {
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Lively (foot) has been ruled out for Friday's game against the Pacers. Lively underwent ri"
+          "note": "Injury/Illness - Right Foot Surgery (2026-10-26, DAL@MIA). Prior reporting (2026-10-22): L"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Biberovic (heel) has been ruled out for Saturday's game against San Antonio. Biberovic has"
+          "note": "Injury/Illness - Right Heel Bursitis (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): "
         },
         {
           "p": "Caleb Martin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
-          "note": "Martin (thumb) has been ruled out against San Antonio on Saturday. Martin has yet to suit "
+          "note": "Injury/Illness - Right Thumb Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24): M"
         },
         {
           "p": "Cooper Flagg",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "The Mavericks diagnosed Flagg with a mild left shoulder sprain, and the second-year forwar"
-        },
-        {
-          "p": "Kyrie Irving",
           "st": "GTD",
           "team": "DAL",
-          "note": "Irving is out for Saturday's game against the Spurs due to rest, Christian Clark of The At"
+          "note": "Injury/Illness - Left Shoulder Sprain (2026-10-26, DAL@MIA). Prior reporting (2026-10-24):"
+        },
+        {
+          "p": "Naji Marshall",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Injury/Illness - Illness (2026-10-26, DAL@MIA)."
         }
       ],
       "lineups": {
