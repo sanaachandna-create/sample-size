@@ -2,6 +2,17 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
+<script>
+/* cache-buster: force a fresh pull of index.html once per app launch (loop-safe) */
+(function(){try{
+  var u=new URL(location.href);
+  if(!u.searchParams.get('v') && !sessionStorage.getItem('ss_boot')){
+    sessionStorage.setItem('ss_boot','1');
+    u.searchParams.set('v', Date.now());
+    location.replace(u.toString());
+  }
+}catch(e){}})();
+</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover">
 <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
 <meta http-equiv="Pragma" content="no-cache">
@@ -101,10 +112,11 @@
 
   .g-right{text-align:right;flex-shrink:0}
   .tip{font-family:var(--f-mono);font-weight:700;font-size:15px}
-  .chan{display:inline-flex;align-items:center;gap:3px;margin-top:6px;
-    color:var(--muted);text-decoration:none;padding:2px 3px;border-radius:6px;opacity:.85}
-  .chan:active{color:var(--ink);opacity:1}
-  .chan.local{color:var(--faint)}
+  .chan{display:inline-flex;align-items:center;gap:4px;margin-top:6px;
+    color:var(--orange);text-decoration:none;padding:4px 8px;border-radius:7px;
+    background:rgba(244,131,40,.12);border:1px solid rgba(244,131,40,.32)}
+  .chan:active{background:rgba(244,131,40,.22)}
+  .chan.local{color:var(--muted);background:var(--surface-2);border-color:var(--line)}
 
   .g-status{margin-top:12px;padding-top:11px;border-top:1px solid var(--line);
     display:flex;align-items:center;gap:9px;font-size:11.5px}
@@ -955,7 +967,7 @@ function renderGames(){
     const injCount=(g.injuries||[]).filter(x=>x.st==='OUT'||x.st==='GTD').length;
     const lu=g.lineups||{away:[],home:[]};
     const hasDetail=injCount || (g.injuries&&g.injuries.length) || (lu.away&&lu.away.length) || (lu.home&&lu.home.length) || (g.players&&g.players.length) || (g.ref&&Object.keys(g.ref).length) || g.h2h;
-    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg> <span style="font-size:11px">↗</span></a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
+    if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span style="font-size:11px;font-weight:700">↗</span></a></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
     const fav=isFav(g);
     const showScore=(ws.cls==='live'||ws.cls==='final') && g.hscore!=null && g.ascore!=null;
     const trHTML=teamReadHTML(g);
@@ -976,11 +988,11 @@ function renderGames(){
         </div>
         <div class="g-right">
           <div class="tip">${(ws.cls==='live'&&g.period)?('Q'+g.period+(g.clock?' '+g.clock:'')):tipET(g.tip)}</div>
-          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-3px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg> <span style="font-size:11px">↗</span></a>
+          <a class="chan ${g.national?'':'local'}" href="${watchLink(g)}" title="${g.channel}" aria-label="Where to watch"><svg viewBox="0 0 24 24" width="17" height="17" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align:-4px"><rect x="2.5" y="7" width="19" height="13" rx="2.5"/><path d="M8 3.5l4 3.5 4-3.5"/></svg><span style="font-size:11px;font-weight:700">↗</span></a>
         </div>
       </div>
       <div class="g-status">
-        <span class="cd" data-cd="${i}">${cdText(g.tip)}</span>
+        ${(ws.cls==='live'||ws.cls==='final')?'':`<span class="cd" data-cd="${i}">${cdText(g.tip)}</span>`}
         <span class="pill ${ws.pill}">${ws.label}</span>
         ${injCount?`<span class="flag"><svg class="crossic" viewBox="0 0 24 24"><path d="M9 3h6v6h6v6h-6v6H9v-6H3V9h6z"/></svg>${injCount}</span>`:''}
       </div>
@@ -1968,7 +1980,7 @@ function renderLaSlot(){
     `<option value="fav">My team${f?(' ('+fn+')'):''}</option>`]
     .concat(games.map(g=>`<option value="${g.ha}@${g.hh}">${g.ha} @ ${g.hh}</option>`)).join('');
   bar.style.display='flex';
-  bar.innerHTML='<span style="font-size:11px;letter-spacing:.12em;color:var(--muted);font-weight:700">⚡ DYNAMIC ISLAND</span>'
+  bar.innerHTML='<span style="display:inline-flex;align-items:center;gap:6px;font-size:11px;letter-spacing:.12em;color:var(--muted);font-weight:700"><svg viewBox="0 0 24 24" width="17" height="12" fill="none" stroke="var(--orange)" stroke-width="2" style="flex:none"><rect x="2" y="7" width="20" height="10" rx="5"/><circle cx="7.5" cy="12" r="1.9" fill="var(--orange)" stroke="none"/></svg>DYNAMIC ISLAND</span>'
     +`<select id="la-sel" style="margin-left:auto;background:var(--surface-2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-weight:700;font-size:13px">${opts}</select>`;
   const sel=document.getElementById('la-sel'); if(sel){ sel.value=cur; sel.onchange=()=>{ setDiSlot(sel.value); _laLast=''; driveLiveActivity(); }; }
 }
