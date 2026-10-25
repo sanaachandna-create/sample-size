@@ -598,6 +598,7 @@
 
 <section class="view" id="v-slate">
   <div class="eyebrow"><span class="q">"</span>THE CARD<span class="q">"</span> <span class="eb-count" id="slate-count">— 3 GAMES</span></div>
+  <div id="la-slot" style="display:none;align-items:center;gap:10px;margin:0 0 12px;padding:10px 12px;background:var(--surface);border:1px solid var(--line);border-radius:12px"></div>
   <div id="games"></div>
 </section>
 
@@ -942,6 +943,7 @@ function renderGames(){
     wrap.innerHTML = DATA._live
       ? `<div class="empty-note"><b>No NBA games right now.</b>No games on the board right now — this fills in automatically on game days (make sure the data worker is running).</div>`
       : `<div class="empty-note"><b>Waiting on live data.</b>This is just the preview. Your hosted app pulls the real schedule — no placeholder games are ever shown there.</div>`;
+    if(typeof renderLaSlot==='function') renderLaSlot();
     return;
   }
   $('#slate-count').textContent=`— ${DATA.games.filter(x=>dayKey(x.tip)===0).length} TODAY`;
@@ -987,6 +989,7 @@ function renderGames(){
     node.addEventListener('click',()=>node.classList.toggle('open'));
     wrap.appendChild(node);
   });
+  if(typeof renderLaSlot==='function') renderLaSlot();
 }
 
 const SETUPS=["Player's hot","Soft line","Someone's out","Rest edge","Good matchup","Just a feel"];
@@ -1912,38 +1915,88 @@ async function pollLive(){
     return hit;
   }catch(e){ return false; }
 }
-// ===== LIVE ACTIVITY (Dynamic Island / lock screen) =====
-const LiveActivity=(window.Capacitor&&window.Capacitor.registerPlugin)?window.Capacitor.registerPlugin('LiveActivity'):null;
-let _laKey=null; // which game (ha@hh) the activity is currently showing
-function laStatus(g){
+// ===== LIVE ACTIVITY (multi-game lock screen + Dynamic Island) =====
+var _LA=null,_LAi=false;
+function liveAct(){ if(_LAi) return _LA; _LAi=true; try{ _LA=(window.Capacitor&&window.Capacitor.registerPlugin)?window.Capacitor.registerPlugin('LiveActivity'):null; }catch(e){ _LA=null; } return _LA; }
+function diSlot(){try{return localStorage.getItem('ss_dislot')||'auto';}catch(e){return 'auto';}}
+function setDiSlot(v){try{localStorage.setItem('ss_dislot',v);}catch(e){}}
+function laColor(ab){return ((TEAMS[ab]||{}).c)||'#333333';}
+function laPhase(g){return g.status==='post'?'final':g.status==='in'?'live':'pre';}
+function laStat(g){
   if(g.status==='post') return 'Final';
-  const p=g.period||1, c=g.clock||'';
-  if(p>4) return 'OT'+(p-4)+(c?(' '+c):'');
-  return 'Q'+p+(c?(' '+c):'');
+  if(g.status==='in'){const p=g.period||1,c=g.clock||'';return (p>4?('OT'+(p-4)):('Q'+p))+(c?(' '+c):'');}
+  try{return new Date(g.tip).toLocaleTimeString([],{hour:'numeric',minute:'2-digit'});}catch(e){return '';}
 }
+// which games get a Live Activity: live, just-finished, or about to tip (soon/bet window). Cap 8.
+function laGames(){
+  const out=[];
+  (DATA.games||[]).forEach(g=>{
+    const cls=windowState(g.tip).cls, live=g.status==='in', post=g.status==='post';
+    if(live||post||cls==='live'||cls==='bet'||cls==='soon') out.push(g);
+  });
+  out.sort((a,b)=>{const la=a.status==='in'?0:1,lb=b.status==='in'?0:1;return la!==lb?la-lb:(a.tip-b.tip);});
+  return out.slice(0,8);
+}
+function favKey(games){const f=favTeam();const g=games.find(x=>x.ha===f||x.hh===f);return g?(g.ha+'@'+g.hh):'';}
+var _laLast='';
 async function driveLiveActivity(){
-  if(!LiveActivity) return;
-  const games=DATA.games||[];
-  const fav=(typeof favTeam==='function')?favTeam():null;
-  const live=games.filter(g=>g.status==='in');
-  let g=live.find(x=>fav&&(x.away===fav||x.home===fav))||live[0];
-  // nothing live, but the game we were tracking just finished → show Final, then end
-  if(!g && _laKey){
-    const done=games.find(x=>(x.ha+'@'+x.hh)===_laKey);
-    if(done && done.status==='post'){
-      try{ await LiveActivity.update({away:done.ha,home:done.hh,awayScore:done.ascore||0,homeScore:done.hscore||0,status:'Final'}); }catch(e){}
-    }
-    try{ await LiveActivity.end(); }catch(e){}
-    _laKey=null; return;
-  }
-  if(!g) return;
-  const key=g.ha+'@'+g.hh;
-  const payload={away:g.ha,home:g.hh,awayScore:g.ascore||0,homeScore:g.hscore||0,status:laStatus(g)};
+  const LiveActivity=liveAct(); if(!LiveActivity) return;
+  const games=laGames(), slot=diSlot(), f=favTeam();
+  let featured='';
+  if(slot==='auto'||slot==='fav'){
+    featured=favKey(games);
+    if(!featured && slot==='auto'){const lg=games.find(g=>g.status==='in')||games[0];featured=lg?(lg.ha+'@'+lg.hh):'';}
+  } else featured=slot;
+  const payload={featured, games: games.map(g=>({
+    away:g.ha, home:g.hh,
+    awayScore:g.ascore||0, homeScore:g.hscore||0,
+    awayRec:g.arec||'', homeRec:g.hrec||'',
+    awayColor:laColor(g.ha), homeColor:laColor(g.hh),
+    fav:(g.hh===f?'home':g.ha===f?'away':''),
+    status:laStat(g), phase:laPhase(g)
+  }))};
+  const sig=JSON.stringify(payload); if(sig===_laLast) return; _laLast=sig;
+  try{ await LiveActivity.sync(payload); }catch(e){}
+}
+// in-app picker bar (rendered atop the slate)
+function renderLaSlot(){
+  const bar=document.getElementById('la-slot'); if(!bar) return;
+  const LiveActivity=liveAct(), games=laGames();
+  if(!LiveActivity || !games.length){ bar.style.display='none'; return; }
+  const cur=diSlot(), f=favTeam(), fn=(TEAMS[f]||{}).n||'My team';
+  const opts=['<option value="auto">Auto — best live game</option>',
+    `<option value="fav">My team${f?(' ('+fn+')'):''}</option>`]
+    .concat(games.map(g=>`<option value="${g.ha}@${g.hh}">${g.ha} @ ${g.hh}</option>`)).join('');
+  bar.style.display='flex';
+  bar.innerHTML='<span style="font-size:11px;letter-spacing:.12em;color:var(--muted);font-weight:700">⚡ DYNAMIC ISLAND</span>'
+    +`<select id="la-sel" style="margin-left:auto;background:var(--surface-2);color:var(--ink);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-weight:700;font-size:13px">${opts}</select>`;
+  const sel=document.getElementById('la-sel'); if(sel){ sel.value=cur; sel.onchange=()=>{ setDiSlot(sel.value); _laLast=''; driveLiveActivity(); }; }
+}
+// tap a Live Activity / Dynamic Island -> open that game in the app
+function openGameByKey(a,h){
   try{
-    if(_laKey!==key){ if(_laKey){try{await LiveActivity.end();}catch(e){}} await LiveActivity.start(payload); _laKey=key; }
-    else { await LiveActivity.update(payload); }
+    setView('slate');
+    setTimeout(()=>{
+      const wrap=document.getElementById('games'); if(!wrap) return;
+      wrap.querySelectorAll('.game').forEach(n=>{
+        const ab=[...n.querySelectorAll('.abbr')].map(x=>((x.firstChild&&x.firstChild.textContent)||'').trim());
+        if(ab[0]===a && ab[1]===h){
+          n.classList.add('open');
+          n.scrollIntoView({behavior:'smooth',block:'center'});
+          n.style.transition='box-shadow .3s'; n.style.boxShadow='0 0 0 2px var(--orange)';
+          setTimeout(()=>{n.style.boxShadow='';},1800);
+        }
+      });
+    },140);
   }catch(e){}
 }
+function handleDeepLink(url){
+  try{ const u=new URL(url); const a=u.searchParams.get('a'), h=u.searchParams.get('h'); if(a&&h) openGameByKey(a,h); }catch(e){}
+}
+try{ const _App=window.Capacitor&&window.Capacitor.Plugins&&window.Capacitor.Plugins.App;
+  if(_App&&_App.addListener){ _App.addListener('appUrlOpen',d=>{ if(d&&d.url) handleDeepLink(d.url); });
+    _App.getLaunchUrl&&_App.getLaunchUrl().then(r=>{ if(r&&r.url) handleDeepLink(r.url); }).catch(()=>{}); }
+}catch(e){}
 // open external links in the system browser (native app) or a new tab (web)
 document.addEventListener('click',function(e){
   const a=e.target.closest&&e.target.closest('a[href^="http"]');
@@ -1954,7 +2007,7 @@ async function savePushToken(token){ try{ await ghWriteFile('data/push.json',{to
 async function initPush(){ try{ const Cap=window.Capacitor; const PN=Cap&&Cap.Plugins&&Cap.Plugins.PushNotifications; if(!PN) return; let perm=await PN.checkPermissions(); if(perm.receive!=='granted') perm=await PN.requestPermissions(); if(perm.receive!=='granted') return; PN.addListener('registration',t=>savePushToken(t.value)); PN.addListener('registrationError',()=>{}); await PN.register(); }catch(e){} }
 initPush();
 initLogChips();
-setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); }, 25000);
+setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); else driveLiveActivity(); }, 25000);
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
 </script>
 </body>
