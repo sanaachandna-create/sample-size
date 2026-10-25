@@ -1,0 +1,32 @@
+name: Push test
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Notification title"
+        required: false
+      body:
+        description: "Notification body"
+        required: false
+
+permissions:
+  contents: read
+
+jobs:
+  push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install "pyjwt[crypto]" "httpx[http2]"
+      - name: Send push
+        env:
+          APNS_KEY: ${{ secrets.APNS_KEY }}
+          APNS_KEY_ID: ${{ secrets.APNS_KEY_ID }}
+          APNS_TEAM_ID: ${{ secrets.APNS_TEAM_ID }}
+          APNS_ENV: sandbox
+        run: python push.py "${{ github.event.inputs.title || 'SAMPLE SIZE' }}" "${{ github.event.inputs.body || 'Push notifications are live. ⚡' }}"
