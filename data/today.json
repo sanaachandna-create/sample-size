@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T16:57:02+00:00",
+  "updated": "2026-10-25T18:43:28+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 202,
+  "injuryCount": 203,
   "games": [
     {
       "ha": "LAL",
@@ -138,15 +138,15 @@
         },
         {
           "p": "Tyler Bilodeau",
-          "st": "GTD",
+          "st": "OUT",
           "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland. This will be Bilo"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-10-25, IND@BKN). Prior reporting (2026-10-25)"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the"
+          "note": "Injury/Illness - Back, Injury Management (2026-10-25, IND@BKN). Prior reporting (2026-10-2"
         }
       ],
       "lineups": {
@@ -324,12 +324,6 @@
           "st": "OUT",
           "team": "OKC",
           "note": "Injury/Illness - Low Back Surgery (2026-10-25, LAC@OKC). Prior reporting (2026-10-21): Top"
-        },
-        {
-          "p": "Otega Oweh",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Not With Team (2026-10-25, LAC@OKC). Prior reporting (2026-10-23): The Thunder plan to wai"
         }
       ],
       "lineups": {
@@ -392,37 +386,31 @@
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress r"
+          "note": "Injury/Illness - Low Back Stress Reaction (2026-10-25, DET@PHI). Prior reporting (2026-10-"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
+          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-10-25, DET@PHI). Prior reporti"
         },
         {
           "p": "Tacko Fall",
           "st": "OUT",
           "team": "PHI",
-          "note": "Fall (quadriceps) is out for Saturday's game against the Bucks. Fall still isn't ready for"
-        },
-        {
-          "p": "LeBron James",
-          "st": "GTD",
-          "team": "PHI",
-          "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of Ph"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-10-25, DET@PHI). Prior reporting (2026-10-25"
         },
         {
           "p": "Jabari Walker",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did n"
+          "note": "Injury/Illness - Left Knee Soreness (2026-10-25, DET@PHI). Prior reporting (2026-10-25): W"
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal"
+          "note": "Injury/Illness - Right Plantar fasciitis injury management (2026-10-25, DET@PHI). Prior re"
         }
       ],
       "lineups": {
@@ -588,6 +576,24 @@
           "st": "OUT",
           "team": "MIN",
           "note": "Injury/Illness - Right Achilles Tendon Repair / Surgery (2026-10-25, TOR@MIN). Prior repor"
+        },
+        {
+          "p": "Khalifa Diop",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-26, MIN@CLE)."
+        },
+        {
+          "p": "Nae'Qwan Tomlin",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Left Low Back Stress Reaction (2026-10-26, MIN@CLE)."
+        },
+        {
+          "p": "Ernest Udeh, Jr.",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "G League - Two-Way (2026-10-26, MIN@CLE)."
         }
       ],
       "lineups": {
@@ -620,19 +626,19 @@
           "p": "Nicolas Claxton",
           "st": "OUT",
           "team": "CHI",
-          "note": "Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Netw"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-26, CHI@BOS). Prior reporting (2026-10-19)"
         },
         {
           "p": "Noa Essengue",
           "st": "GTD",
           "team": "CHI",
-          "note": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The"
+          "note": "Injury/Illness - Right Head Contusion (2026-10-26, CHI@BOS). Prior reporting (2026-10-25):"
         },
         {
           "p": "Patrick Williams",
           "st": "GTD",
           "team": "CHI",
-          "note": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athlet"
+          "note": "Injury/Illness - Right Adductor / Groin Soreness / Tightness (2026-10-26, CHI@BOS). Prior "
         },
         {
           "p": "Devin Carter",
@@ -822,12 +828,6 @@
           "st": "OUT",
           "team": "OKC",
           "note": "Injury/Illness - Low Back Surgery (2026-10-25, LAC@OKC). Prior reporting (2026-10-21): Top"
-        },
-        {
-          "p": "Otega Oweh",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Not With Team (2026-10-25, LAC@OKC). Prior reporting (2026-10-23): The Thunder plan to wai"
         }
       ],
       "lineups": {
@@ -1077,15 +1077,15 @@
       "injuries": [
         {
           "p": "Tyler Bilodeau",
-          "st": "GTD",
+          "st": "OUT",
           "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Saturday's game in Cleveland. This will be Bilo"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-10-25, IND@BKN). Prior reporting (2026-10-25)"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the"
+          "note": "Injury/Illness - Back, Injury Management (2026-10-25, IND@BKN). Prior reporting (2026-10-2"
         },
         {
           "p": "Devin Carter",
@@ -1365,6 +1365,24 @@
           "st": "OUT",
           "team": "WAS",
           "note": "Dybantsa (ankle) has been ruled out for Saturday's game against the Bulls. Dybantsa will m"
+        },
+        {
+          "p": "Khalifa Diop",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-26, MIN@CLE)."
+        },
+        {
+          "p": "Nae'Qwan Tomlin",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Left Low Back Stress Reaction (2026-10-26, MIN@CLE)."
+        },
+        {
+          "p": "Ernest Udeh, Jr.",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "G League - Two-Way (2026-10-26, MIN@CLE)."
         }
       ],
       "lineups": {
@@ -1478,37 +1496,31 @@
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress r"
+          "note": "Injury/Illness - Low Back Stress Reaction (2026-10-25, DET@PHI). Prior reporting (2026-10-"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
+          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-10-25, DET@PHI). Prior reporti"
         },
         {
           "p": "Tacko Fall",
           "st": "OUT",
           "team": "PHI",
-          "note": "Fall (quadriceps) is out for Saturday's game against the Bucks. Fall still isn't ready for"
-        },
-        {
-          "p": "LeBron James",
-          "st": "GTD",
-          "team": "PHI",
-          "note": "James (back) has been ruled out for Saturday's game against the Bucks, Adam Aaronson of Ph"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-10-25, DET@PHI). Prior reporting (2026-10-25"
         },
         {
           "p": "Jabari Walker",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Walker (ankle) exited Saturday's 127-116 win over the Bucks in the third quarter and did n"
+          "note": "Injury/Illness - Left Knee Soreness (2026-10-25, DET@PHI). Prior reporting (2026-10-25): W"
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Embiid produced 28 points (8-20 FG, 0-3 3Pt, 12-14 FT), 11 rebounds, 10 assists, one steal"
+          "note": "Injury/Illness - Right Plantar fasciitis injury management (2026-10-25, DET@PHI). Prior re"
         },
         {
           "p": "T.J. McConnell",
@@ -1658,19 +1670,19 @@
           "p": "Nicolas Claxton",
           "st": "OUT",
           "team": "CHI",
-          "note": "Claxton (hamstring) will be re-evaluated in two weeks, K.C. Johnson of Chicago Sports Netw"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-26, CHI@BOS). Prior reporting (2026-10-19)"
         },
         {
           "p": "Noa Essengue",
           "st": "GTD",
           "team": "CHI",
-          "note": "Essengue (head) won't suit up for Saturday's game against the Wizards, Joel Lorenzi of The"
+          "note": "Injury/Illness - Right Head Contusion (2026-10-26, CHI@BOS). Prior reporting (2026-10-25):"
         },
         {
           "p": "Patrick Williams",
           "st": "GTD",
           "team": "CHI",
-          "note": "Williams (groin) is out for Saturday's game versus the Wizards, Joel Lorenzi of The Athlet"
+          "note": "Injury/Illness - Right Adductor / Groin Soreness / Tightness (2026-10-26, CHI@BOS). Prior "
         }
       ],
       "lineups": {
@@ -1956,12 +1968,6 @@
           "st": "OUT",
           "team": "OKC",
           "note": "Injury/Illness - Low Back Surgery (2026-10-25, LAC@OKC). Prior reporting (2026-10-21): Top"
-        },
-        {
-          "p": "Otega Oweh",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Not With Team (2026-10-25, LAC@OKC). Prior reporting (2026-10-23): The Thunder plan to wai"
         },
         {
           "p": "Santi Aldama",
