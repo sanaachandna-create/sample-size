@@ -3,11 +3,17 @@
 
 Computes each player's season averages AND the noise around them (per-game
 standard deviation + sample size) from the /stats endpoint, then builds
-projected lines for the common PrizePicks markets.
+projected lines for the PrizePicks markets BALLDONTLIE can support.
 
 The whole point of "SAMPLE SIZE": early-season averages come off 1-3 games,
 so they LIE. This worker ships the sample size (n) and the spread (sd) next
 to every projection so the app can tell you how much to trust it.
+
+Markets built (single player):
+  PTS REB AST 3PM 3PA 2PM 2PA FGM FGA FTM FTA OREB DREB STL BLK TOV
+  + combos PRA PR PA RA BS  + Fantasy (FS)
+  + double-double / triple-double hit rates
+Not available from BALLDONTLIE: dunks (not in the box score feed).
 
 Writes data/proj.json. Never fatal: if /stats errors or the tier is missing,
 it writes an 'error' and an empty player list; the games worker is untouched.
@@ -17,7 +23,6 @@ is season=2026. Override with SEASON=YYYY if needed.
 """
 import json
 import os
-import sys
 import math
 import time
 import datetime
@@ -28,10 +33,13 @@ import urllib.parse
 STATS_URL = "https://api.balldontlie.io/v1/stats"
 KEY = os.environ.get("BDL_KEY", "").strip()
 
-# current season start-year; 2026-27 season -> 2026
 DEFAULT_SEASON = 2026
-MIN_MINUTES = 10.0     # ignore deep-bench noise
-TOP_PER_TEAM = 12      # cap roster depth we keep per team
+MIN_MINUTES = 10.0
+TOP_PER_TEAM = 14
+
+# per-game raw columns we pull from each box line
+RAW = ["pts", "reb", "ast", "stl", "blk", "tov",
+       "fgm", "fga", "fg3m", "fg3a", "ftm", "fta", "oreb", "dreb"]
 
 
 def api(url, params=None, cursor=None):
@@ -46,7 +54,6 @@ def api(url, params=None, cursor=None):
 
 
 def to_min(v):
-    """BDL minutes come as '34', '34:12', '', or None -> float minutes."""
     if v is None:
         return 0.0
     s = str(v).strip()
@@ -69,7 +76,6 @@ def mean(xs):
 
 
 def stdev(xs):
-    """Sample standard deviation; 0 when fewer than 2 games."""
     n = len(xs)
     if n < 2:
         return 0.0
@@ -82,14 +88,12 @@ def r1(x):
 
 
 def fetch_season_stats(season):
-    """Pull every box line for the season, grouped per player id."""
     by_player = {}
     cursor, pages, err = None, 0, None
     try:
         while True:
             data = api(STATS_URL, {"seasons[]": [season], "per_page": 100}, cursor)
-            rows = data.get("data", [])
-            for s in rows:
+            for s in data.get("data", []):
                 pl = s.get("player") or {}
                 pid = pl.get("id")
                 if not pid:
@@ -99,33 +103,37 @@ def fetch_season_stats(season):
                     "id": pid,
                     "name": (str(pl.get("first_name", "")) + " " + str(pl.get("last_name", ""))).strip(),
                     "team": tm.get("abbreviation", "") or "",
-                    "g": [],   # per-game raw rows we care about
+                    "g": [],
                 })
-                # keep the most recent team we see for the player
                 if tm.get("abbreviation"):
                     rec["team"] = tm["abbreviation"]
                 mn = to_min(s.get("min"))
                 if mn <= 0:
-                    continue  # DNP / did not play — not a real sample point
-                rec["g"].append({
-                    "min": mn,
-                    "pts": s.get("pts") or 0,
-                    "reb": s.get("reb") or 0,
-                    "ast": s.get("ast") or 0,
-                    "stl": s.get("stl") or 0,
-                    "blk": s.get("blk") or 0,
-                    "tov": s.get("turnover") or 0,
-                    "fg3m": s.get("fg3m") or 0,
-                })
+                    continue
+                row = {"min": mn}
+                for k in RAW:
+                    row[k] = s.get(k) or 0
+                # derived two-point splits
+                row["twopm"] = row["fgm"] - row["fg3m"]
+                row["twopa"] = row["fga"] - row["fg3a"]
+                rec["g"].append(row)
             cursor = (data.get("meta", {}) or {}).get("next_cursor")
             pages += 1
-            # generous page cap; early season is small, keeps us well under limits
-            if not cursor or pages >= 60:
+            if not cursor or pages >= 80:
                 break
-            time.sleep(1.1)   # 60 req/min ALL-STAR -> ~55/min, safe
+            time.sleep(1.1)
     except Exception as e:  # noqa: BLE001
         err = f"{type(e).__name__}: {e}"
     return by_player, err
+
+
+# per-game stat -> projection market key
+SINGLES = {
+    "PTS": "pts", "REB": "reb", "AST": "ast",
+    "3PM": "fg3m", "3PA": "fg3a", "2PM": "twopm", "2PA": "twopa",
+    "FGM": "fgm", "FGA": "fga", "FTM": "ftm", "FTA": "fta",
+    "OREB": "oreb", "DREB": "dreb", "STL": "stl", "BLK": "blk", "TOV": "tov",
+}
 
 
 def build_player(rec):
@@ -133,40 +141,55 @@ def build_player(rec):
     n = len(games)
     if not n:
         return None
-    col = lambda k: [g[k] for g in games]  # noqa: E731
-    mins = col("min")
+    mins = [g["min"] for g in games]
     if mean(mins) < MIN_MINUTES:
         return None
 
-    def stat(k):
-        xs = col(k)
-        return {"m": r1(mean(xs)), "sd": r1(stdev(xs))}
+    def stat_from(col):
+        return {"m": r1(mean(col)), "sd": r1(stdev(col))}
 
-    pts, reb, ast = stat("pts"), stat("reb"), stat("ast")
-    stl, blk, tov, fg3m = stat("stl"), stat("blk"), stat("tov"), stat("fg3m")
+    stats = {}
+    for mkt, raw in SINGLES.items():
+        stats[mkt] = stat_from([g[raw] for g in games])
 
-    # combined-market means are additive; sd combined ~ sqrt(sum of variances)
-    # (ignores correlation — a deliberate, slightly-conservative v1 estimate)
-    def combo(*parts):
-        m = sum(p["m"] for p in parts)
-        sd = math.sqrt(sum(p["sd"] ** 2 for p in parts))
+    def combo(*keys):
+        m = sum(stats[k]["m"] for k in keys)
+        sd = math.sqrt(sum(stats[k]["sd"] ** 2 for k in keys))
         return {"m": r1(m), "sd": r1(sd)}
 
-    # PrizePicks fantasy score: pts + 1.2*reb + 1.5*ast + 3*stl + 3*blk - tov
+    stats["PRA"] = combo("PTS", "REB", "AST")
+    stats["PR"] = combo("PTS", "REB")
+    stats["PA"] = combo("PTS", "AST")
+    stats["RA"] = combo("REB", "AST")
+    stats["BS"] = combo("BLK", "STL")
+
     fs_vals = [g["pts"] + 1.2 * g["reb"] + 1.5 * g["ast"]
                + 3 * g["stl"] + 3 * g["blk"] - g["tov"] for g in games]
+    stats["FS"] = {"m": r1(mean(fs_vals)), "sd": r1(stdev(fs_vals))}
+
+    # double-double / triple-double hit rate (pts/reb/ast/stl/blk >= 10)
+    def doubles(g):
+        return sum(1 for v in (g["pts"], g["reb"], g["ast"], g["stl"], g["blk"]) if v >= 10)
+    dd = sum(1 for g in games if doubles(g) >= 2)
+    td = sum(1 for g in games if doubles(g) >= 3)
+
+    # season rate stats (computed from totals, not avg-of-percentages)
+    tot = lambda k: sum(g[k] for g in games)  # noqa: E731
+    fga_t, fta_t = tot("fga"), tot("fta")
+    tsa = fga_t + 0.44 * fta_t
+    rates = {
+        "MPG": r1(mean(mins)),
+        "FG%": r1(tot("fgm") / fga_t * 100) if fga_t else 0.0,
+        "3P%": r1(tot("fg3m") / tot("fg3a") * 100) if tot("fg3a") else 0.0,
+        "FT%": r1(tot("ftm") / fta_t * 100) if fta_t else 0.0,
+        "TS%": r1(tot("pts") / (2 * tsa) * 100) if tsa else 0.0,
+    }
 
     return {
         "id": rec["id"], "name": rec["name"], "team": rec["team"],
         "gp": n, "min": r1(mean(mins)),
-        "stats": {
-            "PTS": pts, "REB": reb, "AST": ast,
-            "3PM": fg3m, "STL": stl, "BLK": blk, "TOV": tov,
-            "PRA": combo(pts, reb, ast),
-            "PR": combo(pts, reb), "PA": combo(pts, ast), "RA": combo(reb, ast),
-            "BS": combo(blk, stl),
-            "FS": {"m": r1(mean(fs_vals)), "sd": r1(stdev(fs_vals))},
-        },
+        "dd": round(dd / n, 2), "td": round(td / n, 2),
+        "rates": rates, "stats": stats,
     }
 
 
@@ -183,7 +206,6 @@ def main():
             p = build_player(rec)
             if p:
                 players.append(p)
-        # rank within team by minutes, keep the top rotation
         players.sort(key=lambda p: (p["team"], -p["min"]))
         kept = []
         for p in players:
