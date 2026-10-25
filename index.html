@@ -472,6 +472,15 @@
   .combo-body select,.combo-body input{background:var(--bg);border:1px solid var(--line);border-radius:7px;color:var(--ink);font-size:12.5px;padding:8px 9px}
   .combo-body .cb-a,.combo-body .cb-b,.combo-body .cb-mkt{flex:1;min-width:0}
   .combo-body .cb-line{width:108px;font-family:var(--f-mono)}
+  .tr-block .tr-row{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:7px 0;border-bottom:1px solid var(--line)}
+  .tr-block .tr-row:last-of-type{border-bottom:none}
+  .tr-k{font-family:var(--f-mono);font-size:10px;letter-spacing:.1em;color:var(--faint);width:80px;flex-shrink:0}
+  .tr-vals{display:flex;gap:12px;align-items:center;flex-wrap:wrap;font-size:12px;color:var(--muted)}
+  .tr-vals b{color:var(--ink);font-family:var(--f-mono)}
+  .tr-row.tr-good .tr-lean,.tr-row.tr-good .tr-lean b{color:var(--green-ink)}
+  .tr-row.tr-warn .tr-lean,.tr-row.tr-warn .tr-lean b{color:var(--orange)}
+  .tr-na{color:var(--faint);font-style:italic}
+  .tr-note{font-size:11px;color:var(--orange);margin-top:8px;line-height:1.45}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
   .sample-banner{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.03em;color:var(--faint);
     border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 2px 12px;line-height:1.55}
@@ -512,7 +521,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts<span class="soon">soon</span></button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist<span class="soon">soon</span></button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-25 · RATES</div>
+  <div class="drawer-foot">BUILD 10-25 · TEAM READ</div>
 </aside>
 
 <main id="scroll">
@@ -852,6 +861,7 @@ function renderGames(){
     if(g.future){wrap.appendChild(el(`<div class="game future"><div class="rail"></div><div class="g-top"><div class="teams"><div class="team"><span class="abbr">${g.ha}<sup class="rank">${g.arank}</sup></span><span class="tname">${g.away}</span><span class="rec">${g.arec}</span></div><div class="team"><span class="abbr">${g.hh}<sup class="rank">${g.hrank}</sup></span><span class="tname">${g.home}</span><span class="rec">${g.hrec}</span></div></div><div class="g-right"><div class="tip">${tipET(g.tip)}</div><span class="chan ${g.national?'':'local'}">${g.channel}</span></div></div><div class="g-status"><span class="pill later">UPCOMING</span></div></div>`));return;}
     const fav=isFav(g);
     const showScore=(ws.cls==='live'||ws.cls==='final') && g.hscore!=null && g.ascore!=null;
+    const trHTML=teamReadHTML(g);
     const node=el(`<div class="game ${ws.cls}${fav?' favgame':''}"${fav?` style="--tc:${(TEAMS[favTeam()]||{}).c}"`:''} data-i="${i}">
       <div class="rail"></div>
       <div class="g-top">
@@ -869,7 +879,7 @@ function renderGames(){
         <span class="pill ${ws.pill}">${ws.label}</span>
         ${injCount?`<span class="flag"><svg class="crossic" viewBox="0 0 24 24"><path d="M9 3h6v6h6v6h-6v6H9v-6H3V9h6z"/></svg>${injCount}</span>`:''}
       </div>
-      <div class="detail"><div class="d-inner">${hasDetail?`
+      <div class="detail"><div class="d-inner">${trHTML}${hasDetail?`
         <div class="d-block"><p class="sub">Injuries & status</p>
           ${g.injuries.map(x=>`<div class="inj"><span class="st ${x.st}">${x.st}</span>
             <span class="who">${x.p}</span><span style="color:var(--faint);font-size:10px;font-family:var(--f-mono)">${x.team}</span>
@@ -893,8 +903,8 @@ function renderGames(){
             <div class="trend ${r.dir==='up'?'up':r.dir==='down'?'down':''}">${r.t}</div></div>`).join('')}</div></div>
         <div class="d-block" style="margin-bottom:2px"><p class="sub">Head to head</p>
           <div style="font-size:12px;color:var(--muted)">${g.h2h}</div></div>
-      `:`<div class="d-block" style="margin-bottom:2px"><p class="sub">Game detail</p>
-        <div style="font-size:12px;color:var(--faint);line-height:1.55">Injuries, projected lineups, and stats for this matchup come online in the next data stage.</div></div>`}</div></div>
+      `:(trHTML?'':`<div class="d-block" style="margin-bottom:2px"><p class="sub">Game detail</p>
+        <div style="font-size:12px;color:var(--faint);line-height:1.55">Injuries, projected lineups, and stats for this matchup come online in the next data stage.</div></div>`)}</div></div>
     </div>`);
     node.addEventListener('click',()=>node.classList.toggle('open'));
     wrap.appendChild(node);
@@ -905,6 +915,31 @@ const SETUPS=["Player's hot","Soft line","Someone's out","Rest edge","Good match
 const CONF=["Low","Med","High"];
 const MKT={PTS:'Points',REB:'Rebounds',AST:'Assists',PRA:'Pts+Reb+Ast',PR:'Pts+Reb',PA:'Pts+Ast',RA:'Reb+Ast','3PM':'3-PT Made','3PA':'3-PT Att','2PM':'2-PT Made','2PA':'2-PT Att',FGM:'FG Made',FGA:'FG Att',FTM:'FT Made',FTA:'FT Att',OREB:'Off Reb',DREB:'Def Reb',STL:'Steals',BLK:'Blocks',BS:'Blks+Stls',TOV:'Turnovers',FS:'Fantasy'};
 const LAB_ORDER=['PTS','REB','AST','PRA','PR','PA','RA','3PM','3PA','2PM','2PA','FGM','FGA','FTM','FTA','OREB','DREB','STL','BLK','BS','TOV','FS'];
+function teamReadHTML(g){
+  const tr=DATA._teamRead && DATA._teamRead[g.hh+'|'+g.ha];
+  if(!tr) return '';
+  const nGp=Math.min(tr.gpH||0,tr.gpA||0), warn=nGp<4;
+  const leanCls=(e)=>e==null?'':(warn?'tr-warn':(Math.abs(e)>=3?'tr-good':'tr-ok'));
+  const sgn=(x)=>x>0?'+'+x:(''+x);
+  let totalRow;
+  if(tr.mktTotal!=null && tr.myTotal!=null){
+    totalRow=`<div class="tr-row ${leanCls(tr.totalEdge)}"><div class="tr-k">TOTAL</div><div class="tr-vals"><span>mkt <b>${tr.mktTotal}</b></span><span>mine <b>${tr.myTotal}</b></span><span class="tr-lean">${tr.totalLean} <b>${sgn(tr.totalEdge)}</b></span></div></div>`;
+  } else {
+    totalRow=`<div class="tr-row"><div class="tr-k">TOTAL</div><div class="tr-vals tr-na">${tr.mktTotal==null?'no market line':'need more games'}</div></div>`;
+  }
+  let spreadRow;
+  if(tr.mktSpreadHome!=null && tr.mySpreadHome!=null){
+    spreadRow=`<div class="tr-row ${leanCls(tr.spreadEdge)}"><div class="tr-k">SPREAD</div><div class="tr-vals"><span>${g.hh} <b>${sgn(tr.mktSpreadHome)}</b></span><span>mine <b>${sgn(tr.mySpreadHome)}</b></span><span class="tr-lean">${tr.spreadLean} <b>${sgn(tr.spreadEdge)}</b></span></div></div>`;
+  } else {
+    spreadRow=`<div class="tr-row"><div class="tr-k">SPREAD</div><div class="tr-vals tr-na">${tr.mktSpreadHome==null?'no market line':'need more games'}</div></div>`;
+  }
+  let mlRow='';
+  if(tr.mlHome!=null||tr.mlAway!=null){
+    mlRow=`<div class="tr-row"><div class="tr-k">MONEYLINE</div><div class="tr-vals"><span>${g.ha} <b>${tr.mlAway!=null?sgn(tr.mlAway):'—'}</b></span><span>${g.hh} <b>${tr.mlHome!=null?sgn(tr.mlHome):'—'}</b></span></div></div>`;
+  }
+  const note=warn?`<div class="tr-note">Model off ${nGp} game${nGp===1?'':'s'} per side — lean, don't hammer.</div>`:'';
+  return `<div class="d-block tr-block"><p class="sub">Team read <span class="tag-ctx">your model vs the market</span></p>${totalRow}${spreadRow}${mlRow}${note}</div>`;
+}
 function projTrust(m,sd){ if(!m||m<=0) return {cls:'t-lo'}; const cv=sd/m; if(cv<0.20) return {cls:'t-hi'}; if(cv<0.40) return {cls:'t-md'}; return {cls:'t-lo'}; }
 function labDetailHTML(p){
   const s=p.stats;
@@ -1493,8 +1528,9 @@ async function loadLive(){
   const grab=(u)=>fetch(u,{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null);
   const raw=`https://raw.githubusercontent.com/${GH.owner}/${GH.repo}/${GH.branch}/`;
   const b='?t='+Date.now();
-  const [gd,st,bt,nw,pj]=await Promise.all([grab(raw+'data/today.json'+b),grab(raw+'data/standings.json'+b),grab(raw+'data/bets.json'+b),grab(raw+'data/news.json'+b),grab(raw+'data/proj.json'+b)]);
+  const [gd,st,bt,nw,pj,tj]=await Promise.all([grab(raw+'data/today.json'+b),grab(raw+'data/standings.json'+b),grab(raw+'data/bets.json'+b),grab(raw+'data/news.json'+b),grab(raw+'data/proj.json'+b),grab(raw+'data/teams.json'+b)]);
   if(pj && Array.isArray(pj.players)){ DATA.proj=pj; DATA._projIndex={}; pj.players.forEach(p=>DATA._projIndex[p.id]=p); }
+  if(tj && Array.isArray(tj.games)){ DATA.teams=tj; DATA._teamRead={}; tj.games.forEach(r=>{ DATA._teamRead[r.hh+'|'+r.ha]=r; }); }
   if(onLive){
     DATA._live=true; DATA._betsLive=true;
     DATA.games=(gd&&Array.isArray(gd.games))?gd.games:[];
