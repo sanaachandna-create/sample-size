@@ -41,9 +41,35 @@ except Exception:  # noqa: BLE001
     _apns_send = None
 
 
+_PUSH_SKIP = ["off injury report", "removed from injury report",
+              "left off injury report", "absent from injury report",
+              "probable", "questionable", "day-to-day", "day to day",
+              "cleared", "returns", "available", "expected to play",
+              "will play", "is active", "good to go", "upgraded"]
+_PUSH_HARD = ["traded", "trade", "acquir", "agrees to", "agreed to", "waived",
+              "buyout", "released", "out for the season", "out for season",
+              "out indefinitely", "ruled out", "to miss", "will miss",
+              "expected to miss", "surgery", "torn", " acl", "ruptured",
+              "fractur", "broken", "sidelined", "suspended", "suspension",
+              "done for", "re-sign", "signs with", "signing",
+              # trade rumors / movement chatter
+              "rumor", "trade talk", "on the block", "trade target",
+              "trade candidate", "linked to", "trade interest", "shopping",
+              "could be dealt", "available in a trade", "trade buzz",
+              "trade package", "trade market", "exploring", "trade deadline"]
+
+
+def is_important(title):
+    """Strict filter for NATIVE pushes — trades + serious injuries only."""
+    t = (title or "").lower()
+    if any(x in t for x in _PUSH_SKIP):
+        return False
+    return any(k in t for k in _PUSH_HARD)
+
+
 def apns_notify(item):
-    """Fire a native iOS push for a breaking item (never fatal)."""
-    if not _apns_send:
+    """Fire a native iOS push for an IMPORTANT breaking item (never fatal)."""
+    if not _apns_send or not is_important(item.get("title") or ""):
         return
     try:
         _apns_send("SAMPLE SIZE — WIRE", (item.get("title") or "")[:160])
