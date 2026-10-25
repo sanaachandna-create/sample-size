@@ -538,6 +538,15 @@
   .tr-cap b{color:var(--ink);font-family:var(--f-mono)}
   .tr-cap span{color:var(--faint)}
   .tr-empty{font-size:11.5px;color:var(--faint);padding:8px}
+  .logpick{margin-top:9px;width:100%;background:var(--surface);border:1px dashed var(--line);color:var(--muted);border-radius:8px;padding:9px;font-size:12px;cursor:pointer}
+  .logpick:active{color:var(--ink)}
+  .soul-sub{font-family:var(--f-mono);font-size:10px;letter-spacing:.08em;color:var(--faint);margin:14px 0 7px;text-transform:uppercase}
+  .soul-sub b{color:var(--ink)}
+  .setup-row{display:flex;align-items:center;gap:10px;font-size:12.5px;color:var(--muted);padding:6px 0;border-bottom:1px solid var(--line)}
+  .setup-row:last-of-type{border-bottom:none}
+  .setup-row span:first-child{flex:1}
+  .setup-row b{font-family:var(--f-mono)} .setup-row b.up{color:var(--green-ink)} .setup-row b.down{color:var(--red-ink)}
+  .sr-n{font-family:var(--f-mono);font-size:10px;color:var(--faint)}
   .empty-note b{display:block;color:var(--ink);font-size:15px;margin-bottom:8px}
   .sample-banner{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.03em;color:var(--faint);
     border:1px dashed var(--line);border-radius:8px;padding:8px 10px;margin:0 2px 12px;line-height:1.55}
@@ -578,7 +587,7 @@
   <button class="drawer-item" data-soon="Depth Charts"><svg viewBox="0 0 24 24"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Depth Charts</button>
   <button class="drawer-item" data-soon="Watchlist"><svg viewBox="0 0 24 24"><path d="M12 3l2.9 6 6.6.5-5 4.3 1.6 6.5L12 17l-6.1 3.3L7.5 13.8l-5-4.3 6.6-.5z"/></svg>Watchlist</button>
   <button class="drawer-item" data-view="settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3.2"/><path d="M19.4 13.5a7.8 7.8 0 0 0 0-3l2-1.6-2-3.4-2.4 1a7.6 7.6 0 0 0-2.6-1.5L14 1h-4l-.4 2.5a7.6 7.6 0 0 0-2.6 1.5l-2.4-1-2 3.4 2 1.6a7.8 7.8 0 0 0 0 3l-2 1.6 2 3.4 2.4-1a7.6 7.6 0 0 0 2.6 1.5L10 23h4l.4-2.5a7.6 7.6 0 0 0 2.6-1.5l2.4 1 2-3.4z"/></svg>Settings</button>
-  <div class="drawer-foot">BUILD 10-25 · DEPTH</div>
+  <div class="drawer-foot">BUILD 10-25 · EXTRAS</div>
 </aside>
 
 <main id="scroll">
@@ -1063,7 +1072,7 @@ function labDetailHTML(p){
   const ddtd = dd!=null ? `<div class="ddtd">Double-dbl <b>${dd}%</b> · Triple-dbl <b>${td}%</b> <span>of games · n=${p.gp}</span></div>` : '';
   const r=p.rates;
   const rates = r ? `<div class="rates">MPG <b>${r.MPG}</b> · FG <b>${r['FG%']}%</b> · 3P <b>${r['3P%']}%</b> · FT <b>${r['FT%']}%</b> · TS <b>${r['TS%']}%</b></div>` : '';
-  return `${rates}${ddtd}<div class="gmgrid">${grid}</div><div class="linechk"><div class="lc-sub">Check a PrizePicks line</div><div class="lc-row"><select class="lc-mkt">${opts}</select><input class="lc-line" type="number" inputmode="decimal" placeholder="line e.g. 25.5"></div><div class="lc-out">Enter a line to see your edge.</div></div>${p.log&&p.log.length?`<div class="trend"><div class="tr-top"><span class="tr-lbl">GAME LOG</span><span class="tr-n-wrap">last <select class="tr-n"><option value="5">5</option><option value="10">10</option><option value="15" selected>15</option></select> games</span></div><div class="tr-chart"></div></div>`:''}<button class="askbk">🎙 Ask the bookie</button><div class="bk-out mut">An honest read on this pick, grounded in these numbers. Pick a market + line above first for a line-specific take. Uses your Anthropic key.</div>`;
+  return `${rates}${ddtd}<div class="gmgrid">${grid}</div><div class="linechk"><div class="lc-sub">Check a PrizePicks line</div><div class="lc-row"><select class="lc-mkt">${opts}</select><input class="lc-line" type="number" inputmode="decimal" placeholder="line e.g. 25.5"></div><div class="lc-out">Enter a line to see your edge.</div><button class="logpick">＋ Log this pick to THE BOOK</button></div>${p.log&&p.log.length?`<div class="trend"><div class="tr-top"><span class="tr-lbl">GAME LOG</span><span class="tr-n-wrap">last <select class="tr-n"><option value="5">5</option><option value="10">10</option><option value="15" selected>15</option></select> games</span></div><div class="tr-chart"></div></div>`:''}<button class="askbk">🎙 Ask the bookie</button><div class="bk-out mut">An honest read on this pick, grounded in these numbers. Pick a market + line above first for a line-specific take. Uses your Anthropic key.</div>`;
 }
 function labBindLine(root,p){
   const sel=root.querySelector('.lc-mkt'), inp=root.querySelector('.lc-line'), out=root.querySelector('.lc-out');
@@ -1077,8 +1086,10 @@ function labBindLine(root,p){
     else if(strength<0.25){tag='inside the noise — basically a coin flip';cls='warn';}
     else if(strength<0.75){tag='real lean';cls='ok';}
     else {tag="strong edge — still check tonight's lineup";cls='good';}
+    const roll=bank(); let units=0; if(p.gp>=3){ if(strength>=0.75)units=2; else if(strength>=0.25)units=1; }
+    const sug= roll? (units? ` · size <b>${units}u ≈ $${(roll*0.01*units).toFixed(0)}</b>` : ` · <b>pass</b>`) : '';
     out.className='lc-out '+cls;
-    out.innerHTML=`Proj <b>${st.m}</b> vs line <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · lean <b>${lean}</b><br><span class="lc-tag">${tag}</span>`;
+    out.innerHTML=`Proj <b>${st.m}</b> vs line <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · lean <b>${lean}</b>${sug}<br><span class="lc-tag">${tag}</span>`;
   };
   sel.addEventListener('change',calc); inp.addEventListener('input',calc);
   const bk=root.querySelector('.askbk'), bko=root.querySelector('.bk-out');
@@ -1086,6 +1097,17 @@ function labBindLine(root,p){
   const trN=root.querySelector('.tr-n'), trChart=root.querySelector('.tr-chart');
   const drawTrend=()=>{ if(!trChart)return; const L=parseFloat(inp.value); const k=sel.value; const pm=(p.stats[k]&&p.stats[k].m!=null)?p.stats[k].m:null; trChart.innerHTML=trendSVG(p.log, k, isNaN(L)?null:L, +(trN?trN.value:15), pm); };
   if(trChart){ drawTrend(); sel.addEventListener('change',drawTrend); inp.addEventListener('input',drawTrend); if(trN) trN.addEventListener('change',drawTrend); }
+  const lp=root.querySelector('.logpick');
+  if(lp) lp.addEventListener('click',()=>{
+    const k=sel.value, L=parseFloat(inp.value);
+    if(isNaN(L)){ out.className='lc-out warn'; out.textContent='Type a line first, then log it.'; return; }
+    const st=p.stats[k], e=+(st.m-L).toFixed(1), lean=e>=0?'MORE':'LESS';
+    const legEl=document.getElementById('f-legs'); if(legEl){ legEl.value=(legEl.value?legEl.value+'\n':'')+`${p.name} ${lean} ${L} ${MKT[k]||k}`; }
+    window._pendingEdge=e;
+    const sp=document.getElementById('f-sport'); if(sp){sp.value='NBA';sp.dispatchEvent(new Event('change'));}
+    const lf=document.getElementById('logform'); if(lf) lf.classList.add('on');
+    initLogChips(); setView('bag');
+  });
 }
 function labPlayerRow(p){
   const s=p.stats;
@@ -1123,7 +1145,7 @@ function labComboBuilder(players){
     else if(strength<0.75){tag='real lean';cls='ok';}
     else {tag='strong edge — check both lineups';cls='good';}
     out.className='lc-out '+cls;
-    out.innerHTML=`${last(pA.name)} + ${last(pB.name)} <b>${m}</b> vs <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · <b>${lean}</b><br><span class="lc-tag">${tag}</span>`;
+    out.innerHTML=`${last(pA.name)} + ${last(pB.name)} <b>${m}</b> vs <b>${L}</b> → edge <b>${edge>=0?'+':''}${edge}</b> · <b>${lean}</b><br><span class="lc-tag">${tag}</span>${pA.team===pB.team?`<br><span class="lc-tag" style="color:var(--orange)">⚠ same team (${pA.team}) — correlated, riskier than 2 separate legs</span>`:''}`;
   };
   [a,bsel,mk].forEach(e=>e.addEventListener('change',calc)); ln.addEventListener('input',calc); calc();
   return node;
@@ -1232,6 +1254,11 @@ function soulEngineHTML(){
   const sres=settled[settled.length-1].res; let streak=0;
   for(let i=settled.length-1;i>=0;i--){ if(settled[i].res===sres) streak++; else break; }
   const small=settled.length<15;
+  const bySetup={}; settled.forEach(s=>{const kk=s.setup||'untagged';(bySetup[kk]=bySetup[kk]||{w:0,n:0});if(s.res==='WIN')bySetup[kk].w++;bySetup[kk].n++;});
+  const setups=Object.entries(bySetup).filter(e=>e[1].n>=2&&e[0]!=='untagged').sort((a,b)=>(b[1].w/b[1].n)-(a[1].w/a[1].n));
+  const setupHTML=setups.length?`<div class="soul-sub">Your setups — what actually wins</div>`+setups.map(e=>`<div class="setup-row"><span>${e[0]}</span><b class="${e[1].w/e[1].n>=0.5?'up':'down'}">${Math.round(e[1].w/e[1].n*100)}%</b><span class="sr-n">${e[1].w}/${e[1].n}</span></div>`).join(''):'';
+  const edged=settled.filter(s=>s.edge!=null); const avgEdge=edged.length?edged.reduce((a,s)=>a+s.edge,0)/edged.length:null;
+  const edgeHTML=avgEdge!=null?`<div class="soul-sub">Avg projected edge at bet <b>${avgEdge>=0?'+':''}${avgEdge.toFixed(1)}</b> <span class="sr-n">· over ${edged.length} logged — is your read real?</span></div>`:'';
   return `<div class="eyebrow" style="margin-top:22px"><span class="q">"</span>THE SOUL ENGINE<span class="q">"</span> <span class="eb-count">— HONEST SELF-READ</span></div>
     <div class="soul-grid">
       <div class="soul-tile"><div class="st-lbl">HIT RATE</div><div class="st-val">${Math.round(hit*100)}%</div><div class="st-sub">true range ${Math.round(lo*100)}–${Math.round(hi*100)}% · n=${settled.length}</div></div>
@@ -1240,6 +1267,7 @@ function soulEngineHTML(){
       <div class="soul-tile"><div class="st-lbl">${sres} STREAK</div><div class="st-val">${streak}</div><div class="st-sub">${chases?`chased ${chases}× after a loss`:'no chasing detected'}</div></div>
     </div>
     ${chaseRate>=0.4?`<div class="soul-warn">⚠ Tilt watch — you raised your stake after a loss ${chases} of ${lossThenBet} times. That's chasing, and it's dragging your discipline score down.</div>`:''}
+    ${edgeHTML}${setupHTML}
     ${small?`<div class="soul-note">Only ${settled.length} settled bet${settled.length===1?'':'s'} — a tiny sample. Your true hit rate sits somewhere in that ${Math.round(lo*100)}–${Math.round(hi*100)}% band, not the headline number. Log more and the band tightens. That's the whole point of SAMPLE SIZE.</div>`:''}`;
 }
 function renderLog(){
@@ -1498,6 +1526,8 @@ document.querySelectorAll('.drawer-item').forEach(it=>it.addEventListener('click
   });
   renderWatchChips();
   const wq=$('#s-watch-q'); if(wq) wq.addEventListener('input',()=>watchSearch(wq.value));
+  const sbk=$('#s-bank'); if(sbk) sbk.value=bank()||'';
+  const sbks=$('#s-bank-save'); if(sbks) sbks.addEventListener('click',()=>{setBank(parseFloat($('#s-bank').value)||0);const mm=$('#s-msg2');if(mm){mm.style.color='var(--green-ink)';mm.textContent='Bankroll saved ✓';}});
   document.addEventListener('click',(e)=>{const d=document.getElementById('s-watch-drop');if(d && !e.target.closest('.wl-search')){d.style.display='none';}});
   const sy=$('#s-sync'); if(sy) sy.addEventListener('click',async()=>{
     const m=$('#s-msg2');
@@ -1887,6 +1917,7 @@ document.addEventListener('click',function(e){
   if(a){e.preventDefault();window.open(a.href,'_blank');}
 });
 loadLive();
+initLogChips();
 setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); }, 25000);
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
 </script>
