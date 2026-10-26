@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-26T20:17:00+00:00",
+  "updated": "2026-10-26T20:53:47+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 28,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 192,
+  "injuryCount": 201,
   "games": [
     {
       "ha": "WAS",
@@ -441,13 +441,13 @@
         },
         {
           "p": "RayJ Dennis",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
         {
           "p": "Keshon Gilbert",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
@@ -459,7 +459,7 @@
         },
         {
           "p": "Jalen Wilson",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
@@ -674,13 +674,31 @@
           "p": "Tyler Bilodeau",
           "st": "OUT",
           "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
+          "note": "G League - Two-Way (2026-10-27, BKN@BOS). Prior reporting (2026-10-25): Bilodeau (shoulder"
         },
         {
-          "p": "Mikel Brown Jr.",
-          "st": "GTD",
+          "p": "Joshua Jefferson",
+          "st": "OUT",
           "team": "BKN",
-          "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the"
+          "note": "G League - On Assignment (2026-10-27, BKN@BOS)."
+        },
+        {
+          "p": "Grant Nelson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - Two-Way (2026-10-27, BKN@BOS)."
+        },
+        {
+          "p": "Drake Powell",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-27, BKN@BOS)."
+        },
+        {
+          "p": "Ben Saraf",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-27, BKN@BOS)."
         },
         {
           "p": "Devin Carter",
@@ -719,25 +737,43 @@
           "p": "Ausar Thompson",
           "st": "GTD",
           "team": "DET",
-          "note": "Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athle"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): T"
         },
         {
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-27, DET@NYK). Prior reporting (2026-10-25"
         },
         {
           "p": "Isaiah Joe",
           "st": "GTD",
           "team": "DET",
-          "note": "Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athl"
+          "note": "Injury/Illness - Right Hip Contusion (2026-10-27, DET@NYK). Prior reporting (2026-10-26): "
+        },
+        {
+          "p": "Elijah Harkless",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
+        },
+        {
+          "p": "Isaac Jones",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "OUT",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
         },
         {
           "p": "Jose Alvarado",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NYK",
-          "note": "Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The A"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): Al"
         }
       ],
       "lineups": {
@@ -906,13 +942,13 @@
         },
         {
           "p": "RayJ Dennis",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
         {
           "p": "Keshon Gilbert",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
@@ -924,7 +960,7 @@
         },
         {
           "p": "Jalen Wilson",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         }
@@ -1046,19 +1082,37 @@
           "p": "Ausar Thompson",
           "st": "GTD",
           "team": "DET",
-          "note": "Thompson (ankle) is out for Sunday's game against the 76ers, Hunter Patterson of The Athle"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): T"
         },
         {
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-27, DET@NYK). Prior reporting (2026-10-25"
         },
         {
           "p": "Isaiah Joe",
           "st": "GTD",
           "team": "DET",
-          "note": "Joe (hip) will not return to Sunday's game against the 76ers, Hunter Patterson of The Athl"
+          "note": "Injury/Illness - Right Hip Contusion (2026-10-27, DET@NYK). Prior reporting (2026-10-26): "
+        },
+        {
+          "p": "Elijah Harkless",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
+        },
+        {
+          "p": "Isaac Jones",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "OUT",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-27, DET@NYK)."
         }
       ],
       "lineups": {
@@ -1275,9 +1329,9 @@
       "injuries": [
         {
           "p": "Jose Alvarado",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NYK",
-          "note": "Alvarado (ankle) is out for Sunday's game against the Magic, James L. Edwards III of The A"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): Al"
         },
         {
           "p": "Nicolas Claxton",
@@ -1770,13 +1824,13 @@
         },
         {
           "p": "RayJ Dennis",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
         {
           "p": "Keshon Gilbert",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         },
@@ -1788,7 +1842,7 @@
         },
         {
           "p": "Jalen Wilson",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-10-26, ATL@HOU)."
         }
