@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-25T23:20:23+00:00",
+  "updated": "2026-10-26T01:22:23+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 218,
+  "injuryCount": 202,
   "games": [
     {
       "ha": "LAL",
@@ -19,53 +19,35 @@
       "tip": 1792962000000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 112,
-      "ascore": 113,
+      "status": "post",
+      "hscore": 123,
+      "ascore": 132,
       "period": 4,
-      "clock": "Q4 5:59",
+      "clock": "Final",
       "injuries": [
         {
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-25, LAL@UTA). Prior reporting (2026-10-24):"
+          "note": "Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post report"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Effusion / Swelling (2026-10-25, LAL@UTA). Prior reporting (202"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-10-25, LAL@UTA)."
+          "note": "Thiero (knee) has been ruled out for Sunday's game against Utah, Khobi Price of The Califo"
         },
         {
           "p": "Jusuf Nurkic",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right 2nd Plantar Plate Tear (2026-10-25, LAL@UTA). Prior reporting (2026"
+          "note": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of secon"
         },
         {
           "p": "Trey Alexander",
           "st": "OUT",
           "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA). Prior reporting (2026-10-24): Alexander won't pl"
-        },
-        {
-          "p": "Harrison Ingram",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
-        },
-        {
-          "p": "Kobe Bufkin",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
         }
       ],
       "lineups": {
@@ -88,65 +70,47 @@
       "tip": 1792965600000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 56,
-      "ascore": 65,
-      "period": 2,
-      "clock": "Half",
+      "status": "post",
+      "hscore": 109,
+      "ascore": 136,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
         {
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-25, IND@BKN). Prior reporting (2026-10-24"
+          "note": "McConnell (hamstring) is out for Sunday's game against the Nets. McConnell has yet to make"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-25, IND@BKN). Prior reporting (2026-0"
+          "note": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the se"
         },
         {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Meniscus Tear (2026-10-25, IND@BKN). Prior reporting (2026-10-23): S"
+          "note": "Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetab"
         },
         {
-          "p": "Kobe Brown",
-          "st": "OUT",
+          "p": "Ivica Zubac",
+          "st": "GTD",
           "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Aaron Nesmith",
-          "st": "AVA",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Jalen Slawson",
-          "st": "AVA",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Braden Smith",
-          "st": "OUT",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
+          "note": "Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negativ"
         },
         {
           "p": "Tyler Bilodeau",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-10-25, IND@BKN). Prior reporting (2026-10-25)"
+          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Back, Injury Management (2026-10-25, IND@BKN). Prior reporting (2026-10-2"
+          "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the"
         }
       ],
       "lineups": {
@@ -170,10 +134,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 12,
-      "ascore": 0,
-      "period": 1,
-      "clock": "Q1 7:17",
+      "hscore": 92,
+      "ascore": 98,
+      "period": 4,
+      "clock": "Q4 3:11",
       "injuries": [
         {
           "p": "Anthony Black",
@@ -233,10 +197,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 10,
-      "ascore": 5,
-      "period": 1,
-      "clock": "Q1 8:15",
+      "hscore": 103,
+      "ascore": 75,
+      "period": 4,
+      "clock": "Q4 6:23",
       "injuries": [
         {
           "p": "Nate Bittle",
@@ -284,10 +248,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 12,
-      "ascore": 12,
-      "period": 1,
-      "clock": "Q1 6:58",
+      "hscore": 105,
+      "ascore": 99,
+      "period": 4,
+      "clock": "Q4 1:12",
       "injuries": [
         {
           "p": "Bradley Beal",
@@ -352,11 +316,11 @@
       "tip": 1792971000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 61,
+      "ascore": 69,
+      "period": 3,
+      "clock": "Q3 4:40",
       "injuries": [
         {
           "p": "Ausar Thompson",
@@ -445,17 +409,17 @@
       "tip": 1792976400000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 11,
+      "ascore": 13,
+      "period": 1,
+      "clock": "Q1 7:16",
       "injuries": [
         {
           "p": "Cedric Coward",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MEM",
-          "note": "Injury/Illness - Left Wrist Sprain (2026-10-25, MEM@SAC). Prior reporting (2026-10-25): Co"
+          "note": "Injury/Illness - Left Wrist Sprain (2026-10-25, MEM@SAC)."
         },
         {
           "p": "Zach Edey",
@@ -465,9 +429,15 @@
         },
         {
           "p": "Karim Lopez",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-25, MEM@SAC). Prior reporting"
+        },
+        {
+          "p": "Javon Small",
+          "st": "OUT",
+          "team": "MEM",
+          "note": "G League - Two-Way (2026-10-25, MEM@SAC)."
         },
         {
           "p": "Dylan Cardwell",
@@ -764,43 +734,25 @@
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-25, IND@BKN). Prior reporting (2026-10-24"
+          "note": "McConnell (hamstring) is out for Sunday's game against the Nets. McConnell has yet to make"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-25, IND@BKN). Prior reporting (2026-0"
+          "note": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the se"
         },
         {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Meniscus Tear (2026-10-25, IND@BKN). Prior reporting (2026-10-23): S"
+          "note": "Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetab"
         },
         {
-          "p": "Kobe Brown",
-          "st": "OUT",
+          "p": "Ivica Zubac",
+          "st": "GTD",
           "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Aaron Nesmith",
-          "st": "AVA",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Jalen Slawson",
-          "st": "AVA",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Braden Smith",
-          "st": "OUT",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
+          "note": "Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negativ"
         }
       ],
       "lineups": {
@@ -975,9 +927,9 @@
       "injuries": [
         {
           "p": "Cedric Coward",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MEM",
-          "note": "Injury/Illness - Left Wrist Sprain (2026-10-25, MEM@SAC). Prior reporting (2026-10-25): Co"
+          "note": "Injury/Illness - Left Wrist Sprain (2026-10-25, MEM@SAC)."
         },
         {
           "p": "Zach Edey",
@@ -987,33 +939,27 @@
         },
         {
           "p": "Karim Lopez",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-25, MEM@SAC). Prior reporting"
+        },
+        {
+          "p": "Javon Small",
+          "st": "OUT",
+          "team": "MEM",
+          "note": "G League - Two-Way (2026-10-25, MEM@SAC)."
         },
         {
           "p": "Jusuf Nurkic",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right 2nd Plantar Plate Tear (2026-10-25, LAL@UTA). Prior reporting (2026"
+          "note": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of secon"
         },
         {
           "p": "Trey Alexander",
           "st": "OUT",
           "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA). Prior reporting (2026-10-24): Alexander won't pl"
-        },
-        {
-          "p": "Harrison Ingram",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
-        },
-        {
-          "p": "Kobe Bufkin",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
         }
       ],
       "lineups": {
@@ -1133,13 +1079,13 @@
           "p": "Tyler Bilodeau",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-10-25, IND@BKN). Prior reporting (2026-10-25)"
+          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Back, Injury Management (2026-10-25, IND@BKN). Prior reporting (2026-10-2"
+          "note": "Head coach Jordi Fernandez said Brown (rest) will be held out of Sunday's game against the"
         },
         {
           "p": "Devin Carter",
@@ -1328,19 +1274,13 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-25, LAL@UTA). Prior reporting (2026-10-24):"
+          "note": "Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post report"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Effusion / Swelling (2026-10-25, LAL@UTA). Prior reporting (202"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-10-25, LAL@UTA)."
+          "note": "Thiero (knee) has been ruled out for Sunday's game against Utah, Khobi Price of The Califo"
         }
       ],
       "lineups": {
@@ -1616,43 +1556,25 @@
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-25, IND@BKN). Prior reporting (2026-10-24"
+          "note": "McConnell (hamstring) is out for Sunday's game against the Nets. McConnell has yet to make"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-25, IND@BKN). Prior reporting (2026-0"
+          "note": "Furphy was diagnosed with a torn right ACL on Monday and will miss the remainder of the se"
         },
         {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Meniscus Tear (2026-10-25, IND@BKN). Prior reporting (2026-10-23): S"
+          "note": "Sheppard has been diagnosed with a torn meniscus in his left knee and is without a timetab"
         },
         {
-          "p": "Kobe Brown",
-          "st": "OUT",
+          "p": "Ivica Zubac",
+          "st": "GTD",
           "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Aaron Nesmith",
-          "st": "AVA",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Jalen Slawson",
-          "st": "AVA",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
-        },
-        {
-          "p": "Braden Smith",
-          "st": "OUT",
-          "team": "IND",
-          "note": "G League - Two-Way (2026-10-25, IND@BKN)."
+          "note": "Head coach Rick Carlisle said that X-rays on Zubac's sprained left ankle came back negativ"
         }
       ],
       "lineups": {
@@ -2000,25 +1922,13 @@
           "p": "Jusuf Nurkic",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right 2nd Plantar Plate Tear (2026-10-25, LAL@UTA). Prior reporting (2026"
+          "note": "Nurkic will miss at least the next four weeks due to a partial plantar plate tear of secon"
         },
         {
           "p": "Trey Alexander",
           "st": "OUT",
           "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA). Prior reporting (2026-10-24): Alexander won't pl"
-        },
-        {
-          "p": "Harrison Ingram",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
-        },
-        {
-          "p": "Kobe Bufkin",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-10-25, LAL@UTA)."
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
         }
       ],
       "lineups": {
@@ -2126,19 +2036,13 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-25, LAL@UTA). Prior reporting (2026-10-24):"
+          "note": "Carr (oblique) is out for Sunday's game in Utah, Khobi Price of The California Post report"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Effusion / Swelling (2026-10-25, LAL@UTA). Prior reporting (202"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-10-25, LAL@UTA)."
+          "note": "Thiero (knee) has been ruled out for Sunday's game against Utah, Khobi Price of The Califo"
         },
         {
           "p": "Bradley Beal",
