@@ -1953,11 +1953,11 @@ function laStat(g){
 function laGames(){
   const out=[];
   (DATA.games||[]).forEach(g=>{
-    const cls=windowState(g.tip).cls, live=g.status==='in', post=g.status==='post';
-    if(live||post||cls==='live'||cls==='bet'||cls==='soon') out.push(g);
+    const cls=windowState(g.tip).cls, live=g.status==='in';
+    if(live||cls==='live'||cls==='bet'||cls==='soon') out.push(g); // live + about-to-tip only (drop finals)
   });
   out.sort((a,b)=>{const la=a.status==='in'?0:1,lb=b.status==='in'?0:1;return la!==lb?la-lb:(a.tip-b.tip);});
-  return out.slice(0,8);
+  return out.slice(0,3); // iOS gets flaky past a few simultaneous Live Activities
 }
 function favKey(games){const f=favTeam();const g=games.find(x=>x.ha===f||x.hh===f);return g?(g.ha+'@'+g.hh):'';}
 var _laLast='';
