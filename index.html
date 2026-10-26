@@ -2009,12 +2009,23 @@ async function testLA(){
     return;
   }
   say('Starting…');
+  // build from the ACTUAL game selected in the dropdown, with its real score + status
+  const slot=diSlot(), games=DATA.games||[], f=favTeam();
+  let g=null;
+  if(slot==='auto'){ const lg=laGames(); g=lg.find(x=>x.status==='in')||lg[0]; }
+  else if(slot==='fav'){ g=games.find(x=>x.ha===f||x.hh===f); }
+  else { g=games.find(x=>(x.ha+'@'+x.hh)===slot); }
+  if(!g){ say('Pick a game from the dropdown first.'); return; }
+  const payload={ featured:g.ha+'@'+g.hh, games:[{
+    away:g.ha, home:g.hh, awayScore:g.ascore||0, homeScore:g.hscore||0,
+    awayRec:g.arec||'', homeRec:g.hrec||'', awayColor:laColor(g.ha), homeColor:laColor(g.hh),
+    fav:(g.hh===f?'home':g.ha===f?'away':''), status:laStat(g), phase:laPhase(g) }]};
   try{
-    const r=await LA.sync({featured:'LAL@UTA', games:[{away:'LAL',home:'UTA',awayScore:88,homeScore:84,awayRec:'2-0',homeRec:'1-1',awayColor:laColor('LAL'),homeColor:laColor('UTA'),fav:'',status:'Q4 2:10',phase:'live'}]});
-    if(r&&r.ok) say('Started ✓  Now LOCK your phone — the score shows on the lock screen and in the pill at the top (long-press the pill to expand).');
-    else if(r&&r.reason==='off') say('Live Activities are OFF for this app. Settings → SAMPLE SIZE → Live Activities → ON, then tap TEST again.');
-    else say('Could not start: '+((r&&r.reason)||'unknown')+'. If this persists, rebuild & Run in Xcode.');
-  }catch(e){ say('Native plugin not responding — rebuild & Run the app in Xcode so the new Swift ships. ('+(e&&(e.message||e.errorMessage)||e)+')'); }
+    const r=await LA.sync(payload);
+    if(r&&r.ok) say('Started ✓  '+g.ha+' @ '+g.hh+' — lock your phone (long-press the pill to expand).');
+    else if(r&&r.reason==='off') say('Live Activities are OFF. Settings → SAMPLE SIZE → Live Activities → ON, then tap TEST again.');
+    else say('Could not start: '+((r&&r.reason)||'unknown')+'.');
+  }catch(e){ say('Error: '+(e&&(e.message||e.errorMessage)||e)); }
 }
 // tap a Live Activity / Dynamic Island -> open that game in the app
 function openGameByKey(a,h){
