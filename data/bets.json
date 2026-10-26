@@ -22,6 +22,30 @@
       "edge": null,
       "sport": "NBA",
       "team": "ATL"
+    },
+    {
+      "id": 1793035550279,
+      "ts": 1793035550279,
+      "day": 26,
+      "type": "Power",
+      "mult": 2.82,
+      "legs": [
+        "Evan Mobley MORE 11.5 Points",
+        "Jarrett Allen MORE 5.5 Rebounds",
+        "Trae Young MORE 13.5 Points",
+        "Jalen Smith MORE 5.5 Points",
+        "Matas Buzelis MORE 3.5 Rebounds",
+        "Jalen Green MORE 8.5 Points"
+      ],
+      "stake": 35,
+      "payout": 98.7,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "",
+      "conf": "",
+      "edge": null,
+      "sport": "NBA",
+      "team": ""
     }
   ]
 }
