@@ -1,0 +1,27 @@
+{
+  "start": 0,
+  "slips": [
+    {
+      "id": 1792982501825,
+      "ts": 1792982501825,
+      "day": 25,
+      "type": "Power",
+      "mult": 1.9,
+      "legs": [
+        "Cameron Boozer LESS 9.5 Rebounds",
+        "Precious Achiuwa MORE 5.5 Points",
+        "Ty Jerome MORE 15.5 Points",
+        "Zach LaVine MORE 13.5 Points"
+      ],
+      "stake": 12.5,
+      "payout": 23.75,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "Just a feel",
+      "conf": "Med",
+      "edge": null,
+      "sport": "NBA",
+      "team": "ATL"
+    }
+  ]
+}
