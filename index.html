@@ -2062,7 +2062,7 @@ async function savePushToken(token){ try{ await ghWriteFile('data/push.json',{to
 async function initPush(){ try{ const Cap=window.Capacitor; const PN=Cap&&Cap.Plugins&&Cap.Plugins.PushNotifications; if(!PN) return; let perm=await PN.checkPermissions(); if(perm.receive!=='granted') perm=await PN.requestPermissions(); if(perm.receive!=='granted') return; PN.addListener('registration',t=>savePushToken(t.value)); PN.addListener('registrationError',()=>{}); await PN.register(); }catch(e){} }
 initPush();
 initLogChips();
-setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); else driveLiveActivity(); }, 25000);
+setInterval(()=>{ if((DATA.games||[]).some(g=>{const c=windowState(g.tip).cls;return c==='live'||c==='bet'||c==='soon';})) pollLive(); else driveLiveActivity(); }, 8000);
 setTimeout(()=>{const s=document.getElementById('splash');if(s){s.classList.add('hide');setTimeout(()=>s.remove(),460);}},favTeam()?3600:2600);
 </script>
 </body>
