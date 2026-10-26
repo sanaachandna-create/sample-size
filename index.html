@@ -1932,9 +1932,13 @@ async function pollLive(){
 var _LA=null,_LAi=false;
 function liveAct(){ if(_LAi) return _LA; _LAi=true; try{
   var C=window.Capacitor;
-  if(C && C.Plugins && C.Plugins.LiveActivity) _LA=C.Plugins.LiveActivity;
-  else if(C && typeof C.registerPlugin==='function') _LA=C.registerPlugin('LiveActivity');
-  else _LA=null;
+  if(C && C.Plugins && C.Plugins.LiveActivity){ _LA=C.Plugins.LiveActivity; }
+  else if(C && typeof C.registerPlugin==='function'){ _LA=C.registerPlugin('LiveActivity'); }
+  else if(C && typeof C.nativePromise==='function'){
+    _LA={ _ll:true,
+          sync:function(o){ return C.nativePromise('LiveActivity','sync',o||{}); },
+          endAll:function(o){ return C.nativePromise('LiveActivity','endAll',o||{}); } };
+  } else { _LA=null; }
 }catch(e){ _LA=null; } return _LA; }
 function diSlot(){try{return localStorage.getItem('ss_dislot')||'auto';}catch(e){return 'auto';}}
 function setDiSlot(v){try{localStorage.setItem('ss_dislot',v);}catch(e){}}
@@ -1999,9 +2003,9 @@ async function testLA(){
   if(!LA){
     var C=window.Capacitor||{};
     var plat=(C.getPlatform&&C.getPlatform())||'?';
-    var reg=(typeof C.registerPlugin);
     var plugs=C.Plugins?Object.keys(C.Plugins).join(', '):'none';
-    say('DIAGNOSTIC — Capacitor:'+(window.Capacitor?'yes':'NO')+' | platform:'+plat+' | registerPlugin:'+reg+' | Plugins:['+plugs+']');
+    var caps=Object.keys(C).join(', ');
+    say('DIAG2 — platform:'+plat+' | registerPlugin:'+(typeof C.registerPlugin)+' | nativePromise:'+(typeof C.nativePromise)+' | toNative:'+(typeof C.toNative)+' | Plugins:['+plugs+'] | Cap methods:['+caps+']');
     return;
   }
   say('Starting…');
