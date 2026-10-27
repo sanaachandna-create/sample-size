@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27T19:11:05+00:00",
+  "updated": "2026-10-27T20:26:20+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 29,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 188,
+  "injuryCount": 210,
   "games": [
     {
       "ha": "BKN",
@@ -246,9 +246,9 @@
         },
         {
           "p": "Branden Carlson",
-          "st": "GTD",
+          "st": "AVA",
           "team": "POR",
-          "note": "Injury/Illness - Concussion Protocol (2026-10-27, POR@LAL). Prior reporting (2026-10-27): "
+          "note": "Injury/Illness - Concussion Protocol (2026-10-27, POR@LAL)."
         },
         {
           "p": "Scoot Henderson",
@@ -313,6 +313,18 @@
       "period": 0,
       "clock": "",
       "injuries": [
+        {
+          "p": "Simone Fontecchio",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Illness (2026-10-28, MIA@ATL). Prior reporting (2026-10-27): Fontecchio i"
+        },
+        {
+          "p": "Pelle Larsson",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-28, MIA@ATL). Prior reporting (2026-10-27): L"
+        },
         {
           "p": "Henri Veesaar",
           "st": "OUT",
@@ -617,13 +629,19 @@
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
-          "note": "Bittle (foot) is out for Wednesday's season opener against the Bulls. Bittle, who just lan"
+          "note": "Injury/Illness - Right Foot Avulsion Fracture (2026-10-28, ORL@TOR). Prior reporting (2026"
         },
         {
           "p": "Kawhi Leonard",
           "st": "OUT",
           "team": "TOR",
-          "note": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams "
+          "note": "Injury/Illness - Left Knee Effusion / Swelling (2026-10-28, ORL@TOR). Prior reporting (202"
+        },
+        {
+          "p": "Malachi Smith",
+          "st": "OUT",
+          "team": "TOR",
+          "note": "G League - Two-Way (2026-10-28, ORL@TOR)."
         }
       ],
       "lineups": {
@@ -701,13 +719,31 @@
           "p": "Steven Adams",
           "st": "OUT",
           "team": "HOU",
-          "note": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right "
+          "note": "Injury/Illness - Right Soleus Strain (2026-10-28, HOU@MIL). Prior reporting (2026-10-26): "
         },
         {
           "p": "Marcus Smart",
           "st": "GTD",
           "team": "HOU",
-          "note": "Smart (arm) is out for Monday's game against the Hawks. Smart was previously labeled as qu"
+          "note": "Injury/Illness - Left Forearm Strain (2026-10-28, HOU@MIL). Prior reporting (2026-10-27): "
+        },
+        {
+          "p": "Quadir Copeland",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-28, HOU@MIL)."
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-28, HOU@MIL)."
+        },
+        {
+          "p": "Alperen Sengun",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-28, HOU@MIL)."
         }
       ],
       "lineups": {
@@ -815,7 +851,31 @@
           "p": "Yves Missi",
           "st": "OUT",
           "team": "NOP",
-          "note": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period "
+          "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-10-28, DEN@NOP). Prior reporting "
+        },
+        {
+          "p": "Malik Dia",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
+        },
+        {
+          "p": "Jaron Pierre Jr.",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
+        },
+        {
+          "p": "Jordan Poole",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "Injury/Illness - Illness (2026-10-28, DEN@NOP). Prior reporting (2026-10-27): Poole (illne"
+        },
+        {
+          "p": "Julian Reese",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
         }
       ],
       "lineups": {
@@ -878,13 +938,13 @@
           "p": "Lauri Markkanen",
           "st": "GTD",
           "team": "UTA",
-          "note": "Markkanen (wrist) won't return to Monday's game against Memphis. Markkanen exited to the l"
+          "note": "Markkanen is day-to-day with a right wrist sprain, per NBA reporter Marc Stein. Markkanen "
         },
         {
           "p": "Jaren Jackson Jr.",
-          "st": "GTD",
+          "st": "OUT",
           "team": "UTA",
-          "note": "Jackson has been ruled out for the rest of Monday's game against the Grizzlies due to a ri"
+          "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-t"
         }
       ],
       "lineups": {
@@ -1065,6 +1125,12 @@
           "st": "OUT",
           "team": "LAC",
           "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        },
+        {
+          "p": "Rui Hachimura",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Li"
         }
       ],
       "lineups": {
@@ -1166,7 +1232,31 @@
           "p": "Yves Missi",
           "st": "OUT",
           "team": "NOP",
-          "note": "Missi has been diagnosed with a left knee bone bruise and he will miss an extended period "
+          "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-10-28, DEN@NOP). Prior reporting "
+        },
+        {
+          "p": "Malik Dia",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
+        },
+        {
+          "p": "Jaron Pierre Jr.",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
+        },
+        {
+          "p": "Jordan Poole",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "Injury/Illness - Illness (2026-10-28, DEN@NOP). Prior reporting (2026-10-27): Poole (illne"
+        },
+        {
+          "p": "Julian Reese",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-10-28, DEN@NOP)."
         }
       ],
       "lineups": {
@@ -1209,9 +1299,9 @@
         },
         {
           "p": "Branden Carlson",
-          "st": "GTD",
+          "st": "AVA",
           "team": "POR",
-          "note": "Injury/Illness - Concussion Protocol (2026-10-27, POR@LAL). Prior reporting (2026-10-27): "
+          "note": "Injury/Illness - Concussion Protocol (2026-10-27, POR@LAL)."
         },
         {
           "p": "Scoot Henderson",
@@ -1580,13 +1670,19 @@
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
-          "note": "Bittle (foot) is out for Wednesday's season opener against the Bulls. Bittle, who just lan"
+          "note": "Injury/Illness - Right Foot Avulsion Fracture (2026-10-28, ORL@TOR). Prior reporting (2026"
         },
         {
           "p": "Kawhi Leonard",
           "st": "OUT",
           "team": "TOR",
-          "note": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams "
+          "note": "Injury/Illness - Left Knee Effusion / Swelling (2026-10-28, ORL@TOR). Prior reporting (202"
+        },
+        {
+          "p": "Malachi Smith",
+          "st": "OUT",
+          "team": "TOR",
+          "note": "G League - Two-Way (2026-10-28, ORL@TOR)."
         }
       ],
       "lineups": {
@@ -1644,6 +1740,18 @@
           "st": "GTD",
           "team": "IND",
           "note": "Nembhard (neck/back) has been ruled out for Monday's game against Milwaukee, Dustin Dopira"
+        },
+        {
+          "p": "Simone Fontecchio",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Illness (2026-10-28, MIA@ATL). Prior reporting (2026-10-27): Fontecchio i"
+        },
+        {
+          "p": "Pelle Larsson",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-28, MIA@ATL). Prior reporting (2026-10-27): L"
         }
       ],
       "lineups": {
@@ -1676,13 +1784,31 @@
           "p": "Steven Adams",
           "st": "OUT",
           "team": "HOU",
-          "note": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right "
+          "note": "Injury/Illness - Right Soleus Strain (2026-10-28, HOU@MIL). Prior reporting (2026-10-26): "
         },
         {
           "p": "Marcus Smart",
           "st": "GTD",
           "team": "HOU",
-          "note": "Smart (arm) is out for Monday's game against the Hawks. Smart was previously labeled as qu"
+          "note": "Injury/Illness - Left Forearm Strain (2026-10-28, HOU@MIL). Prior reporting (2026-10-27): "
+        },
+        {
+          "p": "Quadir Copeland",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-28, HOU@MIL)."
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-28, HOU@MIL)."
+        },
+        {
+          "p": "Alperen Sengun",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-28, HOU@MIL)."
         },
         {
           "p": "Santi Aldama",
@@ -1776,6 +1902,12 @@
           "st": "OUT",
           "team": "LAC",
           "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        },
+        {
+          "p": "Rui Hachimura",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Li"
         },
         {
           "p": "Donte DiVincenzo",
