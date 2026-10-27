@@ -46,6 +46,27 @@
       "edge": null,
       "sport": "NBA",
       "team": ""
+    },
+    {
+      "id": 1793139545644,
+      "ts": 1793139545644,
+      "day": 27,
+      "type": "Power",
+      "mult": 2.2,
+      "legs": [
+        "Maya Joint MORE 3.5 Fantasy Score",
+        "Jan-Lennard Struff MORE 3.5 Fantasy Score",
+        "Alex de Minaur MORE 2 Fantasy Score"
+      ],
+      "stake": 50,
+      "payout": 110,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "Soft line",
+      "conf": "Med",
+      "edge": null,
+      "sport": "Tennis",
+      "team": ""
     }
   ]
 }
