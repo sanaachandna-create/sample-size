@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-27T13:53:29+00:00",
+  "updated": "2026-10-27T19:11:05+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 29,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 186,
+  "injuryCount": 188,
   "games": [
     {
       "ha": "BKN",
@@ -59,7 +59,13 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-10-27, BKN@BOS). Prior reporting (2026-10-18): Carter has b"
+        },
+        {
+          "p": "Derrick White",
+          "st": "GTD",
+          "team": "BOS",
+          "note": "Injury/Illness - Right Hip Synovitis (2026-10-27, BKN@BOS). Prior reporting (2026-10-27): "
         }
       ],
       "lineups": {
@@ -92,7 +98,7 @@
           "p": "Ausar Thompson",
           "st": "GTD",
           "team": "DET",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): T"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-27): T"
         },
         {
           "p": "Jalen Duren",
@@ -179,7 +185,7 @@
           "p": "Keegan Murray",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Left Capsulitis (2026-10-27, SAC@SAS). Prior reporting (2026-10-26): Murr"
+          "note": "Injury/Illness - Left Left Ankle Capsulitis (2026-10-27, SAC@SAS). Prior reporting (2026-1"
         },
         {
           "p": "Sean Pedulla",
@@ -425,7 +431,7 @@
           "p": "Ausar Thompson",
           "st": "GTD",
           "team": "DET",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): T"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-27): T"
         },
         {
           "p": "Jalen Duren",
@@ -500,7 +506,7 @@
           "p": "Tacko Fall",
           "st": "OUT",
           "team": "PHI",
-          "note": "Fall (quadriceps) has been ruled out for Sunday's game against Detroit. Fall will miss a f"
+          "note": "Fall (quadriceps) was able to practice on Tuesday, Keith Pompey of The Philadelphia Inquir"
         },
         {
           "p": "Jabari Walker",
@@ -518,7 +524,7 @@
           "p": "VJ Edgecombe",
           "st": "GTD",
           "team": "PHI",
-          "note": "Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyV"
+          "note": "Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer r"
         },
         {
           "p": "T.J. McConnell",
@@ -581,31 +587,31 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks. Isaac continues"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, ORL@TOR). Prior reporting (2026-"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
+          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-10-28, ORL@TOR). Prior reporting (2026-0"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
+          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-10-28, ORL@TOR). Prior reporting (20"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+          "note": "Injury/Illness - Right Low Grade High Ankle Sprain (2026-10-28, ORL@TOR). Prior reporting "
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-28, ORL@TOR). Prior reporting"
         },
         {
           "p": "Nate Bittle",
@@ -615,9 +621,9 @@
         },
         {
           "p": "Kawhi Leonard",
-          "st": "GTD",
+          "st": "OUT",
           "team": "TOR",
-          "note": "Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake"
+          "note": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams "
         }
       ],
       "lineups": {
@@ -921,7 +927,7 @@
         },
         {
           "p": "Chet Holmgren",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Holmgren (knee) is out for Monday's game versus the Suns. The star big man is sitting out "
         },
@@ -953,7 +959,7 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs. Aldama continues t"
+          "note": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stei"
         },
         {
           "p": "Dereck Lively II",
@@ -1148,7 +1154,7 @@
           "p": "Keegan Murray",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Left Capsulitis (2026-10-27, SAC@SAS). Prior reporting (2026-10-26): Murr"
+          "note": "Injury/Illness - Left Left Ankle Capsulitis (2026-10-27, SAC@SAS). Prior reporting (2026-1"
         },
         {
           "p": "Sean Pedulla",
@@ -1343,7 +1349,13 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-10-27, BKN@BOS). Prior reporting (2026-10-18): Carter has b"
+        },
+        {
+          "p": "Derrick White",
+          "st": "GTD",
+          "team": "BOS",
+          "note": "Injury/Illness - Right Hip Synovitis (2026-10-27, BKN@BOS). Prior reporting (2026-10-27): "
         }
       ],
       "lineups": {
@@ -1376,7 +1388,7 @@
           "p": "Ausar Thompson",
           "st": "GTD",
           "team": "DET",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-26): T"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-27, DET@NYK). Prior reporting (2026-10-27): T"
         },
         {
           "p": "Jalen Duren",
@@ -1487,7 +1499,7 @@
           "p": "Tacko Fall",
           "st": "OUT",
           "team": "PHI",
-          "note": "Fall (quadriceps) has been ruled out for Sunday's game against Detroit. Fall will miss a f"
+          "note": "Fall (quadriceps) was able to practice on Tuesday, Keith Pompey of The Philadelphia Inquir"
         },
         {
           "p": "Jabari Walker",
@@ -1505,7 +1517,7 @@
           "p": "VJ Edgecombe",
           "st": "GTD",
           "team": "PHI",
-          "note": "Edgecombe (abdomen) is out for Sunday's game against the Pistons, Adam Aaronson of PhillyV"
+          "note": "Edgecombe (abdomen) practiced in full Tuesday, Keith Pompey of The Philadelphia Inquirer r"
         }
       ],
       "lineups": {
@@ -1538,31 +1550,31 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Isaac (knee) has been ruled out ahead of Sunday's game against the Knicks. Isaac continues"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, ORL@TOR). Prior reporting (2026-"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
+          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-10-28, ORL@TOR). Prior reporting (2026-0"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
+          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-10-28, ORL@TOR). Prior reporting (20"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+          "note": "Injury/Illness - Right Low Grade High Ankle Sprain (2026-10-28, ORL@TOR). Prior reporting "
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-28, ORL@TOR). Prior reporting"
         },
         {
           "p": "Nate Bittle",
@@ -1572,9 +1584,9 @@
         },
         {
           "p": "Kawhi Leonard",
-          "st": "GTD",
+          "st": "OUT",
           "team": "TOR",
-          "note": "Leonard is out for Sunday's game against the Timberwolves due to left knee swelling, Blake"
+          "note": "Leonard (knee) is expected to miss multiple weeks due to swelling in his left knee, Shams "
         }
       ],
       "lineups": {
@@ -1676,7 +1688,7 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Aldama (knee) has been ruled out for Saturday's game against the Spurs. Aldama continues t"
+          "note": "The Mavericks assigned Aldama (knee) to the G League's Texas Legends on Tuesday, Marc Stei"
         },
         {
           "p": "Dereck Lively II",
