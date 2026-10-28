@@ -110,6 +110,29 @@
       "edge": null,
       "sport": "Tennis",
       "team": ""
+    },
+    {
+      "id": 1793229500384,
+      "ts": 1793229500384,
+      "day": 28,
+      "type": "Power",
+      "mult": 2.2,
+      "legs": [
+        "Cade Cunningham MORE 3.5 Rebounds",
+        "Andrew Nembhard MORE 12.5 Pts+Rebs",
+        "Dean Wade MORE 4.5 Pts+Rebs",
+        "Joel Embiid MORE 6.5 Rebounds",
+        "Tyrese Maxey MORE 17.5 Points"
+      ],
+      "stake": 50,
+      "payout": 110,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "",
+      "conf": "",
+      "edge": null,
+      "sport": "NBA",
+      "team": ""
     }
   ]
 }
