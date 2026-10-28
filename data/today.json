@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T20:02:38+00:00",
+  "updated": "2026-10-28T20:46:40+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 259,
+  "injuryCount": 265,
   "games": [
     {
       "ha": "MIA",
@@ -908,13 +908,31 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi "
+          "note": "Injury/Illness - Right Oblique Strain (2026-10-28, LAL@LAC). Prior reporting (2026-10-28):"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Thiero (knee) is out for Tuesday's game against Portland. Thiero continues to miss time du"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026-"
+        },
+        {
+          "p": "Luka Doncic",
+          "st": "OUT",
+          "team": "LAL",
+          "note": "Injury/Illness - Back Tightness (2026-10-28, LAL@LAC). Prior reporting (2026-10-28): Donci"
+        },
+        {
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-10-28, LAL@LAC)."
+        },
+        {
+          "p": "Ziaire Williams",
+          "st": "OUT",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Foot Inflammation / Soreness (2026-10-28, LAL@LAC). Prior reporting "
         },
         {
           "p": "Bradley Beal",
@@ -1808,13 +1826,31 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Carr (oblique) was assigned Wednesday to the G League's Coachella Valley Lakers, Thuc Nhi "
+          "note": "Injury/Illness - Right Oblique Strain (2026-10-28, LAL@LAC). Prior reporting (2026-10-28):"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Thiero (knee) is out for Tuesday's game against Portland. Thiero continues to miss time du"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026-"
+        },
+        {
+          "p": "Luka Doncic",
+          "st": "OUT",
+          "team": "LAL",
+          "note": "Injury/Illness - Back Tightness (2026-10-28, LAL@LAC). Prior reporting (2026-10-28): Donci"
+        },
+        {
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-10-28, LAL@LAC)."
+        },
+        {
+          "p": "Ziaire Williams",
+          "st": "OUT",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Foot Inflammation / Soreness (2026-10-28, LAL@LAC). Prior reporting "
         },
         {
           "p": "Kristaps Porzingis",
