@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-27T16:50:22+00:00",
-  "count": 521,
+  "updated": "2026-10-28T17:20:24+00:00",
+  "count": 522,
   "error": null,
   "players": [
     {
@@ -932,6 +932,12 @@
       "name": "Emanuel Sharp",
       "team": "SAC",
       "pos": "G"
+    },
+    {
+      "id": 1028045812,
+      "name": "Enrique Freeman",
+      "team": "MIN",
+      "pos": "F"
     },
     {
       "id": 1091907917,
