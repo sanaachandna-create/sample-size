@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-28T10:02:20+00:00",
+  "updated": "2026-10-28T14:48:44+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 253,
+  "injuryCount": 255,
   "games": [
     {
       "ha": "MIA",
@@ -398,6 +398,12 @@
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-28, ORL@TOR). Prior reporting"
         },
         {
+          "p": "Anthony Black",
+          "st": "GTD",
+          "team": "ORL",
+          "note": "Personal Reasons (2026-10-28, ORL@TOR)."
+        },
+        {
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
@@ -554,7 +560,7 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Not With Team (2026-10-28, GSW@MIN). Prior reporting (2026-10-21): Porzingis is contemplat"
+          "note": "Not With Team (2026-10-28, GSW@MIN). Prior reporting (2026-10-28): The Warriors are explor"
         },
         {
           "p": "Jimmy Butler",
@@ -1445,6 +1451,12 @@
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-10-28, ORL@TOR). Prior reporting"
         },
         {
+          "p": "Anthony Black",
+          "st": "GTD",
+          "team": "ORL",
+          "note": "Personal Reasons (2026-10-28, ORL@TOR)."
+        },
+        {
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
@@ -1784,7 +1796,7 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Not With Team (2026-10-28, GSW@MIN). Prior reporting (2026-10-21): Porzingis is contemplat"
+          "note": "Not With Team (2026-10-28, GSW@MIN). Prior reporting (2026-10-28): The Warriors are explor"
         },
         {
           "p": "Jimmy Butler",
