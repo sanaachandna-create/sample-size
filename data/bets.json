@@ -88,6 +88,28 @@
       "edge": null,
       "sport": "NBA",
       "team": ""
+    },
+    {
+      "id": 1793201649615,
+      "ts": 1793201649615,
+      "day": 28,
+      "type": "Power",
+      "mult": 2.6,
+      "legs": [
+        "Nikoloz Basilashvili OVER 4 Fantasy Score",
+        "Taylor Fritz OVER 18.5 Total Games",
+        "Hubert Hurkacz OVER 20.5 Total Games",
+        "Alex de Minaur OVER 2 Fantasy Score"
+      ],
+      "stake": 30,
+      "payout": 78,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "Player's hot",
+      "conf": "",
+      "edge": null,
+      "sport": "Tennis",
+      "team": ""
     }
   ]
 }
