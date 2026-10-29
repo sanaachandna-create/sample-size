@@ -133,6 +133,28 @@
       "edge": null,
       "sport": "NBA",
       "team": ""
+    },
+    {
+      "id": 1793294136619,
+      "ts": 1793294136619,
+      "day": 29,
+      "type": "Power",
+      "mult": 2.3,
+      "legs": [
+        "Tommy Paul OVER 18.5 Total Games",
+        "Carlos Alcaraz OVER 17.5 Total Games",
+        "Julia Grabher OVER 18.5 Total Games",
+        "Alexander Zverev OVER 18.5 Total Games"
+      ],
+      "stake": 50,
+      "payout": 115,
+      "res": "PEND",
+      "pnl": 0,
+      "setup": "",
+      "conf": "",
+      "edge": null,
+      "sport": "Tennis",
+      "team": ""
     }
   ]
 }
