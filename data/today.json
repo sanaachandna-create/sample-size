@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-29T04:03:22+00:00",
+  "updated": "2026-10-29T10:50:59+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 24,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 151,
+  "injuryCount": 146,
   "games": [
     {
       "ha": "CLE",
@@ -234,7 +234,7 @@
         },
         {
           "p": "Tre Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "WAS",
           "note": "Johnson has been ruled out for Wednesday's game against the Cavaliers due to right Achille"
         }
@@ -279,7 +279,7 @@
         },
         {
           "p": "Tobe Awaka",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Awaka (ankle) is out for Wednesday's game against the Knicks, Joel Lorenzi of The Athletic"
         },
@@ -324,7 +324,7 @@
         },
         {
           "p": "Isaiah Joe",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Joe (hip) is out for Wednesday's game against the Hornets. Joe will end up missing both le"
         },
@@ -393,7 +393,7 @@
         },
         {
           "p": "Jabari Walker",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Walker (knee) has been ruled out for Wednesday's game against the Pacers. Walker will miss"
         }
@@ -513,7 +513,7 @@
         },
         {
           "p": "Ivica Zubac",
-          "st": "OUT",
+          "st": "GTD",
           "team": "IND",
           "note": "Zubac (ankle) is out for Wednesday's game against the 76ers. Zubac isn't ready to return f"
         },
@@ -525,7 +525,7 @@
         },
         {
           "p": "Simone Fontecchio",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIA",
           "note": "Fontecchio (illness) is out for Wednesday's game against the Hawks. The veteran sharpshoot"
         }
@@ -570,7 +570,7 @@
         },
         {
           "p": "Alperen Sengun",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks. Sengun is dealing"
         },
@@ -578,43 +578,31 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Surgery (2026-10-28, OKC@DAL). Prior reporting (2026-10-28): A"
+          "note": "Aldama (knee) is out for Wednesday's game against the Thunder. Aldama is still waiting to "
         },
         {
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-10-28, OKC@DAL). Prior reporting (2026-10-22): L"
+          "note": "Lively (foot) has been ruled out for Friday's game against the Pacers. Lively underwent ri"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-10-28, OKC@DAL). Prior reporting (2026-10-28): "
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-10-28, OKC@DAL)."
+          "note": "Biberovic (knee) is out for Wednesday's game against the Thunder. Biberovic is still waiti"
         },
         {
           "p": "Naji Marshall",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Illness (2026-10-28, OKC@DAL). Prior reporting (2026-10-28): Marshall (il"
+          "note": "Marshall (illness) won't play in Wednesday's game against Oklahoma City. Marshall will now"
         },
         {
           "p": "Sergio De Larrea",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-10-28, OKC@DAL). Prior reporting (2026-10-27): De"
-        },
-        {
-          "p": "Kyrie Irving",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, OKC@DAL)."
+          "note": "De Larrea (knee) has been ruled out for Wednesday's game against the Thunder. De Larrea su"
         }
       ],
       "lineups": {
@@ -647,37 +635,37 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026"
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-10-28, LAL@LAC). Prior reporting (2026-10"
+          "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk "
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-10-29"
+          "note": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't tra"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-10-29): I"
+          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-08"
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
         },
         {
           "p": "Rui Hachimura",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAC",
-          "note": "Injury/Illness - Left Quad Soreness (2026-10-28, LAL@LAC). Prior reporting (2026-10-27): H"
+          "note": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Li"
         },
         {
           "p": "Donte DiVincenzo",
@@ -722,31 +710,25 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-28, LAL@LAC). Prior reporting (2026-10-28):"
+          "note": "Carr (oblique) is out for Wednesday's game against the Clippers. The rookie first-rounder "
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026-"
+          "note": "Thiero (knee) is out for Wednesday's game against the Clippers. Thiero will miss his fifth"
         },
         {
           "p": "Luka Doncic",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
-          "note": "Injury/Illness - Back Tightness (2026-10-28, LAL@LAC). Prior reporting (2026-10-28): Donci"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-10-28, LAL@LAC)."
+          "note": "Doncic (back) is out for Wednesday's game against the Clippers. Doncic is sitting out the "
         },
         {
           "p": "Ziaire Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
-          "note": "Injury/Illness - Left Foot Inflammation / Soreness (2026-10-28, LAL@LAC). Prior reporting "
+          "note": "Williams (foot) is out for Wednesday's game against the Clippers. Williams is sitting out "
         },
         {
           "p": "Kristaps Porzingis",
@@ -768,7 +750,7 @@
         },
         {
           "p": "Gui Santos",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee t"
         }
@@ -906,7 +888,7 @@
         },
         {
           "p": "Lauri Markkanen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Markkanen (wrist) is out for Wednesday's tilt against the Spurs. After being listed as que"
         },
@@ -963,7 +945,7 @@
         },
         {
           "p": "Jabari Walker",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Walker (knee) has been ruled out for Wednesday's game against the Pacers. Walker will miss"
         },
@@ -1207,43 +1189,37 @@
           "p": "Cason Wallace",
           "st": "OUT",
           "team": "OKC",
-          "note": "Injury/Illness - Left Shoulder Labral Tear (2026-10-28, OKC@DAL). Prior reporting (2026-10"
+          "note": "Wallace has been diagnosed with a torn labrum in his left shoulder and will require surger"
         },
         {
           "p": "Jalen Williams",
           "st": "OUT",
           "team": "OKC",
-          "note": "Injury/Illness - Left Ankle Fracture (2026-10-28, OKC@DAL). Prior reporting (2026-10-28): "
+          "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula "
         },
         {
           "p": "Chet Holmgren",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
-          "note": "Injury/Illness - Right Knee Patellar Tendinitis (2026-10-28, OKC@DAL). Prior reporting (20"
+          "note": "Holmgren (knee) has been ruled out for Wednesday's game against the Mavericks. Holmgren wi"
         },
         {
           "p": "Thomas Sorber",
           "st": "OUT",
           "team": "OKC",
-          "note": "Injury/Illness - Right Knee Surgery (2026-10-28, OKC@DAL). Prior reporting (2026-10-27): S"
+          "note": "Sorber (knee) has been ruled out for Wednesday's game against the Mavericks. Sorber is sti"
         },
         {
           "p": "Nikola Topic",
           "st": "OUT",
           "team": "OKC",
-          "note": "Injury/Illness - Low back surgery (2026-10-28, OKC@DAL). Prior reporting (2026-10-27): Top"
+          "note": "Topic (back) will remain on the inactive list for Wednesday's game in Dallas. Topic has ye"
         },
         {
           "p": "Alex Caruso",
           "st": "OUT",
           "team": "OKC",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-28, OKC@DAL). Prior reporting (2026-10-28): C"
-        },
-        {
-          "p": "Ajay Mitchell",
-          "st": "AVA",
-          "team": "OKC",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-28, OKC@DAL)."
+          "note": "Caruso (ankle) is expected to miss time due to an ankle sprain, Clemente Almanza of USA To"
         },
         {
           "p": "Steven Adams",
@@ -1259,7 +1235,7 @@
         },
         {
           "p": "Alperen Sengun",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks. Sengun is dealing"
         }
@@ -1385,7 +1361,7 @@
         },
         {
           "p": "Ivica Zubac",
-          "st": "OUT",
+          "st": "GTD",
           "team": "IND",
           "note": "Zubac (ankle) is out for Wednesday's game against the 76ers. Zubac isn't ready to return f"
         },
@@ -1426,37 +1402,37 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026"
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-10-28, LAL@LAC). Prior reporting (2026-10"
+          "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk "
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-10-29"
+          "note": "Niederhauser (foot) remains out for Wednesday's game against the Lakers. He also won't tra"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-10-29): I"
+          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-10-28, LAL@LAC). Prior reporting (2026-08"
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
         },
         {
           "p": "Rui Hachimura",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAC",
-          "note": "Injury/Illness - Left Quad Soreness (2026-10-28, LAL@LAC). Prior reporting (2026-10-27): H"
+          "note": "Hachimura (quadriceps) has been ruled out for Wednesday's game against the Lakers, Joey Li"
         },
         {
           "p": "Kristaps Porzingis",
@@ -1478,7 +1454,7 @@
         },
         {
           "p": "Gui Santos",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Santos has been ruled out for Wednesday's game against the Timberwolves due to left knee t"
         }
@@ -1525,31 +1501,25 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-28, LAL@LAC). Prior reporting (2026-10-28):"
+          "note": "Carr (oblique) is out for Wednesday's game against the Clippers. The rookie first-rounder "
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-10-28, LAL@LAC). Prior reporting (2026-"
+          "note": "Thiero (knee) is out for Wednesday's game against the Clippers. Thiero will miss his fifth"
         },
         {
           "p": "Luka Doncic",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
-          "note": "Injury/Illness - Back Tightness (2026-10-28, LAL@LAC). Prior reporting (2026-10-28): Donci"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-10-28, LAL@LAC)."
+          "note": "Doncic (back) is out for Wednesday's game against the Clippers. Doncic is sitting out the "
         },
         {
           "p": "Ziaire Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
-          "note": "Injury/Illness - Left Foot Inflammation / Soreness (2026-10-28, LAL@LAC). Prior reporting "
+          "note": "Williams (foot) is out for Wednesday's game against the Clippers. Williams is sitting out "
         }
       ],
       "lineups": {
