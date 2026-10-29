@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-29T20:01:54+00:00",
+  "updated": "2026-10-29T20:52:43+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 24,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 175,
+  "injuryCount": 192,
   "games": [
     {
       "ha": "CLE",
@@ -404,25 +404,67 @@
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, DET@BKN). Prior reporting (2026-10-25"
         },
         {
           "p": "Isaiah Joe",
           "st": "GTD",
           "team": "DET",
-          "note": "Joe (hip) is out for Wednesday's game against the Hornets. Joe will end up missing both le"
+          "note": "Injury/Illness - Right Hip Contusion (2026-10-30, DET@BKN). Prior reporting (2026-10-29): "
+        },
+        {
+          "p": "Elijah Harkless",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Isaac Jones",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "OUT",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-10-30, DET@BKN)."
         },
         {
           "p": "Tyler Bilodeau",
           "st": "OUT",
           "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
+          "note": "G League - Two-Way (2026-10-30, DET@BKN). Prior reporting (2026-10-25): Bilodeau (shoulder"
         },
         {
           "p": "Egor Demin",
           "st": "OUT",
           "team": "BKN",
-          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
+          "note": "Injury/Illness - Right Bone Bruise (2026-10-30, DET@BKN). Prior reporting (2026-10-29): Th"
+        },
+        {
+          "p": "Joshua Jefferson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Grant Nelson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - Two-Way (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Drake Powell",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Ben Saraf",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         }
       ],
       "lineups": {
@@ -617,7 +659,7 @@
           "p": "Simone Fontecchio",
           "st": "GTD",
           "team": "MIA",
-          "note": "Fontecchio (illness) is out for Wednesday's game against the Hawks. The veteran sharpshoot"
+          "note": "Injury/Illness - Illness (2026-10-30, IND@MIA). Prior reporting (2026-10-29): Fontecchio ("
         }
       ],
       "lineups": {
@@ -650,19 +692,37 @@
           "p": "Steven Adams",
           "st": "OUT",
           "team": "HOU",
-          "note": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right "
+          "note": "Injury/Illness - Right Soleus Strain (2026-10-30, HOU@DAL). Prior reporting (2026-10-26): "
         },
         {
           "p": "Marcus Smart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
-          "note": "Smart (forearm) is out for Wednesday's game against the Bucks. Although he remains day-to-"
+          "note": "Injury/Illness - Left Forearm Strain (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): "
         },
         {
           "p": "Alperen Sengun",
           "st": "GTD",
           "team": "HOU",
-          "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks. Sengun is dealing"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Se"
+        },
+        {
+          "p": "Quadir Copeland",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-30, HOU@DAL)."
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-30, HOU@DAL)."
+        },
+        {
+          "p": "Reed Sheppard",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Sh"
         },
         {
           "p": "Santi Aldama",
@@ -1394,19 +1454,37 @@
           "p": "Steven Adams",
           "st": "OUT",
           "team": "HOU",
-          "note": "Head coach Ime Udoka said Monday that Adams could be out \"a week or two\" due to his right "
+          "note": "Injury/Illness - Right Soleus Strain (2026-10-30, HOU@DAL). Prior reporting (2026-10-26): "
         },
         {
           "p": "Marcus Smart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
-          "note": "Smart (forearm) is out for Wednesday's game against the Bucks. Although he remains day-to-"
+          "note": "Injury/Illness - Left Forearm Strain (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): "
         },
         {
           "p": "Alperen Sengun",
           "st": "GTD",
           "team": "HOU",
-          "note": "Sengun (back) has been ruled out for Wednesday's game against the Bucks. Sengun is dealing"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Se"
+        },
+        {
+          "p": "Quadir Copeland",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-30, HOU@DAL)."
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-10-30, HOU@DAL)."
+        },
+        {
+          "p": "Reed Sheppard",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Sh"
         }
       ],
       "lineups": {
@@ -1502,13 +1580,37 @@
           "p": "Tyler Bilodeau",
           "st": "OUT",
           "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
+          "note": "G League - Two-Way (2026-10-30, DET@BKN). Prior reporting (2026-10-25): Bilodeau (shoulder"
         },
         {
           "p": "Egor Demin",
           "st": "OUT",
           "team": "BKN",
-          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
+          "note": "Injury/Illness - Right Bone Bruise (2026-10-30, DET@BKN). Prior reporting (2026-10-29): Th"
+        },
+        {
+          "p": "Joshua Jefferson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Grant Nelson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - Two-Way (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Drake Powell",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Ben Saraf",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         },
         {
           "p": "T.J. McConnell",
