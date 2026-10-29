@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T17:20:24+00:00",
+  "updated": "2026-10-29T17:31:41+00:00",
   "count": 522,
   "error": null,
   "players": [
@@ -20,12 +20,6 @@
       "name": "AJ Johnson",
       "team": "NOP",
       "pos": "G"
-    },
-    {
-      "id": 1091906694,
-      "name": "AK Okereke",
-      "team": "LAL",
-      "pos": "F"
     },
     {
       "id": 177,
@@ -1970,6 +1964,12 @@
       "name": "Lauri Markkanen",
       "team": "UTA",
       "pos": "F"
+    },
+    {
+      "id": 1057847334,
+      "name": "Lawson Lovering",
+      "team": "LAL",
+      "pos": "C"
     },
     {
       "id": 237,
