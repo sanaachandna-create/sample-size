@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-30T04:04:20+00:00",
+  "updated": "2026-10-30T10:49:08+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 36,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 285,
+  "injuryCount": 275,
   "games": [
     {
       "ha": "CHA",
@@ -797,37 +797,25 @@
           "p": "Shaedon Sharpe",
           "st": "OUT",
           "team": "POR",
-          "note": "Injury/Illness - Right Meniscus Surgery (2026-10-29, MEM@POR). Prior reporting (2026-08-24"
+          "note": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams "
         },
         {
           "p": "Chris Youngblood",
           "st": "OUT",
           "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR). Prior reporting (2026-10-27): Youngblood (ankle/"
-        },
-        {
-          "p": "Jayson Kent",
-          "st": "OUT",
-          "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "John Tonje",
-          "st": "AVA",
-          "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Hansen Yang",
-          "st": "AVA",
-          "team": "POR",
-          "note": "- (2026-10-29, MEM@POR)."
+          "note": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers. It's uncle"
         },
         {
           "p": "Robert Williams III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "POR",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-10-29, MEM@POR). Prior reporting (2026-"
+          "note": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of t"
+        },
+        {
+          "p": "Ja Morant",
+          "st": "GTD",
+          "team": "POR",
+          "note": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injur"
         },
         {
           "p": "Jusuf Nurkic",
@@ -1055,28 +1043,10 @@
           "note": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports. Mur"
         },
         {
-          "p": "Carson Cooper",
-          "st": "OUT",
+          "p": "Quinten Post",
+          "st": "GTD",
           "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Jahmai Mashack",
-          "st": "OUT",
-          "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Javon Small",
-          "st": "OUT",
-          "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Ty Jerome",
-          "st": "AVA",
-          "team": "MEM",
-          "note": "Injury/Illness - Back Tightness (2026-10-29, MEM@POR)."
+          "note": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5"
         }
       ],
       "lineups": {
@@ -2192,28 +2162,10 @@
           "note": "Murray (personal) is out for Thursday's game against the Kings, Jim Eichenhofer of the Pel"
         },
         {
-          "p": "Carson Cooper",
-          "st": "OUT",
+          "p": "Quinten Post",
+          "st": "GTD",
           "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Jahmai Mashack",
-          "st": "OUT",
-          "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Javon Small",
-          "st": "OUT",
-          "team": "MEM",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Ty Jerome",
-          "st": "AVA",
-          "team": "MEM",
-          "note": "Injury/Illness - Back Tightness (2026-10-29, MEM@POR)."
+          "note": "Post (ankle) didn't return to Thursday's game against Portland. He recorded 10 points (3-5"
         }
       ],
       "lineups": {
@@ -2417,37 +2369,25 @@
           "p": "Shaedon Sharpe",
           "st": "OUT",
           "team": "POR",
-          "note": "Injury/Illness - Right Meniscus Surgery (2026-10-29, MEM@POR). Prior reporting (2026-08-24"
+          "note": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams "
         },
         {
           "p": "Chris Youngblood",
           "st": "OUT",
           "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR). Prior reporting (2026-10-27): Youngblood (ankle/"
-        },
-        {
-          "p": "Jayson Kent",
-          "st": "OUT",
-          "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "John Tonje",
-          "st": "AVA",
-          "team": "POR",
-          "note": "G League - Two-Way (2026-10-29, MEM@POR)."
-        },
-        {
-          "p": "Hansen Yang",
-          "st": "AVA",
-          "team": "POR",
-          "note": "- (2026-10-29, MEM@POR)."
+          "note": "Youngblood (ankle/two-way player) is out for Tuesday's game against the Lakers. It's uncle"
         },
         {
           "p": "Robert Williams III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "POR",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-10-29, MEM@POR). Prior reporting (2026-"
+          "note": "Williams (knee) has been ruled out for Thursday's game against Memphis, Casey Holdahl of t"
+        },
+        {
+          "p": "Ja Morant",
+          "st": "GTD",
+          "team": "POR",
+          "note": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injur"
         },
         {
           "p": "Spencer Jones",
