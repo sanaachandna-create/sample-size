@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T14:46:28+00:00",
+  "updated": "2026-10-30T19:50:23+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 36,
@@ -35,7 +35,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-29): Knueppel (ha"
+          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
         },
         {
           "p": "Grant Williams",
@@ -122,7 +122,7 @@
           "p": "Patrick Williams",
           "st": "GTD",
           "team": "CHI",
-          "note": "Injury/Illness - Right Adductor Strain (2026-10-30, CHI@BOS). Prior reporting (2026-10-29)"
+          "note": "Injury/Illness - Right Adductor Strain (2026-10-30, CHI@BOS)."
         },
         {
           "p": "Tobe Awaka",
@@ -404,13 +404,13 @@
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-28"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-30"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-0"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-1"
         },
         {
           "p": "Ben Sheppard",
@@ -509,7 +509,7 @@
           "p": "Reed Sheppard",
           "st": "OUT",
           "team": "HOU",
-          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Sh"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-30): Ho"
         },
         {
           "p": "Santi Aldama",
@@ -608,7 +608,7 @@
           "p": "Rui Hachimura",
           "st": "GTD",
           "team": "LAC",
-          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): H"
+          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-30): H"
         },
         {
           "p": "Donte DiVincenzo",
@@ -653,7 +653,7 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW). Prior reporting (2026-10-30):"
+          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW)."
         },
         {
           "p": "Adou Thiero",
@@ -740,7 +740,7 @@
           "p": "Cameron Johnson",
           "st": "GTD",
           "team": "DEN",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-30, DEN@PHX). Prior reporting (2026-10-29): J"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-30, DEN@PHX). Prior reporting (2026-10-30): J"
         },
         {
           "p": "Alpha Diallo",
@@ -813,9 +813,9 @@
         },
         {
           "p": "Ja Morant",
-          "st": "GTD",
+          "st": "OUT",
           "team": "POR",
-          "note": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injur"
+          "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss fou"
         },
         {
           "p": "Jusuf Nurkic",
@@ -908,7 +908,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-29): Knueppel (ha"
+          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
         },
         {
           "p": "Grant Williams",
@@ -1229,7 +1229,7 @@
           "p": "Reed Sheppard",
           "st": "OUT",
           "team": "HOU",
-          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Sh"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-30): Ho"
         }
       ],
       "lineups": {
@@ -1361,13 +1361,13 @@
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-28"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-30"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-0"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-1"
         },
         {
           "p": "Ben Sheppard",
@@ -1460,7 +1460,7 @@
           "p": "Rui Hachimura",
           "st": "GTD",
           "team": "LAC",
-          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): H"
+          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-30): H"
         },
         {
           "p": "Kristaps Porzingis",
@@ -1535,7 +1535,7 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW). Prior reporting (2026-10-30):"
+          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW)."
         },
         {
           "p": "Adou Thiero",
@@ -1691,7 +1691,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-29): Knueppel (ha"
+          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
         },
         {
           "p": "Grant Williams",
@@ -1760,13 +1760,13 @@
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-28"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-30"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-0"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-10-30, IND@MIA). Prior reporting (2026-1"
         },
         {
           "p": "Ben Sheppard",
@@ -1985,7 +1985,7 @@
           "p": "Patrick Williams",
           "st": "GTD",
           "team": "CHI",
-          "note": "Injury/Illness - Right Adductor Strain (2026-10-30, CHI@BOS). Prior reporting (2026-10-29)"
+          "note": "Injury/Illness - Right Adductor Strain (2026-10-30, CHI@BOS)."
         },
         {
           "p": "Tobe Awaka",
@@ -2273,7 +2273,7 @@
           "p": "Reed Sheppard",
           "st": "OUT",
           "team": "HOU",
-          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-29): Sh"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, HOU@DAL). Prior reporting (2026-10-30): Ho"
         }
       ],
       "lineups": {
@@ -2385,9 +2385,9 @@
         },
         {
           "p": "Ja Morant",
-          "st": "GTD",
+          "st": "OUT",
           "team": "POR",
-          "note": "Morant won't return to Thursday's game against the Grizzlies due to a left hamstring injur"
+          "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss fou"
         },
         {
           "p": "Spencer Jones",
@@ -2405,7 +2405,7 @@
           "p": "Cameron Johnson",
           "st": "GTD",
           "team": "DEN",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-30, DEN@PHX). Prior reporting (2026-10-29): J"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-30, DEN@PHX). Prior reporting (2026-10-30): J"
         },
         {
           "p": "Alpha Diallo",
@@ -2561,7 +2561,7 @@
           "p": "Rui Hachimura",
           "st": "GTD",
           "team": "LAC",
-          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): H"
+          "note": "Injury/Illness - Left Quad Soreness (2026-10-30, LAC@MIN). Prior reporting (2026-10-30): H"
         }
       ],
       "lineups": {
@@ -2600,7 +2600,7 @@
           "p": "Cameron Carr",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW). Prior reporting (2026-10-30):"
+          "note": "Injury/Illness - Right Oblique Strain (2026-10-30, LAL@GSW)."
         },
         {
           "p": "Adou Thiero",
