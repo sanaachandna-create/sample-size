@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-30T19:50:23+00:00",
+  "updated": "2026-10-30T20:23:48+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 36,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 275,
+  "injuryCount": 287,
   "games": [
     {
       "ha": "CHA",
@@ -35,7 +35,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, CHA@WAS). Prior reporting (2026-10-30)"
         },
         {
           "p": "Grant Williams",
@@ -137,6 +137,12 @@
           "note": "Injury/Illness - Left Finger Sprain (2026-10-30, CHI@BOS). Prior reporting (2026-10-29): S"
         },
         {
+          "p": "Dailyn Swain",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Right Low Back Soreness (2026-10-30, CHI@BOS)."
+        },
+        {
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
@@ -177,19 +183,19 @@
         },
         {
           "p": "Isaiah Joe",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "Injury/Illness - Right Hip Contusion (2026-10-30, DET@BKN). Prior reporting (2026-10-29): "
         },
         {
           "p": "Elijah Harkless",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-10-30, DET@BKN)."
         },
         {
           "p": "Isaac Jones",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-10-30, DET@BKN)."
         },
@@ -225,7 +231,7 @@
         },
         {
           "p": "Drake Powell",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         },
@@ -234,6 +240,12 @@
           "st": "OUT",
           "team": "BKN",
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Injury/Illness - Illness (2026-10-30, DET@BKN). Prior reporting (2026-10-30): Clowney (ill"
         }
       ],
       "lineups": {
@@ -269,6 +281,12 @@
           "note": "Injury/Illness - Left Ankle Sprain (2026-10-30, NYK@PHI). Prior reporting (2026-10-29): Al"
         },
         {
+          "p": "Karl-Anthony Towns",
+          "st": "GTD",
+          "team": "NYK",
+          "note": "Injury/Illness - Left Wrist Sprain (2026-10-30, NYK@PHI)."
+        },
+        {
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
@@ -296,7 +314,7 @@
           "p": "Jaylen Brown",
           "st": "GTD",
           "team": "PHI",
-          "note": "Injury/Illness - Left Knee Soreness (2026-10-30, NYK@PHI). Prior reporting (2026-10-29): B"
+          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-30, NYK@PHI). Prior reporting (2026-1"
         }
       ],
       "lineups": {
@@ -441,6 +459,12 @@
           "st": "GTD",
           "team": "IND",
           "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-29)"
+        },
+        {
+          "p": "Obi Toppin",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, IND@MIA)."
         },
         {
           "p": "Simone Fontecchio",
@@ -620,7 +644,7 @@
           "p": "Anthony Edwards",
           "st": "OUT",
           "team": "MIN",
-          "note": "Injury/Illness - Right Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): Ed"
+          "note": "Injury/Illness - Right Knee Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29"
         }
       ],
       "lineups": {
@@ -663,7 +687,7 @@
         },
         {
           "p": "Ziaire Williams",
-          "st": "GTD",
+          "st": "OUT",
           "team": "LAL",
           "note": "Injury/Illness - Left Foot / Heel Injury Management (2026-10-30, LAL@GSW). Prior reporting"
         },
@@ -746,7 +770,7 @@
           "p": "Alpha Diallo",
           "st": "GTD",
           "team": "DEN",
-          "note": "Personal Reasons (2026-10-30, DEN@PHX). Prior reporting (2026-10-29): Diallo (personal) is"
+          "note": "Injury/Illness - Right wrist sprain/Personal Reasons (2026-10-30, DEN@PHX). Prior reportin"
         },
         {
           "p": "Mark Williams",
@@ -896,7 +920,7 @@
           "p": "Jaylen Brown",
           "st": "GTD",
           "team": "PHI",
-          "note": "Injury/Illness - Left Knee Soreness (2026-10-30, NYK@PHI). Prior reporting (2026-10-29): B"
+          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-30, NYK@PHI). Prior reporting (2026-1"
         },
         {
           "p": "Coby White",
@@ -908,7 +932,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, CHA@WAS). Prior reporting (2026-10-30)"
         },
         {
           "p": "Grant Williams",
@@ -1022,25 +1046,31 @@
           "p": "Dylan Cardwell",
           "st": "OUT",
           "team": "SAC",
-          "note": "Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 114"
+          "note": "Injury/Illness - Left Calf Strain (2026-10-31, SAC@MEM). Prior reporting (2026-10-26): Car"
         },
         {
           "p": "Maxime Raynaud",
           "st": "OUT",
           "team": "SAC",
-          "note": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximat"
+          "note": "Injury/Illness - Right Patella Subluxation (2026-10-31, SAC@MEM). Prior reporting (2026-10"
         },
         {
           "p": "Ben Simmons",
           "st": "OUT",
           "team": "SAC",
-          "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James"
+          "note": "Injury/Illness - Right Achilles Tendon Repair / Surgery (2026-10-31, SAC@MEM). Prior repor"
         },
         {
           "p": "Keegan Murray",
           "st": "OUT",
           "team": "SAC",
-          "note": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports. Mur"
+          "note": "Injury/Illness - Left Ankle Capsulitis (2026-10-31, SAC@MEM). Prior reporting (2026-10-26)"
+        },
+        {
+          "p": "Sean Pedulla",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "G League - Two-Way (2026-10-31, SAC@MEM)."
         },
         {
           "p": "Quinten Post",
@@ -1118,7 +1148,7 @@
           "p": "Anthony Edwards",
           "st": "OUT",
           "team": "MIN",
-          "note": "Injury/Illness - Right Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): Ed"
+          "note": "Injury/Illness - Right Knee Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29"
         },
         {
           "p": "Jayden Quaintance",
@@ -1347,7 +1377,7 @@
         },
         {
           "p": "Drake Powell",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         },
@@ -1356,6 +1386,12 @@
           "st": "OUT",
           "team": "BKN",
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
+        },
+        {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Injury/Illness - Illness (2026-10-30, DET@BKN). Prior reporting (2026-10-30): Clowney (ill"
         },
         {
           "p": "T.J. McConnell",
@@ -1398,6 +1434,12 @@
           "st": "GTD",
           "team": "IND",
           "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-29)"
+        },
+        {
+          "p": "Obi Toppin",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, IND@MIA)."
         }
       ],
       "lineups": {
@@ -1545,7 +1587,7 @@
         },
         {
           "p": "Ziaire Williams",
-          "st": "GTD",
+          "st": "OUT",
           "team": "LAL",
           "note": "Injury/Illness - Left Foot / Heel Injury Management (2026-10-30, LAL@GSW). Prior reporting"
         },
@@ -1659,19 +1701,19 @@
         },
         {
           "p": "Isaiah Joe",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "Injury/Illness - Right Hip Contusion (2026-10-30, DET@BKN). Prior reporting (2026-10-29): "
         },
         {
           "p": "Elijah Harkless",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-10-30, DET@BKN)."
         },
         {
           "p": "Isaac Jones",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-10-30, DET@BKN)."
         },
@@ -1691,7 +1733,7 @@
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - On Assignment (2026-10-30, CHA@WAS). Prior reporting (2026-10-30): Knueppel (ha"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, CHA@WAS). Prior reporting (2026-10-30)"
         },
         {
           "p": "Grant Williams",
@@ -1797,6 +1839,12 @@
           "st": "GTD",
           "team": "IND",
           "note": "Injury/Illness - Left Hamstring Strain (2026-10-30, IND@MIA). Prior reporting (2026-10-29)"
+        },
+        {
+          "p": "Obi Toppin",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Low Back Soreness (2026-10-30, IND@MIA)."
         }
       ],
       "lineups": {
@@ -1851,7 +1899,7 @@
         },
         {
           "p": "Drake Powell",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         },
@@ -1862,10 +1910,22 @@
           "note": "G League - On Assignment (2026-10-30, DET@BKN)."
         },
         {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Injury/Illness - Illness (2026-10-30, DET@BKN). Prior reporting (2026-10-30): Clowney (ill"
+        },
+        {
           "p": "Jose Alvarado",
           "st": "OUT",
           "team": "NYK",
           "note": "Injury/Illness - Left Ankle Sprain (2026-10-30, NYK@PHI). Prior reporting (2026-10-29): Al"
+        },
+        {
+          "p": "Karl-Anthony Towns",
+          "st": "GTD",
+          "team": "NYK",
+          "note": "Injury/Illness - Left Wrist Sprain (2026-10-30, NYK@PHI)."
         }
       ],
       "lineups": {
@@ -2000,6 +2060,12 @@
           "note": "Injury/Illness - Left Finger Sprain (2026-10-30, CHI@BOS). Prior reporting (2026-10-29): S"
         },
         {
+          "p": "Dailyn Swain",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Right Low Back Soreness (2026-10-30, CHI@BOS)."
+        },
+        {
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
@@ -2027,7 +2093,7 @@
           "p": "Jaylen Brown",
           "st": "GTD",
           "team": "PHI",
-          "note": "Injury/Illness - Left Knee Soreness (2026-10-30, NYK@PHI). Prior reporting (2026-10-29): B"
+          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-30, NYK@PHI). Prior reporting (2026-1"
         }
       ],
       "lineups": {
@@ -2060,25 +2126,31 @@
           "p": "Dylan Cardwell",
           "st": "OUT",
           "team": "SAC",
-          "note": "Cardwell (calf) will be re-evaluated in one week, Brenden Nunes of KHTK Sactown Sports 114"
+          "note": "Injury/Illness - Left Calf Strain (2026-10-31, SAC@MEM). Prior reporting (2026-10-26): Car"
         },
         {
           "p": "Maxime Raynaud",
           "st": "OUT",
           "team": "SAC",
-          "note": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximat"
+          "note": "Injury/Illness - Right Patella Subluxation (2026-10-31, SAC@MEM). Prior reporting (2026-10"
         },
         {
           "p": "Ben Simmons",
           "st": "OUT",
           "team": "SAC",
-          "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James"
+          "note": "Injury/Illness - Right Achilles Tendon Repair / Surgery (2026-10-31, SAC@MEM). Prior repor"
         },
         {
           "p": "Keegan Murray",
           "st": "OUT",
           "team": "SAC",
-          "note": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports. Mur"
+          "note": "Injury/Illness - Left Ankle Capsulitis (2026-10-31, SAC@MEM). Prior reporting (2026-10-26)"
+        },
+        {
+          "p": "Sean Pedulla",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "G League - Two-Way (2026-10-31, SAC@MEM)."
         },
         {
           "p": "Santi Aldama",
@@ -2204,7 +2276,7 @@
           "p": "Anthony Edwards",
           "st": "OUT",
           "team": "MIN",
-          "note": "Injury/Illness - Right Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29): Ed"
+          "note": "Injury/Illness - Right Knee Arthroscopy (2026-10-30, LAC@MIN). Prior reporting (2026-10-29"
         }
       ],
       "lineups": {
@@ -2411,7 +2483,7 @@
           "p": "Alpha Diallo",
           "st": "GTD",
           "team": "DEN",
-          "note": "Personal Reasons (2026-10-30, DEN@PHX). Prior reporting (2026-10-29): Diallo (personal) is"
+          "note": "Injury/Illness - Right wrist sprain/Personal Reasons (2026-10-30, DEN@PHX). Prior reportin"
         }
       ],
       "lineups": {
@@ -2610,7 +2682,7 @@
         },
         {
           "p": "Ziaire Williams",
-          "st": "GTD",
+          "st": "OUT",
           "team": "LAL",
           "note": "Injury/Illness - Left Foot / Heel Injury Management (2026-10-30, LAL@GSW). Prior reporting"
         },
