@@ -1,29 +1,78 @@
 {
-  "updated": "2026-10-30T17:14:23+00:00",
+  "updated": "2026-10-30T21:30:29+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
-  "pushed_this_run": 1,
+  "pushed_this_run": 4,
   "error": null,
   "items": [
     {
-      "title": "Friday's fantasy basketball adds and bets to make in the NBA - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0t5RzZjdWJraEtlY09aWVBWdks2RVcwOG5oWDQzbVdDUXdJNXI5ZHNfTzQzbWN2UTdxYWxOX0Q2bm91ZmdLUnZJZG5DU3hoU0RUT21GSFlQYlFQVHl1Y01xRHR5MUx1T3drSFBFdVBsYjV0Q1ZCaXdfN2tPNkhULThOcFdrdmI5THduLUJObWlzTGtrNXo2emFRSVFBSGJDZ2tzdXQ4UU82LU0?oc=5",
-      "source": "ESPN",
-      "ts": 1793379600000,
+      "title": "NBA Insider Provides Update on Rockets Trade Plans - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSUdXd3VHcmtXR0hlOEMzWndSaTFrX3QxakJYZk81LVdlcE9SZ3NvYW9ZeEJHWlhrakpjdUg2cUFVRkRvbW5pWW5BclBzbTEyUzMwb3VoeTQxUTFRaWY4dzRJdVZ3cEdTS0FHWm1vV1EzRWYwQ2dYWUF0LUd5UVRJNUp1Zi1QOWEzNFBHaXNlNDFjbTBHNnNGV2VESmNCWTJE?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1793394003000,
       "tag": "league"
     },
     {
-      "title": "NBA Fantasy: Week 2 fantasy awards - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xQWttd25XX0l3cjZ2ZFZST1ozUGdISzNlakFtekRmVlJMbVhpbUU2SmM0aUpEOVRvUUFYTlNldUNZc0p5S2otWWNQS0MyNmZ4MEkwUWNxWERKNF9vOHpydi1kdUNRV2tJcnc?oc=5",
+      "title": "NBA Prediction Market Promos: Start With $250+ in Bonuses (Oct. 30) - WTOP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVk9SR1dYRVUzdnNtSUUtLXQ4VzllclZvUV9LLUxBcDg3dU12cHhRN1V0bDY4RHVaYkZrNFRfaVJ3VFhxZXg1VWFjUHFoZmJidlhvbm1KbDV4amY1d3NRNU1DdXVGRkNEY1F0UEJHYWwyZks3YzdGYk1MN3EwMVlfT0VHMXJ6NTdvZHBJblpNa0l4TGU4Zkl3?oc=5",
+      "source": "WTOP News",
+      "ts": 1793392638000,
+      "tag": "league"
+    },
+    {
+      "title": "Rumor: OKC Thunder could look to trade for this young Kings player - OKC Thunder Wire",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDllWmhhc3lfT1kzSHdhRzBmcGpPaDRwSFF4aVVxMF8zOWg5UFplS2NOMk5LSkctaEJpTGF2bkpBcndrVjRiVDI1MW8zOW9RbXprVG9iLWFLQUlmMFFKRHFRblQ2OVFYWDBpQXdFM3gzU0NCMXhHbUtxbzhSdXlrUU1TZUFjV2lDQkVaQi1KVWJyck5Rd2drVEdmVUdJOTNrWUJ1SGs4Tm5QTnBHb2gza0VGZWR4SE1FQTVaUWNva1JNdGVKT3NRU0o0RERxNVQ1a2MtMlpRcG1xVWJjc3JfZzlOSUU?oc=5",
+      "source": "OKC Thunder Wire",
+      "ts": 1793390621000,
+      "tag": "league"
+    },
+    {
+      "title": "Surprise! The Memphis Grizzlies are 5-0, with Cameron Boozer and Ty Jerome leading the way - Baltimore Sun",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcms4VkR5U0NaQzEtNFp6eGw3cHg1bFp6Y3JBeVZPQmNqS29VZHFQZ21PcWlFcWtOU1FGak5wODN1MWxqbTR0LUwta0dlejZOMTQ0SFh4X0psSmdTZ1Bod2RJVGlFQ2c3YmFFUFZIQnlnMldJa3laV1dPeWR0M3lLRGFKekxyRi1xQnc0b0JhR1Q2b0dPNnRfOVhHeDIwS1RhZGZkUVU5M2NEVl9lbm1vWUtWbDF2Z1NMNmhuWnQ5dFQ0ZEhYQ0ZiRw?oc=5",
+      "source": "Baltimore Sun",
+      "ts": 1793388623000,
+      "tag": "league"
+    },
+    {
+      "title": "Luka Doncic brings extra motivation to Lakers vs Warriors NBA Cup clash on ESPN tonight - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUDNjVFBHMXptd0VnSlBubkNqRmpfT0VvTUpyaGFXekJvN3J6eXZVZDdZWUNlaWRNR0NNOTNBVnhYSWFqRGFRdi1SNVpVVVRVaTk5UUg1Q2ZBLVd1YnZEN3piZm9xQ0RaMlhfa0x6WDBSWGVOdXJtQ1dEUlI4ZmxwMTltbXZNNU90VnhSU0hSNlVHdzRUcHljb0FVT0FhajZLQnBteUxaMkdKdEpYZThzeDVzWQ?oc=5",
+      "source": "Fox News",
+      "ts": 1793387617000,
+      "tag": "league"
+    },
+    {
+      "title": "Mavs, JPMorganChase Refurbish South Dallas\u2019 Glendale Park Basketball Court - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9qRHp0U2d3TVR2ZzhrWGc4SXdIOVZRN3ItTUtCZi1xZFJiTWVVd0M5ekFWbE81WGN6Y1lHbU5IMHhGR0t3NTFYQWhqeXhMSUd3dkhnbC1QZWcxdWNfQ0w4VXU4LUxCNlEwcEFFSQ?oc=5",
       "source": "NBA.com",
-      "ts": 1793379538000,
+      "ts": 1793386020000,
       "tag": "league"
     },
     {
-      "title": "Injuries (still) suck - The Stein Line",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqeE1DbDNmZEhSNUpiWmNSSG9nejFMbWhSc053RTdZOFdaVndvbUp3dVFMNzdfaWxzVFdLYzNxdk5LU2NscFVXV1drbzQ1VUtMcFNxcnlWQVNTbkc5OW9kVWJCMFQ5Nkk?oc=5",
-      "source": "The Stein Line",
-      "ts": 1793379449000,
+      "title": "Indiana Fever hire assistant general manager from NBA team, a 10-year WNBA veteran - IndyStar",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPUTZZUGFGRC1pLUFhaUcxdFUyaVRtaXdwalNpRi1uR21rcXdrM2Q3LTJqRlRaT0FVS2JESVdwbmdoV00xNlRXOHlkaVdIVk16aXJ1OHhIMXl0RlplV3o1cGsyeXU4QTRvZjFBcDByQmE0UVFLXzg1WHpJY2REMHAxZG5IUkxGZHRaeGpaUHZJWmxYN0loNE1yRUJwcTctSVRoX0hvX2FBUmxXRDJGTEZSTXJzRHA4bXlySW9yTlFxSWNfelV0UzY3Sk1qOVFzNW9MSTZ3bkUwcVE3S3lfRWRwVGxMTnZIdGRQVS1zcEVnREh6NmR1ODlVemFaWkkwR01uY3A4WWR3Z2NhNXNkdlE?oc=5",
+      "source": "IndyStar",
+      "ts": 1793385949000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Rumors: Monitoring Suns Star, Lakers Tax Issue & Ty Jerome - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQS1yRXlhM0F2WXhTSnJqQ0s2U0JZWC16QVVIRzA4Q1RfRUxPT3JaU3BvZXlxcVR1cHNXR3U0MXB5MVB4SDQybzhXQkFfczZDV1IxUTlWZXJtQkpaM2JnZHhvZ0hVR2tsbmtjUW51enFyUVNTWjlJbVpjdm0wOUh3eW9aZWs5bGprVlg2U3pLRzRfckQzcDRnNkFJclJUZEdoVjRKUTEyY25fdw?oc=5",
+      "source": "Heavy.com",
+      "ts": 1793385303000,
+      "tag": "league"
+    },
+    {
+      "title": "\"Can\u2019t prove the Mavericks right\" - Charles Barkley put Luka Doncic and Kawhi Leonard on notice for having the most pressure this season - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOHZtaVBzZll2aXZjdWNReUlDNnFrMktMZlpORURoQTVZSmREX3g1Y1J5THFKUzdyTmdENW5SNHZucndHTmJyd29IVF9aZWhUUVFwNUFNNWp3OXBYN1I4YW56cGhGYXBmdFRKTjM5SGY1RXV3a3FLOUVVS1Y5cVJqaW16bUdiVWtRNVllNTRjclEweUV2VDNpVmJtSzZ2WHlrNGsxY2V6LTdjYlg0NXMxR2NpRlJZejAyWWVyTEY5OThnc3dEX3FKR2xaWnoxbEF1UV9ZMkwzR3BsVV9xcS1V?oc=5",
+      "source": "Basketball Network",
+      "ts": 1793384681000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA's 'unprecedented' early season injury crisis has players and coaches searching for answers - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaTJSMk9mektobWdyLUVmdlVJMWNiTU9aMWNBdl9lYUhKaVZNTG5tODBXVU02NzVMUkRSd25COFllZnNIR2xXRzVFTWplMlpUaUJnZmJNOVFITGNGLTBMZ1UzU3VXY0RIa0xNd0NIMllSRmRSRTcyT1VFT2hnMjdiWUx2OHJ2M3FNQ2VkVHEyV3N2d3hDQUpGTkNoekstSDZvQjdKX1pYaw?oc=5",
+      "source": "CBS Sports",
+      "ts": 1793381858000,
       "tag": "league"
     },
     {
@@ -34,27 +83,6 @@
       "tag": "league"
     },
     {
-      "title": "Raptors Pregame: Franz Wagner - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcENPVnBrWGlWN2xoR01ueHotckdKR19HZDB4RHlfNjhWRVZNWFJ6RFZ6bzZmbXFYODN6MXJGbUNLMDFZd0ZkTUxvc2c5YW1qWGxDczVnSUI5WDFNc3RhS3gxYUVLZlJvaEhJNEx4cnhjWm5pR0htSm5SbEcycUF6dmRrc2xVQzJyZmtpVVg1ZlNBcUQzXzZvbG55SXhyOWV0MFpEMA?oc=5",
-      "source": "NBA.com",
-      "ts": 1793378118000,
-      "tag": "league"
-    },
-    {
-      "title": "Surprise! The Memphis Grizzlies are 5-0, with Cameron Boozer and Ty Jerome leading the way - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRkJzZUNvS05LX3I4NThaZkpRNmFkWW45N08tYzdReFhZemxBbGg1N0FtR0xSVkhRN191WWVORVVFUjViMEZiS09sWnMtOF9ZdXpwZ3hLWVRTZTh5UFdrZnF6VkRGMlRqX1NXa201UlZHNlFfWk51UFFVUjdka0pHTndKQW4yZw?oc=5",
-      "source": "Newsday",
-      "ts": 1793377494000,
-      "tag": "league"
-    },
-    {
-      "title": "\u201cCooper Flagg Is Better\u201d: ESPN Analyst Doubles Down on LeBron James Comparison Over Defense - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVzJjajF3bTg0cTVNTndGNUR0Q3B1YUJ4aW1EWjVyVVBWbDJzTkpKWDlZcW5oWnA3ZzUtMDduQ0cybGw3UnJXNzdEQnhQc3A3SFJqQ0ZSVUhrRVQ4ZlBvaDJnX1pDMGlrTm5ncFJaU2FISUktLWJtZE1OM2Q1Q2VHQ2g5TEFwX3dQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793377419000,
-      "tag": "league"
-    },
-    {
       "title": "Luka Doncic, Stephen Curry Meet in NBA Cup Stream of National Basketball Association - CBS Sports",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcDMwSGw3SHZLVHZISXVvM3JpNzgzdFJSMkZEbW9YRG42Y1hpN2JzemMzaGlGLTdWVGJ3VkREZGdvOVhpUi1vUFpuM2FCV1kxbDZYNXUybF9fZ2ltOEItU3RyclBBcnBKR01Sc2NadHFpVFNlY29ObVl0THFlQ2NDdi1kQ0J0Wk5jLTlr?oc=5",
       "source": "CBS Sports",
@@ -62,45 +90,10 @@
       "tag": "league"
     },
     {
-      "title": "Kalshi Promo Code ROTOWIRE: Trade $25, Get $25 Bonus for Tonight's NBA Games - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV0l0clhUdXU3LS1rdU5tbldheGZuWVgxTkZxRGpQX0tQMDBRYW5Ed2hsTFJ3MmNkWWszX2NJVUgwYW1MM3JNaGdlT3JFdnlyV0I4Y1piSEpocjNOSGM3UndyQkVYcGZWVmZIZGl2aXl1ZHAyb2RRNnlFZVoxYXNxSzA3NUgwWEF4dVNJanF3VWlfREY5bmRGSHZ0UTJOUUFBeldzT2NweEV5LUhf?oc=5",
-      "source": "RotoWire",
-      "ts": 1793374380000,
-      "tag": "league"
-    },
-    {
-      "title": "Starting 5: Emirates NBA Cup Group Play is here - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15UGVnZ2t3QkxXek9HSFRVRTdKb0hRZmlGQTRSOHBxal9WeHBjbE52OFpZaGo3YTVVN0d5UUJwUG9KTUpwNmdVek1sTi1FTmVCeFJ6YjhBT0RZNkc2NnVnag?oc=5",
-      "source": "NBA.com",
-      "ts": 1793370451000,
-      "tag": "league"
-    },
-    {
-      "title": "Kalshi Promo Code SBWIRE55 | $55 Bonus for College Football, NBA & NFL Week 8 - Chiefs Wire",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcDhET0Y1clNCcDlxZ3I5RDdyblJMMnhpOEtUOUlpSnV6b1N0bFlxUEc0NkFkd01XYjVFWnRXdTc4bXF1Y0c1RXh5RjdZcFZ0RU1Jd05TWHBRanppTTR1UFlGTXFocGxoX3lmU3NQdWFrTHl5X25jczItRVltM21HeEhPY0llekdQYk5LblU4Z3FkRmZXMjNlNG5vc2phOWJ2NE5PNDUxdDhza2RvQ2cwcUFR?oc=5",
-      "source": "Chiefs Wire",
-      "ts": 1793370147000,
-      "tag": "league"
-    },
-    {
-      "title": "ProphetX Promo Code SBWIRE: Trade $50, Get $75 for NFL, NBA & College Football - Golfweek",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcXpBbGV2bmNOTEhjeWJYNDhGb3Z3NW8tSm43U3lUb2JjRWM5dXoxSlJBYzJuLUU3bEZjYW5Td1FpekhnOGZQSjMycXRYZlBJYy1lTFhDZ0ZxYnlqdE0zQy1zX2I3cjJsVUNENlE1dXR3MGxQaG1tRXJURU1zdEItWEdqQ1czV1lobEJFS1BuRVc4THQwWDJka0tQWTdxUGZZQ2dWY2REVQ?oc=5",
-      "source": "Golfweek",
-      "ts": 1793367627000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Trade Rumors: Monitoring Suns Star, Lakers Tax Issue & Ty Jerome - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQS1yRXlhM0F2WXhTSnJqQ0s2U0JZWC16QVVIRzA4Q1RfRUxPT3JaU3BvZXlxcVR1cHNXR3U0MXB5MVB4SDQybzhXQkFfczZDV1IxUTlWZXJtQkpaM2JnZHhvZ0hVR2tsbmtjUW51enFyUVNTWjlJbVpjdm0wOUh3eW9aZWs5bGprVlg2U3pLRzRfckQzcDRnNkFJclJUZEdoVjRKUTEyY25fdw?oc=5",
-      "source": "Heavy.com",
-      "ts": 1793365140000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Cup Preview: Can the Knicks pass their first title defense? - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOYVdWSUthTTdQeTluN0ZQR1RVM0hqQW1ldkFELWItU2xFbWgwUHFaWWl1Q2Jvd2kyTUVtQUJ4bVRSMVZ5Rkl2MXhzT1dFbUxxTDBJZmVTN0RHcFdEd0xSSGoxSnRkV2RvQ2tWOXBpNlVvZUZsMFpBZ3ZxeGpwOGpzalRR?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793363400000,
+      "title": "\"As you get older, you start to understand\" - Aaron Gordon admits he got caught up in NBA materialism early in his career - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNYVhuVGFrVUJnbW1EYl9iVUpoVDM4S0c4NU9fWUlPSEJmNHlfUlJFOHJNaEJhYjBWQ1ZKZEVEaUh0ajJINVozeU94bURSWWNtSXRkVXJ2QWFOTGRGeEpYWS1Say0wMHdESWJ1bGJ2dXNQUVZoY3hjWjJfUXVKQmRVN2J0cXJOc1hnQUFtaE1KUWxHa3BvNkZneDRLbEpLOFJneFlmV004UGJpdkQ2M1RnSUFUZlZZN0NRZFZOek5hd08?oc=5",
+      "source": "Basketball Network",
+      "ts": 1793371320000,
       "tag": "league"
     },
     {
@@ -111,10 +104,10 @@
       "tag": "league"
     },
     {
-      "title": "NBA Power Rankings With Los Angeles Lakers Rising, Miami Heat Falling - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVZZVTJVeDdueFM2aUZqcnJaOWUtS1JPalR6dlYzcVZad1RUdDllR2dxdnF5UXktVlVBaE1STTBxem8zWGQzLUc2SHMwSXdveVNYLS0tVTdrM2RJMWZFVEoyMEhmMU80U21XUGZHcTE3U050QjVFRUJMQmxCeVhGM003RFQ5SkNGdmtXb1N0Mkw4VTJkYXY4cElzanV1YVdUMEZoSXducTlTUmxi?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1793359002000,
+      "title": "Hawks beat Cavaliers 114-111, winning home game that forced Dream to play WNBA Finals Game 6 in early afternoon - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPTm9sNFhGa21nSDJyRzN5d1NoY3hIX0dwNExhNmtKRDRpdGZJV1I4cmdjVGM3WUxybFlIN3FmMlpfR2lBVmgxX283dmRFaUNmeUUxeFBfLVpwNnJVWjFBRFZNYTg4NWEzalV6b3VsVGZIY1NKTXlKY0diZTlKSGVKdUlNbTlxbEQ2NFR0ZU5mdEltOWtaVnRYVEl2QU5JMkRQdmRLeVJSc3hFWDN4dDRmV1NISnVxOTVDYUFKOGk4MVBkcEJOeVFTNEV1bjljWkNsc202VjZBQUJxazdXS2UwWG5LRXp2b2k3YVg2bTZ5Q0M3N3hX?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1793359287000,
       "tag": "team"
     },
     {
@@ -139,18 +132,18 @@
       "tag": "team"
     },
     {
-      "title": "Grizzlies\u2019 Cameron Boozer becomes second-youngest NBA player with triple-double - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0hkS2pqSk1JZ0x5bktnUUY2cFNhTW4wOVJNTmt5aElwQm5BcFIwLW41Q3N0TXNWZ2EtUUpBZzBhQVhuLUt3bERRWnJUbm04SE5Tano3RkJ1M0tKWnRTSXZOaDk5N0J6ZUpmUnNGZ2g1a29DSjlvVDNucHNFUFVNVXhuTlNsWDRxYWc0WTdoYVVuTGp3RUFSWGNXbDlKMUJ3dnUzQkN3?oc=5",
-      "source": "NBA.com",
-      "ts": 1793339770000,
-      "tag": "league"
-    },
-    {
       "title": "Cleveland Cavaliers vs. Atlanta Hawks - X",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5CM1l4bmFUR2FzTzdJNVRSZ0YyTThpU2VuS3FOU0NMbXBweTdWSlpEdk5waWY2SGRqcmFoT1hfcVJIbmhvSk5mZ2phZHdFTzRYNFZMNDVhTQ?oc=5",
       "source": "X",
       "ts": 1793338274000,
       "tag": "team"
+    },
+    {
+      "title": "Dallas Mavericks guard Walter Clayton Jr. talks college pedigree, NBA path - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHFzOFJtazJyQWxEaDFzNThoMGtRY0xzNmpSeEVpR2VoakpZcFdyVldFZTE0YXp3QzZoUUF4eTlXTEYwajFBUVFIbmtlX2h0VUdNVVE2Q2VuOTg4d2pTR1AwS3NBaFNESktEWWp5SjBBY2RzYkVuNjRVM0Fjc2ttS0pZaUdHb1ctbjBfRVZaTllrV2tUU2xNbDJGcmNGU2VQM0dNZ2Fkak1ubmphYTc4?oc=5",
+      "source": "Dallas News",
+      "ts": 1793335356000,
+      "tag": "league"
     },
     {
       "title": "Jalen Johnson hits from way downtown, 10/29/2026 - Yahoo Sports",
@@ -167,18 +160,11 @@
       "tag": "team"
     },
     {
-      "title": "Cleveland Cavaliers vs Atlanta Hawks Oct 29, 2026 Play-by-Play - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xeEtvcTVMOHJYbXp5cEY5ZFZ4Z0RBOERES3UxRkhpWkM1clNxc3ZEOXM5dWhUSllxbFg0WmpicURERVN5TU9uSnN4SUJFZm50bWxfUnpGODBrSmxHaHExRkhTYXBwZGZOVnkw?oc=5",
-      "source": "NBA.com",
-      "ts": 1793324795000,
-      "tag": "team"
-    },
-    {
-      "title": "Cleveland Cavaliers at Atlanta Hawks NBA Prediction, Picks & Odds for Oct. 29, 2026 - Athlon Sports",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYlM1Ry1xMlY2dTh3THc2ekxPWi05ZXUzY1FBdDJaV3c0NFR1TkMzV3lMVWV3UDNLVjVCTTNkNXZkcnJibzNvREJPVkZTOThRSExwT294UXBsbTdzZVhQd3c3VnRnZmZ5SWFqZmpWUXNkWU5TdkJ5TFVDYmUtSUVOWUtzTmxKQkZLcWx2MHlQd015LVo3c1d5REh2NHd1dTRsYWItaQ?oc=5",
-      "source": "Athlon Sports",
-      "ts": 1793308682000,
-      "tag": "team"
+      "title": "\"I don't think a white dude could be the face of the league\" - Charlie Villanueva on Cooper Flagg's NBA future - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOXNvZG1hVk9LWHVFTXBvYWxqRUpXUHJnbEZhMzRzd2VLRXU1SjhreEc1ZTRZcDJZSUVOUzVKMk5fTEx5M1JnNmVsS3NrRVBkaUV2YmZNaUJVaUw2SmhEU0xoM1pMb1RzMzBzUlUzb3lyMGhOQnhSNU0xOTdXbW1xU2VB?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1793324413000,
+      "tag": "league"
     },
     {
       "title": "NBA Fantasy: Week 2 power rankings - NBA.com",
@@ -195,32 +181,42 @@
       "tag": "player"
     },
     {
-      "title": "Jalen Johnson And Hawks Face Cavaliers On Oct. 29 - FanDuel",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0hoRVZWLV8yQktUVkkwUGdCQkgzVm9jQnpjWVhPeUZ5LV8tNXRfaHVtOWxMYjhpb1R1dHh2dnlhVE04emV1MV9qNHFoUXZtZlhhOFhMVTJuVzgzdnZFMUZETVpLUEEzY2JMczduYkNGVTZfVzE0TnY5cG9WS3Njb3o1LVVUYWk5alVJa09SclRvNHdFczM2UGR5QUtma3I4Y3pKdmMyaVhVdGtjQklOd0xmVHlkb1B4dV9v?oc=5",
-      "source": "FanDuel",
-      "ts": 1793297490000,
-      "tag": "player"
-    },
-    {
-      "title": "Fantasy Basketball Rankings (Points leagues): Early risers and fallers of the 2026-27 NBA season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUmlnS3VrMV9IWm9kdGpCV2lvWm1hdkZZZWtnTkc5ajdvR09oaVExck9LSlF1LUUzR1lOc0JjeWZJQkZMSWVXMXQ0NkRkYmZuclhxb2hwN29iUWUyQWdKZ25yNWZ6VzhoTUpoLTU0UEJpZ2x0bDZuaUVLTjltZGRXaGFqMXV1Z2gxOGs4RDhSRVdRM3dWVmJXRkJiQTRYdlVSaWx5QzRZeExfckZtS0dBblU0R1VYQVRSd3ZnNlBYalh3MG9SeEo3Njl5VkgzX1RIdmJMa2lyWFVZc2V6SG5MbmlPRQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793296973000,
-      "tag": "league"
-    },
-    {
       "title": "How the NBA\u2019s injury onslaught could help\u2014and hurt\u2014the Sixers - Liberty Ballers",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOOEhSVVZzUnJocFptU3kzVGpUNDQ3cWlXUmVrdGdXNEliaU5OUHItVEtfRmtacHAxUjlXQVFsajZpWkhSVTF6LUhsSzF1Y0lIbk1ZeE0yLWxNNDIxRE0tVzZ6THIxYm05Nnk2S21rNUZqYmhfM3d2bVduLUVqZWtPclV5a3RDWF9YRFpmVWtaZ1llWk1JTnhPclZjcG1YU1NYN1VEMlhKeU1OekEwWFMyRkRmV1JpdXFrcXhvaUhTRy1NWWZ3T0VJNXIxa1o?oc=5",
       "source": "Liberty Ballers",
       "ts": 1793293637000,
       "tag": "league"
+    },
+    {
+      "title": "Cleveland Cavaliers at Atlanta Hawks odds, picks and predictions - Sportsbook Wire",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZGExWkRQY3hUVkxDWFYyUmcxc2VLY3dSUUFKQTJPcTZWRzJCYUZmaFhqcWVxT0dmUkxZd0RPbmJ5eFMtN2E1RVd0dHQwWXVXd3VUZ1dkUUVGdGs4aWE3TGVmWVhySXJBUXZ4SkYxaG5yNkVLTEdyZ3gyeVUtSEtVLWlrUy1qaXl4MElJblVLZEdVaUVoV2M2MTdWR1FUTWE2ajlndW9KV0R2TkMyMWIyQUZXWHNqc0lkM1hINDJXYw?oc=5",
+      "source": "Sportsbook Wire",
+      "ts": 1793281320000,
+      "tag": "team"
+    },
+    {
+      "title": "Why the NBA Has an Injury Problem, and How It Can Be Fixed - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UQlJySWU2XzhWZFdkanp4dnpBaGk1MXZwUEVFRTRMUi16dXM0RG1vbnNmSFZWR3o2U1VQS041WUIzeTZFb1pQV2JWN0FYck5ESklfazlyUWUxTHcxQ3pMUkN2VFhwSTZyOTJkdUJEbzF3bzg?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1793280180000,
+      "tag": "league"
+    },
+    {
+      "title": "Debunk or double down? Judging 10 early-season NBA overreactions - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNElMRzhCOG90Wk40d2hLNUR2MXVTYllMNmwyRldWRlVNTjlJWC1oZ0ZZdUY3MGFoNXRQeS1LTWFfTm13em9WLXduWDQyRGM0LXZTQ29ucTB3LURGRGpVSUVmUGJIeGcwbTJlMUYyQzBGa2hEVGUzakFlWEc5Nm1KMUpuSlNwLXRQQTJObHJXbENyUWJM?oc=5",
+      "source": "ESPN",
+      "ts": 1793275200000,
+      "tag": "league"
+    },
+    {
+      "title": "Grading Every NBA Team After Wild First Week - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZU5fYlRQcWxoTFFjMjFhTXZ0UUtTM0VWbE1sTkZJSEtySGUzZnVXTnJmWkdQWU9Ha0tIeldTR1ZSdThRenkxUnVoYTQ3eWVIdFVBdFVHLUNfMUxZRHVDSG1RQ3pIVmhZMUo0ZWRHakN3NDZXTjZoMVdsR1NwUm5BTlU0dm1uSGFXWDZlRlhLaHRCSWc?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1793272360000,
+      "tag": "team"
     }
   ],
   "pushed": [
-    "larrynanceinjurypracticesfridayrotowire",
-    "alexsarrinjurytrendinginrightdirectionrotowire",
-    "kawhileonardinjuryruledoutforsaturdayrotowire",
-    "newgrizzliesbigmansuffersunfortunateinjuryaheadofnewnbaseaso",
     "trejonesinjuryoutfridayrotowire",
     "anthonyblackinjuryfullparticipantinpracticerotowire",
     "milesbridgesinjurypracticesfridayrotowire",
@@ -716,6 +712,10 @@
     "rumorokcthundercouldtradeforfamiliarfacetohelp202627seasonok",
     "nbarumorsmarcsteinfloatsdreamthundertradetargetbutpriceiscur",
     "atrademorecostcuttingwhereokccouldbeheadedthisseasonespn",
-    "nbatraderumorsmonitoringsunsstarlakerstaxissuetyjeromeheavyc"
+    "nbatraderumorsmonitoringsunsstarlakerstaxissuetyjeromeheavyc",
+    "nbainsiderprovidesupdateonrocketstradeplanssportsillustrated",
+    "rumorokcthundercouldlooktotradeforthisyoungkingsplayerokcthu",
+    "nbasunprecedentedearlyseasoninjurycrisishasplayersandcoaches",
+    "hawksvsheatpreviewinjuryreportandprojectedstartersfortonight"
   ]
 }
