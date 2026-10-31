@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T18:40:56+00:00",
+  "updated": "2026-10-31T19:43:30+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 26,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 196,
+  "injuryCount": 198,
   "games": [
     {
       "ha": "POR",
@@ -19,11 +19,11 @@
       "tip": 1793473200000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 18,
+      "ascore": 28,
+      "period": 2,
+      "clock": "Q2 11:27",
       "injuries": [
         {
           "p": "Shaedon Sharpe",
@@ -477,6 +477,12 @@
           "st": "OUT",
           "team": "SAS",
           "note": "Injury/Illness - Left Calf Strain (2026-10-31, MIN@SAS). Prior reporting (2026-10-30): Har"
+        },
+        {
+          "p": "Stephon Castle",
+          "st": "GTD",
+          "team": "SAS",
+          "note": "Injury/Illness - Migraine (2026-10-31, MIN@SAS). Prior reporting (2026-10-31): Castle (mig"
         }
       ],
       "lineups": {
@@ -1635,6 +1641,12 @@
           "st": "OUT",
           "team": "SAS",
           "note": "Injury/Illness - Left Calf Strain (2026-10-31, MIN@SAS). Prior reporting (2026-10-30): Har"
+        },
+        {
+          "p": "Stephon Castle",
+          "st": "GTD",
+          "team": "SAS",
+          "note": "Injury/Illness - Migraine (2026-10-31, MIN@SAS). Prior reporting (2026-10-31): Castle (mig"
         }
       ],
       "lineups": {
