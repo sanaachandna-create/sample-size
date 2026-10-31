@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T09:58:36+00:00",
+  "updated": "2026-10-31T14:15:23+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 26,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 182,
+  "injuryCount": 186,
   "games": [
     {
       "ha": "POR",
@@ -153,6 +153,18 @@
           "st": "GTD",
           "team": "PHI",
           "note": "Brown (knee) is out for Friday's game against the Knicks. Brown is sitting out the first l"
+        },
+        {
+          "p": "LeBron James",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks"
+        },
+        {
+          "p": "Joel Embiid",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Embiid closed Wednesday's 114-109 win over the Pacers with 21 points (9-17 FG, 0-3 3Pt, 3-"
         },
         {
           "p": "Coby White",
@@ -1236,6 +1248,18 @@
           "st": "GTD",
           "team": "PHI",
           "note": "Brown (knee) is out for Friday's game against the Knicks. Brown is sitting out the first l"
+        },
+        {
+          "p": "LeBron James",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "James supplied 13 points (5-12 FG, 2-3 3Pt, 1-2 FT), five rebounds, 10 assists, two blocks"
+        },
+        {
+          "p": "Joel Embiid",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Embiid closed Wednesday's 114-109 win over the Pacers with 21 points (9-17 FG, 0-3 3Pt, 3-"
         }
       ],
       "lineups": {
