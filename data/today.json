@@ -1,11 +1,11 @@
 {
-  "updated": "2026-10-31T22:51:25+00:00",
+  "updated": "2026-11-01T01:34:51+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 26,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 206,
+  "injuryCount": 200,
   "games": [
     {
       "ha": "POR",
@@ -76,83 +76,59 @@
       "tip": 1793484000000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 42,
-      "ascore": 38,
-      "period": 2,
-      "clock": "Q2 6:05",
+      "status": "post",
+      "hscore": 104,
+      "ascore": 109,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
         {
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back Stress Reaction (2026-10-31, PHI@CHA). Prior reporting (2026-10-"
+          "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress r"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-10-31, PHI@CHA). Prior reporti"
-        },
-        {
-          "p": "Tacko Fall",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-10-31, PHI@CHA)."
-        },
-        {
-          "p": "Jabari Walker",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-31, PHI@CHA)."
-        },
-        {
-          "p": "Jaylen Brown",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-31, PHI@CHA)."
+          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
         },
         {
           "p": "LeBron James",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back/Sciatica Management (2026-10-31, PHI@CHA). Prior reporting (2026"
+          "note": "James (back) has been ruled out for Saturday's meeting in Charlotte. James will rest on th"
         },
         {
           "p": "Joel Embiid",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-10-31, PHI@CHA). Prior "
+          "note": "Embiid (foot) is out for Saturday's game in Charlotte. It's the second night of a back-to-"
         },
         {
           "p": "Coby White",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Left Calf Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-26): Hea"
+          "note": "Head coach Charles Lee said Monday that White (calf) remains without a timeline for a retu"
         },
         {
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-30)"
+          "note": "Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remai"
         },
         {
           "p": "Grant Williams",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-26"
+          "note": "Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road tri"
         },
         {
           "p": "Kylan Boswell",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - Two-Way (2026-10-31, PHI@CHA). Prior reporting (2026-10-20): Boswell (knee) is "
-        },
-        {
-          "p": "Michael Ajayi",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "G League - Two-Way (2026-10-31, PHI@CHA)."
+          "note": "Boswell (knee) is out for Wednesday's season opener against the Nets. Boswell continues to"
         }
       ],
       "lineups": {
@@ -175,11 +151,11 @@
       "tip": 1793487600000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 121,
+      "ascore": 99,
+      "period": 4,
+      "clock": "Q4 :09.8",
       "injuries": [
         {
           "p": "Henri Veesaar",
@@ -274,11 +250,11 @@
       "tip": 1793491200000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 72,
+      "ascore": 57,
+      "period": 3,
+      "clock": "Q3 9:56",
       "injuries": [
         {
           "p": "Dylan Cardwell",
@@ -312,21 +288,21 @@
         },
         {
           "p": "Quinten Post",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): P"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): P"
         },
         {
           "p": "Ty Jerome",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Upper Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): "
+          "note": "Injury/Illness - Upper Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): "
         },
         {
           "p": "Scotty Pippen Jr.",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Low Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): Pi"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): Pi"
         }
       ],
       "lineups": {
@@ -349,17 +325,17 @@
       "tip": 1793491200000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 65,
+      "ascore": 89,
+      "period": 3,
+      "clock": "Q3 5:27",
       "injuries": [
         {
           "p": "Meleek Thomas",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CLE",
-          "note": "Injury/Illness - Right Foot Inflammation / Soreness (2026-10-31, CLE@MIL). Prior reporting"
+          "note": "Injury/Illness - Right Foot Inflammation / Soreness (2026-10-31, CLE@MIL)."
         },
         {
           "p": "Khalifa Diop",
@@ -406,11 +382,11 @@
       "tip": 1793491200000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 73,
+      "ascore": 65,
+      "period": 3,
+      "clock": "Q3 7:54",
       "injuries": [
         {
           "p": "Donte DiVincenzo",
@@ -444,9 +420,9 @@
         },
         {
           "p": "Stephon Castle",
-          "st": "GTD",
+          "st": "AVA",
           "team": "SAS",
-          "note": "Injury/Illness - Migraine (2026-10-31, MIN@SAS). Prior reporting (2026-10-31): Castle (mig"
+          "note": "- (2026-10-31, MIN@SAS)."
         }
       ],
       "lineups": {
@@ -469,11 +445,11 @@
       "tip": 1793493000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 60,
+      "ascore": 46,
+      "period": 2,
+      "clock": "Q2 1:48",
       "injuries": [
         {
           "p": "Cason Wallace",
@@ -746,31 +722,31 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
+          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk "
+          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-11-01, LAC@GSW). Prior reporting (2026-10"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
+          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-10-29"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
+          "note": "Injury/Illness - Right Heel Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-10-29): I"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-08"
         },
         {
           "p": "Kristaps Porzingis",
@@ -857,13 +833,19 @@
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Thiero (knee) has been ruled out for Friday's game against the Warriors. Thiero has yet to"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-11-01, TOR@LAL). Prior reporting (2026-"
         },
         {
           "p": "Ziaire Williams",
           "st": "GTD",
           "team": "LAL",
-          "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury"
+          "note": "Injury/Illness - Left Foot / Heel Injury Management (2026-11-01, TOR@LAL). Prior reporting"
+        },
+        {
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-11-01, TOR@LAL)."
         }
       ],
       "lineups": {
@@ -930,9 +912,9 @@
         },
         {
           "p": "Meleek Thomas",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CLE",
-          "note": "Injury/Illness - Right Foot Inflammation / Soreness (2026-10-31, CLE@MIL). Prior reporting"
+          "note": "Injury/Illness - Right Foot Inflammation / Soreness (2026-10-31, CLE@MIL)."
         },
         {
           "p": "Khalifa Diop",
@@ -1001,31 +983,25 @@
           "p": "Coby White",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Left Calf Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-26): Hea"
+          "note": "Head coach Charles Lee said Monday that White (calf) remains without a timeline for a retu"
         },
         {
           "p": "Kon Knueppel",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-30)"
+          "note": "Knueppel (hamstring) was recalled from the G League's Greensboro Swarm on Friday. He remai"
         },
         {
           "p": "Grant Williams",
           "st": "OUT",
           "team": "CHA",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-10-31, PHI@CHA). Prior reporting (2026-10-26"
+          "note": "Williams (hamstring) will be re-evaluated following Charlotte's upcoming two-game road tri"
         },
         {
           "p": "Kylan Boswell",
           "st": "OUT",
           "team": "CHA",
-          "note": "G League - Two-Way (2026-10-31, PHI@CHA). Prior reporting (2026-10-20): Boswell (knee) is "
-        },
-        {
-          "p": "Michael Ajayi",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "G League - Two-Way (2026-10-31, PHI@CHA)."
+          "note": "Boswell (knee) is out for Wednesday's season opener against the Nets. Boswell continues to"
         }
       ],
       "lineups": {
@@ -1325,43 +1301,25 @@
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back Stress Reaction (2026-10-31, PHI@CHA). Prior reporting (2026-10-"
+          "note": "Barlow will miss at least the next two weeks of action due to a lumbar spine bone stress r"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-10-31, PHI@CHA). Prior reporti"
-        },
-        {
-          "p": "Tacko Fall",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-10-31, PHI@CHA)."
-        },
-        {
-          "p": "Jabari Walker",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-31, PHI@CHA)."
-        },
-        {
-          "p": "Jaylen Brown",
-          "st": "AVA",
-          "team": "PHI",
-          "note": "Injury/Illness - Left Patellar Tendinopathy (2026-10-31, PHI@CHA)."
+          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
         },
         {
           "p": "LeBron James",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back/Sciatica Management (2026-10-31, PHI@CHA). Prior reporting (2026"
+          "note": "James (back) has been ruled out for Saturday's meeting in Charlotte. James will rest on th"
         },
         {
           "p": "Joel Embiid",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-10-31, PHI@CHA). Prior "
+          "note": "Embiid (foot) is out for Saturday's game in Charlotte. It's the second night of a back-to-"
         }
       ],
       "lineups": {
@@ -1503,21 +1461,21 @@
         },
         {
           "p": "Quinten Post",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): P"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): P"
         },
         {
           "p": "Ty Jerome",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Upper Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): "
+          "note": "Injury/Illness - Upper Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): "
         },
         {
           "p": "Scotty Pippen Jr.",
-          "st": "GTD",
+          "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Low Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-30): Pi"
+          "note": "Injury/Illness - Low Back Soreness (2026-10-31, SAC@MEM). Prior reporting (2026-10-31): Pi"
         }
       ],
       "lineups": {
@@ -1692,9 +1650,9 @@
         },
         {
           "p": "Stephon Castle",
-          "st": "GTD",
+          "st": "AVA",
           "team": "SAS",
-          "note": "Injury/Illness - Migraine (2026-10-31, MIN@SAS). Prior reporting (2026-10-31): Castle (mig"
+          "note": "- (2026-10-31, MIN@SAS)."
         }
       ],
       "lineups": {
@@ -1871,31 +1829,31 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
+          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Strus (foot) is making progress but is set to miss at least one more week, Ohm Youngmisuk "
+          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-11-01, LAC@GSW). Prior reporting (2026-10"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
+          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-10-29"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
+          "note": "Injury/Illness - Right Heel Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-10-29): I"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-08"
         }
       ],
       "lineups": {
@@ -1928,13 +1886,19 @@
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Thiero (knee) has been ruled out for Friday's game against the Warriors. Thiero has yet to"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-11-01, TOR@LAL). Prior reporting (2026-"
         },
         {
           "p": "Ziaire Williams",
           "st": "GTD",
           "team": "LAL",
-          "note": "Williams has been ruled out for Friday's game against the Warriors due to left foot injury"
+          "note": "Injury/Illness - Left Foot / Heel Injury Management (2026-11-01, TOR@LAL). Prior reporting"
+        },
+        {
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-11-01, TOR@LAL)."
         }
       ],
       "lineups": {
