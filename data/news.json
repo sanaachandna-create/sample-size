@@ -1,22 +1,57 @@
 {
-  "updated": "2026-11-01T23:50:42+00:00",
+  "updated": "2026-11-02T02:57:40+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Orlando Magic Come Up Short Against Boston Celtics - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWxxTGxkSHltWEZqdld6S01SdEYyZGdYOFRvX29oSFBtYnFRYlk2U25YRzk0VURNemI1bWd1SlVEM3lYYmF6a2ZoVEpkSVQ3VHpiRFRRUFlxWXg5UjhRNHRlVDVPTEFiQkpvVTc0N3ZGS0NJb0JLX0xOLUpVLUdzeG9iOUdvTXFYbmY2TUkxbzRMSTRt?oc=5",
-      "source": "NBA.com",
-      "ts": 1793576520000,
+      "title": "NBA suspends Hawks G Kingston Flemings 1 game for elbowing incident - Yardbarker",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZTF4dDdPSnlvUm5LZlplaEFvNDhJTUdTeFNjazQ4d1M5Q2FLdWpGdlc1c0xxQ1RadldhSzJMamFjLXo0WXNWcXlyRkNLVzBiYUs0Q0VTb3ExUmk3Ny1EWFZ3TXpoR1RuMm8ycE8yazNRV2s3eUROZEU4am1PQnJFV0xEdWNZaUlRellCWkpldzc4aS03cFJiZndmdDJIN1pmTWwxdG5ncFRVajRlb3BIZ1RDb1d2Z18xOERDald0eGctZVk?oc=5",
+      "source": "Yardbarker",
+      "ts": 1793587489000,
+      "tag": "team"
+    },
+    {
+      "title": "Rudy Gobert (back) off injury report Monday - FantasyPros",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNZmhWa19paGJiV19FMXY2VjB3OU1qcjF6ODdRdzU1a2ZzWTZlM0lMRGIxdzRpel8zelF0ZU9DQ3lYQTR0c1BiQzNiOFdXM2Nob2dEZjFFcjZnLVYtWm5IY2hWSWcwZjV4dGl5aUJWYjlrdno2czlsbHhuWldlSmFsc1VnVnZkd3NxT2QzbFVwV3lhWW_SAZgBQVVfeXFMTUtOOXpsVjh4MkVkdl9MYXgwbDlHMjJTTzBQbTA1aDR3eTVKaDZuQU11dUNhSGR1MFVkaW5ieGg0V01WQmRXNTBIOVhEUTFuQmhNM3pTQTRoOVJTamFGSTZzVHJrZlV6dUVzQzN2MkszcEZrX3pBSTUwbnBCWFpBYU5ySE15bERmRkE4RGNxY1A2WlVvZnhndl8?oc=5",
+      "source": "FantasyPros",
+      "ts": 1793586780000,
       "tag": "league"
     },
     {
-      "title": "Jayson Tatum's 32, Paul George's 10 4th-quarter points lead Boston Celtics to road win in Orlando - Newsday",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JN0l1NE1leENqeFdKeFppQllJYVM2cFA4YXFGVTRDb1pXVDU2NVVjd2JiUzQxdkV6MDE3Q253OWFOSFNHZU1yaGZWaVBtdU96QzZTei1TMWxFQ2lQUDFub2tfNzA2emFjWUg5Xy01SXZPUGVaZ3I4?oc=5",
-      "source": "Newsday",
-      "ts": 1793576062000,
+      "title": "\"This MFer busted my lip. So I can\u2019t go out\" - Allen Iverson on going after opponent who ruined his NYC party plans - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHckxBWm1zbFZ1SGh6S3FCa09ncHRORXoxVng0YnFWc2l3R19aSjZBbHZHbDY3WVdDbGZ5UXlhMlpUWWIzYzducXQwZ1dtSFVZcmV6bzU2UHhHNktRakJIVXdvbkRaNGFzenVZUnNOeTZnUWVHNk95bjRsRlE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1793586771000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks' Flemings suspended for elbowing Pelicans' McGowens in head - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbEJIWkx5aWkwRjZFMUZfaHF3c3JvcnhhYm56Ti1hbXFzTmhHS0docjE2ZVJmM1R2dHRqNS1aTEpJNlgzaEd2bzU5WlFydGVLSVM5bHlPYlRqcUtDcTV5UkhlTllJbTZXZFVKUmdEQ2VhQ0V5bElzT2k0SVhaMmxGb0RHSGNCaVE2SGxRVm1TU1pJU0gtZzN0eEljV09oRW8?oc=5",
+      "source": "ESPN",
+      "ts": 1793585040000,
+      "tag": "team"
+    },
+    {
+      "title": "Mavericks' October highs and lows: Flagg-Irving duo shines, a new piece emerges, more - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRUR3bjZaZWRURWd3X0pLSWRTdWdfVFRCbE1NUE5VU0s1aVhtTHl1RU5zdWRoaGZsN3JJOFR5Q1p0ckd4R2JhYzA0Z29lQzVoek81MTZDa1ZWSEsxM3k5Y0xUS0ZBRW4xbXlCbVZLMnFWU3JBOVJ4Q0RPWkpOR283ZTd1UG9Ba0R6Qy1F?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1793582340000,
+      "tag": "league"
+    },
+    {
+      "title": "ProphetX Promo Code SBWIRE: Trade $50, Get $75 for NFL, NBA & More - Golfweek",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQlRMaWNfLUx3dXVadTlMaEs5Zy1ZY1dPaUZWZE8yNHEzX3cyNDBmMjhHVFFFdHhXNUhaYW1rVG9JTlRzQ3hFVGRvdkRUX1JvY3ZFUzNZQ0lsdHBneC11Q1FON1ctaUxwN1F1d0dCSm9kUFV6aVktY240aGFGLVBSNHJFQWpPTnpTcVBQcWUyNGhELW81aThFa2ZTeG4wclRQejRKeEdTdEVlc2w4?oc=5",
+      "source": "Golfweek",
+      "ts": 1793581140000,
+      "tag": "league"
+    },
+    {
+      "title": "Spencer Jones Injury: Still out Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOHhtT3psRklHV28yM0ZpV0JjS3pUM05EdFhMd2FHdlA3SEpoWXA1REJydlNiTHZtd21ERFRrSVpsZkZnbzlnemRwMVpIV2ZoYkpKbHNZUEl0SHFtd1Z1NzVlWTJ1YnpVN2cxMVA0SGlqdV9JbnB1eVJtTTFqeFo5VE9NejZsaWpJX0tyZ3BUSGJ5a1kx?oc=5",
+      "source": "RotoWire",
+      "ts": 1793577396000,
       "tag": "league"
     },
     {
@@ -27,13 +62,6 @@
       "tag": "player"
     },
     {
-      "title": "Celtics get defensive to begin road grind with win over feisty Magic - Boston Herald",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQzQ0el92NmRzSmtiYmtEQTBxOFdoOTN4aHVzM0VfR1NOQ2lpQ0taWmtDaEZtdTk5akZnNEJydHF4SVpuVmJWeUdaZHQ2WUQ2eTNlYmFFMUhqN0JHSVJBNjRFQXhMcm0zQ2FEb1FLY3hhakZCcllGVmxvbWczd3REVTJ6RERRMDhhem1HTWVGZlV4VVhPV05YVTdmb2c3Mk5BSFRBLQ?oc=5",
-      "source": "Boston Herald",
-      "ts": 1793575575000,
-      "tag": "league"
-    },
-    {
       "title": "Jalen Johnson (ankle) listed questionable Monday - FantasyPros",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWdNU2R3cVRGdnNfcFZvS2ZwZTByamlQMGtuME9zeTNXWi1NZjVaSnI4YmVtVkZpZFhfa0h2VXl0aUFkU2MzSXZqRGxCSmplNUh3Q04tcFVwQnlLRG9zakREbG8xVnBrOUpvR2VkNkE5eFJzUUFvWVdRajJOb2ZsX1JqVm5ZM1pCYjYzVEdMYWk3MUZRc0xqRU530gGfAUFVX3lxTE9Mc0VRR1R1OVluM2NscHpnWll4RlBQSS1KeUhMZjBaMFdRTVY5cUJ2d1htcXZzSEw3dWp4cGxzcURJR2N0aUlMQVlrQnVhQkoxTW9xM0ZENTR6ZFhzT2o4SnFiMjZCYVBpWWZHbUZELTF2cGkwWTk0NXZKUzhvS2Q0MmJIUVMyY09IeXRjMzRtekRKM2FUV1VPOWFZX0Fwdw?oc=5",
       "source": "FantasyPros",
@@ -41,10 +69,10 @@
       "tag": "player"
     },
     {
-      "title": "Kings star center reportedly isn\u2019t happy playing with top draft pick as trade rumors swirl - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUUMxa3pfaWhjX19PeUJwVC1aLUdmUzVBRm1FSVJEbFVMTkxVc1NzODJKaEFWUVdqTUNxU1oyTHAxaUxwRjZHU1pUU2dRbkt3RFVmLTRYYTVlbTNVa2VWLVFZZHc5WGx6WEdQWUxDNnlUVDBzNEw1bFZvcW90Z0RueTNmX3ZZSFZy?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793573442000,
+      "title": "NBA Trade Rumors: \u2018Fire Sales\u2019 for Norman Powell, Lauri Markkanen, Kings, Nets & More - Heavy.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDZQSGlLQmNWU0ZreWxsQzF2US1hSEdkVUNxVFJNV3d4emlfNXdRdW9pa1hxaVBtT0Y4Y0ZDaDU2cXZRYV9WNy10c1VBVEhtUjJzaVUwWGNjeGtiUnQtaEFQdFBQTC15bEc0ellpQUI3STRta2R4bWRXanJYS0FxbXBQMU5zVUx2U1BhcUU4X3ZLNUVqcWxEZUFTSHZJOEplRS1DYm5lTWlVbmFYYXBLVFFGSXpOelVYQXRXTU53VFFiNkJVRUtIRzh3?oc=5",
+      "source": "Heavy.com",
+      "ts": 1793574420000,
       "tag": "league"
     },
     {
@@ -55,73 +83,17 @@
       "tag": "player"
     },
     {
-      "title": "Grant Williams Injury: Out again Monday night - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcm9yaUI0cHVtblZIaFQ4dTBOZFYzQmticzVLTUpCVmhudVFyU1BCS2JpX0FuV2FVWFRFOEE5SlNYYVBfVWdERjZCUzdTemNfNl8xZ2tsaFdjbHp2T3MwRnFvQVJjN3Y0VDRqdmVDUGdMc0N0cTV6MlFfWFpvWjhwWWhsSHpZYlZhMzFOUWUwcmJjRUhwMXpQWUNCcTllUQ?oc=5",
-      "source": "RotoWire",
-      "ts": 1793571472000,
-      "tag": "league"
-    },
-    {
-      "title": "Yaxel Lendeborg dunking on girlfriend during basketball beatdown turns heads - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdWEyUEJ1a2U0azVFLXhLSHJheFBFSk5RNTNMNzlMX2E2WkVvdVdlc08wNEVSeFZFZEQxT2VMd3N2U2ZLYmtYOU9sRkRlejBEUExCX2E3SzFUNmxsOVdrNmFmTktBTlBsMGZTRFc2SnhidWI2VHlqaWVXMEN5VFM4cGxCNTdaYTgzV3NGZ2d0N1M1Z0Vz?oc=5",
-      "source": "New York Post",
+      "title": "Yaxel Lendeborg dunking on girlfriend during basketball beatdown turns heads - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVjBpaFl6Qjg5QVJIcnY3djJydnpCa2NrVno3ajBXS2owbkYxSGJ3VThxeUJTdkJvN1AteGpyU2J4OWxSUXQ4UnRmZFlsZWwzd01nSmJ6RmxibmR5Rl9ldE9OZ2ZPZlY2cnhJTGl6SWs4azcybVZkMHAwSkx1TWtxQW1VSVJseHpBWE8yeVFKMFdEcE45?oc=5",
+      "source": "Yahoo Sports",
       "ts": 1793570400000,
       "tag": "league"
     },
     {
-      "title": "Fred VanVleet (knee) removed from injury report - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnpPcVRzd2xjNUhaMmtfUDhGYUtNbFFyOGVYZ0JyZ2tMWWgtZzkxMG9HWXZFdEFhUTNUYWxrVGVRMkM0cl9mNUE5NTMzM243TnBaV0h6Y1dJakJnTE1mRkp2SVJRLXlCTW5LQ2M3Mm4wU3FKVnpubktXblczZFNORWx5S1dIYnNfT3RtbE9TY0h3aFkxNVoyY3FFMlZTak53UlNtR25aOWZ1R2NiYVNqYmRqUQ?oc=5",
-      "source": "NBC Sports",
-      "ts": 1793569609000,
-      "tag": "league"
-    },
-    {
-      "title": "\"If he'd give me poison, I would drink it\" \u2013 Ex-NBA player on mysterious drink that saved him during practice - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56THNadXpjNzJOVlJmbk5WakJPOTBTWEkwOGRTSFZvbUxaTjFoYUlpbXhSNEZ3QzhtWHhPRTB5Z1RldXNjcHNmcUpXQ0NvNGszUlBtbHIySkE3R2lGZmdleFNxdUVvNDFGczVpcDgzWkxSRmJ3eW5RSHJxX3Y?oc=5",
+      "title": "Biggest Atlanta Hawks Winners and Losers From Week 2: CJ McCollum's Struggles Continue - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEItUG03ZmJES2I1NzdIR09jOWZ4QVNCVzNsNVpjNGhEY2RyN2hoNGhwQnJ3bl9IQTg5M0FuTng3NTBZV2ZHMDNOMkZmRmNXMDFBVzhKWS10aTRvT20yVEN6X1dWU0ZxNHdSX0VqQU5UeTlFVGlwV1o4bjUyMEJWZjNicWxaVUY2WnpQdm1B?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1793569377000,
-      "tag": "league"
-    },
-    {
-      "title": "Dejounte Murray (personal) absent from injury report - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeDJWekVIOTZDRmh5dlF2QXE1UFlJSkt5Q1VyeDNNekZYNzZWVDhIX0dKN3hMZkZlR2hHMU1QdW0zenVtUDI3WXZyQV83RFFnLUR4bGd1SFlhVTdIbEd5Z21LWHhqX2FxeWNPOEg2VlExOGVBTjI4c0dOMVVGWkgxby1kd25sdnRSNXI2MVhZamZyRzhuaU9NTnJyZmNhTXRuajZxaUU4bS1nY05zR3c?oc=5",
-      "source": "NBC Sports",
-      "ts": 1793567069000,
-      "tag": "league"
-    },
-    {
-      "title": "Skid Fixer | After 54-point rout saved their season, Knicks need Nets again - New York Daily News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcUhTVnVEbXRvSU16SGZETTVFbS1SeVl1Qk5NYU9rZFZ3VG1SSi1ISHY2cWYwQ21LUmZLXzdaT2Vfb20xVmxiWlFrRmg0bXNRUks3NFpqMmtoaFpRZjY4UGVZclY4WUotUnVtWUxMcjd6bzB4ZWpuNERDOVBnZmt3ZWJ5V051dWM3QVp2OU1UemJGQkFIWUJfdDZR?oc=5",
-      "source": "New York Daily News",
-      "ts": 1793566616000,
-      "tag": "league"
-    },
-    {
-      "title": "Biggest Atlanta Hawks Winners and Losers From Week 2: CJ McCollum's Struggles Continue - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUkl1VS16S0tuaDk2bkc2YVNubk8yRjcyVkx1OWVhNXVVcVA4YmJLNVN5QmRjXzJYMlFfaV9iUWNEWV94cDVkaHM2c3RybVZuaG9KRXhFdmkxSkluSWV5T1c0RHI4eGpFQXN5Z3BCUE0tLUJCbVA1Sy1sSXVURk1wclliUkdXLVBYbHNkU3REN3VMQnVRbUtPdlo1QmJINlI5ek96WDduYUJ6ZXk5c0JiMnoydnZjVEJlV2RHU3o3LUkyd2xpT08yVWNUMVk?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1793565465000,
-      "tag": "team"
-    },
-    {
-      "title": "NBA Trade Rumors: \u2018Fire Sales\u2019 for Norman Powell, Lauri Markkanen, Kings, Nets & More - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWDZQSGlLQmNWU0ZreWxsQzF2US1hSEdkVUNxVFJNV3d4emlfNXdRdW9pa1hxaVBtT0Y4Y0ZDaDU2cXZRYV9WNy10c1VBVEhtUjJzaVUwWGNjeGtiUnQtaEFQdFBQTC15bEc0ellpQUI3STRta2R4bWRXanJYS0FxbXBQMU5zVUx2U1BhcUU4X3ZLNUVqcWxEZUFTSHZJOEplRS1DYm5lTWlVbmFYYXBLVFFGSXpOelVYQXRXTU53VFFiNkJVRUtIRzh3?oc=5",
-      "source": "Heavy.com",
-      "ts": 1793561024000,
-      "tag": "league"
-    },
-    {
-      "title": "Shai Gilgeous-Alexander at loss for words after Chet Holmgren injury adds to Thunder\u2019s brutal pile-on - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVHBOWjc4LUJoYUU1RDloelFHek1oWmR2ai1tVGZBUUdlZXRQS3JVN2NDQzlrdnF6VU51MVRXTTJwSE5feWs2eDJPRXBuRGNiOTFnQnYzTUR1M0ZRdTNTTXZsdjdnVXAwdUxuS2tBanE3WlMyNmEtSGRWbXloN09vTnE3VFB3bC1DbERv?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793558772000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks Make Important Decision On Asa Newell's Team Option for Next Season - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcTF4R3JYOGR1QVpkSElFNkVubWY4V19kdnR1VS1GYjdTQWtWSFlNSF8yb3ZWdGpHSVMwbkZ1azM0dmhiMTlMUk1QOXZURExSa0J0UGpOdVBjUGo0QWNiS2pMQmNBeUtnZjBIVURjaHlQNTVPQ1hLS3J1SWJuOFpCNjVNQklRcWxfRFlmRl9B?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793554583000,
+      "ts": 1793565466000,
       "tag": "team"
     },
     {
@@ -129,20 +101,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByUmZLUFBBR2RXeUNjcnVYZmFlOFpJN3E5Nzh6anBNYlF5V0E4b0hiUndHZEtnYTBZcm1MWmdHby1XRnpEV0pBRkx3VFNfRnF6NFBoZTM5QldNMHlJTUlfNjBxQUUxWk1pYlNOSGNHZw?oc=5",
       "source": "Fort Worth Star-Telegram",
       "ts": 1793552700000,
-      "tag": "team"
-    },
-    {
-      "title": "ESPN analyst exposes a suspicious detail about Anthony Edwards' injury: \"No such thing as minor knee surgery\" - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkQ0bGZwQmxGU21OM1hYcHZJeW9IdDNRTlJ1a3dMeXJXQm1tUnNoNjJFZFpLbTlhRThDazQtNm15M3EyeFFqTzNsMTVsNWJZNnZwVHEwR2trTmxZQWRtMHZQOEVmaHQzTW9YTnJNSjV0QTVlY21Qc3pudmpXV3lKLXBjZTRKM0FjbF9TNmYzQjVzNFN4R3N1QXduOUdvVFN4RGowZ1A3cGd6SDFLdjBOQnJ1RVZYZw?oc=5",
-      "source": "Basketball Network",
-      "ts": 1793552281000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks Shoot 8-of-46 From Deep as Pelicans Roll to 121-99 Win - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IN1d2bXdwbkhiTXhrVHV1bDFBclhlTENfNFFaMFFYQmhfVEh6TjhqdEd4RzBzLWphTW9IckhsZTJxcTZVNFZfRjBNbkFOYXlzeEJud2JBMXZmNnNzZjItMkQxcElQTUlVSlJSd0pZYTBVMGZfM01udDFR?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793551043000,
       "tag": "team"
     },
     {
@@ -157,6 +115,13 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVEtjalFQTkZUUFlGZU94SFJaV3VaX05jYTNxMU9acmJ2OHNTTmNkVlhZYWJqWGQwVWZRS3NhSUY3MkVlanFqZ1BzWmZaQUNSY2w2aHhqZWVIb0FVcHRkNGpJelVzLV96Vi1MSXBpclVUSW1iLVNBNV91cHRvT0FMaWdpclJNN2phWXlGQmNhRXk4QjVleENvc1Rybw?oc=5",
       "source": "RotoWire",
       "ts": 1793549044000,
+      "tag": "league"
+    },
+    {
+      "title": "Sunday's fantasy basketball adds and bets to make in the NBA - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZklJQWQtQTRuMS1fSVJ2c0JLNEVLaEpZa2tHUlBoVkZZTDJBRE9YNG5QbGl6eFREcjN5QlA2UU5LU0g1MUR3VUVLRHZWRGc1T1pTTEU0TzFjblp6elJfcElBcEpzVjBpV21ieFRMTFZPQ0hyWV90bXRDU2g1TWZKVHZZYlpVc01PR19fUXJQZmdOelpibl9HeHQyRWhIVFJkWGJqVmZSbGNRbjQ?oc=5",
+      "source": "ESPN",
+      "ts": 1793547300000,
       "tag": "league"
     },
     {
@@ -181,6 +146,13 @@
       "tag": "league"
     },
     {
+      "title": "Exclusive Kalshi promo code CINCY offers $25 bonus for NFL, NBA and more - Cincinnati Enquirer",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVzVuWFVDYnAwVUdVakZKYnBXTk83WVVjZzNnbm1lajliRk43RThhSXVyU3ZCN2JrVEhqMnpQVGtycXBOek10MGlsenFfWjFValZna3BBczJJZW9DOWE3cGRSLVVmNzRCVUN3N3BaZGt2MWFyM2FpU0Z4ZHp6SDBVRmJMM2IwaUlwRVo1ZVhXcXRfaGJxeGZtaktBMWR5Z3hYM3lYd2FYRE1QYTBYWXhJ?oc=5",
+      "source": "Cincinnati Enquirer",
+      "ts": 1793542680000,
+      "tag": "league"
+    },
+    {
       "title": "On 80th anniversary of 1st game in NBA history, Canadian pioneer Ben Newman's legacy lives on - NBA.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT2pFVXAyaFNabG5UYUl2VXdRa1JzdF9GZTRGTmhBSEZ1bmZVdGNJUmRzb2NJWVFkV3N3NlZ1UWdNVmRldjQySHpiRkxHVHFTQlVPMjYyR2V4QmU2VVQzN3plY2ZzbElQQUtubFp3STZvdzdBVmRUc2hpQnlmUmlWWG1PRk4ycW01TGltMktuVXZwaExJTzRxVDZuR2N2RzdXbmFUUk0waHNlWDE1UmtMQ2R3RTNYYzg?oc=5",
       "source": "NBA.com",
@@ -202,26 +174,49 @@
       "tag": "league"
     },
     {
-      "title": "Hawks Star\u2019s Ankle Injury Puts Monday Status in Question - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTHZTUVVrci1IS1dsdm9yd3VabFVnc093Y2NYUDM4aEFkRjFNcENIS2s1VzZxNF9oLThnU2ctQWZXUE1VVmZsN2RpbW4teDZIcmF2WThhY2ktcElrZVFZNXZ1V1NoeFJYd1NTSkl5TjJyUllIU0duQkRYdGFVSk9mMWNZaw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1793531371000,
-      "tag": "player"
-    },
-    {
       "title": "Atlanta Hawks vs. New Orleans Pelicans - X",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rak5kUFktSGpLWEw5RUJLVklfazBRODJVemhoZWlfNWhITW9hdkNNSjBiOS1KZ0ZHSmJuMjd2d3BRQU5laldETFZFM1E4YnVtM2VnZFh6MA?oc=5",
       "source": "X",
       "ts": 1793504170000,
       "tag": "team"
+    },
+    {
+      "title": "Pelicans 121-99 Hawks (Oct 31, 2026) Game Recap - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tNjFLZzY5NWZNbHdtMzJ0Z3lOemRPQ2pYZDF5T0VacnNVUGVQMG1DTDNTTDBJNk12bVROTmxkWUtDQ1BWUll4Q1diS3I5Uy1Vbm5HQy1tbkpzeDdfaUE?oc=5",
+      "source": "ESPN",
+      "ts": 1793498571000,
+      "tag": "team"
+    },
+    {
+      "title": "Atlanta Hawks at New Orleans Pelicans - NBA Game Summary - Oct 31, 2026 - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNWnh6WDF4RVJocVZFY0tGT001M2loU29BaEVvdHBGNWtxUi1CVzdJQkQzZ3pHejZyQVZicUd3d3l6NW4zdEtuY3E5TDRFVDJtUWthal9nSHh1bXdGdHc3b2ZpNE0xZXFLc1FmbVE3TzFJbnUyVWhKUFA3QWxBZ3U2S2w0bjEyMlBiaUlXVS0zWG1yZ2JwZUZ0UlpPenhmWnVQbWFkLTNMUjVoRGp3bVdKVWMzTUpfWDBaWFpnMEE5X1RpZVlmMUFCVnU5ejRacUdDRmNGNHlhZTR1cUMzd25kaVp3R1JocVY4cF9NbGN3?oc=5",
+      "source": "USA Today",
+      "ts": 1793498445000,
+      "tag": "team"
+    },
+    {
+      "title": "NBA players celebrate Halloween with costumes, tricks and treats - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wNG5UTkhoMjZpdjVOdnRKaG04djJtUWo0Z2U5RFFfdk8zNmRHT0Z2VzYzbEhZNDRTTUVicGZ2TzV3SVduSmIyUmdzSUdSYnhWOHVPN3lOU3AxN0tDcFUzMGhB?oc=5",
+      "source": "NBA.com",
+      "ts": 1793489280000,
+      "tag": "league"
+    },
+    {
+      "title": "Klay Thompson looks like himself again as Heat get set for road trip - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXRMdzNrYUdScTV1SXJmTUhWdWUzNG8yN21WWnEwVW9HOGJLRlJvTWtvVXRVa3FOa0FVNmVvREh4STNYSGE3dVA2b1pnOV9QalYxQmFLNE0zdkdlbEx4ak1oODVGZUNpaDZWTV96cTUydndxODNzV2MteEpKWHZSb3hHdEtvaWFHRnNRVG5obVVFLXpxMkRBSQ?oc=5",
+      "source": "NBA.com",
+      "ts": 1793481812000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks vs New Orleans Pelicans Prediction, Pick, NBA Odds -- Saturday, October 31 - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHA2aUJDN1hXRXk2cDJrODNTSHhKSk84b0Y4aTk2V0RjcG4zM0VMa0ZjNk83SlBSMFdGX0QxOVBiTHI0Vmk1QUFyLW1kNjlBS19XTERkVFBrS3pLeDBKUm4tQkdDdklDZEM4TTNNRXY5YV9GWGNXbHhqaFNUUDhySExzTncydTVnT1lSMFVpRHdRZjRsTkRzSGRMOWlQQ3ZoTkN2VDdGbGVZbndoaG5ZX1UzT3hLUms?oc=5",
+      "source": "Action Network",
+      "ts": 1793455020000,
+      "tag": "team"
     }
   ],
   "pushed": [
-    "bullsquietlyhavethemostunderratedtradecandidateinthenbayardb",
-    "maverickskyrieirvingwasimmediatelyreadytoattackforthekilltos",
-    "deaaronfoxwaspartof63ofthetradesbuiltonyahoosports",
-    "maximeraynaudinjuryinjureskneevsgoldenstaterotowire",
-    "maximeraynaudoutatleasttwoweeksduetokneeinjuryrealgm",
     "walkerkesslerinjurypracticessundayrotowire",
     "hardtoseeformernbaexecutivecastsdoubtonknickstradepursuitof2",
     "tyresehaliburtoninjurywontplaysaturdayduetoankleinjuryrotowi",
@@ -716,6 +711,11 @@
     "kingsstarcenterreportedlyisnthappyplayingwithtopdraftpickast",
     "jalenjohnsoninjuryquestionabletosuitupmondayrotowire",
     "grantwilliamsinjuryoutagainmondaynightrotowire",
-    "fredvanvleetkneeremovedfrominjuryreportnbcsports"
+    "fredvanvleetkneeremovedfrominjuryreportnbcsports",
+    "rudygobertbackoffinjuryreportmondayfantasypros",
+    "hawksflemingssuspendedforelbowingpelicansmcgowensinheadespn",
+    "spencerjonesinjurystilloutmondayrotowire",
+    "twonewteamsnamedaspossiblekyrieirvinglandingspotsatnbatraded",
+    "newdallasmavericksrumorsetsupverydifficultdecisionbeforenbat"
   ]
 }
