@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T02:44:19+00:00",
+  "updated": "2026-11-02T04:00:55+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 33,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 257,
+  "injuryCount": 258,
   "games": [
     {
       "ha": "BOS",
@@ -169,77 +169,77 @@
       "tip": 1793583000000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 63,
-      "ascore": 57,
-      "period": 2,
-      "clock": "Half",
+      "status": "post",
+      "hscore": 124,
+      "ascore": 112,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
         {
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-11-01, LAC@GSW). Prior reporting (2026-11"
+          "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday,"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01"
+          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01): I"
+          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-08"
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        },
+        {
+          "p": "Derrick Jones Jr.",
+          "st": "GTD",
+          "team": "LAC",
+          "note": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, "
         },
         {
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Not With Team (2026-11-01, LAC@GSW). Prior reporting (2026-10-28): The Warriors are explor"
+          "note": "The Warriors are exploring potential trades involving Porzingis (personal), who remains aw"
         },
         {
           "p": "Jimmy Butler",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-1"
+          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
         },
         {
           "p": "Moses Moody",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-11-01, LAC@GSW). Prior report"
+          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
         },
         {
           "p": "Stephen Curry",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
+          "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com repo"
         },
         {
           "p": "Draymond Green",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Bilateral Low Back Injury Management (2026-11-01, LAC@GSW). Prior reporti"
-        },
-        {
-          "p": "Gui Santos",
-          "st": "AVA",
-          "team": "GSW",
-          "note": "Injury/Illness - Left Knee Tendinitis (2026-11-01, LAC@GSW)."
+          "note": "Green (back) is out for Sunday's game against the Clippers. Green will sit out the first l"
         }
       ],
       "lineups": {
@@ -263,10 +263,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 38,
-      "ascore": 26,
-      "period": 2,
-      "clock": "Q2 9:55",
+      "hscore": 109,
+      "ascore": 95,
+      "period": 4,
+      "clock": "Q4 8:09",
       "injuries": [
         {
           "p": "Nate Bittle",
@@ -1241,37 +1241,31 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Not With Team (2026-11-01, LAC@GSW). Prior reporting (2026-10-28): The Warriors are explor"
+          "note": "The Warriors are exploring potential trades involving Porzingis (personal), who remains aw"
         },
         {
           "p": "Jimmy Butler",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-1"
+          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
         },
         {
           "p": "Moses Moody",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-11-01, LAC@GSW). Prior report"
+          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
         },
         {
           "p": "Stephen Curry",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
+          "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com repo"
         },
         {
           "p": "Draymond Green",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Bilateral Low Back Injury Management (2026-11-01, LAC@GSW). Prior reporti"
-        },
-        {
-          "p": "Gui Santos",
-          "st": "AVA",
-          "team": "GSW",
-          "note": "Injury/Illness - Left Knee Tendinitis (2026-11-01, LAC@GSW)."
+          "note": "Green (back) is out for Sunday's game against the Clippers. Green will sit out the first l"
         }
       ],
       "lineups": {
@@ -1328,31 +1322,37 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-11-01, LAC@GSW). Prior reporting (2026-11"
+          "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday,"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01"
+          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01): I"
+          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-08"
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        },
+        {
+          "p": "Derrick Jones Jr.",
+          "st": "GTD",
+          "team": "LAC",
+          "note": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, "
         }
       ],
       "lineups": {
@@ -2405,31 +2405,37 @@
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-01, LAC@GSW). Prior reporting (2026"
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
         },
         {
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Plantar Fascia Tear (2026-11-01, LAC@GSW). Prior reporting (2026-11"
+          "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday,"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01"
+          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-11-01): I"
+          "note": "Ingram (Achilles) is making progress but is set to miss at least one more week, Ohm Youngm"
         },
         {
           "p": "Jordan Miller",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-01, LAC@GSW). Prior reporting (2026-08"
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        },
+        {
+          "p": "Derrick Jones Jr.",
+          "st": "GTD",
+          "team": "LAC",
+          "note": "Jones (right knee) has been ruled out for the rest of Sunday's game against the Clippers, "
         }
       ],
       "lineups": {
