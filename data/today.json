@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-02T12:14:26+00:00",
+  "updated": "2026-11-02T17:44:45+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 237,
+  "injuryCount": 239,
   "games": [
     {
       "ha": "OKC",
@@ -126,19 +126,19 @@
         },
         {
           "p": "Isaiah Joe",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "Injury/Illness - Right Hip Contusion (2026-11-02, DET@CHA). Prior reporting (2026-11-01): "
         },
         {
           "p": "Elijah Harkless",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "G League - Two-Way (2026-11-02, DET@CHA)."
         },
         {
           "p": "Isaac Jones",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-11-02, DET@CHA)."
         },
@@ -377,31 +377,37 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Isaac (knee) is out for Friday's game in Toronto. Isaac holds no timetable for a return to"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-11-02, WAS@ORL). Prior reporting (2026-"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
+          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-11-02, WAS@ORL). Prior reporting (2026-0"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
+          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-11-02, WAS@ORL). Prior reporting (20"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-02, WAS@ORL). Prior reporting (2026-10-2"
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-02, WAS@ORL). Prior reporting"
+        },
+        {
+          "p": "Anthony Black",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Injury/Illness - Right Ankle Injury Management (2026-11-02, WAS@ORL). Prior reporting (202"
         }
       ],
       "lineups": {
@@ -714,7 +720,7 @@
         },
         {
           "p": "Mitchell Robinson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic. Robinson has been "
         },
@@ -945,19 +951,19 @@
         },
         {
           "p": "Stephen Curry",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com repo"
         },
         {
           "p": "Draymond Green",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Green (back) is out for Sunday's game against the Clippers. Green will sit out the first l"
         },
         {
           "p": "Gui Santos",
-          "st": "GTD",
+          "st": "OUT",
           "team": "GSW",
           "note": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a "
         }
@@ -1016,19 +1022,19 @@
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday,"
+          "note": "The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday. Strus"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
+          "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday. I"
+          "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday. "
         },
         {
           "p": "Jordan Miller",
@@ -1152,19 +1158,19 @@
         },
         {
           "p": "Isaiah Joe",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "Injury/Illness - Right Hip Contusion (2026-11-02, DET@CHA). Prior reporting (2026-11-01): "
         },
         {
           "p": "Elijah Harkless",
-          "st": "GTD",
+          "st": "OUT",
           "team": "DET",
           "note": "G League - Two-Way (2026-11-02, DET@CHA)."
         },
         {
           "p": "Isaac Jones",
-          "st": "GTD",
+          "st": "AVA",
           "team": "DET",
           "note": "G League - Two-Way (2026-11-02, DET@CHA)."
         },
@@ -1308,7 +1314,7 @@
         },
         {
           "p": "Mitchell Robinson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Robinson (rest) has been ruled out for Sunday's game against the Magic. Robinson has been "
         }
@@ -2081,19 +2087,19 @@
           "p": "Max Strus",
           "st": "OUT",
           "team": "LAC",
-          "note": "Strus (foot) practiced and participated in 5-on-5 with the San Diego Clippers on Saturday,"
+          "note": "The Clippers recalled Strus (foot) from the G League's San Diego Clippers on Sunday. Strus"
         },
         {
           "p": "Yanic Konan Niederhauser",
           "st": "OUT",
           "team": "LAC",
-          "note": "Niederhauser (foot) had his third-year team option picked up Thursday by the Clippers, Ohm"
+          "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday"
         },
         {
           "p": "Brandon Ingram",
           "st": "OUT",
           "team": "LAC",
-          "note": "Los Angeles assigned Ingram (Achilles) to the G League's San Diego Clippers on Saturday. I"
+          "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday. "
         },
         {
           "p": "Jordan Miller",
@@ -2138,31 +2144,37 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Isaac (knee) is out for Friday's game in Toronto. Isaac holds no timetable for a return to"
+          "note": "Injury/Illness - Left Knee Injury Management (2026-11-02, WAS@ORL). Prior reporting (2026-"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
+          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-11-02, WAS@ORL). Prior reporting (2026-0"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
+          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-11-02, WAS@ORL). Prior reporting (20"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-02, WAS@ORL). Prior reporting (2026-10-2"
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
+          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-02, WAS@ORL). Prior reporting"
+        },
+        {
+          "p": "Anthony Black",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Injury/Illness - Right Ankle Injury Management (2026-11-02, WAS@ORL). Prior reporting (202"
         },
         {
           "p": "Mark Williams",
@@ -2241,19 +2253,19 @@
         },
         {
           "p": "Stephen Curry",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Curry (rest) won't play Sunday against the Clippers, Brett Siegel of ClutchPoints.com repo"
         },
         {
           "p": "Draymond Green",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Green (back) is out for Sunday's game against the Clippers. Green will sit out the first l"
         },
         {
           "p": "Gui Santos",
-          "st": "GTD",
+          "st": "OUT",
           "team": "GSW",
           "note": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a "
         }
