@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-03T15:45:56+00:00",
+  "updated": "2026-11-03T21:29:10+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 148,
+  "injuryCount": 154,
   "games": [
     {
       "ha": "PHI",
@@ -41,13 +41,31 @@
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-04, PHI@DET). Prior reporting (2026-10-25"
         },
         {
           "p": "Isaiah Joe",
           "st": "OUT",
           "team": "DET",
-          "note": "Joe (hip) is out for Monday against the Hornets. Jones was unable to shake his questionabl"
+          "note": "Injury/Illness - Right Hip Contusion (2026-11-04, PHI@DET). Prior reporting (2026-11-03): "
+        },
+        {
+          "p": "Elijah Harkless",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-11-04, PHI@DET)."
+        },
+        {
+          "p": "Isaac Jones",
+          "st": "GTD",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-11-04, PHI@DET)."
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "OUT",
+          "team": "DET",
+          "note": "G League - Two-Way (2026-11-04, PHI@DET)."
         }
       ],
       "lineups": {
@@ -167,13 +185,19 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-11-04, MIL@BOS). Prior reporting (2026-10-18): Carter has b"
         },
         {
-          "p": "Paul George",
+          "p": "Payton Pritchard",
           "st": "GTD",
           "team": "BOS",
-          "note": "George will be rested Monday against Houston. There's no injury to report and this appears"
+          "note": "Injury/Illness - Right Shoulder Contusion (2026-11-04, MIL@BOS). Prior reporting (2026-11-"
+        },
+        {
+          "p": "Jayson Tatum",
+          "st": "GTD",
+          "team": "BOS",
+          "note": "Rest (2026-11-04, MIL@BOS). Prior reporting (2026-11-03): Tatum (rest) is questionable for"
         }
       ],
       "lineups": {
@@ -255,9 +279,15 @@
       "injuries": [
         {
           "p": "Nicolas Claxton",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
-          "note": "Claxton (hamstring) is out for Monday's game against the 76ers. Claxton appears to be tren"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-04, CHI@NYK). Prior reporting (2026-11-03)"
+        },
+        {
+          "p": "Jalen Smith",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Left Finger Sprain (2026-11-04, CHI@NYK). Prior reporting (2026-11-03): S"
         }
       ],
       "lineups": {
@@ -1118,13 +1148,19 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter has been diagnosed with mononucleosis and is without a timetable for a return, Gary"
+          "note": "Injury/Illness - Illness (2026-11-04, MIL@BOS). Prior reporting (2026-10-18): Carter has b"
         },
         {
-          "p": "Paul George",
+          "p": "Payton Pritchard",
           "st": "GTD",
           "team": "BOS",
-          "note": "George will be rested Monday against Houston. There's no injury to report and this appears"
+          "note": "Injury/Illness - Right Shoulder Contusion (2026-11-04, MIL@BOS). Prior reporting (2026-11-"
+        },
+        {
+          "p": "Jayson Tatum",
+          "st": "GTD",
+          "team": "BOS",
+          "note": "Rest (2026-11-04, MIL@BOS). Prior reporting (2026-11-03): Tatum (rest) is questionable for"
         },
         {
           "p": "Kon Knueppel",
