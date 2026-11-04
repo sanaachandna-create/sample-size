@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-04T04:35:26+00:00",
+  "updated": "2026-11-04T12:29:20+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
-  "count": 25,
+  "count": 32,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 214,
+  "injuryCount": 284,
   "games": [
     {
       "ha": "PHI",
@@ -1956,6 +1956,615 @@
           "st": "OUT",
           "team": "SAC",
           "note": "G League - Two-Way (2026-11-04, LAL@SAC)."
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "DEN",
+      "away": "Denver Nuggets",
+      "arec": "",
+      "arank": "",
+      "hh": "IND",
+      "home": "Indiana Pacers",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794088800000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Spencer Jones",
+          "st": "OUT",
+          "team": "DEN",
+          "note": "Injury/Illness - Bilateral Hamstring Injury Management (2026-11-04, TOR@DEN). Prior report"
+        },
+        {
+          "p": "Julian Strawther",
+          "st": "OUT",
+          "team": "DEN",
+          "note": "Injury/Illness - Left Knee Sprain (2026-11-04, TOR@DEN). Prior reporting (2026-10-17): Str"
+        },
+        {
+          "p": "Alpha Diallo",
+          "st": "GTD",
+          "team": "DEN",
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-04, TOR@DEN). Prior reporting (2026-11-03): D"
+        },
+        {
+          "p": "Cameron Johnson",
+          "st": "GTD",
+          "team": "DEN",
+          "note": "Injury/Illness - Lower Body Injury Management (2026-11-04, TOR@DEN). Prior reporting (2026"
+        },
+        {
+          "p": "T.J. McConnell",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-04, IND@MEM). Prior reporting (2026-11-02"
+        },
+        {
+          "p": "Johnny Furphy",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-04, IND@MEM). Prior reporting (2026-1"
+        },
+        {
+          "p": "Ben Sheppard",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Left Meniscus Surgery (2026-11-04, IND@MEM). Prior reporting (2026-10-28)"
+        },
+        {
+          "p": "Ivica Zubac",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-04, IND@MEM). Prior reporting (2026-11-03): Zu"
+        },
+        {
+          "p": "Tyrese Haliburton",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-04, IND@MEM). Prior reporting (2026-10-28)"
+        },
+        {
+          "p": "Obi Toppin",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Lumbar Strain (2026-11-04, IND@MEM). Prior reporting (2026-11-03): Toppin"
+        },
+        {
+          "p": "Kelly Oubre Jr.",
+          "st": "GTD",
+          "team": "IND",
+          "note": "Injury/Illness - Left Calf Contusion (2026-11-04, IND@MEM). Prior reporting (2026-11-03): "
+        },
+        {
+          "p": "Kobe Brown",
+          "st": "GTD",
+          "team": "IND",
+          "note": "G League - Two-Way (2026-11-04, IND@MEM)."
+        },
+        {
+          "p": "Jalen Slawson",
+          "st": "GTD",
+          "team": "IND",
+          "note": "G League - Two-Way (2026-11-04, IND@MEM)."
+        },
+        {
+          "p": "Braden Smith",
+          "st": "GTD",
+          "team": "IND",
+          "note": "G League - Two-Way (2026-11-04, IND@MEM)."
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "BKN",
+      "away": "Brooklyn Nets",
+      "arec": "",
+      "arank": "",
+      "hh": "ATL",
+      "home": "Atlanta Hawks",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794097800000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Tyler Bilodeau",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - Two-Way (2026-11-04, CHA@BKN). Prior reporting (2026-10-25): Bilodeau (shoulder"
+        },
+        {
+          "p": "Egor Demin",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "Injury/Illness - Right Bone Bruise (2026-11-04, CHA@BKN). Prior reporting (2026-10-29): Th"
+        },
+        {
+          "p": "Joshua Jefferson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-11-04, CHA@BKN)."
+        },
+        {
+          "p": "Grant Nelson",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - Two-Way (2026-11-04, CHA@BKN)."
+        },
+        {
+          "p": "Drake Powell",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-11-04, CHA@BKN)."
+        },
+        {
+          "p": "Ben Saraf",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "G League - On Assignment (2026-11-04, CHA@BKN)."
+        },
+        {
+          "p": "Henri Veesaar",
+          "st": "OUT",
+          "team": "ATL",
+          "note": "Injury/Illness - Right ACL Tear (2026-11-04, ATL@WAS). Prior reporting (2026-09-21): Veesa"
+        },
+        {
+          "p": "Mouhamed Gueye",
+          "st": "OUT",
+          "team": "ATL",
+          "note": "Injury/Illness - Left Foot Fracture (2026-11-04, ATL@WAS). Prior reporting (2026-10-19): G"
+        },
+        {
+          "p": "Jock Landale",
+          "st": "OUT",
+          "team": "ATL",
+          "note": "Injury/Illness - Left Hip Strain (2026-11-04, ATL@WAS). Prior reporting (2026-11-03): Land"
+        },
+        {
+          "p": "Jalen Johnson",
+          "st": "GTD",
+          "team": "ATL",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-04, ATL@WAS). Prior reporting (2026-11-03): Jo"
+        },
+        {
+          "p": "RayJ Dennis",
+          "st": "GTD",
+          "team": "ATL",
+          "note": "G League - Two-Way (2026-11-04, ATL@WAS)."
+        },
+        {
+          "p": "Keshon Gilbert",
+          "st": "GTD",
+          "team": "ATL",
+          "note": "G League - Two-Way (2026-11-04, ATL@WAS)."
+        },
+        {
+          "p": "Jalen Wilson",
+          "st": "GTD",
+          "team": "ATL",
+          "note": "G League - Two-Way (2026-11-04, ATL@WAS)."
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "NYK",
+      "away": "New York Knicks",
+      "arec": "",
+      "arank": "",
+      "hh": "CLE",
+      "home": "Cleveland Cavaliers",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794099600000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Josh Hart",
+          "st": "GTD",
+          "team": "NYK",
+          "note": "Injury/Illness - Right Ankle Soreness (2026-11-04, CHI@NYK). Prior reporting (2026-11-03):"
+        },
+        {
+          "p": "Jaylon Tyson",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-04, CLE@OKC). Prior reporting (2026-11-03): T"
+        },
+        {
+          "p": "Peyton Watson",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Right Hamstring Tightness / Soreness (2026-11-04, CLE@OKC). Prior reporti"
+        },
+        {
+          "p": "Khalifa Diop",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "G League - On Assignment (2026-11-04, CLE@OKC)."
+        },
+        {
+          "p": "Nae'Qwan Tomlin",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "Injury/Illness - Low Back Stress Reaction (2026-11-04, CLE@OKC)."
+        },
+        {
+          "p": "Ernest Udeh, Jr.",
+          "st": "OUT",
+          "team": "CLE",
+          "note": "G League - Two-Way (2026-11-04, CLE@OKC)."
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "WAS",
+      "away": "Washington Wizards",
+      "arec": "",
+      "arank": "",
+      "hh": "OKC",
+      "home": "Oklahoma City Thunder",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794099600000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Tristan Vukcevic",
+          "st": "OUT",
+          "team": "WAS",
+          "note": "Injury/Illness - Left Hip Impingement (2026-11-04, ATL@WAS). Prior reporting (2026-11-01):"
+        },
+        {
+          "p": "Jamir Watkins",
+          "st": "OUT",
+          "team": "WAS",
+          "note": "Injury/Illness - Left ACL Repair / Surgery (2026-11-04, ATL@WAS). Prior reporting (2026-07"
+        },
+        {
+          "p": "Justin Champagnie",
+          "st": "OUT",
+          "team": "WAS",
+          "note": "Injury/Illness - Right Foot Surgery (2026-11-04, ATL@WAS). Prior reporting (2026-10-28): C"
+        },
+        {
+          "p": "Anthony Gill",
+          "st": "GTD",
+          "team": "WAS",
+          "note": "Injury/Illness - Low Back Spasms (2026-11-04, ATL@WAS). Prior reporting (2026-11-03): Gill"
+        },
+        {
+          "p": "Alexandre Sarr",
+          "st": "GTD",
+          "team": "WAS",
+          "note": "Injury/Illness - Left Knee Soreness (2026-11-04, ATL@WAS). Prior reporting (2026-11-03): S"
+        },
+        {
+          "p": "Reece Beekman",
+          "st": "OUT",
+          "team": "WAS",
+          "note": "Injury/Illness - Right AC Joint Injury (2026-11-04, ATL@WAS). Prior reporting (2026-11-02)"
+        },
+        {
+          "p": "Cason Wallace",
+          "st": "OUT",
+          "team": "OKC",
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-04, CLE@OKC). Prior reporting (2026-10-31)"
+        },
+        {
+          "p": "Jalen Williams",
+          "st": "OUT",
+          "team": "OKC",
+          "note": "Injury/Illness - Left Ankle Surgery (2026-11-04, CLE@OKC). Prior reporting (2026-10-28): W"
+        },
+        {
+          "p": "Chet Holmgren",
+          "st": "OUT",
+          "team": "OKC",
+          "note": "Injury/Illness - Right Knee Injury Recovery (2026-11-04, CLE@OKC). Prior reporting (2026-1"
+        },
+        {
+          "p": "Thomas Sorber",
+          "st": "OUT",
+          "team": "OKC",
+          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, CLE@OKC). Prior reporting (2026-11-03): S"
+        },
+        {
+          "p": "Nikola Topic",
+          "st": "OUT",
+          "team": "OKC",
+          "note": "Injury/Illness - Low Back Surgery (2026-11-04, CLE@OKC). Prior reporting (2026-11-03): Top"
+        },
+        {
+          "p": "Jaylin Williams",
+          "st": "GTD",
+          "team": "OKC",
+          "note": "Injury/Illness - Low Back Spasms (2026-11-04, CLE@OKC). Prior reporting (2026-11-03): Will"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "ORL",
+      "away": "Orlando Magic",
+      "arec": "",
+      "arank": "",
+      "hh": "GSW",
+      "home": "Golden State Warriors",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794101400000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Jonathan Isaac",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Sunday. Isaac has been "
+        },
+        {
+          "p": "Izaiyah Nelson",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
+        },
+        {
+          "p": "Noah Penda",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
+        },
+        {
+          "p": "Paolo Banchero",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+        },
+        {
+          "p": "Jalen Suggs",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
+        },
+        {
+          "p": "Anthony Black",
+          "st": "GTD",
+          "team": "ORL",
+          "note": "Black will be rested Monday against the Wizards. The Magic are listing him out for left an"
+        },
+        {
+          "p": "Kristaps Porzingis",
+          "st": "OUT",
+          "team": "GSW",
+          "note": "The Warriors are exploring potential trades involving Porzingis (personal), who remains aw"
+        },
+        {
+          "p": "Jimmy Butler",
+          "st": "OUT",
+          "team": "GSW",
+          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
+        },
+        {
+          "p": "Moses Moody",
+          "st": "OUT",
+          "team": "GSW",
+          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
+        },
+        {
+          "p": "Gui Santos",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Santos did not play in the second half of Sunday's 124-112 win over the Clippers due to a "
+        },
+        {
+          "p": "Al Horford",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Horford will be rested Monday against the Suns. As expected, Horford will sit out the seco"
+        },
+        {
+          "p": "Brandon Williams",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Williams (quadriceps) has been ruled out for Monday's game against the Suns. Williams will"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "HOU",
+      "away": "Houston Rockets",
+      "arec": "",
+      "arank": "",
+      "hh": "PHX",
+      "home": "Phoenix Suns",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794103200000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Steven Adams",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Right Soleus Strain (2026-11-04, MIN@HOU). Prior reporting (2026-10-26): "
+        },
+        {
+          "p": "Clint Capela",
+          "st": "GTD",
+          "team": "HOU",
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-04, MIN@HOU). Prior reporting (2026-11-03): C"
+        },
+        {
+          "p": "Quadir Copeland",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-11-04, MIN@HOU)."
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "G League - Two-Way (2026-11-04, MIN@HOU)."
+        },
+        {
+          "p": "Mark Williams",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-04, POR@PHX). Prior reporting (2026-09-11)"
+        },
+        {
+          "p": "Jordan Goodwin",
+          "st": "GTD",
+          "team": "PHX",
+          "note": "Injury/Illness - Right Calf Soreness (2026-11-04, POR@PHX). Prior reporting (2026-11-04): "
+        },
+        {
+          "p": "Rasheer Fleming",
+          "st": "GTD",
+          "team": "PHX",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-04, POR@PHX). Prior reporting (2026-11-04): Fl"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "SAS",
+      "away": "San Antonio Spurs",
+      "arec": "",
+      "arank": "",
+      "hh": "POR",
+      "home": "Portland Trail Blazers",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794106800000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Jayden Quaintance",
+          "st": "OUT",
+          "team": "SAS",
+          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-10-05): Q"
+        },
+        {
+          "p": "Tobias Harris",
+          "st": "OUT",
+          "team": "SAS",
+          "note": "Injury/Illness - Left Calf Strain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): Har"
+        },
+        {
+          "p": "Shaedon Sharpe",
+          "st": "OUT",
+          "team": "POR",
+          "note": "Injury/Illness - Right Meniscus Surgery (2026-11-04, POR@PHX). Prior reporting (2026-08-24"
+        },
+        {
+          "p": "Ja Morant",
+          "st": "OUT",
+          "team": "POR",
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-04, POR@PHX). Prior reporting (2026-10-30)"
+        },
+        {
+          "p": "Jayson Kent",
+          "st": "OUT",
+          "team": "POR",
+          "note": "G League - Two-Way (2026-11-04, POR@PHX)."
+        },
+        {
+          "p": "John Tonje",
+          "st": "OUT",
+          "team": "POR",
+          "note": "G League - Two-Way (2026-11-04, POR@PHX)."
         }
       ],
       "lineups": {
