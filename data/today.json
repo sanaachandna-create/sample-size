@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-05T12:47:54+00:00",
+  "updated": "2026-11-05T21:46:43+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 156,
+  "injuryCount": 172,
   "games": [
     {
       "ha": "ORL",
@@ -59,19 +59,19 @@
           "p": "Mark Williams",
           "st": "OUT",
           "team": "PHX",
-          "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-05, ORL@PHX). Prior reporting (2026-09-11)"
         },
         {
           "p": "Jordan Goodwin",
           "st": "OUT",
           "team": "PHX",
-          "note": "Goodwin (calf) won't play in Wednesday's game against Portland. Goodwin suffered a calf in"
+          "note": "Injury/Illness - Right Calf Soreness (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): "
         },
         {
           "p": "Rasheer Fleming",
           "st": "OUT",
           "team": "PHX",
-          "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): Fl"
         }
       ],
       "lineups": {
@@ -100,6 +100,24 @@
       "period": 0,
       "clock": "",
       "injuries": [
+        {
+          "p": "Giannis Antetokounmpo",
+          "st": "AVA",
+          "team": "MIA",
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-05, MIA@GSW)."
+        },
+        {
+          "p": "Tre Donaldson",
+          "st": "OUT",
+          "team": "MIA",
+          "note": "G League - Two-Way (2026-11-05, MIA@GSW)."
+        },
+        {
+          "p": "Vladislav Goldin",
+          "st": "OUT",
+          "team": "MIA",
+          "note": "G League - Two-Way (2026-11-05, MIA@GSW)."
+        },
         {
           "p": "Kristaps Porzingis",
           "st": "OUT",
@@ -189,13 +207,13 @@
         },
         {
           "p": "Jock Landale",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chou"
         },
         {
           "p": "Jalen Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington. Johnson sustained a s"
         },
@@ -236,23 +254,35 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday. Carter is worki"
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA). Prior reporting (2026-11-04): Carter (illness) p"
         },
         {
           "p": "Payton Pritchard",
           "st": "GTD",
           "team": "BOS",
-          "note": "Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right "
+          "note": "Injury/Illness - Right Eye Abrasion (2026-11-06, BOS@CHA). Prior reporting (2026-11-05): P"
         },
         {
-          "p": "Jayson Tatum",
+          "p": "Chris Cenac Jr.",
           "st": "OUT",
           "team": "BOS",
-          "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com r"
+          "note": "G League - On Assignment (2026-11-06, BOS@CHA)."
+        },
+        {
+          "p": "Dillon Mitchell",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA)."
+        },
+        {
+          "p": "Amari Williams",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA)."
         },
         {
           "p": "Kon Knueppel",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left "
         },
@@ -315,7 +345,7 @@
         },
         {
           "p": "Peyton Watson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CLE",
           "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City. This will be Watson's sec"
         },
@@ -402,7 +432,7 @@
         },
         {
           "p": "Max Christie",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Christie (hip) is out for Wednesday's game against the Spurs. The swingman is missing his "
         }
@@ -465,7 +495,7 @@
         },
         {
           "p": "Jaylin Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza o"
         },
@@ -522,7 +552,7 @@
         },
         {
           "p": "Kam Jones",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Jones (ankle) won't play Wednesday in Boston. Jones will miss his first game of the season"
         }
@@ -567,7 +597,7 @@
         },
         {
           "p": "Terrence Shannon Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Shannon (hip) is out for Wednesday against the Rockets. Shannon was unable to shake his qu"
         },
@@ -575,13 +605,31 @@
           "p": "Yves Missi",
           "st": "OUT",
           "team": "NOP",
-          "note": "Missi (knee) won't play in Saturday's game against Atlanta. Missi sustained a bone bruise "
+          "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-11-06, MIN@NOP). Prior reporting "
         },
         {
           "p": "Trey Murphy III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
-          "note": "Murphy (knees) is listed as out for Wednesday's game against Utah. Murphy was listed as pr"
+          "note": "Injury/Illness - Bilateral Patella Tendinopathy (2026-11-06, MIN@NOP). Prior reporting (20"
+        },
+        {
+          "p": "Malik Dia",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
+        },
+        {
+          "p": "Jaron Pierre Jr.",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
+        },
+        {
+          "p": "Julian Reese",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
         }
       ],
       "lineups": {
@@ -632,7 +680,7 @@
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, "
+          "note": "The Lakers recalled Thiero (knee) from the G League's Coachella Valley Lakers on Thursday,"
         }
       ],
       "lineups": {
@@ -693,7 +741,7 @@
         },
         {
           "p": "Daeqwon Plowden",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Plowden (illness) is out for Wednesday's game against the Lakers. Plowden is under the wea"
         }
@@ -738,7 +786,7 @@
         },
         {
           "p": "DeMar DeRozan",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DEN",
           "note": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spas"
         },
@@ -768,7 +816,7 @@
         },
         {
           "p": "Kelly Oubre Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "IND",
           "note": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies. Oubre missed I"
         }
@@ -837,13 +885,13 @@
         },
         {
           "p": "Jock Landale",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chou"
         },
         {
           "p": "Jalen Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington. Johnson sustained a s"
         },
@@ -882,7 +930,7 @@
       "injuries": [
         {
           "p": "Josh Hart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NYK",
           "note": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness. Hart is si"
         },
@@ -894,7 +942,7 @@
         },
         {
           "p": "Peyton Watson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CLE",
           "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City. This will be Watson's sec"
         },
@@ -993,7 +1041,7 @@
         },
         {
           "p": "Jaylin Williams",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza o"
         }
@@ -1113,7 +1161,7 @@
         },
         {
           "p": "Clint Capela",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "Capela (ankle) is out for Wednesday's game against the Timberwolves. The veteran big man i"
         },
@@ -1121,19 +1169,19 @@
           "p": "Mark Williams",
           "st": "OUT",
           "team": "PHX",
-          "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-05, ORL@PHX). Prior reporting (2026-09-11)"
         },
         {
           "p": "Jordan Goodwin",
           "st": "OUT",
           "team": "PHX",
-          "note": "Goodwin (calf) won't play in Wednesday's game against Portland. Goodwin suffered a calf in"
+          "note": "Injury/Illness - Right Calf Soreness (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): "
         },
         {
           "p": "Rasheer Fleming",
           "st": "OUT",
           "team": "PHX",
-          "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle"
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): Fl"
         }
       ],
       "lineups": {
@@ -1241,7 +1289,7 @@
           "p": "Nicolas Claxton",
           "st": "OUT",
           "team": "CHI",
-          "note": "Claxton (hamstring) is listed as out for Wednesday's game against New York. Claxton was li"
+          "note": "The Bulls assigned Claxton (hamstring) to the G League's Windy City Bulls on Thursday. Thi"
         },
         {
           "p": "Jalen Smith",
@@ -1286,7 +1334,7 @@
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, "
+          "note": "The Lakers recalled Thiero (knee) from the G League's Coachella Valley Lakers on Thursday,"
         },
         {
           "p": "Jalen Duren",
@@ -1359,7 +1407,7 @@
         },
         {
           "p": "Terrence Shannon Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Shannon (hip) is out for Wednesday against the Rockets. Shannon was unable to shake his qu"
         }
@@ -1440,7 +1488,7 @@
         },
         {
           "p": "Max Christie",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Christie (hip) is out for Wednesday's game against the Spurs. The swingman is missing his "
         }
@@ -1475,23 +1523,35 @@
           "p": "Devin Carter",
           "st": "OUT",
           "team": "BOS",
-          "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday. Carter is worki"
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA). Prior reporting (2026-11-04): Carter (illness) p"
         },
         {
           "p": "Payton Pritchard",
           "st": "GTD",
           "team": "BOS",
-          "note": "Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right "
+          "note": "Injury/Illness - Right Eye Abrasion (2026-11-06, BOS@CHA). Prior reporting (2026-11-05): P"
         },
         {
-          "p": "Jayson Tatum",
+          "p": "Chris Cenac Jr.",
           "st": "OUT",
           "team": "BOS",
-          "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com r"
+          "note": "G League - On Assignment (2026-11-06, BOS@CHA)."
+        },
+        {
+          "p": "Dillon Mitchell",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA)."
+        },
+        {
+          "p": "Amari Williams",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "G League - Two-Way (2026-11-06, BOS@CHA)."
         },
         {
           "p": "Kam Jones",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Jones (ankle) won't play Wednesday in Boston. Jones will miss his first game of the season"
         }
@@ -1526,13 +1586,31 @@
           "p": "Yves Missi",
           "st": "OUT",
           "team": "NOP",
-          "note": "Missi (knee) won't play in Saturday's game against Atlanta. Missi sustained a bone bruise "
+          "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-11-06, MIN@NOP). Prior reporting "
         },
         {
           "p": "Trey Murphy III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
-          "note": "Murphy (knees) is listed as out for Wednesday's game against Utah. Murphy was listed as pr"
+          "note": "Injury/Illness - Bilateral Patella Tendinopathy (2026-11-06, MIN@NOP). Prior reporting (20"
+        },
+        {
+          "p": "Malik Dia",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
+        },
+        {
+          "p": "Jaron Pierre Jr.",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
+        },
+        {
+          "p": "Julian Reese",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "G League - Two-Way (2026-11-06, MIN@NOP)."
         },
         {
           "p": "Bradley Beal",
@@ -1586,6 +1664,24 @@
       "clock": "",
       "injuries": [
         {
+          "p": "Giannis Antetokounmpo",
+          "st": "AVA",
+          "team": "MIA",
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-05, MIA@GSW)."
+        },
+        {
+          "p": "Tre Donaldson",
+          "st": "OUT",
+          "team": "MIA",
+          "note": "G League - Two-Way (2026-11-05, MIA@GSW)."
+        },
+        {
+          "p": "Vladislav Goldin",
+          "st": "OUT",
+          "team": "MIA",
+          "note": "G League - Two-Way (2026-11-05, MIA@GSW)."
+        },
+        {
           "p": "Maxime Raynaud",
           "st": "OUT",
           "team": "SAC",
@@ -1605,7 +1701,7 @@
         },
         {
           "p": "Daeqwon Plowden",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Plowden (illness) is out for Wednesday's game against the Lakers. Plowden is under the wea"
         }
