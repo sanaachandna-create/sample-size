@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-04T18:50:35+00:00",
-  "count": 522,
+  "updated": "2026-11-05T18:56:30+00:00",
+  "count": 524,
   "error": null,
   "players": [
     {
@@ -631,6 +631,12 @@
       "id": 1091353537,
       "name": "Dailyn Swain",
       "team": "CHI",
+      "pos": "F"
+    },
+    {
+      "id": 38017719,
+      "name": "Dalen Terry",
+      "team": "OKC",
       "pos": "F"
     },
     {
@@ -1801,6 +1807,12 @@
       "id": 221,
       "name": "Kevin Huerter",
       "team": "DET",
+      "pos": "G"
+    },
+    {
+      "id": 1028047255,
+      "name": "Kevin McCullar Jr.",
+      "team": "TOR",
       "pos": "G"
     },
     {
