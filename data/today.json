@@ -1,948 +1,12 @@
 {
-  "updated": "2026-11-05T04:50:15+00:00",
+  "updated": "2026-11-05T12:47:54+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
-  "count": 32,
+  "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 221,
+  "injuryCount": 156,
   "games": [
-    {
-      "ha": "PHI",
-      "away": "Philadelphia 76ers",
-      "arec": "",
-      "arank": "",
-      "hh": "DET",
-      "home": "Detroit Pistons",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793836800000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 106,
-      "ascore": 112,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Dominick Barlow",
-          "st": "OUT",
-          "team": "PHI",
-          "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days be"
-        },
-        {
-          "p": "Ariel Hukporti",
-          "st": "OUT",
-          "team": "PHI",
-          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
-        },
-        {
-          "p": "Adem Bona",
-          "st": "GTD",
-          "team": "PHI",
-          "note": "Bona exited Wednesday's 112-106 win over the Pistons in the fourth quarter and did not ret"
-        },
-        {
-          "p": "Jalen Duren",
-          "st": "OUT",
-          "team": "DET",
-          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
-        },
-        {
-          "p": "Isaiah Joe",
-          "st": "OUT",
-          "team": "DET",
-          "note": "Joe (hip) has been ruled out for Wednesday's game against Philadelphia. Joe will miss Wedn"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "ATL",
-      "away": "Atlanta Hawks",
-      "arec": "",
-      "arank": "",
-      "hh": "WAS",
-      "home": "Washington Wizards",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793836800000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 105,
-      "ascore": 120,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Henri Veesaar",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, th"
-        },
-        {
-          "p": "Mouhamed Gueye",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Gueye underwent surgery Tuesday to repair a fractured left foot that he suffered during a "
-        },
-        {
-          "p": "Jock Landale",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Landale is out for Wednesday's game against the Wizards with a left hip strain, Kevin Chou"
-        },
-        {
-          "p": "Jalen Johnson",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Johnson (ankle) is listed as out for Wednesday's game in Washington. Johnson sustained a s"
-        },
-        {
-          "p": "Asa Newell",
-          "st": "GTD",
-          "team": "ATL",
-          "note": "Newell won't return to Wednesday's game against the Wizards due to a left great toe hypere"
-        },
-        {
-          "p": "Tristan Vukcevic",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Vukcevic (hip) is listed as out for Monday's game against Orlando. The Wizards announced o"
-        },
-        {
-          "p": "Jamir Watkins",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. Watkins,"
-        },
-        {
-          "p": "Justin Champagnie",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. Th"
-        },
-        {
-          "p": "Reece Beekman",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "MIL",
-      "away": "Milwaukee Bucks",
-      "arec": "",
-      "arank": "",
-      "hh": "BOS",
-      "home": "Boston Celtics",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793838600000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 109,
-      "ascore": 102,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Kam Jones",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "Jones (ankle) won't play Wednesday in Boston. Jones will miss his first game of the season"
-        },
-        {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday. Carter is worki"
-        },
-        {
-          "p": "Payton Pritchard",
-          "st": "GTD",
-          "team": "BOS",
-          "note": "Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right "
-        },
-        {
-          "p": "Jayson Tatum",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com r"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "CHA",
-      "away": "Charlotte Hornets",
-      "arec": "",
-      "arank": "",
-      "hh": "BKN",
-      "home": "Brooklyn Nets",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793838600000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 114,
-      "ascore": 104,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Kon Knueppel",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "Knueppel exited Wednesday's game against the Nets after experiencing soreness in his left "
-        },
-        {
-          "p": "Grant Williams",
-          "st": "OUT",
-          "team": "CHA",
-          "note": "The Hornets recalled Williams (hamstring) from the G League's Greensboro Swarm on Wednesda"
-        },
-        {
-          "p": "Tyler Bilodeau",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
-        },
-        {
-          "p": "Egor Demin",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
-        },
-        {
-          "p": "Day'Ron Sharpe",
-          "st": "GTD",
-          "team": "BKN",
-          "note": "Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across"
-        },
-        {
-          "p": "Noah Clowney",
-          "st": "GTD",
-          "team": "BKN",
-          "note": "Clowney won't return to Wednesday's game against the Hornets due to right knee soreness. H"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "CHI",
-      "away": "Chicago Bulls",
-      "arec": "",
-      "arank": "",
-      "hh": "NYK",
-      "home": "New York Knicks",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793838600000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 135,
-      "ascore": 105,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Nicolas Claxton",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Claxton (hamstring) is listed as out for Wednesday's game against New York. Claxton was li"
-        },
-        {
-          "p": "Jalen Smith",
-          "st": "GTD",
-          "team": "CHI",
-          "note": "Smith (hand) won't return to Wednesday's game against the Knicks. Smith has been starting "
-        },
-        {
-          "p": "Zach Collins",
-          "st": "GTD",
-          "team": "CHI",
-          "note": "Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-1"
-        },
-        {
-          "p": "Josh Hart",
-          "st": "OUT",
-          "team": "NYK",
-          "note": "Hart is out for Wednesday's game against the Bulls due to right ankle soreness. Hart is si"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "IND",
-      "away": "Indiana Pacers",
-      "arec": "",
-      "arank": "",
-      "hh": "MEM",
-      "home": "Memphis Grizzlies",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793840400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 103,
-      "ascore": 107,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "T.J. McConnell",
-          "st": "OUT",
-          "team": "IND",
-          "note": "McConnell (hamstring) is out for Monday's game against the Hawks and remains week-to-week."
-        },
-        {
-          "p": "Johnny Furphy",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.co"
-        },
-        {
-          "p": "Ben Sheppard",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to "
-        },
-        {
-          "p": "Tyrese Haliburton",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Haliburton (hamstring) will miss at least the next two weeks of action, Shams Charania of "
-        },
-        {
-          "p": "Kelly Oubre Jr.",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Oubre (calf) has been ruled out for Wednesday's game against the Grizzlies. Oubre missed I"
-        },
-        {
-          "p": "Scotty Pippen Jr.",
-          "st": "OUT",
-          "team": "MEM",
-          "note": "Pippen (back) won't play Wednesday against the Pacers. This will be Pippen's third straigh"
-        },
-        {
-          "p": "Isaiah Stewart",
-          "st": "GTD",
-          "team": "MEM",
-          "note": "Stewart (knee) exited Wednesday's 107-103 loss to the Pacers and did not return, finishing"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "UTA",
-      "away": "Utah Jazz",
-      "arec": "",
-      "arank": "",
-      "hh": "NOP",
-      "home": "New Orleans Pelicans",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793840400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 120,
-      "ascore": 113,
-      "period": 5,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Jusuf Nurkic",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Nurkic (foot) is out for Wednesday's game against the Pelicans. Nurkic has been a spectato"
-        },
-        {
-          "p": "Trey Alexander",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
-        },
-        {
-          "p": "Jaren Jackson Jr.",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-t"
-        },
-        {
-          "p": "Yves Missi",
-          "st": "OUT",
-          "team": "NOP",
-          "note": "Missi (knee) won't play in Saturday's game against Atlanta. Missi sustained a bone bruise "
-        },
-        {
-          "p": "Trey Murphy III",
-          "st": "OUT",
-          "team": "NOP",
-          "note": "Murphy (knees) is listed as out for Wednesday's game against Utah. Murphy was listed as pr"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "CLE",
-      "away": "Cleveland Cavaliers",
-      "arec": "",
-      "arank": "",
-      "hh": "OKC",
-      "home": "Oklahoma City Thunder",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793840400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 124,
-      "ascore": 116,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Jaylon Tyson",
-          "st": "OUT",
-          "team": "CLE",
-          "note": "According to Cavaliers head coach Kenny Atkinson, Tyson (ankle) has been \"on the court lat"
-        },
-        {
-          "p": "Peyton Watson",
-          "st": "OUT",
-          "team": "CLE",
-          "note": "Watson (hamstring) is out for Wednesday's game in Oklahoma City. This will be Watson's sec"
-        },
-        {
-          "p": "Tyrese Proctor",
-          "st": "GTD",
-          "team": "CLE",
-          "note": "Proctor exited Wednesday's 124-116 loss to the Thunder in the fourth quarter and did not r"
-        },
-        {
-          "p": "Jarrett Allen",
-          "st": "GTD",
-          "team": "CLE",
-          "note": "Allen (knee) exited to the locker room in the first quarter of Wednesday's 124-116 loss to"
-        },
-        {
-          "p": "Cason Wallace",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be "
-        },
-        {
-          "p": "Jalen Williams",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula "
-        },
-        {
-          "p": "Chet Holmgren",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear a"
-        },
-        {
-          "p": "Thomas Sorber",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Sorber (knee) is out for Wednesday's game against the Cavaliers. Sorber remains in recover"
-        },
-        {
-          "p": "Nikola Topic",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Topic (back) is listed as out for Wednesday's game against Cleveland. Topic has yet to pla"
-        },
-        {
-          "p": "Jaylin Williams",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Williams (back) is listed as out for Wednesday's game versus Cleveland, Clemente Almanza o"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "MIN",
-      "away": "Minnesota Timberwolves",
-      "arec": "",
-      "arank": "",
-      "hh": "HOU",
-      "home": "Houston Rockets",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793842200000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 107,
-      "ascore": 117,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Donte DiVincenzo",
-          "st": "OUT",
-          "team": "MIN",
-          "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon K"
-        },
-        {
-          "p": "Anthony Edwards",
-          "st": "OUT",
-          "team": "MIN",
-          "note": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timb"
-        },
-        {
-          "p": "Terrence Shannon Jr.",
-          "st": "OUT",
-          "team": "MIN",
-          "note": "Shannon (hip) is out for Wednesday against the Rockets. Shannon was unable to shake his qu"
-        },
-        {
-          "p": "Steven Adams",
-          "st": "OUT",
-          "team": "HOU",
-          "note": "Head coach Ime Udoka said Wednesday that Adams (calf) is still without a timetable to retu"
-        },
-        {
-          "p": "Clint Capela",
-          "st": "OUT",
-          "team": "HOU",
-          "note": "Capela (ankle) is out for Wednesday's game against the Timberwolves. The veteran big man i"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "TOR",
-      "away": "Toronto Raptors",
-      "arec": "",
-      "arank": "",
-      "hh": "DEN",
-      "home": "Denver Nuggets",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793844000000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 128,
-      "ascore": 109,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Nate Bittle",
-          "st": "OUT",
-          "team": "TOR",
-          "note": "Injury/Illness - Right Avulsion Fracture (2026-11-04, TOR@DEN). Prior reporting (2026-11-0"
-        },
-        {
-          "p": "Kawhi Leonard",
-          "st": "OUT",
-          "team": "TOR",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-04, TOR@DEN). Prior reporting (2026-"
-        },
-        {
-          "p": "Jakob Poeltl",
-          "st": "AVA",
-          "team": "TOR",
-          "note": "Injury/Illness - Left Shoulder Bursitis (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "Malachi Smith",
-          "st": "OUT",
-          "team": "TOR",
-          "note": "G League - Two-Way (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "Spencer Jones",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "Injury/Illness - Bilateral Hamstring Injury Management (2026-11-04, TOR@DEN). Prior report"
-        },
-        {
-          "p": "Julian Strawther",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "Injury/Illness - Left Knee Sprain (2026-11-04, TOR@DEN). Prior reporting (2026-10-17): Str"
-        },
-        {
-          "p": "Alpha Diallo",
-          "st": "AVA",
-          "team": "DEN",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "Cameron Johnson",
-          "st": "AVA",
-          "team": "DEN",
-          "note": "Injury/Illness - Lower Body Injury Management (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "DeMar DeRozan",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "Injury/Illness - Low Back Spasms (2026-11-04, TOR@DEN). Prior reporting (2026-11-05): DeRo"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "POR",
-      "away": "Portland Trail Blazers",
-      "arec": "",
-      "arank": "",
-      "hh": "PHX",
-      "home": "Phoenix Suns",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793844000000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 119,
-      "ascore": 132,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Shaedon Sharpe",
-          "st": "OUT",
-          "team": "POR",
-          "note": "Sharpe suffered a torn meniscus in his knee and is expected to miss six months, per Shams "
-        },
-        {
-          "p": "Ja Morant",
-          "st": "OUT",
-          "team": "POR",
-          "note": "Morant has been diagnosed with a Grade 2 left hamstring strain and is expected to miss fou"
-        },
-        {
-          "p": "Vit Krejci",
-          "st": "OUT",
-          "team": "POR",
-          "note": "Krejci won't return to Wednesday's game against the Suns due to a left ankle injury. The e"
-        },
-        {
-          "p": "Mark Williams",
-          "st": "OUT",
-          "team": "PHX",
-          "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
-        },
-        {
-          "p": "Jordan Goodwin",
-          "st": "OUT",
-          "team": "PHX",
-          "note": "Goodwin (calf) won't play in Wednesday's game against Portland. Goodwin suffered a calf in"
-        },
-        {
-          "p": "Rasheer Fleming",
-          "st": "OUT",
-          "team": "PHX",
-          "note": "Fleming is out for Wednesday's game against the Trail Blazers due to a sprained left ankle"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "DAL",
-      "away": "Dallas Mavericks",
-      "arec": "",
-      "arank": "",
-      "hh": "SAS",
-      "home": "San Antonio Spurs",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793845800000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 86,
-      "ascore": 78,
-      "period": 3,
-      "clock": "Q3 :49.0",
-      "injuries": [
-        {
-          "p": "Santi Aldama",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-11-04): A"
-        },
-        {
-          "p": "Dereck Lively II",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-11-01): L"
-        },
-        {
-          "p": "Tarik Biberovic",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-04, DAL@SAS). Prior reporting (2026-11-01): "
-        },
-        {
-          "p": "Sergio De Larrea",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): He"
-        },
-        {
-          "p": "Max Christie",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Hip Soreness / Tightness (2026-11-04, DAL@SAS). Prior reporting (20"
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Splint (2026-11-04, DAL@SAS)."
-        },
-        {
-          "p": "Jayden Quaintance",
-          "st": "OUT",
-          "team": "SAS",
-          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-10-05): Q"
-        },
-        {
-          "p": "Tobias Harris",
-          "st": "OUT",
-          "team": "SAS",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): Har"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "LAL",
-      "away": "Los Angeles Lakers",
-      "arec": "",
-      "arank": "",
-      "hh": "SAC",
-      "home": "Sacramento Kings",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793847600000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 69,
-      "ascore": 76,
-      "period": 3,
-      "clock": "Q3 4:45",
-      "injuries": [
-        {
-          "p": "Adou Thiero",
-          "st": "OUT",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-04, LAL@SAC). Prior reporting (2026-"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-11-04, LAL@SAC)."
-        },
-        {
-          "p": "Maxime Raynaud",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "Injury/Illness - Right Patella Subluxation (2026-11-04, LAL@SAC). Prior reporting (2026-10"
-        },
-        {
-          "p": "Ben Simmons",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "Injury/Illness - Right Achilles Tendon Repair / Surgery (2026-11-04, LAL@SAC). Prior repor"
-        },
-        {
-          "p": "Keegan Murray",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "Injury/Illness - Left Ankle Capsulitis (2026-11-04, LAL@SAC). Prior reporting (2026-10-26)"
-        },
-        {
-          "p": "Precious Achiuwa",
-          "st": "AVA",
-          "team": "SAC",
-          "note": "- (2026-11-04, LAL@SAC)."
-        },
-        {
-          "p": "Sean Pedulla",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "G League - Two-Way (2026-11-04, LAL@SAC)."
-        },
-        {
-          "p": "Daeqwon Plowden",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "Injury/Illness - Illness (2026-11-04, LAL@SAC). Prior reporting (2026-11-04): Plowden (ill"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "MIA",
-      "away": "Miami Heat",
-      "arec": "",
-      "arank": "",
-      "hh": "LAC",
-      "home": "LA Clippers",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1793849400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 67,
-      "ascore": 52,
-      "period": 2,
-      "clock": "Half",
-      "injuries": [
-        {
-          "p": "Giannis Antetokounmpo",
-          "st": "AVA",
-          "team": "MIA",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-04, MIA@LAC)."
-        },
-        {
-          "p": "Myron Gardner",
-          "st": "AVA",
-          "team": "MIA",
-          "note": "Injury/Illness - Right Quadriceps Contusion (2026-11-04, MIA@LAC)."
-        },
-        {
-          "p": "Bradley Beal",
-          "st": "OUT",
-          "team": "LAC",
-          "note": "Injury/Illness - Right Knee Injury Management (2026-11-04, MIA@LAC). Prior reporting (2026"
-        },
-        {
-          "p": "Yanic Konan Niederhauser",
-          "st": "OUT",
-          "team": "LAC",
-          "note": "Injury/Illness - Right Lisfranc Surgery (2026-11-04, MIA@LAC). Prior reporting (2026-11-02"
-        },
-        {
-          "p": "Brandon Ingram",
-          "st": "OUT",
-          "team": "LAC",
-          "note": "Injury/Illness - Right Heel Surgery (2026-11-04, MIA@LAC). Prior reporting (2026-11-02): T"
-        },
-        {
-          "p": "Jordan Miller",
-          "st": "OUT",
-          "team": "LAC",
-          "note": "Injury/Illness - Left Rotator Cuff Surgery (2026-11-04, MIA@LAC). Prior reporting (2026-08"
-        },
-        {
-          "p": "Isaiah Jackson",
-          "st": "AVA",
-          "team": "LAC",
-          "note": "Injury/Illness - Left Groin Soreness (2026-11-04, MIA@LAC)."
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
     {
       "ha": "ORL",
       "away": "Orlando Magic",
@@ -1036,18 +100,6 @@
       "period": 0,
       "clock": "",
       "injuries": [
-        {
-          "p": "Giannis Antetokounmpo",
-          "st": "AVA",
-          "team": "MIA",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-04, MIA@LAC)."
-        },
-        {
-          "p": "Myron Gardner",
-          "st": "AVA",
-          "team": "MIA",
-          "note": "Injury/Illness - Right Quadriceps Contusion (2026-11-04, MIA@LAC)."
-        },
         {
           "p": "Kristaps Porzingis",
           "st": "OUT",
@@ -1328,37 +380,31 @@
           "p": "Santi Aldama",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-11-04): A"
+          "note": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJo"
         },
         {
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-11-01): L"
+          "note": "Lively (foot) is listed as out for Monday's game against the Kings. Although there haven't"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-04, DAL@SAS). Prior reporting (2026-11-01): "
+          "note": "Biberovic (heel) is listed as out for Monday's game against Sacramento. Biberovic has been"
         },
         {
           "p": "Sergio De Larrea",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): He"
+          "note": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noa"
         },
         {
           "p": "Max Christie",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Hip Soreness / Tightness (2026-11-04, DAL@SAS). Prior reporting (20"
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Splint (2026-11-04, DAL@SAS)."
+          "note": "Christie (hip) is out for Wednesday's game against the Spurs. The swingman is missing his "
         }
       ],
       "lineups": {
@@ -1466,25 +512,13 @@
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
-          "note": "Injury/Illness - Right Avulsion Fracture (2026-11-04, TOR@DEN). Prior reporting (2026-11-0"
+          "note": "Bittle (foot) is out for Monday's game against the Clippers and remains without a timetabl"
         },
         {
           "p": "Kawhi Leonard",
           "st": "OUT",
           "team": "TOR",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-04, TOR@DEN). Prior reporting (2026-"
-        },
-        {
-          "p": "Jakob Poeltl",
-          "st": "AVA",
-          "team": "TOR",
-          "note": "Injury/Illness - Left Shoulder Bursitis (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "Malachi Smith",
-          "st": "OUT",
-          "team": "TOR",
-          "note": "G League - Two-Way (2026-11-04, TOR@DEN)."
+          "note": "Leonard has completed treatment to reduce swelling in his left knee and he will be re-eval"
         },
         {
           "p": "Kam Jones",
@@ -1592,19 +626,13 @@
           "p": "Vit Krejci",
           "st": "OUT",
           "team": "POR",
-          "note": "Krejci won't return to Wednesday's game against the Suns due to a left ankle injury. The e"
+          "note": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132"
         },
         {
           "p": "Adou Thiero",
           "st": "OUT",
           "team": "LAL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-04, LAL@SAC). Prior reporting (2026-"
-        },
-        {
-          "p": "Walker Kessler",
-          "st": "AVA",
-          "team": "LAL",
-          "note": "Injury/Illness - Left Finger Splint (2026-11-04, LAL@SAC)."
+          "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, "
         }
       ],
       "lineups": {
@@ -1637,49 +665,37 @@
           "p": "Jayden Quaintance",
           "st": "OUT",
           "team": "SAS",
-          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-10-05): Q"
+          "note": "Quaintance has been around the team but has not yet been cleared for basketball activities"
         },
         {
           "p": "Tobias Harris",
           "st": "OUT",
           "team": "SAS",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): Har"
+          "note": "Harris (calf) is listed as out for Saturday's game against Minnesota. Harris suffered a st"
         },
         {
           "p": "Maxime Raynaud",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Right Patella Subluxation (2026-11-04, LAL@SAC). Prior reporting (2026-10"
+          "note": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximat"
         },
         {
           "p": "Ben Simmons",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Right Achilles Tendon Repair / Surgery (2026-11-04, LAL@SAC). Prior repor"
+          "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James"
         },
         {
           "p": "Keegan Murray",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Left Ankle Capsulitis (2026-11-04, LAL@SAC). Prior reporting (2026-10-26)"
-        },
-        {
-          "p": "Precious Achiuwa",
-          "st": "AVA",
-          "team": "SAC",
-          "note": "- (2026-11-04, LAL@SAC)."
-        },
-        {
-          "p": "Sean Pedulla",
-          "st": "OUT",
-          "team": "SAC",
-          "note": "G League - Two-Way (2026-11-04, LAL@SAC)."
+          "note": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports. Mur"
         },
         {
           "p": "Daeqwon Plowden",
           "st": "OUT",
           "team": "SAC",
-          "note": "Injury/Illness - Illness (2026-11-04, LAL@SAC). Prior reporting (2026-11-04): Plowden (ill"
+          "note": "Plowden (illness) is out for Wednesday's game against the Lakers. Plowden is under the wea"
         }
       ],
       "lineups": {
@@ -1712,31 +728,19 @@
           "p": "Spencer Jones",
           "st": "OUT",
           "team": "DEN",
-          "note": "Injury/Illness - Bilateral Hamstring Injury Management (2026-11-04, TOR@DEN). Prior report"
+          "note": "Jones (hamstring) is out for Wednesday's game against the Raptors. Jones is still battling"
         },
         {
           "p": "Julian Strawther",
           "st": "OUT",
           "team": "DEN",
-          "note": "Injury/Illness - Left Knee Sprain (2026-11-04, TOR@DEN). Prior reporting (2026-10-17): Str"
-        },
-        {
-          "p": "Alpha Diallo",
-          "st": "AVA",
-          "team": "DEN",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-04, TOR@DEN)."
-        },
-        {
-          "p": "Cameron Johnson",
-          "st": "AVA",
-          "team": "DEN",
-          "note": "Injury/Illness - Lower Body Injury Management (2026-11-04, TOR@DEN)."
+          "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in "
         },
         {
           "p": "DeMar DeRozan",
           "st": "OUT",
           "team": "DEN",
-          "note": "Injury/Illness - Low Back Spasms (2026-11-04, TOR@DEN). Prior reporting (2026-11-05): DeRo"
+          "note": "DeRozan has been ruled out for Wednesday's game against the Raptors due to lower-back spas"
         },
         {
           "p": "T.J. McConnell",
@@ -1817,7 +821,7 @@
           "p": "Noah Clowney",
           "st": "GTD",
           "team": "BKN",
-          "note": "Clowney won't return to Wednesday's game against the Hornets due to right knee soreness. H"
+          "note": "Clowney (knee) supplied seven points (3-6 FG, 1-4 3Pt), one rebound and one assist over 17"
         },
         {
           "p": "Henri Veesaar",
@@ -2162,13 +1166,13 @@
           "p": "Jayden Quaintance",
           "st": "OUT",
           "team": "SAS",
-          "note": "Injury/Illness - Right Knee Surgery (2026-11-04, DAL@SAS). Prior reporting (2026-10-05): Q"
+          "note": "Quaintance has been around the team but has not yet been cleared for basketball activities"
         },
         {
           "p": "Tobias Harris",
           "st": "OUT",
           "team": "SAS",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-04, DAL@SAS). Prior reporting (2026-10-30): Har"
+          "note": "Harris (calf) is listed as out for Saturday's game against Minnesota. Harris suffered a st"
         },
         {
           "p": "Shaedon Sharpe",
@@ -2186,7 +1190,424 @@
           "p": "Vit Krejci",
           "st": "OUT",
           "team": "POR",
-          "note": "Krejci won't return to Wednesday's game against the Suns due to a left ankle injury. The e"
+          "note": "Head coach Micah Nori said that Krejci suffered a left leg fracture during Wednesday's 132"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "PHI",
+      "away": "Philadelphia 76ers",
+      "arec": "",
+      "arank": "",
+      "hh": "CHI",
+      "home": "Chicago Bulls",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794169800000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Dominick Barlow",
+          "st": "OUT",
+          "team": "PHI",
+          "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days be"
+        },
+        {
+          "p": "Ariel Hukporti",
+          "st": "OUT",
+          "team": "PHI",
+          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
+        },
+        {
+          "p": "Adem Bona",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Bona exited Wednesday's 112-106 win over the Pistons in the fourth quarter and did not ret"
+        },
+        {
+          "p": "Nicolas Claxton",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "Claxton (hamstring) is listed as out for Wednesday's game against New York. Claxton was li"
+        },
+        {
+          "p": "Jalen Smith",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Smith (hand) won't return to Wednesday's game against the Knicks. Smith has been starting "
+        },
+        {
+          "p": "Zach Collins",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Collins (undisclosed) exited to the locker room in the fourth quarter of Wednesday's 135-1"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "LAL",
+      "away": "Los Angeles Lakers",
+      "arec": "",
+      "arank": "",
+      "hh": "DET",
+      "home": "Detroit Pistons",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794178800000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Adou Thiero",
+          "st": "OUT",
+          "team": "LAL",
+          "note": "The Lakers assigned Thiero (knee) to the G League's Coachella Valley Lakers on Wednesday, "
+        },
+        {
+          "p": "Jalen Duren",
+          "st": "OUT",
+          "team": "DET",
+          "note": "Duren will be re-evaluated in two weeks due to a right hamstring strain, Eric Vincent of C"
+        },
+        {
+          "p": "Isaiah Joe",
+          "st": "OUT",
+          "team": "DET",
+          "note": "Joe (hip) has been ruled out for Wednesday's game against Philadelphia. Joe will miss Wedn"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "UTA",
+      "away": "Utah Jazz",
+      "arec": "",
+      "arank": "",
+      "hh": "MIN",
+      "home": "Minnesota Timberwolves",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794182400000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Jusuf Nurkic",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "Nurkic (foot) is out for Wednesday's game against the Pelicans. Nurkic has been a spectato"
+        },
+        {
+          "p": "Trey Alexander",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
+        },
+        {
+          "p": "Jaren Jackson Jr.",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-t"
+        },
+        {
+          "p": "Donte DiVincenzo",
+          "st": "OUT",
+          "team": "MIN",
+          "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon K"
+        },
+        {
+          "p": "Anthony Edwards",
+          "st": "OUT",
+          "team": "MIN",
+          "note": "Edwards underwent a successful arthroscopic procedure on his right knee Thursday, the Timb"
+        },
+        {
+          "p": "Terrence Shannon Jr.",
+          "st": "OUT",
+          "team": "MIN",
+          "note": "Shannon (hip) is out for Wednesday against the Rockets. Shannon was unable to shake his qu"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "BKN",
+      "away": "Brooklyn Nets",
+      "arec": "",
+      "arank": "",
+      "hh": "DAL",
+      "home": "Dallas Mavericks",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794184200000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Tyler Bilodeau",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "Bilodeau (shoulder) has been ruled out for Sunday's game against Indiana. Bilodeau will mi"
+        },
+        {
+          "p": "Egor Demin",
+          "st": "OUT",
+          "team": "BKN",
+          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
+        },
+        {
+          "p": "Day'Ron Sharpe",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Sharpe registered 15 points (5-7 FG, 1-1 3Pt, 4-5 FT), 13 rebounds and four assists across"
+        },
+        {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Clowney (knee) supplied seven points (3-6 FG, 1-4 3Pt), one rebound and one assist over 17"
+        },
+        {
+          "p": "Santi Aldama",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Aldama (knee) is out for Wednesday's game against the Spurs, Grant Afseth of DallasHoopsJo"
+        },
+        {
+          "p": "Dereck Lively II",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Lively (foot) is listed as out for Monday's game against the Kings. Although there haven't"
+        },
+        {
+          "p": "Tarik Biberovic",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Biberovic (heel) is listed as out for Monday's game against Sacramento. Biberovic has been"
+        },
+        {
+          "p": "Sergio De Larrea",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Head coach Dusty May said Friday that de Larrea (knee) will be re-evaluated next week, Noa"
+        },
+        {
+          "p": "Max Christie",
+          "st": "OUT",
+          "team": "DAL",
+          "note": "Christie (hip) is out for Wednesday's game against the Spurs. The swingman is missing his "
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "BOS",
+      "away": "Boston Celtics",
+      "arec": "",
+      "arank": "",
+      "hh": "MIL",
+      "home": "Milwaukee Bucks",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794186000000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Devin Carter",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "Carter (illness) practiced with the G League's Maine Celtics on Wednesday. Carter is worki"
+        },
+        {
+          "p": "Payton Pritchard",
+          "st": "GTD",
+          "team": "BOS",
+          "note": "Pritchard exited Wednesday's 109-102 win over the Bucks and did not return due to a right "
+        },
+        {
+          "p": "Jayson Tatum",
+          "st": "OUT",
+          "team": "BOS",
+          "note": "Tatum will be rested Wednesday against the Bucks, Jack Simone of BostonSportsJournal.com r"
+        },
+        {
+          "p": "Kam Jones",
+          "st": "OUT",
+          "team": "MIL",
+          "note": "Jones (ankle) won't play Wednesday in Boston. Jones will miss his first game of the season"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "NOP",
+      "away": "New Orleans Pelicans",
+      "arec": "",
+      "arank": "",
+      "hh": "LAC",
+      "home": "LA Clippers",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794189600000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Yves Missi",
+          "st": "OUT",
+          "team": "NOP",
+          "note": "Missi (knee) won't play in Saturday's game against Atlanta. Missi sustained a bone bruise "
+        },
+        {
+          "p": "Trey Murphy III",
+          "st": "OUT",
+          "team": "NOP",
+          "note": "Murphy (knees) is listed as out for Wednesday's game against Utah. Murphy was listed as pr"
+        },
+        {
+          "p": "Bradley Beal",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "Beal (knee) will not be ready for the start of the regular season, NBA writer Justin Russo"
+        },
+        {
+          "p": "Yanic Konan Niederhauser",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "The Clippers recalled Niederhauser (foot) from the G League's San Diego Clippers on Sunday"
+        },
+        {
+          "p": "Brandon Ingram",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "The Clippers recalled Ingram (Achilles) from the G League's San Diego Clippers on Sunday. "
+        },
+        {
+          "p": "Jordan Miller",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "Miller underwent surgery Wednesday to repair a torn left rotator cuff and will be re-evalu"
+        }
+      ],
+      "lineups": {
+        "away": [],
+        "home": []
+      },
+      "players": [],
+      "ref": {},
+      "h2h": ""
+    },
+    {
+      "ha": "MIA",
+      "away": "Miami Heat",
+      "arec": "",
+      "arank": "",
+      "hh": "SAC",
+      "home": "Sacramento Kings",
+      "hrec": "",
+      "hrank": "",
+      "tip": 1794189600000,
+      "channel": "League Pass",
+      "national": false,
+      "status": "pre",
+      "hscore": 0,
+      "ascore": 0,
+      "period": 0,
+      "clock": "",
+      "injuries": [
+        {
+          "p": "Maxime Raynaud",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "Raynaud (knee) is progressing in his rehabilitation and will be re-evaluated in approximat"
+        },
+        {
+          "p": "Ben Simmons",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "Simmons underwent successful surgery Tuesday to repair a torn right Achilles tendon, James"
+        },
+        {
+          "p": "Keegan Murray",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "Murray (ankle) will be re-evaluated in 10-to-14 days, NBA reporter Marc Stein reports. Mur"
+        },
+        {
+          "p": "Daeqwon Plowden",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "Plowden (illness) is out for Wednesday's game against the Lakers. Plowden is under the wea"
         }
       ],
       "lineups": {
