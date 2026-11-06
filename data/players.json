@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T18:56:30+00:00",
+  "updated": "2026-11-06T18:23:24+00:00",
   "count": 524,
   "error": null,
   "players": [
@@ -2374,6 +2374,12 @@
       "pos": "G"
     },
     {
+      "id": 1057848025,
+      "name": "Norchad Omier",
+      "team": "CLE",
+      "pos": "F"
+    },
+    {
       "id": 380,
       "name": "Norman Powell",
       "team": "CHI",
@@ -2564,12 +2570,6 @@
       "name": "Reed Sheppard",
       "team": "HOU",
       "pos": "G"
-    },
-    {
-      "id": 1028245994,
-      "name": "Riley Minix",
-      "team": "CLE",
-      "pos": "F"
     },
     {
       "id": 476,
