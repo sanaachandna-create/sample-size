@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-06T01:50:25+00:00",
+  "updated": "2026-11-06T04:50:22+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 222,
+  "injuryCount": 220,
   "games": [
     {
       "ha": "ORL",
@@ -19,65 +19,59 @@
       "tip": 1793930400000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "post",
+      "hscore": 117,
+      "ascore": 104,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
         {
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-05, ORL@PHX). Prior reporting (2026-"
+          "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday. Isaac was as"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-11-05, ORL@PHX). Prior reporting (2026-0"
+          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-11-05, ORL@PHX). Prior reporting (20"
+          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-10-2"
+          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-05, ORL@PHX). Prior reporting"
+          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
         },
         {
           "p": "Mark Williams",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-05, ORL@PHX). Prior reporting (2026-09-11)"
+          "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
         },
         {
           "p": "Jordan Goodwin",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Right Calf Soreness (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): "
+          "note": "Goodwin (calf) is out for Thursday's game against Orlando. Goodwin will miss his second ga"
         },
         {
           "p": "Rasheer Fleming",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Left Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): Fl"
-        },
-        {
-          "p": "Drew Timme",
-          "st": "OUT",
-          "team": "PHX",
-          "note": "G League - Two-Way (2026-11-05, ORL@PHX)."
+          "note": "Fleming is out for Thursday's game against the Magic due to a sprained left ankle. Fleming"
         }
       ],
       "lineups": {
@@ -100,11 +94,11 @@
       "tip": 1793934000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 77,
+      "ascore": 65,
+      "period": 3,
+      "clock": "Q3 4:28",
       "injuries": [
         {
           "p": "Giannis Antetokounmpo",
@@ -1304,31 +1298,31 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-05, ORL@PHX). Prior reporting (2026-"
+          "note": "Orlando recalled Isaac (knee) from the G League's Osceola Magic on Wednesday. Isaac was as"
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Ankle Injury Recovery (2026-11-05, ORL@PHX). Prior reporting (2026-0"
+          "note": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away fro"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right Partially Torn Hamstring (2026-11-05, ORL@PHX). Prior reporting (20"
+          "note": "Penda was diagnosed with a partially torn right hamstring Saturday, Jason Beede of the Orl"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-10-2"
+          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
         },
         {
           "p": "Jalen Suggs",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-05, ORL@PHX). Prior reporting"
+          "note": "Suggs has been diagnosed with a mild bone bruise in his right knee and will be re-evaluate"
         },
         {
           "p": "Kristaps Porzingis",
@@ -1397,25 +1391,19 @@
           "p": "Mark Williams",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-05, ORL@PHX). Prior reporting (2026-09-11)"
+          "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
         },
         {
           "p": "Jordan Goodwin",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Right Calf Soreness (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): "
+          "note": "Goodwin (calf) is out for Thursday's game against Orlando. Goodwin will miss his second ga"
         },
         {
           "p": "Rasheer Fleming",
           "st": "OUT",
           "team": "PHX",
-          "note": "Injury/Illness - Left Ankle Sprain (2026-11-05, ORL@PHX). Prior reporting (2026-11-05): Fl"
-        },
-        {
-          "p": "Drew Timme",
-          "st": "OUT",
-          "team": "PHX",
-          "note": "G League - Two-Way (2026-11-05, ORL@PHX)."
+          "note": "Fleming is out for Thursday's game against the Magic due to a sprained left ankle. Fleming"
         }
       ],
       "lineups": {
