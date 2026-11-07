@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-07T11:11:30+00:00",
+  "updated": "2026-11-07T14:38:20+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 28,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 181,
+  "injuryCount": 183,
   "games": [
     {
       "ha": "DEN",
@@ -120,7 +120,7 @@
         },
         {
           "p": "Drake Powell",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
           "note": "G League - On Assignment (2026-11-07, BKN@ATL)."
         },
@@ -129,6 +129,12 @@
           "st": "OUT",
           "team": "BKN",
           "note": "G League - On Assignment (2026-11-07, BKN@ATL)."
+        },
+        {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Injury/Illness - Illness (2026-11-07, BKN@ATL)."
         },
         {
           "p": "Henri Veesaar",
@@ -759,7 +765,7 @@
         },
         {
           "p": "Drake Powell",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
           "note": "G League - On Assignment (2026-11-07, BKN@ATL)."
         },
@@ -768,6 +774,12 @@
           "st": "OUT",
           "team": "BKN",
           "note": "G League - On Assignment (2026-11-07, BKN@ATL)."
+        },
+        {
+          "p": "Noah Clowney",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Injury/Illness - Illness (2026-11-07, BKN@ATL)."
         },
         {
           "p": "Dereck Lively II",
