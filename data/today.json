@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-07T19:14:35+00:00",
+  "updated": "2026-11-07T19:52:34+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 28,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 200,
+  "injuryCount": 198,
   "games": [
     {
       "ha": "DEN",
@@ -416,6 +416,12 @@
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-07, ORL@GSW). Prior reporting"
         },
         {
+          "p": "Desmond Bane",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Injury/Illness - Illness (2026-11-07, ORL@GSW). Prior reporting (2026-11-07): Bane deliver"
+        },
+        {
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
@@ -719,12 +725,6 @@
           "note": "Nurkic (toe) has begun participating in on-court activities as he continues recovering fro"
         },
         {
-          "p": "Trey Alexander",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
-        },
-        {
           "p": "Jaren Jackson Jr.",
           "st": "OUT",
           "team": "UTA",
@@ -867,14 +867,7 @@
       "ascore": 0,
       "period": 0,
       "clock": "",
-      "injuries": [
-        {
-          "p": "Kam Jones",
-          "st": "GTD",
-          "team": "MIL",
-          "note": "Jones (ankle/two-way player) is out for Friday's game against Toronto. It's not clear whet"
-        }
-      ],
+      "injuries": [],
       "lineups": {
         "away": [],
         "home": []
@@ -1622,12 +1615,6 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Kam Jones",
-          "st": "GTD",
-          "team": "MIL",
-          "note": "Jones (ankle/two-way player) is out for Friday's game against Toronto. It's not clear whet"
-        },
-        {
           "p": "Josh Hart",
           "st": "OUT",
           "team": "NYK",
@@ -1781,12 +1768,6 @@
           "note": "Nurkic (toe) has begun participating in on-court activities as he continues recovering fro"
         },
         {
-          "p": "Trey Alexander",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
-        },
-        {
           "p": "Jaren Jackson Jr.",
           "st": "OUT",
           "team": "UTA",
@@ -1848,6 +1829,12 @@
           "st": "OUT",
           "team": "ORL",
           "note": "Injury/Illness - Right Knee Contusion / Bone Bruise (2026-11-07, ORL@GSW). Prior reporting"
+        },
+        {
+          "p": "Desmond Bane",
+          "st": "OUT",
+          "team": "ORL",
+          "note": "Injury/Illness - Illness (2026-11-07, ORL@GSW). Prior reporting (2026-11-07): Bane deliver"
         },
         {
           "p": "Maxime Raynaud",
