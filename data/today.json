@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-08T11:13:03+00:00",
+  "updated": "2026-11-08T14:43:39+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 223,
+  "injuryCount": 225,
   "games": [
     {
       "ha": "PHI",
@@ -84,6 +84,12 @@
           "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Right Disc Irritation (2026-11-08, PHI@CHI)."
+        },
+        {
+          "p": "Norman Powell",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Right Shoulder Inflammation / Soreness (2026-11-08, PHI@CHI)."
         }
       ],
       "lineups": {
@@ -1770,6 +1776,12 @@
           "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Right Disc Irritation (2026-11-08, PHI@CHI)."
+        },
+        {
+          "p": "Norman Powell",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Right Shoulder Inflammation / Soreness (2026-11-08, PHI@CHI)."
         }
       ],
       "lineups": {
