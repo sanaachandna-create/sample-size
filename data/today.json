@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T19:18:27+00:00",
+  "updated": "2026-11-08T20:12:08+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
@@ -45,21 +45,21 @@
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "AVA",
           "team": "PHI",
-          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-11-08, PHI@CHI). Prior "
+          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Nicolas Claxton",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-08, PHI@CHI)."
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Jalen Smith",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left Finger Sprain (2026-11-08, PHI@CHI). Prior reporting (2026-11-07): S"
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Zach Collins",
@@ -69,9 +69,9 @@
         },
         {
           "p": "Tobe Awaka",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left MCL Sprain (2026-11-08, PHI@CHI). Prior reporting (2026-11-07): Awak"
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Jaylin Sellers",
@@ -87,7 +87,7 @@
         },
         {
           "p": "Norman Powell",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Right Shoulder Inflammation / Soreness (2026-11-08, PHI@CHI). Prior repor"
         }
@@ -1233,9 +1233,9 @@
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "AVA",
           "team": "PHI",
-          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-11-08, PHI@CHI). Prior "
+          "note": "Injury/Illness - Right Foot Plantar Fascia Injury Management (2026-11-08, PHI@CHI)."
         }
       ],
       "lineups": {
@@ -1809,15 +1809,15 @@
         },
         {
           "p": "Nicolas Claxton",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-08, PHI@CHI)."
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Jalen Smith",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left Finger Sprain (2026-11-08, PHI@CHI). Prior reporting (2026-11-07): S"
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Zach Collins",
@@ -1827,9 +1827,9 @@
         },
         {
           "p": "Tobe Awaka",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHI",
-          "note": "Injury/Illness - Left MCL Sprain (2026-11-08, PHI@CHI). Prior reporting (2026-11-07): Awak"
+          "note": "- (2026-11-08, PHI@CHI)."
         },
         {
           "p": "Jaylin Sellers",
@@ -1845,7 +1845,7 @@
         },
         {
           "p": "Norman Powell",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Right Shoulder Inflammation / Soreness (2026-11-08, PHI@CHI). Prior repor"
         }
