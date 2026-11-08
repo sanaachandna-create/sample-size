@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T16:58:55+00:00",
-  "count": 524,
+  "updated": "2026-11-08T17:13:32+00:00",
+  "count": 525,
   "error": null,
   "players": [
     {
@@ -271,12 +271,6 @@
       "id": 56677844,
       "name": "Bilal Coulibaly",
       "team": "WAS",
-      "pos": "G"
-    },
-    {
-      "id": 38017693,
-      "name": "Blake Wesley",
-      "team": "LAC",
       "pos": "G"
     },
     {
@@ -2570,6 +2564,18 @@
       "name": "Reed Sheppard",
       "team": "HOU",
       "pos": "G"
+    },
+    {
+      "id": 1091466594,
+      "name": "Richie Saunders",
+      "team": "MEM",
+      "pos": "G"
+    },
+    {
+      "id": 1028245994,
+      "name": "Riley Minix",
+      "team": "CLE",
+      "pos": "F"
     },
     {
       "id": 476,
