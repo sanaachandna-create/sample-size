@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-09T03:01:44+00:00",
+  "updated": "2026-11-09T04:18:32+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 262,
+  "injuryCount": 227,
   "games": [
     {
       "ha": "PHI",
@@ -190,71 +190,47 @@
       "tip": 1794184200000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 119,
+      "status": "post",
+      "hscore": 130,
       "ascore": 93,
       "period": 4,
-      "clock": "Q4 2:10",
+      "clock": "Final",
       "injuries": [
         {
           "p": "Egor Demin",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Right Bone Bruise (2026-11-08, BKN@DAL). Prior reporting (2026-10-29): Th"
+          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Back, Injury Management (2026-11-08, BKN@DAL). Prior reporting (2026-11-0"
+          "note": "Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists "
         },
         {
           "p": "Grant Nelson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
-          "note": "G League - Two-Way (2026-11-08, BKN@DAL). Prior reporting (2026-11-08): Nelson signed a tw"
-        },
-        {
-          "p": "Tyler Bilodeau",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - Two-Way (2026-11-08, BKN@DAL)."
-        },
-        {
-          "p": "Joshua Jefferson",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - On Assignment (2026-11-08, BKN@DAL)."
-        },
-        {
-          "p": "Ben Saraf",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - On Assignment (2026-11-08, BKN@DAL)."
+          "note": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com "
         },
         {
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-08, BKN@DAL). Prior reporting (2026-11-01): L"
+          "note": "Lively (foot) is listed as out for Monday's game against the Kings. Although there haven't"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-08, BKN@DAL). Prior reporting (2026-11-01): "
+          "note": "Biberovic (heel) is listed as out for Monday's game against Sacramento. Biberovic has been"
         },
         {
           "p": "Sergio De Larrea",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-08, BKN@DAL). Prior reporting (2026-11-05): De"
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-11-08, BKN@DAL)."
+          "note": "De Larrea (knee) is out for Friday's game against Utah. De Larrea continues to miss time w"
         }
       ],
       "lineups": {
@@ -277,71 +253,17 @@
       "tip": 1794186000000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 86,
-      "ascore": 106,
+      "status": "post",
+      "hscore": 97,
+      "ascore": 117,
       "period": 4,
-      "clock": "Q4 7:08",
+      "clock": "Final",
       "injuries": [
-        {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Chris Cenac Jr.",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Mitchell Robinson",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Kam Jones",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Bogoljub Markovi\u0107",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Pete Nance",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Cormac Ryan",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
         {
           "p": "Gary Trent Jr.",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL). Prior reporting (2026-11-08): Trent (illne"
+          "note": "Trent (illness) won't play in Sunday's game versus the Celtics. Trent will miss his fourth"
         }
       ],
       "lineups": {
@@ -365,10 +287,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 49,
-      "ascore": 38,
-      "period": 2,
-      "clock": "Q2 5:48",
+      "hscore": 119,
+      "ascore": 105,
+      "period": 4,
+      "clock": "Q4 5:47",
       "injuries": [
         {
           "p": "Yves Missi",
@@ -440,10 +362,10 @@
       "channel": "League Pass",
       "national": false,
       "status": "in",
-      "hscore": 52,
-      "ascore": 52,
-      "period": 2,
-      "clock": "Q2 4:08",
+      "hscore": 99,
+      "ascore": 104,
+      "period": 4,
+      "clock": "Q4 3:53",
       "injuries": [
         {
           "p": "Tre Donaldson",
@@ -896,25 +818,19 @@
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-08, BKN@DAL). Prior reporting (2026-11-01): L"
+          "note": "Lively (foot) is listed as out for Monday's game against the Kings. Although there haven't"
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-08, BKN@DAL). Prior reporting (2026-11-01): "
+          "note": "Biberovic (heel) is listed as out for Monday's game against Sacramento. Biberovic has been"
         },
         {
           "p": "Sergio De Larrea",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-08, BKN@DAL). Prior reporting (2026-11-05): De"
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-11-08, BKN@DAL)."
+          "note": "De Larrea (knee) is out for Friday's game against Utah. De Larrea continues to miss time w"
         }
       ],
       "lineups": {
@@ -1181,34 +1097,10 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Kam Jones",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Bogoljub Markovi\u0107",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Pete Nance",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Cormac Ryan",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
           "p": "Gary Trent Jr.",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL). Prior reporting (2026-11-08): Trent (illne"
+          "note": "Trent (illness) won't play in Sunday's game versus the Celtics. Trent will miss his fourth"
         },
         {
           "p": "Josh Hart",
@@ -1243,36 +1135,6 @@
       "period": 0,
       "clock": "",
       "injuries": [
-        {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Chris Cenac Jr.",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Mitchell Robinson",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL)."
-        },
         {
           "p": "Dominick Barlow",
           "st": "OUT",
@@ -1781,36 +1643,6 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Chris Cenac Jr.",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Mitchell Robinson",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL)."
-        },
-        {
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
@@ -2048,34 +1880,10 @@
           "note": "Grimes (finger) did not return to Sunday's game against the Pistons. Grimes went back to t"
         },
         {
-          "p": "Kam Jones",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Bogoljub Markovi\u0107",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - On Assignment (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Pete Nance",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
-          "p": "Cormac Ryan",
-          "st": "OUT",
-          "team": "MIL",
-          "note": "G League - Two-Way (2026-11-08, BOS@MIL)."
-        },
-        {
           "p": "Gary Trent Jr.",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Illness (2026-11-08, BOS@MIL). Prior reporting (2026-11-08): Trent (illne"
+          "note": "Trent (illness) won't play in Sunday's game versus the Celtics. Trent will miss his fourth"
         }
       ],
       "lineups": {
@@ -2108,37 +1916,19 @@
           "p": "Egor Demin",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Right Bone Bruise (2026-11-08, BKN@DAL). Prior reporting (2026-10-29): Th"
+          "note": "The Nets exercised Demin's third-year team option for the 2027-28 season, Sharif Phillips-"
         },
         {
           "p": "Mikel Brown Jr.",
           "st": "OUT",
           "team": "BKN",
-          "note": "Injury/Illness - Back, Injury Management (2026-11-08, BKN@DAL). Prior reporting (2026-11-0"
+          "note": "Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists "
         },
         {
           "p": "Grant Nelson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
-          "note": "G League - Two-Way (2026-11-08, BKN@DAL). Prior reporting (2026-11-08): Nelson signed a tw"
-        },
-        {
-          "p": "Tyler Bilodeau",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - Two-Way (2026-11-08, BKN@DAL)."
-        },
-        {
-          "p": "Joshua Jefferson",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - On Assignment (2026-11-08, BKN@DAL)."
-        },
-        {
-          "p": "Ben Saraf",
-          "st": "OUT",
-          "team": "BKN",
-          "note": "G League - On Assignment (2026-11-08, BKN@DAL)."
+          "note": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com "
         },
         {
           "p": "Yves Missi",
