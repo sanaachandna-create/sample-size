@@ -1,36 +1,106 @@
 {
-  "updated": "2026-11-09T02:09:45+00:00",
+  "updated": "2026-11-09T09:40:40+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "3\u2011pointer by Jaden McDaniels - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94MUJ6NEVrZTlSOTR0UFVlQlFqeUtKQ3pTeTc5YU41QkRES3BqcURrbFlla045NVVkTk9tWlhGYmJvMjZxOE9XcERQT1RMVFV0elpfTTJ6ZmR4d3NJWENtNEp0cTRxemZ2UElwRmRJMS1aV29jbWo5ZWctNA?oc=5",
+      "title": "An N.B.A. Player Got Hooked on Sports Betting. Soon, He Became the Bet - The New Yorker",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOHJFREl2SnR2N0drMkFFNVg4U0dNQnBlYklyYzh4bjYzRUs1c19Yejc1NHVWUmZsTTZrazdSVkN3TWlPcWRFT2UwX21JUUtEOVNzNldMc3lrZnUzZlc5U0RpaEFLTnBqZ2lUTWtsTks2RVlYSzFDQThLVDBXQXUwMlY5Rkk0MG5QRk04WU95c2VsZDBUREVfOQ?oc=5",
+      "source": "The New Yorker",
+      "ts": 1794214479000,
+      "tag": "league"
+    },
+    {
+      "title": "\u2018This a (Michael) Jordan Diss,\u2019 \u2018Timeless\u2019 \u2014 Hoops Fans React As LeBron James Adds Another Milestone to His Legacy vs. Bulls - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOa0hnSzBWemxldFlaNjR3ZkZaaXV5bWV4ZW5QZWRZRjhsRzl6ZVdFTFBDRlRJdXZaVWIwbTljZ0ZfOXJTUGJMSGtSNjltMV9INVNLTXVrRnp6a2toWVRzTGU2TW5kQW42NFNKS1NLa2RLV0tRYm9UOXR6X0NfalUzTkY0WHFDNVF6ODc4?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794212828000,
+      "tag": "league"
+    },
+    {
+      "title": "\u2018Where the Haters at Tonight?\u2019 \u2018No Luka, No Problem\u2019 \u2014 NBA World Raves As Austin Reaves\u2019 Clutch 43-Point \u2018Masterclass\u2019 Extends Lakers\u2019 Win Streak - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZU0xOGtzNFIxaXNCUVoyampUaG5JN21lVmpvM29qYkFBUk5yVE9sUkFGUzVzbzJRR0o5Q0d2UWQyTnNlLUQ4VTFrSEoxQ1MycG40c1h0cXpCMDhSTFFYTkRXWkMxanloLXFkeUtqVkJpSDhsb0NrYWJOc3ZwQjA2SG1TQQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794210960000,
+      "tag": "league"
+    },
+    {
+      "title": "Washington Wizards vs Detroit Pistons Prediction, Picks & Odds | NBA Monday - Sportsgambler",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUUl4Wlh0SXZ3MHdTYXZNN3VzeXQyMkNUTnRQbGpuMUdyMnJ5RGJEUUpJLVEyTGJ4VWZaNVlDc05fQWUxOGdON3k5MU9rdnRNSzJ5S056X3dDZGktVDJBSUZEMC1fd05MNDktSnhOSzRMM282WUZUYzlySnF4Zm82S05IQkFMcVp3M2Znc0FtQnE5QWNxNjRmNnZFYlU2bGcwdG9rcTViWUtxLTBDb2RqQy16WUd5SU0?oc=5",
+      "source": "Sportsgambler",
+      "ts": 1794204315000,
+      "tag": "league"
+    },
+    {
+      "title": "Lakers vs. Hawks Preview: Streaking teams collide - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOElwNE9mN3l6MUt6b0MydVBBTzdPbkNQZzh4SS03akl2OFlVOWpGUnpZZG5wLUk0VUpMT29sQy01OFJpSTgyTHBUeVN5dDR5S21XWnhxQ0lwVWhkNG9EMzhWRDhBOTZmM2NlLUs1Mnh2bFQxZTczR0xhdkNLc2xITVJtQ1JWdjI4enc?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794203340000,
+      "tag": "team"
+    },
+    {
+      "title": "5 thoughts from Mavericks-Nets: Cooper Flagg shakes off first-quarter rust in dominant win - Dallas News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVV9HWWhnR0xULUZQZUpfbjVydVZRMzdaOF9USjRaaEFoOTB5VnJsWTR6dUpjRlphZnNUX0tVbnRlcE8tWGhmRXdyTGVRVzZWWGN6OVVVMUdaUTYwYWZ2a3ZlMkc0dXBwQlVzRkRHQU1XM3FXRVdIZHZ5UEhMUHU4UElubUthQTVDUWZvNlJEOFdBdE9uOTlOeE84M3Flc2p2ZEZaRw?oc=5",
+      "source": "Dallas News",
+      "ts": 1794201686000,
+      "tag": "league"
+    },
+    {
+      "title": "Warriors guard Will Richard sidelined by torn ligament in left thumb - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLW15R0Zpdi1MYjRIbjZoUHlXOWxKb2NrU05hUDIwV0tGRTVzR3BFclhOdmQ4XzFTVDBIeEN0M1g1OFI4TjVjTXVfQmNhbkVrVURDYUx2T2loZmJuNW5SVmkyWmVWdnU1YWw5NnI0NHZjRXdXWTItblhFU3lhdEtHRVFSVzdQMk5D?oc=5",
       "source": "NBA.com",
-      "ts": 1794189580000,
+      "ts": 1794200633000,
       "tag": "league"
     },
     {
-      "title": "Lakers get 43 from Austin Reaves to beat Pistons without Luka Doncic, 121-116 - WRAL",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGl1Y25PRFd0WW02YjhaRzZhZTJRU2FRWV9Ra1B6Njh0eU13LWUyQkdtSFdPWFBQaTV3eEJCdHNTTEtLb0MxaXVtR0NPc3g1NGlxUHNHdzJhOG9KSDBxM3ZuT3l2VXhtMDRZTm1TZGhScnRaM01wR0dRVkV2V2VzZmNTekhlNDhTb3UyQXN6X3lZempWZzZYem4tRFNyMVdGWkpENDF1WmxnYWJMeDl2d2lR?oc=5",
-      "source": "WRAL",
-      "ts": 1794189314000,
-      "tag": "league"
-    },
-    {
-      "title": "Gui Santos Injury: Expected to play Monday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekdnbUFFcW5OcnFlU01EdkNXTGhTOHpzRXZlbHJkcEF5YWZvTDZNQ29wVHBVdDk1eFZDRFE0Q3pPVlRmeTVWN3UtSXZ6Z05qd0VKRmVTc0tfVFpaZi1yenN2WWY4dk9tZ3VEV21EX0hRY1VDVXhCU3FXWDJMaXZ1UWJQNGJwbWRhZVloallFajFfbDV2cHhtbmF3?oc=5",
-      "source": "RotoWire",
-      "ts": 1794186791000,
-      "tag": "league"
-    },
-    {
-      "title": "Jaylen Brown says 'nothing to talk about' with Tatum ahead of 76ers-Celtics - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGZoY2N5YlU2SUQ1Z1pIUmNHallKS19MdEthOWpfNG5rRFhwZFp3M3NoRUZYRUNmQlhhYXlJb3hKR2NMRWNVdGxxeWdQZ3FTLVJyWWFRV2dmT2JHeHk2bTlrWktfWGZ0V3gwR2lNTnFSM3hrTU5rYV91c0RZR3BlcVIwbGpWWF9SQzl2c1ZyanZ3WGlsTlVEeA?oc=5",
+      "title": "Reaves scores 43 in Doncic's absence to lead Lakers past Pistons - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWlZZaG5URGFKSkZKREs4cmI0MXNvVWFRX3F6U181dFVVSVh2VlpqZjRUQlhGZHBKZ2pQeDdWTzFRU0ViZ19GUHZXTTdudG5ncEt2dnJNSW5Hano5eTZnRWt0RFpydG85QXRfVVFZeXFuREFrWUFOZHhkTzFrR212MnZmNU5sdEFiYktwNzEzM3E0dW83eTNzSVlUYks?oc=5",
       "source": "ESPN",
-      "ts": 1794186720000,
+      "ts": 1794196980000,
+      "tag": "league"
+    },
+    {
+      "title": "Warriors rule Will Richard out of game vs. Pelicans with UCL tear in left thumb - NBC Sports Bay Area & California",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUlZRRzhNNFZaUFozZFItdFlzWldCdEV1UURvekJ4aVp2Y2FpbkJqWUNDdi1IOFJaY1NyMVM4V2FzTjQwUElsYkRya0hfbEFBMXptUVFMNVdBUWx1YnFNdVJoSVRfQnBIQjJLVzJ2dXZHNzQ2Sm1fWlBKa1VBMW1DSG9RWG5qSGlpUmZYdm9MT0Z5Nmh1RXhCbEVxYjJpbUlId2s1ZVN1dG1yMDRP0gG0AUFVX3lxTE92UUlyZU8tbzltTWZOOElfNG9uX1FVQnNzSmVaUF9pTkFFMWVtaEs5UFFxaGY2T2xRZ0xzZnZrMUY1SnNTYXN4Ry1Vd3VZRDItZWZuM3hTdGNteEVFQnZhc0M2NEROMGRwSHUzdTZuaTRDdDROTEYxbTRRRlFfZ0ZxUTNRSmpnTkdHd1Q5UnZibzN3WjRoQmxHclJZblB6Q19zbENhdXFtWGxxNWpHU3loRDFLeA?oc=5",
+      "source": "NBC Sports Bay Area & California",
+      "ts": 1794193513000,
+      "tag": "league"
+    },
+    {
+      "title": "Chiefs QB Patrick Mahomes played through an elbow injury Sunday. Will it linger? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0FYVmROdE0yWTRiYjdoTVYtV282Y3I4amI2bnFtRDRPSk54dzRCdkhLY3FTRXZXcEJOVE43aUU2XzJWcFhwVGNMODBLQ1hkbzh2aTF5MVF5b3RmX3dsODJ4enRqc2JOeFNkdXdJX25ObFBycU9wblI1VUoyU2w0bDhoVXBuNkZQWVNjSUsxZmhTVU44YmZwSg?oc=5",
+      "source": "The New York Times",
+      "ts": 1794193318000,
+      "tag": "league"
+    },
+    {
+      "title": "Domantas Sabonis Suddenly Pops Up on Injury Report - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcnFOMlJ2NDdpOEFfSWZrT1JmMnQ5V0kwYXVpMXEtUEE5ZnZNNFR5cHhpY1djQVN0Wk9ZVzBFc0c1WGt0YUozU1V2cXdwVWFva0FoMWdXZVlmTE5rcVpIZFhMTzU3Yng2SEF4c05ZUnpQcGF0NFhTUUdhbEdfRm9nRlowaEFDQkw0Y0hxR1JlRQ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794192900000,
+      "tag": "league"
+    },
+    {
+      "title": "Keyonte George Injury: Won't return Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMGwxeTFVUWo4YUxfSEZ0V3ppUWpQWS1Ob1FDS3lXdnpOM3ViQUt2bTBlQktDZ1IzR0c5X3J2d0FBdzJWdndlTUpKSkRKT2o0NzZUUzFKeHktcUZrYVQ5dVU5SnZhcnZPLTktV0xQQTRBcnFCWkU4X1RaQWhxN3Z2eXZVdzhVdXJmSFZ1djVjY2x2QlVkdUtkbA?oc=5",
+      "source": "RotoWire",
+      "ts": 1794191052000,
+      "tag": "league"
+    },
+    {
+      "title": "Luka Doncic misses Sunday\u2019s game against Pistons - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5TaWRsdDh2bldrLVBlbHRtRmdaMkprX2d3dUI0cl9yNklUNFNGNmE0Z3kzOHFmZ1FtdnVwU2Zha29JVzhHNzc5ejFQc1dxblc3TTFjejBhaU5ib19aMW50VHZpbDdxUXA4OVR3RGJjMk8?oc=5",
+      "source": "NBA.com",
+      "ts": 1794189945000,
+      "tag": "league"
+    },
+    {
+      "title": "Nuggets put entire starting lineup on injury report after flight delays from Mexico City - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQms5WGhyTkt1QXQ4ZDhfOEg3cG1YdDVYck9qN1AtS0xoVGpHdHpxRGNCMjFPSFNERVhrMDJNN0x5X3g4Z2hCQTBGQUp6OGw2bkdzY0RPTGlUTVd6NDBkc21COHBlLXhCcTdJWUxSTF9TMTcwblVCem5ZRk15b2NjeG8xUktIaTE2SkRzOW9NZGxISU5O?oc=5",
+      "source": "The Denver Post",
+      "ts": 1794187884000,
       "tag": "league"
     },
     {
@@ -41,45 +111,17 @@
       "tag": "player"
     },
     {
-      "title": "Pistons' Jalen Duren to miss at least two more weeks with hamstring injury - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBON2VnWTlRZnY2V25OZ3ktWjhPZk5yTWh2dkRDNXQ1RTVVSGJ2SnpJSW8xQVFTTDN1Z1lmbU1fcWFOUkVZZHFXUTQ3WnFnXzhsWGNwNG81ZEhyOXJ6b1NNckxyWHViZEszOG9oUDVTajZiNW5NN0I2TDh6U3I?oc=5",
-      "source": "NBA.com",
-      "ts": 1794186509000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks get promising update on Jock Landale in latest injury report ahead of matchup with Lakers - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOGhBZ1BRbTNRa3M3MFgxRndSc3cyRTc4cTFnZ3BMWDhCOHF6QWtYeWdjbUFYVGt5Y0hJMFg0bUtZYklyMGI0dGZvZndtSXNRU0MxMGVjUjFxSEUxdHl6bkNvbXg1cmNjZUVrZXNHZlRTektVd0ctelZMeE9PZk9CME9IbFZ0YVZMd2dhdlVNbEJMeTFfam5FMzlXTGtKZlpLYWNPRWNnQW5lbFVTQkNWXzBHRW8tcVZDSWFqS180OEsxREUzVGNxUkQ3R0JpbUxndFB4RE1lTnVOXy1oLTh4MEZQQTc?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1794184137000,
+      "title": "Atlanta Hawks get promising update on Jock Landale in latest injury report ahead of matchup with Lakers - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUwtMUpGSmNyZDY1NlJuWHlEMkhqZG9jTklzZk56bnFaY1VScTBmdHFGQjFtcFpJLUhPOG1Udy1DeWQ4X0c5OW92U0Jncm43SmFqRTdCYy1XbzhfaGRNWVNGVTNVc0F6eklpWl9penRyMlpMTFdQaHJoN0l3YUhQUVExSFdnLVdCR2djb3N3?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794184080000,
       "tag": "team"
-    },
-    {
-      "title": "Sixers starters put on a show in Chicago (Short Mix) - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVMmFBZ1JSQ3A0S05zQ0VFTUFhZE9vOW1wOVUzTF9URTU2WjZNSGZlRkYxNTFmMHRSSXoyNXlGNGNvaFYwSHRRdUt0ZG5FSlhXbWl1MlE4eWNfU2hzd0lDR0VPbHJHemc2QnBYR0t5b2YtanMtNkFRTEY2ZUI?oc=5",
-      "source": "NBA.com",
-      "ts": 1794182845000,
-      "tag": "league"
     },
     {
       "title": "NBA Trade Rumors: Draymond Green, \u2018Seismic\u2019 Jamal Murray Talk, Bulls\u2019 Big Chip & More - Heavy.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUpTVmFWaC1iUURpcGpjYUNDY1VCaGhwUVhWZnlJamhtYWRvNVdVbW1Oak12QktCMW05T29UTFJLZWsyWXlEcU1GX1BuSnZ6RzNOTTVnaFZyZ084b2FrU0RWVGlzRzlSNkxoUjlQRHoySFNLakRrXzUwWGp3NUozMkpWWC1mc2E3SUFvRXNxQ01hOHA4ZExMSHVQeHVVWEhob3VzVjFITmkzdUhuN1FXYzJR?oc=5",
       "source": "Heavy.com",
       "ts": 1794182208000,
-      "tag": "league"
-    },
-    {
-      "title": "Richie Saunders (knee) absent from injury report - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV1dreEttNmh3V3VjRFVFeGRZUjJQajdRa3A1R2l4aWdEUGw0N1dnc21fSlVOMEY4Z0tpMXVScDVVU05qYTdZSkwxT3A0ck1KcGo2LUVCWXdvWDV2S0EwSExFSmtaZ19yOTRnU1R2QWJpZTNwMVRwN3dBWWkwR05ubnJTRmFQSi1YbjFBWl9DbFN6WE5hbFFBMi1IZmZ0b3BEWVdtUDB6djAtbmI1OUZYLVUyTEE?oc=5",
-      "source": "NBC Sports",
-      "ts": 1794180773000,
-      "tag": "league"
-    },
-    {
-      "title": "Nuggets' starters all questionable vs. Rockets after delays leaving Mexico - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWVhzOEJEYUJOVmk3dUZ5Q1JTY1JvZUpySEN6bHdjZkt6RFZLM0FUVHBndmd5cWVHTzdTTmRScjBtcm1qdjZ1bUlPaDFSOGFYSDFtcmJ6R24zLVEtMFFmRTdDZi1zOVRMdTZHVmNwemZWcmdjRFEwdUQtUTJLVFo4TEdIMk5lV0didTVibnpRQzA2VUt1MFNrSFZzSG1mN0E?oc=5",
-      "source": "ESPN",
-      "ts": 1794180060000,
       "tag": "league"
     },
     {
@@ -97,11 +139,11 @@
       "tag": "league"
     },
     {
-      "title": "Jalen Johnson, Aaron Wiggins Explain Hawks\u2019 Mindset in Close Wins - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX0JSbmVGaUNvTUdRRnVLbkRqUVpuZFhxSlhtbzVwVnU4UzJBU2VoaDBweW5EQnEtSHVXb29zM0JlOExId3N5LWlTVlZJZEtWQ0VTMkJ5dFlBRzBac3RmQTI1ZUxiQjZFbElZZ2FRaHVLbFNFczQyQ21MQi1RRl9ERHRCR24zc2NjNHdjbw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794178162000,
-      "tag": "player"
+      "title": "Thunder get Nique Clifford in trade with Kings - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTHB1NFh4NDVBQVZFVzBubENZZ0lDNVZHQmJ2Y3AxUm55ZlRHQVhnY1N5ODJNdE9IaDdSc1E2MTF6eUJDaDNMSmpWM2t6SGJRak5DN0w1TVZ1bG9SUk5pSHBpd2pqLUNtcGVXakRsY2ZuUTB5aEpGSmhYa1BmeDEtTFF4b1FUZml1dGJiODZuQjg3V2V6azg3V2ZzUS1uNHM?oc=5",
+      "source": "ESPN",
+      "ts": 1794178201000,
+      "tag": "league"
     },
     {
       "title": "Jalen Johnson Makes Feelings Clear on Hawks Rookies After Nets Win - Yahoo Sports",
@@ -111,13 +153,6 @@
       "tag": "player"
     },
     {
-      "title": "The Detroit Pistons provided a Jalen Duren injury update on his right hamstring strain that has kept him out since the second game of the NBA season. See link below \u2b07\ufe0f \ud83d\udcf8 Junfu Han, Detroit Free Press - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPY3N5MWZRY1RWX2pYc2tDaXBkN25XQzVYZ1pqaXJGRV9rY1NKV2szeDJiQ3Vfakc1X3FqTF9FQjBKMGRocGNnZEhlMVdLZDNPZXh2eUYyZi11eGVvd0hhMzQ0ZTNxRDRwOUhnZEhzeGUzb0xWQUc1eW5qenAtT3VwUmxUUUQzRGFhUzVxVkVVdjR6Z1NjSklld2V0SFZhTC1rMmRmVW5DSDRYS0JiYTlYNDFqOTRmTmVONWp2SUZSbi1Ec1Z0OUQ1cDdwSTAxX2ZEd1hCaEppMDVfYUN2QWhZ?oc=5",
-      "source": "Facebook",
-      "ts": 1794175219000,
-      "tag": "league"
-    },
-    {
       "title": "2026-27 NBA trade grades: Thunder acquire Nique Clifford from Kings - ESPN",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSGV3WHZTM3gycS1jWmNfWmxMOEFCcG5QWEF1dWd4VjlSdThCemtnb3Z6ck04ZkdkMWYwZFJ3YkcxVTZJcEg2VlluRUU2MUd3QlVSN0tjdEw2WWo2TDUxTmlRTnNzd0ZlQV9DVHJYaWtVcUpTX2YtTm5jeDNQeEFhZUU5RG5TMnJIaExQcFNpeFVzN3VYbjNjOHAyX3U0RXpKM1phdXhn?oc=5",
       "source": "ESPN",
@@ -125,17 +160,10 @@
       "tag": "league"
     },
     {
-      "title": "Sacramento Kings trade Nique Clifford to Thunder - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YcFNDczNwZUQyd1hhTFNNaVdDdFR0bUVXbGx6bFJmVDBIZUwxU0lzc0JOeWprT3dpVFNyNjlhWXVsQkYzUkJaY1dxU3ZKdkQ4bFh5Y2lEMnBwbld6dHl0RWpJLXA3cXZUUTN3?oc=5",
+      "title": "Sacramento Kings Complete Trade - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55M0JhSW9SLWMyaXpiNGVMM0dTWmdHQnZaUFNRYkdUR1MtVFh1REM4Z09JXzZETlNpRnVoM29OMHdZcnRSWXhMYVhhSHB1SHZsRDJYTlhMcWVLWkMwaXRLR0JmdTE?oc=5",
       "source": "NBA.com",
-      "ts": 1794169850000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA trade grade: Thunder acquire Nique Clifford from Kings in buy-low move - OKC Thunder Wire",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPYTJUTVNXVlBjUmd6N0p1Vmw0Skp0b3ZPOEh2cnI4T2ZCdE5ITXphSjZ1dU1taXlKbERFNXJraFYwOUMySndiZkkzUTMyUWV6TE4tMXM4TlYzemRZUmFWUkpzM3EzdElYd3loLTJMOUl0bzRYRnRlY1NZMi12MnZsQ1pTMEJsaE4tVkk2TUhZTUoyWFJjb2pHYzFXc1l6MXZnd1piaVk3b3Q2ZGdMUjJMZGg2QWtLcjJleHZkQlFXSDljbHQtaE4yU05yV3pwMzlEQzd4M0RuVzdsSFlKT0VWSzlFdzBCMjM0N3dKbGxRcw?oc=5",
-      "source": "OKC Thunder Wire",
-      "ts": 1794168300000,
+      "ts": 1794170820000,
       "tag": "league"
     },
     {
@@ -146,45 +174,24 @@
       "tag": "league"
     },
     {
-      "title": "NBA rumors: Warriors insider teases anonymous Nuggets trade target after recent Nikola Jokic buzz - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYUY1aDVPb0g3bHlPMkpqLTdzMGRXTHRfaUZqdVhJZXFZTUNWZXZGZUgwX1FVUW9IWC10Rks5QkRzcjRxNGFXaW9VdnM1TGlxcFR1Q01tb3lyc05vNUxHc3BKcWNfU2JTYjZYMGRCT2R3S2p4REZhWnNIVDdhZVpTZG1UQjZTeVpfZzRn?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794165483000,
+      "title": "Thunder Trade With Kings for Nique Clifford - Blazer's Edge",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUXhXbkRmUDBrZ0ZoX2FNQVdCQVE5d2lqZjBaQnRFMlhsOW5LQXFCTmtGWHlLTWdHV0xfd19FeHRfTnJSLUdYNldGT2tLYVVEZGl2RzB4Z3l3WnY4LWw2emNWbEJvekJpS2NJcVo2YVZ3NGxKd0NuZUFIc0ctb0hzcjdabXV5dFpoQ21mWkt5NngzUXd6UDFZcGdid1FnVUJER1c0SGpudnNMbm1XRF9sR0FpcFVmNXVpZFB5XzhCZlNJTEQ2dWloTUQzLTI2V0xnREY2WFhJeFlrM3lFd3B1aG1adUdkYVdKbjhWMG53?oc=5",
+      "source": "Blazer's Edge",
+      "ts": 1794165275000,
       "tag": "league"
     },
     {
-      "title": "Luka Don\u010di\u0107 sidelined for Lakers-Pistons game due to back tightness - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMjBJa0R3NmxWcGd1NjhpT2FJVEplQk5ReXlDZk9kOU0xQzFTd0hzWHF5NlJ1Z0tOSThNTXZUQnh4T1N6S3VobzFHYTI3Qi1ZTzNKYXpScXpjWldPdmloeV9TLVpoS3NiWHZaRkQ0TlZobVQ1eXBaUnBxQTJmWGVDUEFYZ3luQWNOWkhUSGg1alRiS3c4U0Z6amxVOEx6ZmhrdS1OSnA0blpvMUZzSzRfVGRmUDlmRkJFd1A4UXJLU1UxSnZSV2VnWnB6bG1pdw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794163998000,
+      "title": "Report: OKC Thunder acquire Nique Clifford in trade with Kings - OKC Thunder Wire",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQTR4dUk4RHZydk5NU0xwLWxVYjdyTlpYNEFOaEFReWtDRVdqaFVKLW1majc5elJETjZUeU5FQVJuM3JhbUlBQnRRdlptb1V0cUJ1WHFvYlA2dVpRbF9GUUxidnVOTEVTRzZPeW1MOHJvc0ZXSGhBT3R3RWd1U05nMFJka2ZBVjMwaFpieXhNWWNnejJmSXhGOTFld2VlTHQ5UnB5cE9VREtqWC1mamxSTWhpQWdsZ0JWWTZmekhyNnZNZC03eUd4Tl9uM1A3QlVRdDNvLThZWFR6RUlrY0xn?oc=5",
+      "source": "OKC Thunder Wire",
+      "ts": 1794161700000,
       "tag": "league"
     },
     {
-      "title": "Luka Doncic to sit out vs. Pistons due to lower back tightness - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVHFGcHpsTVNIb0tCMlFieHRBREVkZ0liMzJaRHFteVFTWnZmX0lBSW44N3VvREczdjJUNTB6MFhQMDUtTVdDbTRLdk9lVThsTTJWeW5peFdJV0N0cU5PTWtTVFNFRVMxcXQ4NG96ZE51WDhDaDc1OGFjakUwRjdyV1RhMTB0MFNuaTF5UWlad2VhUQ?oc=5",
-      "source": "ESPN",
-      "ts": 1794162840000,
-      "tag": "league"
-    },
-    {
-      "title": "Kings trade Nique Clifford to Thunder for two future second-round draft picks - NBC Sports Bay Area & California",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX2RmNWdhMUVkc1V0ZjU3QUp5Q25ITVNodFNSWUUwWXNYMm92bW91WHA4NzZZdHZCWERCUWdVa2duaV9vWjVLcC14VDI2M3ZtazBub0dFYzZZSXB2NHRDc0R0OFpPMFJnbng3cnB2bjJQZGZIZEtod0NiclljRlRfSWY2NllQaEZYLUM2WFJWTUZWcUhSVVNicWpnbXRUV1nSAacBQVVfeXFMUFpjSUI5YzREUkJpLXZyOEdmbmhSTGhPX3BhM2YwODBXMHowSGlZdi1sSHFlSDNhZ2dmeTcwMVNQcHR6aUNicGl5R0trc0FDQlpQbE43Y2swSUVYQ1RVWW5aLUlGV290WjFuWmNLdGRBYkU3Y0FNVGROUjY1Z3RKTHN4NmMyU2llaUJ3Z1ZMMzF5bVZQUDVMX2lBUW5BZ0poTjRZRXd3NWs?oc=5",
-      "source": "NBC Sports Bay Area & California",
-      "ts": 1794161895000,
-      "tag": "league"
-    },
-    {
-      "title": "What has fueled the Atlanta Hawks four-game winning streak? - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZjlOQVF4VExYVGhUUS1zNlNvZ3U3R0tOWVYxTW13TVZ3X1V1WHVyNndiRTNjU0IzVXhXVXdfNEozR2duWkhuQnBaNGxmMFRjRld5MS1LRmVWcmdnOVl0aEhrbGI0NGo4Y2tpTFZEYmpXYU40NVFXNzVFcEp5eGZxOFF1aVMwQ3B1M25tT0dYN1BiQklNUDJ0ZnlnYVQxTlZWd2l5NDhuaWc?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1794160800000,
-      "tag": "team"
-    },
-    {
-      "title": "Jalen Duren will miss at least another 2 weeks due to hamstring injury, Pistons report - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYTlKZW1oMW9WcEVxbUxoSEx6NjFfMUFoWlhYUmVURkVzd185N2VlVDNIZEprZUN3b0R0b1dLcnIyVXJJY2dEY0FFYUNxUWtkZjRZMWJlTk9IY2ppY3NDeGR0UTFmNVNQVVlsQ3BxSmdILWhUSXc0Z3VzMHJBM2pYY0lSaUQxeEVEX3o4T0ZkZDlmOHVsU0tKUzVpbDF3OXZMdXJlejZmRnpmSVhLdHctM2w4N09DLXduODBuQXVRN1hnSHU2Njc3MDVzR2JsbERsMHRJ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794158133000,
+      "title": "When Spurs cut their lottery pick for allegedly exposing himself to a female staffer - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR2tjSzN3UUM5T3NGMG8tc2Q3Z29xOUR1bGRQbGh4bkVHQUo3MzBZVHhtWWxhVEc1VG1QSzJVUHNSTmEyZHk3YUNNYUZTOG9sQmdvaDZNODNBSC1qWXl2cHhTWlpPNnhCbUpGWDlMMjh2bEdZcnlZaGdlN1RRTDVibm9Rai1wUF9tSWRWemliRWxTc3ZGek5JQnNlLU9ELUFxaGpzbHZDZlJOR3prTXFxTVdCZVhkMC02LWVOR0Nvem9fNEVvbDR2UHlUTVY?oc=5",
+      "source": "Basketball Network",
+      "ts": 1794156600000,
       "tag": "league"
     },
     {
@@ -202,26 +209,14 @@
       "tag": "league"
     },
     {
-      "title": "Fantastic Finish: Hawks complete comeback vs. Nets - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdjgtbzNxR1kwcE12SzJCS1h2UHkycU5uWWFHdm05MVFyMEJselBPMjlFRUhOWEJKeS14RjdzXzFtTHFTUjNMQzBVX21LM3RyVE8yTGFMMmRISlk5Z2thdGRWYklxeFN6SUZxbGxnMFNCUTRxal9DbEEyWV91YXM2Z2lmc2ZvS1RDbnhvS0VINmVNM3FTc0w4dlIxUXNmQWNUT1lEcEg4ODV0SG5CUm81aGYwNURZWGVpTmhLbmFn?oc=5",
-      "source": "NBA.com",
-      "ts": 1794114198000,
-      "tag": "team"
-    },
-    {
-      "title": "Brooklyn Nets at Atlanta Hawks - NBA Game Summary - Nov 07, 2026 - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTDZ0bzkxWWhUV2hFalV3SE44MWNjdnR4Nk4tYWQ5UlgyU2NHNVFobDZpV19EblZsZ0U4U0RZQXlobUxucHVsNDZzaUVkUTJLTEtpdTloR1ZiTU13dThjbFNIRXlwYl9UXzVsMDRHV0ZfVkotbUVuMmlqUFNBYTl3TDNFVU1CT1lHWnB5ODVQWTBEbDBrMXlMRWI0YkRvWEVnVXc3UDBvNDBweks0Z3pTRFdkVzk3QU9pN3d1SU81VExtdG1FdHVYenBLQkFPamxvRTRBRGpWQ1JTVGxiazRmSXNDT1hWLXd5WHhWLWRB?oc=5",
-      "source": "USA Today",
-      "ts": 1794112229000,
-      "tag": "team"
+      "title": "3 Nets takeaways from narrow 124-121 loss to Jalen Johnson, Hawks - Nets Wire",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONG1IcWk0Z25wRXZ1UDBRTVZHelU3RUVVeDV0WGdfY3NXclNIZENla3l6NlZVZWNIemN6bThyVUFDUGFudndYV2V6U053Mmp5bUVLSmRoalRzS1RVZFoyd2d6em00MHNrRlNya3FXVk9aWDBUYmotQ2ZhU2JDVldRWmYyeEhneDgzMWI0R2NLTmR6aEExVFFHRjFxaXFGbGtDRHZTazJqU012b0kzS2Y4UUx1M0RrMWpaVlRfcF9vRkY2LXdsNWlVdE1wRUd2REVPOWVONk95aw?oc=5",
+      "source": "Nets Wire",
+      "ts": 1794140880000,
+      "tag": "player"
     }
   ],
   "pushed": [
-    "devincarterinjurywithouttimetableforreturnrotowire",
-    "nbatraderumorsmagicpressurewarriorsjimmybutlerplansmoreheavy",
-    "jaserichardsoninjuryclassifiedasdaytodayrotowire",
-    "cobywhiteinjuryincreasingworkloadinpracticerotowire",
-    "adembonainjuryfullparticipantinsundayspracticerotowire",
     "anferneesimonsinjurypracticessundayrotowire",
     "dominickbarlowinjuryunabletopracticesundayrotowire",
     "deanwadeinjurydoesntpracticesundayrotowire",
@@ -716,6 +711,11 @@
     "pistonsjalendurentomissatleasttwomoreweekswithhamstringinjur",
     "atlantahawksgetpromisingupdateonjocklandaleinlatestinjuryrep",
     "richiesaunderskneeabsentfrominjuryreportnbcsports",
-    "heatvskingsfullinjuryreportreleasedaheadofsundaymatchupheatn"
+    "heatvskingsfullinjuryreportreleasedaheadofsundaymatchupheatn",
+    "warriorsguardwillrichardsidelinedbytornligamentinleftthumbnb",
+    "chiefsqbpatrickmahomesplayedthroughanelbowinjurysundaywillit",
+    "domantassabonissuddenlypopsuponinjuryreportyahoosports",
+    "keyontegeorgeinjurywontreturnsundayrotowire",
+    "nuggetsputentirestartinglineuponinjuryreportafterflightdelay"
   ]
 }
