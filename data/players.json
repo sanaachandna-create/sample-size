@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-08T17:13:32+00:00",
-  "count": 525,
+  "updated": "2026-11-09T21:36:48+00:00",
+  "count": 522,
   "error": null,
   "players": [
     {
@@ -466,12 +466,6 @@
       "pos": "G"
     },
     {
-      "id": 1098740501,
-      "name": "Carson Cooper",
-      "team": "MEM",
-      "pos": "F"
-    },
-    {
       "id": 1057271360,
       "name": "Carter Bryant",
       "team": "SAS",
@@ -625,12 +619,6 @@
       "id": 1091353537,
       "name": "Dailyn Swain",
       "team": "CHI",
-      "pos": "F"
-    },
-    {
-      "id": 38017719,
-      "name": "Dalen Terry",
-      "team": "OKC",
       "pos": "F"
     },
     {
@@ -2340,7 +2328,7 @@
     {
       "id": 1057276634,
       "name": "Nique Clifford",
-      "team": "SAC",
+      "team": "OKC",
       "pos": "G"
     },
     {
@@ -2953,12 +2941,6 @@
       "id": 1028025497,
       "name": "Tristan Da Silva",
       "team": "ORL",
-      "pos": "F"
-    },
-    {
-      "id": 1028244219,
-      "name": "Tristan Enaruna",
-      "team": "CLE",
       "pos": "F"
     },
     {
