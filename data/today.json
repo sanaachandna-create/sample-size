@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-09T13:02:12+00:00",
+  "updated": "2026-11-09T18:12:26+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 28,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 211,
+  "injuryCount": 215,
   "games": [
     {
       "ha": "LAL",
@@ -26,16 +26,22 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Luka Doncic",
+          "p": "Quentin Grimes",
           "st": "OUT",
           "team": "LAL",
-          "note": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor"
+          "note": "Injury/Illness - Right Finger Sprain (2026-11-09, LAL@ATL). Prior reporting (2026-11-09): "
         },
         {
-          "p": "Quentin Grimes",
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-11-09, LAL@ATL)."
+        },
+        {
+          "p": "Austin Reaves",
           "st": "GTD",
           "team": "LAL",
-          "note": "Grimes (finger) did not return to Sunday's game against the Pistons. Grimes went back to t"
+          "note": "Injury/Illness - Illness (2026-11-09, LAL@ATL)."
         },
         {
           "p": "Henri Veesaar",
@@ -174,7 +180,7 @@
         },
         {
           "p": "Michael Ajayi",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "G League - Two-Way (2026-11-09, CLE@CHA)."
         },
@@ -186,7 +192,7 @@
         },
         {
           "p": "PJ Hall",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "G League - Two-Way (2026-11-09, CLE@CHA)."
         }
@@ -507,6 +513,12 @@
           "st": "OUT",
           "team": "HOU",
           "note": "G League - Two-Way (2026-11-09, DEN@HOU)."
+        },
+        {
+          "p": "Oscar Tshiebwe",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Illness (2026-11-09, DEN@HOU). Prior reporting (2026-11-09): Tshiebwe has"
         }
       ],
       "lineups": {
@@ -669,7 +681,7 @@
       "injuries": [
         {
           "p": "Gary Trent Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Trent (illness) won't play in Sunday's game versus the Celtics. Trent will miss his fourth"
         },
@@ -720,7 +732,7 @@
         },
         {
           "p": "Adem Bona",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Bona (back) is out for Sunday's game in Chicago. Bona will miss his second straight game S"
         }
@@ -777,7 +789,7 @@
         },
         {
           "p": "Isaiah Jackson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAC",
           "note": "Jackson (groin) won't suit up for Sunday's game against the Pelicans, Law Murray of The At"
         },
@@ -834,7 +846,7 @@
         },
         {
           "p": "Lauri Markkanen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The"
         },
@@ -921,7 +933,7 @@
         },
         {
           "p": "Domantas Sabonis",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Sabonis (knee) is out for Sunday's game against the Heat. Sabonis was a late addition to t"
         }
@@ -1278,13 +1290,13 @@
         },
         {
           "p": "Zach Collins",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Collins (illness) is out for Sunday's game against Philadelphia. Collins left Wednesday's "
         },
         {
           "p": "Norman Powell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Powell (shoulder) has been ruled out for Sunday's game against the 76ers, Adam Aaronson of"
         }
@@ -1409,20 +1421,26 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Luka Doncic",
+          "p": "Quentin Grimes",
           "st": "OUT",
           "team": "LAL",
-          "note": "Doncic has been ruled out for Sunday's game at Detroit due to lower-back tightness, Trevor"
+          "note": "Injury/Illness - Right Finger Sprain (2026-11-09, LAL@ATL). Prior reporting (2026-11-09): "
         },
         {
-          "p": "Quentin Grimes",
+          "p": "Walker Kessler",
+          "st": "AVA",
+          "team": "LAL",
+          "note": "Injury/Illness - Left Finger Splint (2026-11-09, LAL@ATL)."
+        },
+        {
+          "p": "Austin Reaves",
           "st": "GTD",
           "team": "LAL",
-          "note": "Grimes (finger) did not return to Sunday's game against the Pistons. Grimes went back to t"
+          "note": "Injury/Illness - Illness (2026-11-09, LAL@ATL)."
         },
         {
           "p": "Gary Trent Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Trent (illness) won't play in Sunday's game versus the Celtics. Trent will miss his fourth"
         }
@@ -1461,7 +1479,7 @@
         },
         {
           "p": "Mikel Brown Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
           "note": "Brown, who finished with 18 points (5-13 FG, 3-8 3Pt, 5-7 FT), one rebound, three assists "
         },
@@ -1554,7 +1572,7 @@
         },
         {
           "p": "Lauri Markkanen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Markkanen (wrist) is out for Sunday's game against the Timberwolves, Shreyas Laddha of The"
         },
@@ -1644,6 +1662,12 @@
           "st": "OUT",
           "team": "HOU",
           "note": "G League - Two-Way (2026-11-09, DEN@HOU)."
+        },
+        {
+          "p": "Oscar Tshiebwe",
+          "st": "OUT",
+          "team": "HOU",
+          "note": "Injury/Illness - Illness (2026-11-09, DEN@HOU). Prior reporting (2026-11-09): Tshiebwe has"
         }
       ],
       "lineups": {
@@ -1803,7 +1827,7 @@
         },
         {
           "p": "Adem Bona",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Bona (back) is out for Sunday's game in Chicago. Bona will miss his second straight game S"
         }
@@ -1992,7 +2016,7 @@
         },
         {
           "p": "Michael Ajayi",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "G League - Two-Way (2026-11-09, CLE@CHA)."
         },
@@ -2004,7 +2028,7 @@
         },
         {
           "p": "PJ Hall",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "G League - Two-Way (2026-11-09, CLE@CHA)."
         },
