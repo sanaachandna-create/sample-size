@@ -1,17 +1,17 @@
 {
-  "updated": "2026-11-10T01:28:51+00:00",
+  "updated": "2026-11-10T14:46:57+00:00",
   "season": 2026,
-  "leaguePPG": 113.3,
+  "leaguePPG": 113.4,
   "error": null,
   "oddsError": null,
-  "gameCount": 17,
+  "gameCount": 10,
   "model": {
     "DET": {
-      "gp": 9,
-      "pf": 1005,
-      "pa": 935,
-      "ppg": 111.7,
-      "oppg": 103.9
+      "gp": 10,
+      "pf": 1127,
+      "pa": 1046,
+      "ppg": 112.7,
+      "oppg": 104.6
     },
     "BOS": {
       "gp": 10,
@@ -35,11 +35,11 @@
       "oppg": 107.9
     },
     "SAS": {
-      "gp": 10,
-      "pf": 1184,
-      "pa": 1081,
-      "ppg": 118.4,
-      "oppg": 108.1
+      "gp": 11,
+      "pf": 1306,
+      "pa": 1177,
+      "ppg": 118.7,
+      "oppg": 107.0
     },
     "OKC": {
       "gp": 10,
@@ -63,18 +63,18 @@
       "oppg": 107.0
     },
     "LAL": {
-      "gp": 11,
-      "pf": 1341,
-      "pa": 1259,
-      "ppg": 121.9,
-      "oppg": 114.5
+      "gp": 12,
+      "pf": 1465,
+      "pa": 1373,
+      "ppg": 122.1,
+      "oppg": 114.4
     },
     "GSW": {
-      "gp": 10,
-      "pf": 1186,
-      "pa": 1136,
-      "ppg": 118.6,
-      "oppg": 113.6
+      "gp": 11,
+      "pf": 1324,
+      "pa": 1223,
+      "ppg": 120.4,
+      "oppg": 111.2
     },
     "ORL": {
       "gp": 9,
@@ -84,18 +84,18 @@
       "oppg": 116.2
     },
     "ATL": {
-      "gp": 11,
-      "pf": 1305,
-      "pa": 1270,
-      "ppg": 118.6,
-      "oppg": 115.5
+      "gp": 12,
+      "pf": 1419,
+      "pa": 1394,
+      "ppg": 118.2,
+      "oppg": 116.2
     },
     "WAS": {
-      "gp": 10,
-      "pf": 1078,
-      "pa": 1125,
-      "ppg": 107.8,
-      "oppg": 112.5
+      "gp": 11,
+      "pf": 1189,
+      "pa": 1247,
+      "ppg": 108.1,
+      "oppg": 113.4
     },
     "MIL": {
       "gp": 10,
@@ -112,18 +112,18 @@
       "oppg": 115.7
     },
     "CHA": {
-      "gp": 10,
-      "pf": 963,
-      "pa": 1102,
-      "ppg": 96.3,
-      "oppg": 110.2
+      "gp": 11,
+      "pf": 1087,
+      "pa": 1214,
+      "ppg": 98.8,
+      "oppg": 110.4
     },
     "TOR": {
-      "gp": 9,
-      "pf": 1064,
-      "pa": 1015,
-      "ppg": 118.2,
-      "oppg": 112.8
+      "gp": 10,
+      "pf": 1166,
+      "pa": 1133,
+      "ppg": 116.6,
+      "oppg": 113.3
     },
     "CHI": {
       "gp": 9,
@@ -133,11 +133,11 @@
       "oppg": 129.3
     },
     "MEM": {
-      "gp": 9,
-      "pf": 1061,
-      "pa": 1006,
+      "gp": 10,
+      "pf": 1179,
+      "pa": 1108,
       "ppg": 117.9,
-      "oppg": 111.8
+      "oppg": 110.8
     },
     "UTA": {
       "gp": 10,
@@ -147,32 +147,32 @@
       "oppg": 117.9
     },
     "NOP": {
-      "gp": 10,
-      "pf": 1205,
-      "pa": 1208,
-      "ppg": 120.5,
-      "oppg": 120.8
+      "gp": 11,
+      "pf": 1292,
+      "pa": 1346,
+      "ppg": 117.5,
+      "oppg": 122.4
     },
     "IND": {
-      "gp": 10,
-      "pf": 1103,
-      "pa": 1142,
-      "ppg": 110.3,
-      "oppg": 114.2
+      "gp": 11,
+      "pf": 1225,
+      "pa": 1267,
+      "ppg": 111.4,
+      "oppg": 115.2
     },
     "HOU": {
-      "gp": 10,
-      "pf": 1160,
-      "pa": 1070,
-      "ppg": 116.0,
-      "oppg": 107.0
+      "gp": 11,
+      "pf": 1270,
+      "pa": 1170,
+      "ppg": 115.5,
+      "oppg": 106.4
     },
     "DAL": {
-      "gp": 10,
-      "pf": 1139,
-      "pa": 1091,
-      "ppg": 113.9,
-      "oppg": 109.1
+      "gp": 11,
+      "pf": 1264,
+      "pa": 1213,
+      "ppg": 114.9,
+      "oppg": 110.3
     },
     "POR": {
       "gp": 9,
@@ -182,11 +182,11 @@
       "oppg": 113.8
     },
     "PHX": {
-      "gp": 8,
-      "pf": 899,
-      "pa": 949,
-      "ppg": 112.4,
-      "oppg": 118.6
+      "gp": 9,
+      "pf": 995,
+      "pa": 1071,
+      "ppg": 110.6,
+      "oppg": 119.0
     },
     "LAC": {
       "gp": 9,
@@ -203,165 +203,21 @@
       "oppg": 122.4
     },
     "CLE": {
-      "gp": 10,
-      "pf": 1170,
-      "pa": 1141,
-      "ppg": 117.0,
-      "oppg": 114.1
+      "gp": 11,
+      "pf": 1282,
+      "pa": 1265,
+      "ppg": 116.5,
+      "oppg": 115.0
     },
     "DEN": {
-      "gp": 8,
-      "pf": 922,
-      "pa": 905,
-      "ppg": 115.2,
-      "oppg": 113.1
+      "gp": 9,
+      "pf": 1022,
+      "pa": 1015,
+      "ppg": 113.6,
+      "oppg": 112.8
     }
   },
   "games": [
-    {
-      "ha": "LAL",
-      "hh": "ATL",
-      "away": "Los Angeles Lakers",
-      "home": "Atlanta Hawks",
-      "mktTotal": 237.5,
-      "mktSpreadHome": 9.0,
-      "mlHome": 342,
-      "mlAway": -502,
-      "myTotal": 244.1,
-      "mySpreadHome": 1.9,
-      "totalLean": "OVER",
-      "totalEdge": 6.6,
-      "spreadLean": "ATL",
-      "spreadEdge": 7.1,
-      "gpH": 11,
-      "gpA": 11
-    },
-    {
-      "ha": "CLE",
-      "hh": "CHA",
-      "away": "Cleveland Cavaliers",
-      "home": "Charlotte Hornets",
-      "mktTotal": 238.5,
-      "mktSpreadHome": -9.5,
-      "mlHome": -650,
-      "mlAway": 410,
-      "myTotal": 210.8,
-      "mySpreadHome": 14.3,
-      "totalLean": "UNDER",
-      "totalEdge": -27.7,
-      "spreadLean": "CLE",
-      "spreadEdge": -23.8,
-      "gpH": 10,
-      "gpA": 10
-    },
-    {
-      "ha": "WAS",
-      "hh": "DET",
-      "away": "Washington Wizards",
-      "home": "Detroit Pistons",
-      "mktTotal": 232.8,
-      "mktSpreadHome": -11.8,
-      "mlHome": -1105,
-      "mlAway": 612,
-      "myTotal": 209.8,
-      "mySpreadHome": -14.6,
-      "totalLean": "UNDER",
-      "totalEdge": -23.0,
-      "spreadLean": "DET",
-      "spreadEdge": 2.8,
-      "gpH": 9,
-      "gpA": 10
-    },
-    {
-      "ha": "MEM",
-      "hh": "TOR",
-      "away": "Memphis Grizzlies",
-      "home": "Toronto Raptors",
-      "mktTotal": 218.0,
-      "mktSpreadHome": 3.0,
-      "mlHome": 125,
-      "mlAway": -158,
-      "myTotal": 234.0,
-      "mySpreadHome": -1.8,
-      "totalLean": "OVER",
-      "totalEdge": 16.0,
-      "spreadLean": "TOR",
-      "spreadEdge": 4.8,
-      "gpH": 9,
-      "gpA": 9
-    },
-    {
-      "ha": "IND",
-      "hh": "DAL",
-      "away": "Indiana Pacers",
-      "home": "Dallas Mavericks",
-      "mktTotal": 235.0,
-      "mktSpreadHome": -2.5,
-      "mlHome": -148,
-      "mlAway": 115,
-      "myTotal": 221.0,
-      "mySpreadHome": -11.1,
-      "totalLean": "UNDER",
-      "totalEdge": -14.0,
-      "spreadLean": "DAL",
-      "spreadEdge": 8.6,
-      "gpH": 10,
-      "gpA": 10
-    },
-    {
-      "ha": "DEN",
-      "hh": "HOU",
-      "away": "Denver Nuggets",
-      "home": "Houston Rockets",
-      "mktTotal": 224.5,
-      "mktSpreadHome": -5.0,
-      "mlHome": -190,
-      "mlAway": 160,
-      "myTotal": 224.6,
-      "mySpreadHome": -9.5,
-      "totalLean": "OVER",
-      "totalEdge": 0.1,
-      "spreadLean": "HOU",
-      "spreadEdge": 4.5,
-      "gpH": 10,
-      "gpA": 8
-    },
-    {
-      "ha": "SAS",
-      "hh": "PHX",
-      "away": "San Antonio Spurs",
-      "home": "Phoenix Suns",
-      "mktTotal": 225.5,
-      "mktSpreadHome": 9.0,
-      "mlHome": 310,
-      "mlAway": -396,
-      "myTotal": 231.2,
-      "mySpreadHome": 14.2,
-      "totalLean": "OVER",
-      "totalEdge": 5.7,
-      "spreadLean": "SAS",
-      "spreadEdge": -5.2,
-      "gpH": 8,
-      "gpA": 10
-    },
-    {
-      "ha": "NOP",
-      "hh": "GSW",
-      "away": "New Orleans Pelicans",
-      "home": "Golden State Warriors",
-      "mktTotal": 229.5,
-      "mktSpreadHome": -11.0,
-      "mlHome": -567,
-      "mlAway": 425,
-      "myTotal": 247.3,
-      "mySpreadHome": -8.1,
-      "totalLean": "OVER",
-      "totalEdge": 17.8,
-      "spreadLean": "NOP",
-      "spreadEdge": -2.9,
-      "gpH": 10,
-      "gpA": 10
-    },
     {
       "ha": "MIL",
       "hh": "NYK",
@@ -369,14 +225,14 @@
       "home": "New York Knicks",
       "mktTotal": 220.0,
       "mktSpreadHome": -15.5,
-      "mlHome": -1200,
-      "mlAway": 700,
-      "myTotal": 217.6,
-      "mySpreadHome": -20.8,
+      "mlHome": -1040,
+      "mlAway": 670,
+      "myTotal": 217.5,
+      "mySpreadHome": -20.7,
       "totalLean": "UNDER",
-      "totalEdge": -2.4,
+      "totalEdge": -2.5,
       "spreadLean": "NYK",
-      "spreadEdge": 5.3,
+      "spreadEdge": 5.2,
       "gpH": 9,
       "gpA": 10
     },
@@ -385,18 +241,36 @@
       "hh": "PHI",
       "away": "Boston Celtics",
       "home": "Philadelphia 76ers",
-      "mktTotal": 215.5,
-      "mktSpreadHome": 1.5,
-      "mlHome": 0,
-      "mlAway": -118,
-      "myTotal": 211.7,
+      "mktTotal": 218.5,
+      "mktSpreadHome": 1.0,
+      "mlHome": -103,
+      "mlAway": -116,
+      "myTotal": 211.5,
       "mySpreadHome": 4.8,
       "totalLean": "UNDER",
-      "totalEdge": -3.8,
+      "totalEdge": -7.0,
       "spreadLean": "BOS",
-      "spreadEdge": -3.3,
+      "spreadEdge": -3.8,
       "gpH": 11,
       "gpA": 10
+    },
+    {
+      "ha": "LAC",
+      "hh": "PHX",
+      "away": "Los Angeles Clippers",
+      "home": "Phoenix Suns",
+      "mktTotal": 224.5,
+      "mktSpreadHome": -3.5,
+      "mlHome": -165,
+      "mlAway": 140,
+      "myTotal": 231.5,
+      "mySpreadHome": 1.9,
+      "totalLean": "OVER",
+      "totalEdge": 7.0,
+      "spreadLean": "LAC",
+      "spreadEdge": -5.4,
+      "gpH": 9,
+      "gpA": 9
     },
     {
       "ha": "MIA",
@@ -404,15 +278,15 @@
       "away": "Miami Heat",
       "home": "Utah Jazz",
       "mktTotal": 228.5,
-      "mktSpreadHome": 10.5,
-      "mlHome": 377,
-      "mlAway": -493,
-      "myTotal": 234.0,
+      "mktSpreadHome": 8.5,
+      "mlHome": 286,
+      "mlAway": -359,
+      "myTotal": 233.8,
       "mySpreadHome": 4.5,
       "totalLean": "OVER",
-      "totalEdge": 5.5,
+      "totalEdge": 5.3,
       "spreadLean": "UTA",
-      "spreadEdge": 6.0,
+      "spreadEdge": 4.0,
       "gpH": 10,
       "gpA": 10
     },
@@ -421,16 +295,16 @@
       "hh": "SAC",
       "away": "Orlando Magic",
       "home": "Sacramento Kings",
-      "mktTotal": 221.8,
-      "mktSpreadHome": 5.5,
-      "mlHome": 183,
-      "mlAway": -225,
-      "myTotal": 227.5,
+      "mktTotal": 222.5,
+      "mktSpreadHome": 6.0,
+      "mlHome": 190,
+      "mlAway": -230,
+      "myTotal": 227.3,
       "mySpreadHome": 1.2,
       "totalLean": "OVER",
-      "totalEdge": 5.7,
+      "totalEdge": 4.8,
       "spreadLean": "SAC",
-      "spreadEdge": 4.3,
+      "spreadEdge": 4.8,
       "gpH": 10,
       "gpA": 9
     },
@@ -439,16 +313,16 @@
       "hh": "POR",
       "away": "Oklahoma City Thunder",
       "home": "Portland Trail Blazers",
-      "mktTotal": 226.5,
-      "mktSpreadHome": 1.5,
-      "mlHome": 101,
-      "mlAway": -121,
-      "myTotal": 222.4,
+      "mktTotal": 225.0,
+      "mktSpreadHome": 2.0,
+      "mlHome": 110,
+      "mlAway": -130,
+      "myTotal": 222.2,
       "mySpreadHome": 0.5,
       "totalLean": "UNDER",
-      "totalEdge": -4.1,
+      "totalEdge": -2.8,
       "spreadLean": "POR",
-      "spreadEdge": 1.0,
+      "spreadEdge": 1.5,
       "gpH": 9,
       "gpA": 10
     },
@@ -461,14 +335,14 @@
       "mktSpreadHome": -1.0,
       "mlHome": -110,
       "mlAway": -110,
-      "myTotal": 213.7,
-      "mySpreadHome": 1.5,
+      "myTotal": 212.8,
+      "mySpreadHome": 2.9,
       "totalLean": "UNDER",
-      "totalEdge": -16.3,
+      "totalEdge": -17.2,
       "spreadLean": "SAS",
-      "spreadEdge": -2.5,
+      "spreadEdge": -3.9,
       "gpH": 9,
-      "gpA": 10
+      "gpA": 11
     },
     {
       "ha": "MIA",
@@ -476,15 +350,15 @@
       "away": "Miami Heat",
       "home": "Boston Celtics",
       "mktTotal": 230.5,
-      "mktSpreadHome": -5.5,
+      "mktSpreadHome": -5.0,
       "mlHome": -190,
       "mlAway": 155,
-      "myTotal": 229.5,
+      "myTotal": 229.3,
       "mySpreadHome": -18.8,
       "totalLean": "UNDER",
-      "totalEdge": -1.0,
+      "totalEdge": -1.2,
       "spreadLean": "BOS",
-      "spreadEdge": 13.3,
+      "spreadEdge": 13.8,
       "gpH": 10,
       "gpA": 10
     },
@@ -497,13 +371,13 @@
       "mktSpreadHome": -1.0,
       "mlHome": -115,
       "mlAway": -105,
-      "myTotal": 228.3,
-      "mySpreadHome": -6.4,
+      "myTotal": 228.2,
+      "mySpreadHome": -6.7,
       "totalLean": "UNDER",
-      "totalEdge": -5.7,
+      "totalEdge": -5.8,
       "spreadLean": "LAL",
-      "spreadEdge": 5.4,
-      "gpH": 11,
+      "spreadEdge": 5.7,
+      "gpH": 12,
       "gpA": 11
     },
     {
@@ -515,14 +389,14 @@
       "mktSpreadHome": 2.0,
       "mlHome": 105,
       "mlAway": -127,
-      "myTotal": 233.9,
-      "mySpreadHome": -5.4,
+      "myTotal": 231.2,
+      "mySpreadHome": -10.9,
       "totalLean": "UNDER",
-      "totalEdge": -0.6,
+      "totalEdge": -3.3,
       "spreadLean": "GSW",
-      "spreadEdge": 7.4,
-      "gpH": 10,
-      "gpA": 8
+      "spreadEdge": 12.9,
+      "gpH": 11,
+      "gpA": 9
     }
   ]
 }
