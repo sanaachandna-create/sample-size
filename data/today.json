@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-11T01:28:53+00:00",
+  "updated": "2026-11-11T04:22:48+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 29,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 247,
+  "injuryCount": 242,
   "games": [
     {
       "ha": "MIL",
@@ -19,29 +19,23 @@
       "tip": 1794357000000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 52,
-      "ascore": 31,
-      "period": 2,
-      "clock": "Q2 1:54",
+      "status": "post",
+      "hscore": 117,
+      "ascore": 85,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
         {
           "p": "Tyler Herro",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Right Knee Contusion (2026-11-10, MIL@NYK). Prior reporting (2026-11-10):"
-        },
-        {
-          "p": "Kel'el Ware",
-          "st": "AVA",
-          "team": "MIL",
-          "note": "Injury/Illness - Left Ankle Sprain (2026-11-10, MIL@NYK)."
+          "note": "Herro (knee) is listed as out for Tuesday's game against New York. Herro was listed as que"
         },
         {
           "p": "Josh Hart",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-10, MIL@NYK). Prior reporting (2026-11-10): Hart (illnes"
+          "note": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Dai"
         }
       ],
       "lineups": {
@@ -64,53 +58,29 @@
       "tip": 1794358800000,
       "channel": "League Pass",
       "national": false,
-      "status": "in",
-      "hscore": 14,
-      "ascore": 23,
-      "period": 1,
-      "clock": "Q1 5:33",
+      "status": "post",
+      "hscore": 101,
+      "ascore": 123,
+      "period": 4,
+      "clock": "Final",
       "injuries": [
-        {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Chris Cenac Jr.",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "G League - On Assignment (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
         {
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back Stress Reaction (2026-11-10, BOS@PHI). Prior reporting (2026-11-"
+          "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days be"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-11-10, BOS@PHI). Prior reporti"
+          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
         },
         {
           "p": "Adem Bona",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Cervical Spine Sprain (2026-11-10, BOS@PHI). Prior reporting (2026-11-09)"
+          "note": "Bona (back) is out for Tuesday's game against the Celtics. Bona will miss his third consec"
         }
       ],
       "lineups": {
@@ -133,11 +103,11 @@
       "tip": 1794362400000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 128,
+      "ascore": 104,
+      "period": 4,
+      "clock": "Q4 1:33",
       "injuries": [
         {
           "p": "Bradley Beal",
@@ -167,7 +137,7 @@
           "p": "Cam Christie",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-10, LAC@PHX). Prior reporting (2026-11-09): C"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-10, LAC@PHX). Prior reporting (2026-11-11): C"
         },
         {
           "p": "Nick Martinelli",
@@ -180,6 +150,24 @@
           "st": "OUT",
           "team": "PHX",
           "note": "Injury/Illness - Left Shoulder Surgery (2026-11-10, LAC@PHX). Prior reporting (2026-09-11)"
+        },
+        {
+          "p": "Duop Reath",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
+        },
+        {
+          "p": "Pat Spencer",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
+        },
+        {
+          "p": "Drew Timme",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
         }
       ],
       "lineups": {
@@ -202,11 +190,11 @@
       "tip": 1794362400000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 93,
+      "ascore": 101,
+      "period": 4,
+      "clock": "Q4 6:22",
       "injuries": [
         {
           "p": "Giannis Antetokounmpo",
@@ -277,11 +265,11 @@
       "tip": 1794366000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 52,
+      "ascore": 57,
+      "period": 3,
+      "clock": "Q3 12:00",
       "injuries": [
         {
           "p": "Jonathan Isaac",
@@ -315,9 +303,9 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-10): Da "
+          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-11): Da "
         },
         {
           "p": "Maxime Raynaud",
@@ -376,11 +364,11 @@
       "tip": 1794369600000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 12,
+      "ascore": 7,
+      "period": 1,
+      "clock": "Q1 6:49",
       "injuries": [
         {
           "p": "Cason Wallace",
@@ -584,7 +572,7 @@
           "p": "Josh Hart",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-10, MIL@NYK). Prior reporting (2026-11-10): Hart (illnes"
+          "note": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Dai"
         }
       ],
       "lineups": {
@@ -613,30 +601,6 @@
       "period": 0,
       "clock": "",
       "injuries": [
-        {
-          "p": "Devin Carter",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Chris Cenac Jr.",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "G League - On Assignment (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "AVA",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-10, BOS@PHI)."
-        },
         {
           "p": "Nate Bittle",
           "st": "OUT",
@@ -866,13 +830,7 @@
           "p": "Tyler Herro",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Right Knee Contusion (2026-11-10, MIL@NYK). Prior reporting (2026-11-10):"
-        },
-        {
-          "p": "Kel'el Ware",
-          "st": "AVA",
-          "team": "MIL",
-          "note": "Injury/Illness - Left Ankle Sprain (2026-11-10, MIL@NYK)."
+          "note": "Herro (knee) is listed as out for Tuesday's game against New York. Herro was listed as que"
         }
       ],
       "lineups": {
@@ -1026,9 +984,9 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-10): Da "
+          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-11): Da "
         },
         {
           "p": "Jusuf Nurkic",
@@ -1319,19 +1277,19 @@
           "p": "Dominick Barlow",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Low Back Stress Reaction (2026-11-10, BOS@PHI). Prior reporting (2026-11-"
+          "note": "Head coach Nick Nurse said Wednesday that Barlow (back) likely needs another 10-12 days be"
         },
         {
           "p": "Ariel Hukporti",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Right Achilles Tendon Rupture / Tear (2026-11-10, BOS@PHI). Prior reporti"
+          "note": "Hukporti has sustained a season-ending ruptured right Achilles tendon, per Shams Charania "
         },
         {
           "p": "Adem Bona",
           "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Cervical Spine Sprain (2026-11-10, BOS@PHI). Prior reporting (2026-11-09)"
+          "note": "Bona (back) is out for Tuesday's game against the Celtics. Bona will miss his third consec"
         }
       ],
       "lineups": {
@@ -1521,6 +1479,24 @@
           "st": "OUT",
           "team": "PHX",
           "note": "Injury/Illness - Left Shoulder Surgery (2026-11-10, LAC@PHX). Prior reporting (2026-09-11)"
+        },
+        {
+          "p": "Duop Reath",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
+        },
+        {
+          "p": "Pat Spencer",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
+        },
+        {
+          "p": "Drew Timme",
+          "st": "OUT",
+          "team": "PHX",
+          "note": "G League - Two-Way (2026-11-10, LAC@PHX)."
         }
       ],
       "lineups": {
@@ -1553,7 +1529,7 @@
           "p": "Josh Hart",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-10, MIL@NYK). Prior reporting (2026-11-10): Hart (illnes"
+          "note": "Hart (illness) won't play Tuesday against the Bucks, Kristian Winfield of the New York Dai"
         },
         {
           "p": "Johnny Furphy",
@@ -1610,13 +1586,7 @@
           "p": "Tyler Herro",
           "st": "OUT",
           "team": "MIL",
-          "note": "Injury/Illness - Right Knee Contusion (2026-11-10, MIL@NYK). Prior reporting (2026-11-10):"
-        },
-        {
-          "p": "Kel'el Ware",
-          "st": "AVA",
-          "team": "MIL",
-          "note": "Injury/Illness - Left Ankle Sprain (2026-11-10, MIL@NYK)."
+          "note": "Herro (knee) is listed as out for Tuesday's game against New York. Herro was listed as que"
         },
         {
           "p": "Jonathan Isaac",
@@ -1650,9 +1620,9 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-10): Da "
+          "note": "Injury/Illness - Left Calf Strain (2026-11-10, ORL@SAC). Prior reporting (2026-11-11): Da "
         }
       ],
       "lineups": {
@@ -2255,7 +2225,7 @@
           "p": "Cam Christie",
           "st": "OUT",
           "team": "LAC",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-10, LAC@PHX). Prior reporting (2026-11-09): C"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-10, LAC@PHX). Prior reporting (2026-11-11): C"
         },
         {
           "p": "Nick Martinelli",
