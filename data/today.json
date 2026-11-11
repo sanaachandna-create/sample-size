@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-11T11:59:04+00:00",
+  "updated": "2026-11-11T15:48:50+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 28,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 211,
+  "injuryCount": 213,
   "games": [
     {
       "ha": "WAS",
@@ -390,7 +390,7 @@
         },
         {
           "p": "Tyler Herro",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Herro (knee) is listed as out for Tuesday's game against New York. Herro was listed as que"
         }
@@ -546,7 +546,7 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ORL",
           "note": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of th"
         },
@@ -564,13 +564,13 @@
         },
         {
           "p": "Lauri Markkanen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain. The star fo"
         },
         {
           "p": "Keyonte George",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "George (ankle) has been ruled out for Tuesday's game against the Heat. George sustained a "
         }
@@ -857,6 +857,12 @@
           "note": "Joe (hip) is out for Monday against the Wizards. Joe is missing a seventh consecutive cont"
         },
         {
+          "p": "Ugonna Onyenso",
+          "st": "GTD",
+          "team": "DET",
+          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
+        },
+        {
           "p": "Tristan Vukcevic",
           "st": "OUT",
           "team": "WAS",
@@ -1092,7 +1098,7 @@
       "injuries": [
         {
           "p": "Tyler Herro",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Herro (knee) is listed as out for Tuesday's game against New York. Herro was listed as que"
         },
@@ -1128,7 +1134,7 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ORL",
           "note": "Da Silva (calf) has been ruled out for Tuesday's game against the Kings, Jason Beede of th"
         }
@@ -1398,13 +1404,13 @@
         },
         {
           "p": "Lauri Markkanen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Markkanen is out for Tuesday's game versus the Heat with a right wrist sprain. The star fo"
         },
         {
           "p": "Keyonte George",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "George (ankle) has been ruled out for Tuesday's game against the Heat. George sustained a "
         },
@@ -1584,7 +1590,7 @@
         },
         {
           "p": "Precious Achiuwa",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Achiuwa left Tuesday's 107-100 loss to the Magic with a left lower leg contusion and did n"
         }
@@ -1671,7 +1677,7 @@
         },
         {
           "p": "Cam Christie",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAC",
           "note": "Christie (ankle) is listed as out for Tuesday's game against Phoenix. Christie will miss h"
         }
@@ -1857,6 +1863,12 @@
           "st": "OUT",
           "team": "DET",
           "note": "Joe (hip) is out for Monday against the Wizards. Joe is missing a seventh consecutive cont"
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "GTD",
+          "team": "DET",
+          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
         }
       ],
       "lineups": {
