@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-11T18:51:18+00:00",
-  "count": 521,
+  "updated": "2026-11-12T19:05:57+00:00",
+  "count": 523,
   "error": null,
   "players": [
     {
@@ -464,6 +464,12 @@
       "name": "Carlton Carrington",
       "team": "WAS",
       "pos": "G"
+    },
+    {
+      "id": 1098740501,
+      "name": "Carson Cooper",
+      "team": "LAL",
+      "pos": "F"
     },
     {
       "id": 1057271360,
@@ -2072,6 +2078,12 @@
       "name": "Marvin Bagley III",
       "team": "DEN",
       "pos": "F"
+    },
+    {
+      "id": 371,
+      "name": "Mason Plumlee",
+      "team": "SAC",
+      "pos": "F-C"
     },
     {
       "id": 1028025177,
