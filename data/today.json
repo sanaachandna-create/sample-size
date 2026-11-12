@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-12T13:57:23+00:00",
+  "updated": "2026-11-12T16:31:59+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 27,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 192,
+  "injuryCount": 194,
   "games": [
     {
       "ha": "TOR",
@@ -408,7 +408,7 @@
       "injuries": [
         {
           "p": "Myles Turner",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Turner has been ruled out for Wednesday's game against the Lakers due to rest. Turner will"
         },
@@ -450,13 +450,13 @@
         },
         {
           "p": "Tristan Da Silva",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ORL",
           "note": "Da Silva (calf) is listed as out for Wednesday's game versus the Jazz. Da Silva will miss "
         },
         {
           "p": "Jamal Cain",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ORL",
           "note": "Cain (shoulder) is out for Wednesday's game in Utah. With Cain inactive, Alex Morales will"
         }
@@ -546,13 +546,13 @@
         },
         {
           "p": "Norman Powell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Ath"
         },
         {
           "p": "Tobe Awaka",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Awaka (back) has been ruled out for Wednesday's game against the Spurs. Awaka will be held"
         },
@@ -564,7 +564,7 @@
         },
         {
           "p": "Dailyn Swain",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Swain (back) is out for Wednesday's game against the Spurs. Swain will spend another game "
         }
@@ -609,7 +609,7 @@
         },
         {
           "p": "Quinten Post",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets. Post suffer"
         },
@@ -621,19 +621,19 @@
         },
         {
           "p": "Trey Murphy III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Murphy (knee) is listed as out for Wednesday's game against the Nets. Murphy will miss a s"
         },
         {
           "p": "Trendon Watford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Watford (ankle) is out for Wednesday's game against the Nets. Watford continues to nurse a"
         },
         {
           "p": "Bennedict Mathurin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb spr"
         }
@@ -681,6 +681,12 @@
           "st": "OUT",
           "team": "UTA",
           "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be s"
+        },
+        {
+          "p": "Trey Alexander",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
         },
         {
           "p": "Steven Adams",
@@ -741,7 +747,7 @@
         },
         {
           "p": "Gary Payton II",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Payton (knee) is out for Wednesday's game against Houston. Payton is sidelined for a secon"
         },
@@ -771,7 +777,7 @@
         },
         {
           "p": "Devin Vassell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAS",
           "note": "Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5"
         }
@@ -822,7 +828,7 @@
         },
         {
           "p": "Chris Youngblood",
-          "st": "OUT",
+          "st": "GTD",
           "team": "POR",
           "note": "Youngblood has been ruled out for Wednesday's game against the Thunder. Youngblood came do"
         },
@@ -903,7 +909,7 @@
         },
         {
           "p": "Ajay Mitchell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left a"
         },
@@ -978,19 +984,19 @@
         },
         {
           "p": "Trey Murphy III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Murphy (knee) is listed as out for Wednesday's game against the Nets. Murphy will miss a s"
         },
         {
           "p": "Trendon Watford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Watford (ankle) is out for Wednesday's game against the Nets. Watford continues to nurse a"
         },
         {
           "p": "Bennedict Mathurin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Mathurin has been ruled out for Wednesday's game against the Nets due to a right thumb spr"
         }
@@ -1155,13 +1161,13 @@
       "injuries": [
         {
           "p": "Nolan Traor\u00e9",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
           "note": "Traore (calf) has been ruled out for Wednesday's game against the Pelicans, Ian Begley of "
         },
         {
           "p": "Mikel Brown Jr.",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BKN",
           "note": "Brown has been ruled out for Wednesday's game against the Pelicans due to an illness, Shar"
         },
@@ -1179,7 +1185,7 @@
         },
         {
           "p": "Quinten Post",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Post (concussion) has been ruled out for Wednesday's game against the Nuggets. Post suffer"
         }
@@ -1212,13 +1218,13 @@
       "injuries": [
         {
           "p": "Norman Powell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Powell (shoulder) won't play in Wednesday's game against the Spurs,Joel Lorenzi of The Ath"
         },
         {
           "p": "Tobe Awaka",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Awaka (back) has been ruled out for Wednesday's game against the Spurs. Awaka will be held"
         },
@@ -1230,7 +1236,7 @@
         },
         {
           "p": "Dailyn Swain",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHI",
           "note": "Swain (back) is out for Wednesday's game against the Spurs. Swain will spend another game "
         },
@@ -1362,7 +1368,7 @@
       "injuries": [
         {
           "p": "Quentin Grimes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks. Grimes didn't p"
         },
@@ -1536,7 +1542,7 @@
         },
         {
           "p": "Devin Vassell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAS",
           "note": "Vassell (adductor) won't play in Wednesday's game against the Bulls, Jeff Garcia of KENS 5"
         },
@@ -1557,6 +1563,12 @@
           "st": "OUT",
           "team": "UTA",
           "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be s"
+        },
+        {
+          "p": "Trey Alexander",
+          "st": "OUT",
+          "team": "UTA",
+          "note": "Alexander won't play Wednesday against the Grizzlies due to a left knee bone bruise. Alexa"
         }
       ],
       "lineups": {
@@ -1788,7 +1800,7 @@
         },
         {
           "p": "Myles Turner",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Turner has been ruled out for Wednesday's game against the Lakers due to rest. Turner will"
         },
@@ -1857,7 +1869,7 @@
         },
         {
           "p": "Ajay Mitchell",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Mitchell has been ruled out for Wednesday's game against the Trail Blazers due to a left a"
         },
