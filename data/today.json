@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-13T12:40:06+00:00",
+  "updated": "2026-11-13T15:52:58+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 261,
+  "injuryCount": 262,
   "games": [
     {
       "ha": "NYK",
@@ -741,9 +741,9 @@
         },
         {
           "p": "Nikola Topic",
-          "st": "OUT",
+          "st": "AVA",
           "team": "OKC",
-          "note": "G League - On Assignment (2026-11-13, OKC@LAC)."
+          "note": "- (2026-11-13, OKC@LAC)."
         },
         {
           "p": "Bradley Beal",
@@ -1533,6 +1533,12 @@
           "st": "GTD",
           "team": "TOR",
           "note": "Jackson-Davis is out for Thursday's game against the 76ers due to an illness. Jackson-Davi"
+        },
+        {
+          "p": "Kevin McCullar Jr.",
+          "st": "GTD",
+          "team": "TOR",
+          "note": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHy"
         }
       ],
       "lineups": {
@@ -1761,9 +1767,9 @@
         },
         {
           "p": "Nikola Topic",
-          "st": "OUT",
+          "st": "AVA",
           "team": "OKC",
-          "note": "G League - On Assignment (2026-11-13, OKC@LAC)."
+          "note": "- (2026-11-13, OKC@LAC)."
         },
         {
           "p": "Maxime Raynaud",
