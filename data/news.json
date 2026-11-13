@@ -1,43 +1,106 @@
 {
-  "updated": "2026-11-12T20:28:41+00:00",
+  "updated": "2026-11-13T01:19:40+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "\"He wanted all the smoke\" - Tim Hardaway on what made him realize Austin Reaves is an All-Star-caliber player - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0FlZWVzaVJ3cXpDUm9Ga0Ewb3ZldDAydF9nMzNUSUhIdmxOWWxtaE0yQWFza0pjSklFTU5id2wwcW9rZlhYcF9uaHRvbkFONDQtcWtidFlBeVZXeVVucXZPWXdNaWE0TzQ1bFJEYjF2em1zNHpwczNnd2xUMjF3cjJWdjE5UQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794512475000,
+      "title": "LIVE | Raptors 33, 76ers 31 - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvNmlObWgySE5ZQXB6VWhmX2VzSkRrMGE0Q2Y5Z2FNV3pDaUJMcS1lOTI0MFFPRllTNGI0YVJhNGRFU3VEVHBSM1hfVEJQd3hOclJqNTIwRmFGUDBWUXdxMjhUMHJSSVU?oc=5",
+      "source": "NBA.com",
+      "ts": 1794530269000,
       "tag": "league"
     },
     {
-      "title": "CJ McCollum, who you may know as a guard for the \u2026 - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMnFUR1BHN3pzZUYtWHRJTFdxSUNXNHlOeDdyYmZrV1JldlYwak15dHRMU29FMG9wSHBJdVcxN0o5NEZ1Ml9oM1V3UEhHWUJpVFlsZlpTZE9xSFBPbkpLdUJqS1dQM0Fmd2E5d090SnA5djFOd0I0M0xqZ0xja0lGLQ?oc=5",
+      "title": "NBA Trade Rumors Confirm What Spurs Fans Knew All Along - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2JTcERYRS1hMkRud1ZEU1JVMndMMWpkUVNya3pGMF90TlZRU0VJbkFTX0NOcXJMTUphSE9Udy1uMFcwQ0JuM0pFUlpzU3U2VkJ0d3BWNVVKZ1JSQ2t4S1N4WmVfeXZXVC1kMEx6RjhacE94YWI5R0hRUnczbVVqdVJDU2hkZw?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1794511277000,
+      "ts": 1794529500000,
+      "tag": "league"
+    },
+    {
+      "title": "Chicago Bulls Lose Caleb Wilson to Injury - Blazer's Edge",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWld2OFZwMVBhOERXTGdjaTJpaFE1YVJhRDA2ekE1RXUtWEZhNThMZG1XdEpOTTJsQTU2R3UtWUM3aDIzTlhGNHBPcGtNaTZ5RENLc2dETWtkTllvZGNmb1NTeG5McS1aZ0xRQUVLUVpkSWNGbmc1VDNJcFNwU2lnSjg4UXRVeUxvcEtGeTRRa3RfX2wzT1JTeVpxQXo5X2xUR3JTdjZGZVlia1MzV3RR?oc=5",
+      "source": "Blazer's Edge",
+      "ts": 1794528300000,
+      "tag": "league"
+    },
+    {
+      "title": "'Still a player first': Hawks\u2019 CJ McCollum joins Prime Video\u2019s NBA studio coverage - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeEhmdVc1dTVRM3hnRFZwUmNWTFpzYjFFcGY0OHpPMkJaV1pZRng1c0ZsRWZ0QlllQlVyUTF2bEJ6UjFQY2ZJd01iUVJnTG9kSkk1UkQ3aFc2cHdJVi1nRjhYb05KXzNUMm9Helc0c2JpdFZUSHJPbGJob201SmotczZ3?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794528000000,
       "tag": "team"
     },
     {
-      "title": "Heat\u2019s Klay Thompson makes Stephen Curry comparison for playing with Giannis Antetokounmpo even though they\u2019re totally different - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNUVKcl9NRHVZa0JDUHZkNFc3a0dQZklkcjZyYkxEdmdmV21fWTVOUy0wQTlyRXFMN0hhZXNydVZxQWc2aU5HNnJobUlrQ1BGX3JfQ0xUR1FIYk1oc2J1Z2RhbkdtUWhhaExWeXJSaC1XSi1NSFJXWG9ZbWNqbHMwU3UxWWNOMWo0?oc=5",
+      "title": "Rockets' Smart suspended three games for throwing punch: NBA - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGRPRkRxV3pheDRWeHFXUGpjT0ppWjFKUndib1RId1ZZU1BmUm84NUNISnBJSVhuQ3kxNVBWYjJIT2wweGZyU1VGOF8ybHVJMU1SN1M4SnlLQm1NSGRRaC1PRUlkbHhoVWpNVld0V2NQZXd1YWc0R056a3I0LUdpTGVZV2ZsVTk5U3V2NQ?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1794509582000,
+      "ts": 1794527895000,
       "tag": "league"
     },
     {
-      "title": "Stephen Curry suffers oblique abdominal tear, will be re-evaluated in two weeks. - NBC Sports",
+      "title": "\u201cHe looks so small!\u201d \u2013 When a visitor at Bulls practice barely noticed Michael Jordan among NBA giants - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcHRrVVZ3d2IxSTJjak5hVXUwZnA4aW1hSkhkZkNNRDVpZmNFTWtMb0VOcUxRR3NMbDhCam1yLTVmWGFINVFyeGFUSVlPNC15dnZSVEFrV3Zsdy0wVGRoaWh0STY5R21HZWpjU0h3QmJVV09RS1h0YlRERVZqWUZPNzE5NENMTDl5M0RN?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794527404000,
+      "tag": "league"
+    },
+    {
+      "title": "Caleb Wilson reportedly out 4-6 weeks with broken hand, taking away the only reason to watch the Bulls - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaFBuOWU1ZzJCWGtmaTV3S1o3X3hoOW1zWDRGdG02cWdNMkE2eTNWeEN1TldLNE9JM2tMUl9KWlBTZTlWX1c0V0xDSWMyWjFoVWtSczVsM0QtQ01FWWFNVVRueHFuY0xrcjh2UENGaVBlc3V1LWdKclZKT1dGN3FtZHdjNk5kQ2tHOFU4VlJPSUM?oc=5",
+      "source": "CBS Sports",
+      "ts": 1794525373000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks Injury Report: Kingston Flemings Status Up In The Air Ahead of Friday's Game vs Chicago - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQUEotT3k1MDNaTmFjaFN5WVlmRjN6R0xOTWVtMXJPRS12OGlzellkek5iYV95NmlkWXBBOVVrVWJ4Y3lHRkJaRGxENDJqbThRWkZxTkJ1NDFSSnloN09KSl9MY3dUdk1fZ0J0MkNOWjVEcU5PZFU2US1jU2hhUnRydVlBY2NMY0trSDBtTGRYaGlEM2NrZzkzVjNhNGpBRkNHZlR0X2JDTldBbV9MN2RBOW9lN0Q5Szc1Ry0tOV9XRmJPQlVpOU1Sdzl1TnUzb29PMmFyVmh3NkxhVTIzX05yMQ?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1794525050000,
+      "tag": "team"
+    },
+    {
+      "title": "Naz Reid landing spots: Four NBA contenders that make sense if Hornets look to move sharp-shooting big man - CBS Sports",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzR4WlBWVVdCUlFCV2pGcThwVkxUNmRoNjZRbUxXaU5IdExld2txZzZwQUo5MV9IWkM0b2xGeWxfbW1SS2Rjc3VsOGpGNFdEMmkxdFJQY3prR3NkTnY2Yjd2UDVVZkFDR29CUDVhaUNQVUZnX3VQZmxtVGxIVC1FNVlSQ2VKNjB4UzI3VUc0RnhDTzhCWFhnWW5PU1pqQmJLdzRVcmRiMzVabXdTN1FQdUtyT0Y?oc=5",
+      "source": "CBS Sports",
+      "ts": 1794522876000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Injury Scares, And Ejections Turn Wednesday Night Into Chaos - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbGZBRnVORGw1ckxFbmxJTFpSY3o5WmdpTjhTc2dHdzFpUm84ejFOcjZNb2xydTNDZVlDU2xZeWliaWpqei1OVGV0aENKZ3JhaGlkTk1rWGxuTWtxTkYxaDJ3YzlBOUoxd1lSSlZaYlp4MnZVSHpVMFlzV1JYOWFOakY1RnQzTjE0?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794522069000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks\u2019 CJ McCollum taking his talents to TV amid rough start to season - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOHp4STdnU2JQU3p0Vk9zUllmaHFyaWlNV0otSmVsU1lOXzFGRUx0Y1Jaako5ZXo2OGFuN1hrSUhfSWFCdVJLS3RwZUJ3dkNzU28wby1GUEhvd0RzNV83NnhBLURlaUJ3d215ZlNvcVdTYkNUbXJ1Q25pQUdkN1FsaUV2NkcySmE2?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794516490000,
+      "tag": "team"
+    },
+    {
+      "title": "Can Warriors survive without Stephen Curry with tough stretch ahead? - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMzR2cUVWRzN1ekdzTDhGNFJSTGNub1dRdFRHNEI2b1hzUDhBUnRIVFNfYU5HQ29WZzVPSm5Zb0RPS09US0k5TmMtNk1kaktpa0w4SVBCQnVKUUFwTmIweVFaSklzNGpob0drUHowVW8tNndTMTMtVE84VHdpUnQwb20yM0tnbnUwWmI1anNsMEFib3RwVWNBOXNkODFSYllZb2RzV2F0S0xGUm1fa3dkUG9HTElRYjdfMzFV?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794511732000,
+      "tag": "league"
+    },
+    {
+      "title": "Stephen Curry suffers oblique abdominal tear, will be re-evaluated in two weeks - NBC Sports",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcndrOG85QUhjS2VSdnE0dUwyeXMzbDdnakZtVkxHYXpaZkpXdWhCSEhzMVNVYWdYelpNNFAyQnctU2VtWnBsdl9rQ2x0eDk5Q0kxZzFKUHZzWFhNdGhCQ19XNGpPOThvYjJJUE9xRmlMQmJOSUtSbHhHc2JPRkpEUTc5Y0N0QVBoSnZhTE5wVk5FNWs3aGtZdFFfd1dqRzFlVHRjYmN4X0Zsanc0V2ZrRWpXVUFnUQ?oc=5",
       "source": "NBC Sports",
       "ts": 1794509085000,
       "tag": "league"
     },
     {
-      "title": "Mavericks vs. Timberwolves injury report: Morez Johnson Jr. among players listed - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmJaS2gyY1J6WTg0czExT1lHdXRvREhvcm1LWlNBMHhIWE5qRVVfa0VnRFAwcEg3UjZ0Vnh0YmVQWC1yMUNHaHViZWU4cVhmQ211ZHpUczJQOEc4TW10dERIakNKQU5NSnFtQV9mYjRXb2hwc0NsZ2lPRXJVXzljNFNkVms2SFR1VWJKVC16NUdrUQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794508655000,
+      "title": "Two days in October: Inside Chris Finch\u2019s meticulous world with the Timberwolves - The Athletic - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYU41ZklGRGNWZ0N0eks3TDZEbi03V2dhbmtQOXV1TzFQbVd6c2NJV21lWGhkdDdxNGszU3dnUUhfT3hIaWZRSVNNUmlJTzNyNEJEQmNSbUdkYlB1UmZ6RXVxaXcyb1BudnN1WjJmMEF0UzZPUGJsamVHZkRuNTVvN1J1SnJGcHg1VFE?oc=5",
+      "source": "The New York Times",
+      "ts": 1794506976000,
       "tag": "league"
     },
     {
@@ -48,17 +111,17 @@
       "tag": "team"
     },
     {
-      "title": "76ers Joel Embiid (foot) questionable, LeBron James (back) out vs. Raptors - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYl9EUlIwaHRnOEpFMUxwWHZGVDBvRkwxdzZjWWpvSS12Z0drbElPUjhsZXBQM3JUOTZ1TklVQnBwY2JXdmxzT0Q0cl9XVUE0eEE1Sm5xaXpIY0djUEZhRUpEMjUxemxidTUwVU96ZDJ0aEVRNkhPdU5oTzBTM29GY3F0NUNMUHl6Yi1naEp4dllaTEkzU2tqb19VTGFRYUt4?oc=5",
-      "source": "ESPN",
-      "ts": 1794505140000,
+      "title": "Stephen Curry out 2 weeks with oblique abdominal tear - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FZ2U4Nm0wdTBCTFVXeXV4Q3lHVTgwNnFVQW1XZ2plTWx1VVU5SDA3WGpoTHdGYnQ5c3AxYTZ1YnFiZWc3VVhNZFpBejlJVVMyc0huMEdhU3NSU3M0cTBNREZKV1F6d0NpZXotMTl3?oc=5",
+      "source": "NBA.com",
+      "ts": 1794506153000,
       "tag": "league"
     },
     {
-      "title": "Tim Hardaway praises the Lakers for putting the right pieces around Luka Doncic: \"They're playing the way they're supposed to play\" - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdEZ4MVRLcEpPc2tadndnNW1INjd0REx1RDYwZ3lmR28xUTQxVVVlWm1iTjZBcGh5azEzQUwyZkhMUXJjSFA5VjgxS2FwdGY4dTM4WGhoWG1YSVNCRl9BYjZ0aGFoelpWbGZGYndYbnJSVkxGR2hGOTVlbVl4Z29MRExrb3c2R2VNbjhpcw?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794503583000,
+      "title": "NBA Doubles Down on Kenny Beecham, Enjoy Basketball - Front Office Sports",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWV8yNGQtVEt4WnRTRGtYbVhxQWJfQUhkczZVaUVCWmk4OVRYNzE0dER0UFVpSUx0SGNYTzZwOVhHaXQ2NFhqRUx4c3RuOG5wT1F6LVBHdUFnVjNoaXFEUjlRa2VUaHdZcDBxRXFCOHhiQWFIWi01MlowdEk5VUtXWlh4SlNINHlvT2Q2eEpXdUJMSDhlS1BaaA?oc=5",
+      "source": "Front Office Sports",
+      "ts": 1794505035000,
       "tag": "league"
     },
     {
@@ -90,45 +153,24 @@
       "tag": "team"
     },
     {
-      "title": "Minnesota Insider Provides Anthony Edwards Injury Rehab Update After Timberwolves Star Shows Up on Crutches - BasketballNews.com",
-      "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxPSm5rMFFoZXpHUktyajcwN2Jtc1pPVV9hbm9qdnJPZUNGTENQQ0FzQzBoZXJoY2otQVRGbUFqS0VKMTZXbWJBWkVWbDBQZmsxOEI2a011UWNVeGlJRlZ1LTJIbHpGV1lCa3dreXppdGRGQ3Iyck12Y0h1MGEtUEZzRUVkX3FoT09Eb2tNbjVIUl82WkEtRk9GZF9wUjN1ZmFFUFVTRkNvaXF3ZDZ3Y2xZcFhvQUl4VVVUeHhtV3hJWlFEQi11YWplZFF1Rl92Q29BQjFJTFNXTDUwWDNNVk9VSVJGSVpEaDlrSG1GVEw2M3RTUUYxSzFzMXNXRl9DTndPbGVSX1dDTnplQVFKSHFjS0dydk03N0pSbGJkVThUaHlxUlRT?oc=5",
-      "source": "BasketballNews.com",
-      "ts": 1794502656000,
+      "title": "Naz Reid Trade Addressed by NBA Insider as Potential Changes to Hornets' Roster Eyed - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQUVZT1hlZ0J1QXgtMjhMU3hGa3ktT1lpdEstbDk0OXpDVVZMQ3daWGh1YkJxU3FVVGR4WVJ3UmJVbmZkVlVPcUZPSEhGS3pTYVJIelRSeHhySEV5Q2IyT0NaV2ZQQmk1ZXg4Ynl0dDFSWlhxRHpEbGxSVWJ6SWVmdjV0TWtWN055dndEWUJnRXhPQUtuSjgzVkZMN3JyTTZtS2hkcXQ3Q1N4Sl9zSXpMTFFiNXlaWWMydk53?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1794500337000,
       "tag": "league"
     },
     {
-      "title": "Stephen Curry Injury Update - 11/12/26 - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBzTW5YRGdFNTEwZVBpLWJrMkZhMWR2VXN1S2NyUHc0LTlKNWN2MnhDU1pEN000V3NWcFN3OXY5bDR5d0RZcU1BZ3B1aEtDNGFLOEFPMWxJbWkyaUxlSWdKTWM5X2UzbUxjTWt2b2RzSQ?oc=5",
-      "source": "NBA.com",
-      "ts": 1794502560000,
+      "title": "Why Detroit Could End Up Being Aggressive Before the NBA Trade Deadline - Sports Illustrated",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkpMYXFEUmxFYnh0dTV5TVduNlBISEM5cHJyLWg0NExYZ002SjA4b2wxMUw4NVM0VllOZEpwQlNLOG50SDQxMENUc3dVcmVudHQ1T0tpM1lQajNsN0huVE40LTY3bjRqWFBIM0tzSFFBbjRTSlB1SkdJcXVHRWU0OHlKTzVfcUFUb29CRm1fUlNWazZ1am1VUTd5ZnFnanFGc1FncWVDU2FiRko3Z0QxVU40S203aHdoVkRGcg?oc=5",
+      "source": "Sports Illustrated",
+      "ts": 1794496807000,
       "tag": "league"
     },
     {
-      "title": "Sergi\u00f1o Dest to leave USMNT camp with injury, out for Nations League quarterfinals - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUDZUbDRHYjA5NVZ5SUJGcVA0SHVHOGF5QUdvV0doTzRwcE5LZFRIR3RxVG1uektxUWRKY256RmF0aXNxMHJPbWpQTENGSmZyMEIwLWk2YjhqejlyN3FTaWNFZWVFNUk1TU40UmowT05VanRpZEMzLVp1VXhJWUFrMkt0VDBIaDhiVGU5TEpRc3ZibjNta3J0NjdkMThBVzhv?oc=5",
-      "source": "The New York Times",
-      "ts": 1794500919000,
-      "tag": "league"
-    },
-    {
-      "title": "Why Detroit Could End Up Being Aggressive Before the NBA Trade Deadline - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUXVOc0dPYWE1V1VJRFFEWGZxSkFiT3hQZFloTEFqS21tTGxUanV4RzlBYmNrQUlWV014THFMUm8wSEEteWV2RjVOazRMLXBGcVc1WGl5RzhyVDZJcmZZLVNaUzNrMlNiR0JrNG93cml6MFJrdjJDdkI2Z1RQcnRlNTZ3?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794496808000,
-      "tag": "league"
-    },
-    {
-      "title": "ProphetX Promo Code SBWIRE: Trade $40, Get $40 for NFL, NBA & More - Golfweek",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGlLTmplYWEyR0hYV20zXzhOeHAyRnE0U2RieFpabFdFYXliU1gwNG9XT19OQ0hVTXBVU1JZLXRKQWtfUEpIVnc4UVEtUl9KQ3UyRHZidmhBX1ExSi1IVVFxX29WdnpTck8wSmZ6YU1kUWgtTUxvS0VfdFFKNlo4c0c3QkVhUnVQeXVEUkYxUHVDeWRnWWhrb2NfSlZzeEhfd2xlVElzRDg?oc=5",
-      "source": "Golfweek",
-      "ts": 1794494700000,
-      "tag": "league"
-    },
-    {
-      "title": "Novig Promo Code ALCOM: Get $50 bonus to trade Thursday Night Football, NBA - AL.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYlZ4bU9yamd3UUN4XzZqaDZ0c3l4bEc1MmdDMlFXZXY5RGU2QmFRbzR4bVpROC0zeGlabEJob1piekRRWnp1eFU1VkJ3a2oyLVN6V3hfQjBWOUZxRC1LOUtzVF80SEFteU1QU05XUnhTclV5dU5IRUxLTUlMM2ZMRHBRRHVnZWlwdVJKdkJBbEVfRDMyUjhCTmJaeUVGQ2g1Ri0waUh1b0haNHN5S05wUm93?oc=5",
-      "source": "AL.com",
-      "ts": 1794493380000,
+      "title": "\"He wanted validation from his peers on Golden State\" \u2013 NBA reporter reveals private talk with Kevin Durant about leaving OKC - Basketball Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWHYwM2NZZEk3UXZuVXREMml4U3h3R3FFYlR3dE5CcHhFOTZtSGtGa2lhek9iazduUlhZcnhKendaVXRIWjZmY2lWaENOaWY3NkR3elFKcnlhaWVuUkJKR3ltak1DbnlnckZsSDFOWGw4aHpxNHNhNDVYblo1NTN4MzdVN29XQ0hqWC1pcUxGc2dDdGZLc3hTTmNuQXJKdmJxbEFwMXBMSl93WjRrbHBFcWptR21pU1pX?oc=5",
+      "source": "Basketball Network",
+      "ts": 1794492060000,
       "tag": "league"
     },
     {
@@ -139,31 +181,24 @@
       "tag": "league"
     },
     {
-      "title": "Anthony Davis Among Early Top NBA Trade Candidates - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVTV0SDIwT0VVOEFhQzZiZEVuLUNZYlhZYW1feFgzTlZXcVplUTdYMmc0WklsYjExc3Vqd2VKU2hLejBUMzdYNU5RcFZmRzdtRWtLUnk5dUdObFpwbWUzaTRWb211Y3M4eW5UOFVPdjBOLU15SFlXWTB2RnpMczBCX0p3?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794489196000,
+      "title": "Game Recap: Rockets 115, Warriors 108 (Nov. 11) - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZVXplNExwaWNPWEsyckZQSnNTZ2dnSzdHeVNlbW93QkpBUmpkZGd3N1F1NXAyMVZwMkN5ZUE4MkpzUERLem5GbktsS3Y1R0dxeElrNlB4c3VmaEJHb3R4aDlKRHk3N3pLVDRxc2lnTC1adWpqNjUxS2xvR2Z3dVE?oc=5",
+      "source": "NBA.com",
+      "ts": 1794488698000,
       "tag": "league"
+    },
+    {
+      "title": "1 Overreaction To Every NBA Team's Start - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVhoQ25CU3FTUFRfZzR3c3cxbGRldi1YX2R1ZDFldGZfdzV6Nmw2MC0teHgzQnRCb0FBVWZNNER2R2ctTXFoMmdLWmluVExoUnM1aklKWU1EeVVONHBjZGdJd0JpZ1NuajNfRktzc3BaS09wUWcyWktwb1hqVGxlVXUzSDQtMkhp?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1794485742000,
+      "tag": "team"
     },
     {
       "title": "NBA trade deadline: Big questions for Knicks, Thunder and other top teams - ESPN",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3h0dmd0TE9laVV3NloyRUwwUmpIM1ZOLXMyWWRUMzFGVlU4QWwwYWlUdzZiczhYRi1IWVpXQmNvUG10MF9XMXRkRmNsa1JaQW1jQ1JGZkJHaC1HN2NPeU1sWUhfeDhvM21iWjhRSDdmR1lvR3E0MWI0ZTBiWEx1aVdjZF9qMmI3cGhMWlJ6RXE2ZlFwaUJjZ2R3?oc=5",
       "source": "ESPN",
       "ts": 1794484500000,
-      "tag": "league"
-    },
-    {
-      "title": "Bulls and Hawks meet Friday in NBA Cup group stage - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUzJ1NDU2ZzNkNzdEYkhkOU5lMk9PWmN0ekJNLUJPNE55bkJzWTBLTlRoZ0RkRGtJWXBxNUtsN2NYTTh3U2lIWTZOSU90NUlKX0hGUGl3ZjVkZUpNblFZclJQZUtTZlZqZ3BqbUVTTnJoZ3kwcnVSc0daSVBSdFktSnRaQzdsdVYwMXF3NGNuRjk2WE1Y0gGaAUFVX3lxTE0xR0RRUjhRaFpKUTdqcEpKRm5TZ2lFNGFJNnVXZjRycG5qNjlVdFNabl9YcTZqN1ctb05UbVBUUWtlcUZtYXZ3aTBVUXlEbm41eDI3aE00d1lydDV0R0c3QUJVcXBFVWc5azN3QlQ1SkRfVUVxSlRsbEl4VGd2SWdmblk2ZXFqa0tqX2V3Sk5uNHVHb1lzVko4UEE?oc=5",
-      "source": "ABC News - Breaking News, Latest News and Videos",
-      "ts": 1794472595000,
-      "tag": "team"
-    },
-    {
-      "title": "Lakers' Austin Reaves to undergo medical imaging after injuring heel - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zNWJzVkxmUnQwMmxhRUhMMGY2T1ZSYkFHQWFGX0F5c3NodVdZYVp0QXpiQlhTZ3g3WkhaR2loa3hHVkFHd2h2cjFmUVkyeGFjdkhJcEZqNnRiSEZtYndwSnZyV3IzbWRj?oc=5",
-      "source": "NBA.com",
-      "ts": 1794469906000,
       "tag": "league"
     },
     {
@@ -174,54 +209,14 @@
       "tag": "league"
     },
     {
-      "title": "Austin Reaves exits with heel injury as banged-up Lakers win 7th straight - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzdFb2lnb0k1UDVDUE5zZ0Q0am0wOWNQU0tYVWZjMW9rNlRieDJGcVNZMVpDTVhhT3E1cjNsWWZlM1RydWNjaHlzLUljUGlmcTFkUlgyNkZ2cXlVRGFIaDVZR0hUZWhBcFJIdG80N3pvWDFtTllzYkcwSFhWYnFnUEdEMHByNEQ3d09wVG5wNnFzSjZreTlsbA?oc=5",
-      "source": "ESPN",
-      "ts": 1794461460000,
-      "tag": "league"
-    },
-    {
-      "title": "Golden State Warriors vs Houston Rockets Nov 11, 2026 Box Scores - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sM3JTaVR2VG40MzNLRWVJdF8xQURYRW1meThQUzdfbkE4VHVtTkZiMURwVXpaRHpTVVBxZ0RXSHdmR0dIMTllbE5XMGgtM2RXZmwwYmRkRXAtNjVGZDI5ZVdabU1aR3c?oc=5",
-      "source": "NBA.com",
-      "ts": 1794450580000,
-      "tag": "league"
-    },
-    {
-      "title": "\u2018It\u2019s forever\u2019: Lakers rookie Cameron Carr cherishing first NBA points - Los Angeles Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONlVzSEVnNWFHOHNwandrNDFGX1pJeVlmZ3RPeGxOcHB4SWxmSml6TEVNc0FjdTF0bkdDMEV0ZkhkbE92a21WdlNMV0g4Nm5yMldUS05FOTAxUUNibFc3ell5Wk1DMzZWT2FLVjdJUEJCLThyNmk1dzNKMnhraFlIZ3NJRllSMHh4alJaNGd1UnF3dzVHVS1ZdEt1X19XREttNzRSZDlxZ0FwVDNkVDJ4enRrS0lDMFpvVlZkZkhR?oc=5",
-      "source": "Los Angeles Times",
-      "ts": 1794431710000,
-      "tag": "team"
-    },
-    {
-      "title": "Steph Curry shooting left-handed? Warriors\u2019 Brandin Podziemski made it happen to improve his game - San Francisco Chronicle",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTY5ZThDMkhyU3ZvTlhQSk5TZl84NGpBQzkxYkVoclNUOTctS3FldlljUU1oNGkydmVvbHFzZEFvVVhQTWxFeXhkTDBENnZFQURIYUdkcVJVcVAyVFVEVzJad3FOSXRGQWVGcGdLakw4OVlkX3VnRUtRYjN1cU9JOVNZTE92WEJHSkt1MHZzc29JTWFZQmdqVVlfOTVzQ0tQMGlvYWM4WHVrOW8?oc=5",
-      "source": "San Francisco Chronicle",
-      "ts": 1794430975000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA Week 4 Injury Report: Keyonte George latest early-season injury for Jazz - NBC Sports",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOLWZsTmJSUVl0dmJyWkNjdTY3N3BTY2dZZ0JLUUs3N0IyWlNDVjczRFRlSy1NaGlHWExCUUo4UXBaNnNydWZLYWRKOUhiNW1iMnZXd1loeGRSa2R1M2FRVlVBSzh6UmppbXJUZlR3MlNVa3BURFdCaTRZcHJCejRGMFF1OHBVYkktcVdvUkp5Q3JReXVyUzZlY2xUYXcwRnlKc0d4Nm1teXlKUmtyejdyU1RsTWZHTHE4Zk9ZSjF5bUpkVVk?oc=5",
-      "source": "NBC Sports",
-      "ts": 1794425075000,
-      "tag": "league"
-    },
-    {
-      "title": "Stephen Curry and Kevin Durant continue to impact the game before their 41st matchup - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1OZ0FsSHdxNVN4cFhIdW50ZElHZHRpNm80NzFyTHAzVjJxa3c4Rmw5cVF6Q3RoVGp2bzNIcmg4Q2c0cGcwbmVtVV9HNHlkWmhtRUpvUERrMW45QzZ0ZDFiQnZhNDZQT0VmLUxMZ2VWVFVKZw?oc=5",
-      "source": "NBA.com",
-      "ts": 1794404074000,
+      "title": "Jamal Murray\u2019s 30 points, Cam Johnson\u2019s timely plays help Nuggets hold off Grizzlies - The Denver Post",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdlo4MDZNaUd3anZYaHRib1dNT0R0S1FoUnEyR1hkUk1XNTFFQXl1MlVwRGt5NGxXSTRPVHpkTDN1VUFrQ1JBbXJJc25RTlNVeFFONi1Tc2U2MDZSZzV6VU1wNWg4MnZMNGtvSDJwX050MUl4M3lPaENYTk44a0twZHVoN0dtWnlmZy1KaHdB?oc=5",
+      "source": "The Denver Post",
+      "ts": 1794455440000,
       "tag": "league"
     }
   ],
   "pushed": [
-    "treyalexanderinjuryruledoutforwednesdayrotowire",
-    "tjmcconnellinjuryruledoutforwednesdayrotowire",
-    "anthonyblackinjurywontplaywednesdayrotowire",
-    "brandinpodziemskiruledoutofwarriorsnbaseasonopenerwithbackin",
-    "collinsextoninjuryquestionableforwednesdayrotowire",
     "stephencurryinjuryprobableforopeningnightrotowire",
     "brandinpodziemskiinjuryruledoutforregularseasonopenerrotowir",
     "thundervsspurspredictionmarketstradenbaopeningdaywithpolymar",
@@ -716,6 +711,11 @@
     "minnesotainsiderprovidesanthonyedwardsinjuryrehabupdateafter",
     "stephencurryinjuryupdate111226nbacom",
     "sergi\u00f1odesttoleaveusmntcampwithinjuryoutfornationsleaguequar",
-    "whydetroitcouldendupbeingaggressivebeforethenbatradedeadline"
+    "whydetroitcouldendupbeingaggressivebeforethenbatradedeadline",
+    "nbatraderumorsconfirmwhatspursfansknewallalongyahoosports",
+    "chicagobullslosecalebwilsontoinjuryblazersedge",
+    "rocketssmartsuspendedthreegamesforthrowingpunchnbayahoosport",
+    "atlantahawksinjuryreportkingstonflemingsstatusupintheairahea",
+    "nbainjuryscaresandejectionsturnwednesdaynightintochaosyahoos"
   ]
 }
