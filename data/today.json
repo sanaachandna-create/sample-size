@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-13T15:52:58+00:00",
+  "updated": "2026-11-13T21:48:31+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 262,
+  "injuryCount": 270,
   "games": [
     {
       "ha": "NYK",
@@ -116,7 +116,7 @@
           "p": "Tristan Da Silva",
           "st": "GTD",
           "team": "ORL",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-13, MIL@ORL). Prior reporting (2026-11-12): Da "
+          "note": "Injury/Illness - Left Calf Strain (2026-11-13, MIL@ORL). Prior reporting (2026-11-13): Da "
         },
         {
           "p": "Jamal Cain",
@@ -185,19 +185,19 @@
           "p": "Pelle Larsson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): Larsson (ill"
+          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): Larsson (ill"
         },
         {
           "p": "Klay Thompson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): "
+          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): "
         },
         {
           "p": "Giannis Antetokounmpo",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): A"
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA)."
         },
         {
           "p": "Vladislav Goldin",
@@ -276,7 +276,7 @@
         },
         {
           "p": "Jalen Wilson",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-11-13, ATL@CHI)."
         },
@@ -303,6 +303,12 @@
           "st": "GTD",
           "team": "CHI",
           "note": "Injury/Illness - Right Disc Irritation (2026-11-13, ATL@CHI). Prior reporting (2026-11-12)"
+        },
+        {
+          "p": "Jaylin Sellers",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "G League - Two-Way (2026-11-13, ATL@CHI)."
         }
       ],
       "lineups": {
@@ -369,13 +375,13 @@
         },
         {
           "p": "Yves Missi",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-11-13, MEM@NOP). Prior reporting "
         },
         {
           "p": "Trey Murphy III",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Bilateral Patellar Tendinopathy (2026-11-13, MEM@NOP). Prior reporting (2"
         },
@@ -389,25 +395,31 @@
           "p": "Bennedict Mathurin",
           "st": "GTD",
           "team": "NOP",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-12): M"
+          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): M"
         },
         {
           "p": "Malik Dia",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
         },
         {
           "p": "Bryce McGowens",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
-          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-12):"
+          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-13):"
         },
         {
           "p": "Jaron Pierre Jr.",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
+        },
+        {
+          "p": "Dejounte Murray",
+          "st": "OUT",
+          "team": "NOP",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): Mu"
         }
       ],
       "lineups": {
@@ -654,7 +666,7 @@
         },
         {
           "p": "Precious Achiuwa",
-          "st": "GTD",
+          "st": "OUT",
           "team": "SAC",
           "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, POR@SAC). Prior reporting (2026-11-13): "
         },
@@ -810,13 +822,13 @@
         },
         {
           "p": "Yves Missi",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-11-13, MEM@NOP). Prior reporting "
         },
         {
           "p": "Trey Murphy III",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Bilateral Patellar Tendinopathy (2026-11-13, MEM@NOP). Prior reporting (2"
         },
@@ -830,25 +842,31 @@
           "p": "Bennedict Mathurin",
           "st": "GTD",
           "team": "NOP",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-12): M"
+          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): M"
         },
         {
           "p": "Malik Dia",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
         },
         {
           "p": "Bryce McGowens",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
-          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-12):"
+          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-13):"
         },
         {
           "p": "Jaron Pierre Jr.",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
+        },
+        {
+          "p": "Dejounte Murray",
+          "st": "OUT",
+          "team": "NOP",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): Mu"
         }
       ],
       "lineups": {
@@ -974,19 +992,19 @@
           "p": "Pelle Larsson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): Larsson (ill"
+          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): Larsson (ill"
         },
         {
           "p": "Klay Thompson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): "
+          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): "
         },
         {
           "p": "Giannis Antetokounmpo",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): A"
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA)."
         },
         {
           "p": "Vladislav Goldin",
@@ -1121,6 +1139,12 @@
           "note": "Injury/Illness - Right Disc Irritation (2026-11-13, ATL@CHI). Prior reporting (2026-11-12)"
         },
         {
+          "p": "Jaylin Sellers",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "G League - Two-Way (2026-11-13, ATL@CHI)."
+        },
+        {
           "p": "Donte DiVincenzo",
           "st": "OUT",
           "team": "MIN",
@@ -1244,13 +1268,13 @@
           "p": "Quentin Grimes",
           "st": "GTD",
           "team": "LAL",
-          "note": "Grimes (finger) has been ruled out for Wednesday's game against the Bucks. Grimes didn't p"
+          "note": "Grimes (finger) said he expects to return to action Sunday against the Suns, according to "
         },
         {
           "p": "Austin Reaves",
           "st": "GTD",
           "team": "LAL",
-          "note": "Head coach JJ Redick said that X-rays on Reaves' left heel came back negative, but they wo"
+          "note": "Reaves (heel) won't undergo imaging and is considered day-to-day ahead of Sunday's game ag"
         },
         {
           "p": "Collin Sexton",
@@ -1262,13 +1286,19 @@
           "p": "Luka Doncic",
           "st": "GTD",
           "team": "LAL",
-          "note": "Doncic finished Wednesday's 123-112 win over the Bucks with 32 points (10-25 FG, 5-12 3Pt,"
+          "note": "Head coach JJ Redick said Friday that Doncic (ankle) is \"fine,\" per Law Murray of The Athl"
         },
         {
           "p": "Mark Williams",
           "st": "OUT",
           "team": "PHX",
           "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
+        },
+        {
+          "p": "Drew Timme",
+          "st": "GTD",
+          "team": "PHX",
+          "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com. After bein"
         }
       ],
       "lineups": {
@@ -1698,7 +1728,7 @@
         },
         {
           "p": "Jalen Wilson",
-          "st": "GTD",
+          "st": "OUT",
           "team": "ATL",
           "note": "G League - Two-Way (2026-11-13, ATL@CHI)."
         }
@@ -1785,7 +1815,7 @@
         },
         {
           "p": "Precious Achiuwa",
-          "st": "GTD",
+          "st": "OUT",
           "team": "SAC",
           "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, POR@SAC). Prior reporting (2026-11-13): "
         },
@@ -1868,7 +1898,7 @@
           "p": "Tristan Da Silva",
           "st": "GTD",
           "team": "ORL",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-13, MIL@ORL). Prior reporting (2026-11-12): Da "
+          "note": "Injury/Illness - Left Calf Strain (2026-11-13, MIL@ORL). Prior reporting (2026-11-13): Da "
         },
         {
           "p": "Jamal Cain",
@@ -1932,6 +1962,12 @@
           "st": "GTD",
           "team": "CHI",
           "note": "Injury/Illness - Right Disc Irritation (2026-11-13, ATL@CHI). Prior reporting (2026-11-12)"
+        },
+        {
+          "p": "Jaylin Sellers",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "G League - Two-Way (2026-11-13, ATL@CHI)."
         },
         {
           "p": "Sam Merrill",
@@ -2180,19 +2216,19 @@
           "p": "Pelle Larsson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): Larsson (ill"
+          "note": "Injury/Illness - Illness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): Larsson (ill"
         },
         {
           "p": "Klay Thompson",
           "st": "GTD",
           "team": "MIA",
-          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): "
+          "note": "Injury/Illness - Left Ankle Soreness (2026-11-13, CLE@MIA). Prior reporting (2026-11-13): "
         },
         {
           "p": "Giannis Antetokounmpo",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA). Prior reporting (2026-11-12): A"
+          "note": "Injury/Illness - Right Wrist Sprain (2026-11-13, CLE@MIA)."
         },
         {
           "p": "Vladislav Goldin",
@@ -2328,13 +2364,13 @@
         },
         {
           "p": "Yves Missi",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Left Knee Contusion / Bone Bruise (2026-11-13, MEM@NOP). Prior reporting "
         },
         {
           "p": "Trey Murphy III",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "Injury/Illness - Bilateral Patellar Tendinopathy (2026-11-13, MEM@NOP). Prior reporting (2"
         },
@@ -2348,25 +2384,31 @@
           "p": "Bennedict Mathurin",
           "st": "GTD",
           "team": "NOP",
-          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-12): M"
+          "note": "Injury/Illness - Right Thumb Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): M"
         },
         {
           "p": "Malik Dia",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
         },
         {
           "p": "Bryce McGowens",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
-          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-12):"
+          "note": "Injury/Illness - Left Elbow Infection (2026-11-13, MEM@NOP). Prior reporting (2026-11-13):"
         },
         {
           "p": "Jaron Pierre Jr.",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-13, MEM@NOP)."
+        },
+        {
+          "p": "Dejounte Murray",
+          "st": "OUT",
+          "team": "NOP",
+          "note": "Injury/Illness - Left Ankle Sprain (2026-11-13, MEM@NOP). Prior reporting (2026-11-13): Mu"
         }
       ],
       "lineups": {
@@ -2400,6 +2442,12 @@
           "st": "OUT",
           "team": "PHX",
           "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
+        },
+        {
+          "p": "Drew Timme",
+          "st": "GTD",
+          "team": "PHX",
+          "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com. After bein"
         },
         {
           "p": "Julian Strawther",
