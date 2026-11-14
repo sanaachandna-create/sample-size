@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-13T18:43:01+00:00",
-  "count": 523,
+  "updated": "2026-11-14T17:16:45+00:00",
+  "count": 525,
   "error": null,
   "players": [
     {
@@ -1522,6 +1522,12 @@
       "pos": "G"
     },
     {
+      "id": 1057382509,
+      "name": "Johni Broome",
+      "team": "MIN",
+      "pos": "F"
+    },
+    {
       "id": 1028035897,
       "name": "Johnny Furphy",
       "team": "IND",
@@ -2396,6 +2402,12 @@
       "name": "Onyeka Okongwu",
       "team": "ATL",
       "pos": "F-C"
+    },
+    {
+      "id": 39398582,
+      "name": "Orlando Robinson",
+      "team": "CHI",
+      "pos": "C"
     },
     {
       "id": 56677778,
