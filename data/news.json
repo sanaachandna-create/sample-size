@@ -1,22 +1,113 @@
 {
-  "updated": "2026-11-15T17:12:21+00:00",
+  "updated": "2026-11-15T21:49:57+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
-      "title": "Andrew Nembhard Injury: Won't play Sunday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUkhpQmlGM1RUQnZPRjVaYnM2Q29VR1JCMTBTaHNucl9FT3NETXBibmk0MXpHcnF0S3AxTnI2aDlWbU1tMlRSOUYwa3lpZmx2VUNvd2E3MTVyUmxhTWJJLU1BNVJvcVRZbkFldW1YUXRhSm1Tb0lYZDVhMVZhSFNjaVdLZE9JcWlfdVRqVzI2Unk0WWxZWkJB?oc=5",
+      "title": "Scottie Barnes Injury: Upgraded to probable Sunday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMklTSXotYTlvbHZvZnJ2OTZ1RU1uSXA2VlFLY0lmckJ1emdaZlNNSWlBV0JqRzZmTkpzaC1fOTV4SUs1X3pnQmhiaXJsb3NQZFJwUm8zYjlZcDVFRUJYZkhKcDlLUW1UVmMtbE1jU2tmZnIwSEVHYzBNWlIwZDdtZWFwdnctV21KR2FBa0ZtOGsxTDc2Zk9KbWZzWjNseUdoSHc4WA?oc=5",
       "source": "RotoWire",
-      "ts": 1794761077000,
+      "ts": 1794778991000,
       "tag": "league"
     },
     {
-      "title": "\"It only made me stronger\" - Shaq revealed how getting swept by the Jazz sparked the Lakers\u2019 Three-Peat - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ2pZeVZHQW82aGVvTnRuNTNZcTFKQUR1dlAxMWFOU2ZIVVJ6TzVhd2NoLXg3SlFGWk0tUzc1Sm5jdFdJQzBKWk1PaGtYY1pUck1WMUVfUkptR284aXdwZXhhZld0TlBwckV4YlluclByZTJBNXpmTV9rdVJoQkZtRU5paDBKNkcw?oc=5",
+      "title": "CJ McCollum Says Kingston Flemings \u2018Has to Develop\u2019 for Hawks to Win Long Term - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc0xUWk1UY3d1VUxzZ1FEelgxQlpYWXN4c3pEUk5wYlF6VmNCZTZvc2hjZzN1SXlza1p1Wk54eXU5RVBoSHhlRHBfYjJkV1FxcFQxb0Y3ZFlyNHJyRmxnNUU4Ujc5QlpucHlnMDQzMTFxM0tQTVdMbTdEcnNxNGNhaksyRE0xREZkM0tv?oc=5",
       "source": "Yahoo Sports",
-      "ts": 1794759766000,
+      "ts": 1794777430000,
+      "tag": "team"
+    },
+    {
+      "title": "Kelly Oubre Gets Honest On Leaving 76ers For Pacers In NBA Free Agency - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNm9mcVlKWVkxcGRpUVVzcndUb2RmSFFHUGdCTTRlM3lJMUs1d29CdUw5R1ptcUQtcVZiSlZsblRHSTgyRHJITmNOLUI5TWZsY2dUYU9yek9CR25kelVTTTktTlRkS0ZqWFZMcndYSnI4OEhjV3V3bjUyNmN0a1BJOW14ZjdSbFE?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794776720000,
+      "tag": "league"
+    },
+    {
+      "title": "LeBron James passes Jason Kidd for No. 3 on NBA's all-time assists list - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWVZWVDJpeUxsSGoxLU04d1A4SE1IN1JUdG1WLTFhYVJFRVpOOXk4TTVHU3A1VU1XcUxuZnhMNmdrY1ZhZF9PSkJzQUJtaHdEWl9PWFY5ajg5UFNVOVhyb1JhU1V0a2FUbDJhNFBlU3JMWU5pdnF6ZVpZcDVOZlB4dDUzS084d19KZS10ZFg4cVl5MDdUeU1Qd3BRMlpaMEpxTEhGd2FJMXV1bWFUeW9ibGlKN2dka21yRkF4Sms1SnRvRk02Rnk5bU4xcGR5d0po?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794776074000,
+      "tag": "league"
+    },
+    {
+      "title": "LeBron James dishes 11 assists in 76ers win, climbs to third in NBA ranks - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPejVIVXpPLXlWenpsV2RkVEVHZmczZGhEeTg0eHpTYnJSemRZZTA1UnB1dm9ndXRmZ18yM0FNVHl5YjJJYllHRnVYdjJMNFR5MjRib2JOeXhmUENmRDBRWjVhTTJFalA4dVBXTnhFeFQ4ZXBVU05vUDRRTFFUVlA5WDY5VzZIT1pwRkpqckIyWElwcVl2Yl9n?oc=5",
+      "source": "ESPN",
+      "ts": 1794775260000,
+      "tag": "league"
+    },
+    {
+      "title": "Eastern Conference Team Emerges As Trade Fit for Suns' Devin Booker - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNb3Q5bWJlUEZjRmlUbHRNbWFIUlAwMkhoUUpXanBqdEhKbG5naTc2T0g3OU5fQTg0QjRZU2FFU0JWcWZGbkhXa3I2RW9kTkh0WG02TUFGYjRpcU5ROG5jNWJHLXlOb19VTjlSa28xQVctQkNMM3NQdU5PbFUySzBTNkpoVHR4NEl4ZTlzM1Bkbw?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794774922000,
+      "tag": "league"
+    },
+    {
+      "title": "After Lions\u2019 dominant win, how will Patriots get by without injured Drake Maye? - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMzE5a1A0N0NVQlVTSy1pRi1CSEp3MTVWTTFtYVZ5WlVlZEpPaVNENzl4bXU0bVdza1lMYWgzbFFjQzFNNmd4bl9DZTZhWld0LXNIZE5Uc2pKaUd1RXllbE8zZ3M5X21tdTRlemluc3ZGNW5kZkJOd0R0ZDBUS204OTA2U0l2YWFiZXkxbVVYdVY1ZUZTbGpkaG1lZ2E3WklUa25FTHZB?oc=5",
+      "source": "The New York Times",
+      "ts": 1794771315000,
+      "tag": "league"
+    },
+    {
+      "title": "Lions\u2019 Aidan Hutchinson suffers significant knee injury on sack celebration: Source - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTmZ6aVFiTEhjSUNJRnZFUE5JXzllc05BVm1aWW94VEI1cmdodWRwcmV5a203dDhVa2R1RFdhWmVTZGwxeVBxeVo5VmtKRmZ0Yl9WQVVqMjNSVWpabF9lYWtxWWlLTjNPdE1xczllLU84ZmdDTHRtNVRkMmFKVy1nN3BzbWpDUlVKVDF0Z1dIMnAwVTJXRnJhQ2FQSUU?oc=5",
+      "source": "The New York Times",
+      "ts": 1794771232000,
+      "tag": "league"
+    },
+    {
+      "title": "Kalshi referral code FREEP | Grab $25 bonus for NFL, NBA, NCAAF and more - Detroit Free Press",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWVpaek9XVi1pM0FpblpiNUVvaWh2OG5TN09YNTJrVVV4Z0ZwcllUVnM5R0cxTG1nM2M4NDFpVlVLcXktNTRCUGEwMVNCRjduM01vZi1HeGFFNDVUdnhFQXJ3UGtNZnhkVnQ0UXNiMENmRV9xanZPeGhIOVhOT0VyNmR0d01JNXRaejd1ZEFlR0VWb21YZ2FZZThJUWpmc3R3MHBFQndjTzVncmJRVUV6UmpmQQ?oc=5",
+      "source": "Detroit Free Press",
+      "ts": 1794769860000,
+      "tag": "league"
+    },
+    {
+      "title": "Indiana Pacers vs Philadelphia 76ers Nov 15, 2026 Play-by-Play - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5BX1Fzb2wwdGt3SUdhNEFPZVFFdEllSHVLNHpHcUZhQzlIQUZwLUxKbTg4OXYyWi1xRlJZWExEbzRlZU91TEZNX1kyNjVJazFiWEtiRDZ4N1FSNjBQMEt2QlZuRW45RW90dWxn?oc=5",
+      "source": "NBA.com",
+      "ts": 1794769162000,
+      "tag": "league"
+    },
+    {
+      "title": "Jonathan Isaac Injury: Remains out Monday - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmhGVkFNOVhxR3lXdzVTZ3owbXRrZnFZZGdfOEVHYkgzNHp4X3h3R2czY2NqOUlHVjdheTNXNmZjeXc1bU8tWVRtbWFWZDVqOFAwdlQ5am9MUTg1N0N1SDNvTUJidEJKbUxjVm82STZWcHJUT3lwaHRFYVFURzRyMHl2TGVXOE9JSTBnRHdFOXJCdHJWdEhXSQ?oc=5",
+      "source": "RotoWire",
+      "ts": 1794766939000,
+      "tag": "league"
+    },
+    {
+      "title": "Indiana Pacers vs Philadelphia 76ers Nov 15, 2026 Box Scores - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vV2p2bVRlODlBdnRnZnNnSGJ3YmJxSDF3MFZnalJ1aEFBR3Nvbnp5bVd5bGZNeG5XRkszcnBuSnR3MDJIMEp1UmdseTNDWFlTalo2NnlOYW94LU5kazROeWJvcWtwQ1E?oc=5",
+      "source": "NBA.com",
+      "ts": 1794766611000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Prop Ladders, Escalator Picks for Jalen Johnson, Isaiah Hartenstein (Sunday, Nov. 15) - Action Network",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM3NNN3FGVDZ3QVlnOGEyNFB3M3ZCeEtJelFQVm5ScGdLX20ycl9fUzdueVJNSFF6NGh4allhVFJ0cXpQU0lhdDZqaGN5bnFZczU1RUZRSW4xd3VIQnBjMl9WRzZPU2FxVFVqbkl3UW1CczdVQ3JoUU1OMXB1Y0NyRmhkVUQ3QW5xOGVuSGNCLWkwNXBWY0txbS1FcWh5Q0lKcXFEOW5UTV85Uzl6LWZzUUp2Y05YX2Rx?oc=5",
+      "source": "Action Network",
+      "ts": 1794763560000,
+      "tag": "player"
+    },
+    {
+      "title": "Atlanta Hawks at Milwaukee Bucks odds, picks and predictions - York Daily Record",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOThveXBDOEtESktFQ3E4VTBUQ25aOEczUlJoeFV6WHl4U0kteHNZUWRJdGdZVlVsWXY4VWdKVG9WWXNwT3otSlBhRmdJTW1NbHJjQXVlSmZVX2g3RTRia1VXSEgyTHhRT291Mlg4YlJoYUR5MmJ2Q1NqSWxSOExURlRQVHpWVUpGN1l1WUtZODhPZkF6RkRXZVlRZGM2ZndSRER5blpzY2dJUkVYbXZr?oc=5",
+      "source": "York Daily Record",
+      "ts": 1794761340000,
+      "tag": "team"
+    },
+    {
+      "title": "Rockets vs. Wizards injury report: Steven Adams upgraded after lengthy absence - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb1BobTl1WVBPQXZfWkdoMjB5NUtaN3VnY1VCNG1HaE9zblhFUWk4UUg1d1pNaUdCMnJKd2ZzakFfaGE2Mlh1V0x2NUZmbDU2d0xuWXJNUnNERjN2WDlaSld2emg5VDc5c0k0SE5HX2YtNm9EZl96SGpsR012dUQ1SU5WQ09GN3BX?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1794760858000,
       "tag": "league"
     },
     {
@@ -27,13 +118,6 @@
       "tag": "league"
     },
     {
-      "title": "Duncan Robinson Injury: Does not return Saturday - RotoWire",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRHNjZWpWOUJCc3hQVHF0Ykd6S1NxNThqOG9qTjI4NGZ0ZmhTUkdJbnVIVmVnVUlGSzZVUFJaY0dNX3N1dFB6MXRpUThFdVZLdFNPb3E1RjZzZFY4OWVIRmxPMFRiNXdCbDhBdFhZRlNocl96QXo2c3B3bzVXdF9PQjM2ZnViTWJoQkd2TlpMVlNBaWFBOGZSR2JiUGhtWDA4RXc?oc=5",
-      "source": "RotoWire",
-      "ts": 1794758329000,
-      "tag": "league"
-    },
-    {
       "title": "Sunday's fantasy basketball adds and bets to make in the NBA - ESPN",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSDBwNGJCMVhXaVNQTmJMSDNVemZacTlnaWZydjB0NEQxOUlCVk53NnVTRFA1OGhLNlAyMVNydFpXMFN2dF84VGRwWGlJRDNTWVlXRXprVWJjM2NsNkxLVV9FUlZwZ2xtYW5hR1U1QndqdHVLRmlwVEN5LW1kSmZCN0hneFlDbWZvdGVuNUlFUXcta1dEdm05SXo1V3B5UTRMTG5aVzY5Ym0xSUE?oc=5",
       "source": "ESPN",
@@ -41,32 +125,25 @@
       "tag": "league"
     },
     {
-      "title": "Inside the Jordan Dome, where 'Space Jam' pickup games helped MJ get his game back - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUphclZTdE5GblhzMlQtWF9oMk5YWE9FRVp2V1FDaEQwYUloUUpLeURlY3V1ZGFvRC1ZMndZdFlCanVtSVd6MjFTbVJjWkRnSUdKRVp5YkRCS2lqdjlwc09fb2ZFY3ZhaTJBU2wxVi10elk3RC14clZrRmVYN1FUS0tnRFhoTHVMWDgwSDZOX0Z2TWtWWGFsV3J3?oc=5",
-      "source": "ESPN",
-      "ts": 1794757320000,
+      "title": "This emergency Warriors-Hornets trade proposal can boost Golden State\u2019s title chances - FanSided",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlNoU29ockxKbDVlNGNiRlEtSGFKeHpSM09iUFJCNTVqc0hiT0hJdVlzQmZFQ2JiWWNMemg3ZXBBSmhET3cySnFZVVdXV0NsRDlVQjRCQzN2MGF0MGplcXRkWXRkVkxyNktXNjFaR0xubXRNR1NTTmxkRG4tYXhfRGxJSnl2RTFHSTZjQXZpblVYY0RlY2R2YVhUVExJLTFjaDV3QTZVNFFuamtpN2dJ?oc=5",
+      "source": "FanSided",
+      "ts": 1794754802000,
       "tag": "league"
     },
     {
-      "title": "Kalshi Promo Code SBWIRE55: $55 Bonus for NFL, Politics, NBA & More (Nov. 15) - Chiefs Wire",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZUE0X2V1ZkZUb0JaSjh6b3d3cmZuLU9HYXF0N1RraUJZNUV2aExWMEs4emRkV0w5NVQxWHhKZzZBVWtDbVpvbWRPRTZ2Nmc3VURQMEdTWk8tam5CRFRyTzNvQVRxX1lRNFlqZjhNMm9rNWQxN3BnbEU4YUU1VXhIdndqR2E3b1dzWGdnZFJaYUVzb1ktNHJTcFhBTnVLeGhOMVdtTQ?oc=5",
-      "source": "Chiefs Wire",
-      "ts": 1794753480000,
+      "title": "Sixers vs. Pacers: Game Preview, Injury Report and How to Watch 11/15/2026 - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQjhEOXhaTnNqY0JuSUcwdmFtMGRwN0w0RE1PdDl3dEE5dVB2S0V0cGljSnNvNUQzcnBuU1FyRk9jcmEtWG1Na29wNEZIbVp0QTViTVE5eUFDbE9iTC03QzZockhOd096UjVCS0xiSWNvX1FRZGRvazh6Q1dHNW50YVpZQXdnLWpjaVU2WmtTbnptM2tNVjdXYV8zOA?oc=5",
+      "source": "NBA.com",
+      "ts": 1794751328000,
       "tag": "league"
     },
     {
-      "title": "ProphetX sign-up bonus code FREEP delivers $40 for NFL, NBA, NCAAF & more - Detroit Free Press",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQmVNeVN6dlJxT0pqNncxcHlvYndldzdtQ0JnMW5xTC1uQzkwN3lSWFZmNndJY1RaNGFwc2RSVWpiWXdad1RyRU1PWDhQU0JhajFIbTJqTWNNZ1FERDl1ODdNTTZ0NHR2RnM2ajZiQll0R0sxZmRhV0NvRXpFQ0kwWGprcDdQTXg5c1c3YmxJck5OeTJFUHpVQkU3dndYSWNRWGFBYS1YMEVndGFJWTVzTQ?oc=5",
-      "source": "Detroit Free Press",
-      "ts": 1794753180000,
+      "title": "Waiver Wire Pickups and Streamers for Fantasy Basketball Week 5 (2026) - RotoBaller",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbllvcTE2SUdSODV4dVNSYWVDY2RsdVpfb2JfOTJTYmxTVUJ4WXFYeDJTWVZUSW9Vazk5U1FEY21GUk9nc1Y5Zk1OMWRTejFzelJoaHVqR0k1M1NzUnZfODhGTkdkajc2elhtU2xvS25LVDdHbWJBQk1rdXd5WU9VUEZZQ2pkdWRkYjcwWXJTTnFhQWlreTFOd01tSDhpa0gwbjdncVBn?oc=5",
+      "source": "RotoBaller",
+      "ts": 1794750265000,
       "tag": "league"
-    },
-    {
-      "title": "Milwaukee Bucks - Atlanta Hawks Preview: Injuries, Odds, Score Prediction & Starters - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRjYzN1UxNXk1WEVqYnplalJfeDlqYXFScGEzU2JlTGVUbk1hMTJ3RHVPNzNZd1pidkFpd0tIZ1J5NFhWNzgwLW1EZHM3M08waFJuTDdJbmJFc2VPdldka2FWbEFpZG0ySldlY3ZXMGRaLS1kNzl2UXFBVHdjR3d6b1BEbHQ5eHlMOWIyeEtvOFM1N1ZtRnUzMEZPUlNkeWdtdUV0Q1ZnWU95clhiWGItVmgtSkVoV0V1bmV5QTNHeUZIUQ?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1794751204000,
-      "tag": "team"
     },
     {
       "title": "Milwaukee Bucks vs. Atlanta Hawks Preview & Game Thread: A chance at linear progress - Yahoo Sports",
@@ -80,34 +157,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDdLQ2tvZFkxcG93UXFHWmxBNlZqb2k1aXFnTlRjZHl2TGVQREpWblc3Q2VnazF4RUJ1UXZpQjRWeEFGN2RvTDVIV3JRWGpQcjNwLTFNa2ZCYVlwOGtoNmtDazR4S1hqbzJmS2k1MjJNQkV5Sm13TFJGM0xCXzk0d1dzeEpZRzJubXFhRkp0aEstdkxzbUF4VzVB?oc=5",
       "source": "The Denver Post",
       "ts": 1794740422000,
-      "tag": "league"
-    },
-    {
-      "title": "Scottie Barnes Injury Update Could Change Knicks vs. Raptors - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOW5lMS1jNlVnUnNFN1VaMzFpMTBOejBObENMTVF0WDBlZDhuaUdjMmN0cDJKcWxsNUFBeHNCMWFwZUVYOGd2N0NqckZNdmpyMFdYWnNEa2NmTFZuSUJOODRnR0Y4SGE1UFVldWJfUWkzRmZnUjZEay1RWDZObGxULTMzVU5yM0VrSzZXdWwwYmtaSkNvcWdQT0o2QQ?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1794740402000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks vs Milwaukee Bucks Prediction, Picks & Odds | NBA Sunday - Sportsgambler",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS2Q3VXhWWEppX1hMcC00R0xvUnVKbXpHYkkzUkdlcEVEdklmeUwyUl9ZdGJjeGVhd2RvV3JTUkZmVERnRDkybEgwVUpMUFpIRUdtOEhRcnpKcnI4b0hOR3RfVFJBZUFRdjBYLXBVbk9tOTRiRzQxTkxSQ2RCZlE1cnJWMjE2dlR5X2puNGFob2RQV011ZF9UZkl2TDlrNmM4TnJqd0txSVdia0RVQWc2Tg?oc=5",
-      "source": "Sportsgambler",
-      "ts": 1794720123000,
-      "tag": "team"
-    },
-    {
-      "title": "Lakers vs Suns Game Overview, Stats, Injuries, Records - NBA Game on November 15, 2026 - Covers.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0aXN1RWFyRHpENGxLcGtYY3VqYVZ1dGxrWXhtcVRiWGxqRG43YVFzWFRFcVJhQjNDRmNaZks4dm1CUkVyX3M2MDlDamw0bkNTc2p3V3pQWHVfZXdMYzZmUUlqR2I1SmxJNnc?oc=5",
-      "source": "Covers.com",
-      "ts": 1794712882000,
-      "tag": "league"
-    },
-    {
-      "title": "Is Austin Reaves playing Sunday? Injury status for Lakers-Suns - USA Today",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZmU3Z2JBcHRJZ1ZmNjZaR3p2QV94akhYQ0RRdDl5SDdsNDR0VHhnNGJmQVJXTDZ6UUItWE02WGREektXSURtZ1RHcmNCNHhKMEwzWFJzbnRYdUZmREZwdTNQUTB2RFIxRDVRaUJxbHBkRER4TEhuOUUwWW1wSUQ0RzVCeHZQSzZMMWxVRjBpTmZKLXYyWnNuZEF2c0xmbVRNaHBhVUVJOGw1dnI3cnNrVmJRaEo3a0U?oc=5",
-      "source": "USA Today",
-      "ts": 1794707880000,
       "tag": "league"
     },
     {
@@ -132,13 +181,6 @@
       "tag": "league"
     },
     {
-      "title": "76ers' Joel Embiid out vs. Pacers due to plantar fascia management - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHI4cjBlaXplVi1xajh5QUlrRDNjWWNHY0xuZmFfS3lNdk51OUs1Q1VXU1kyWm1JaU41eFRhNWJOdzBBVnd1aWVoTjJ6SXdybDRCYjcyRzNRdkRVVlByQ3haNHFfOXF3WlBTWWRLNWI2REVmNExIY3VuRHd6bDBDbUNCSlhKQ1NwM0pqS0VjZmN5cDZKNWJlSnNnN21fa29hUEFZWA?oc=5",
-      "source": "ESPN",
-      "ts": 1794697560000,
-      "tag": "league"
-    },
-    {
       "title": "Victor Wembanyama, Spurs surge in Post\u2019s NBA Power Rankings - New York Post",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3RmaW5xM2NXcm4tblpRRFJCWktISWc0TVB2X3BHdjJaRjJoTHI4WUJKUUIzUW9HMEJXSkwxMk45VVpBNXpPRU5nU043cWpsT0k4enVLQ25aeU5OcFVuOWpqV09xcElLdVBqT0x4NXJWTjJtdGZ3cW0xeGxBZlJQYlBpYmFpdlBIYkd6V2FR?oc=5",
       "source": "New York Post",
@@ -150,20 +192,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaTZFUml4aU9GLW9ZQkNoYmZ2WnB3cHFvcDlmaWhndE5WQlpEZm5STjB3WEpGRDBxLURUTkJVWjlPU2JzRVg0U1R5enhFMm9NQm9mVUpyWk9kdGtTajhfWEFHMFNDSUhCSEY5VUlfTklGay12OHBZR1RwVVJJQmNiZmlZbFJEVWRZMjZpcjMwSkNIZjFkaTlIVXlLMGdUemZ3ZEJwa0pFRlQ5bEdUNUVhUw?oc=5",
       "source": "RealGM",
       "ts": 1794695700000,
-      "tag": "league"
-    },
-    {
-      "title": "NBA trade watch: A Kyrie conundrum, AD\u2019s audition, Orlando\u2019s Anthony Black question and more - The Athletic - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObk5yTXpnQmhPYXhYLUhJV3JaSVhvOF9GSmhNZkZzdGdzZnIxcF9ETUhITEJjc1VWUmhlMjRYbm00MExMTERWeHl1VHdnZnJqcFMtQ3o2REsyU1I3NVc5VnFxdXY5TXI3NzBiSExXMjNTNU02YmxBcTB0TW02SkhhX2NpZ0FyVVVSM21GMmE0ZTNWSXRtN05zTEp3?oc=5",
-      "source": "The New York Times",
-      "ts": 1794687120000,
-      "tag": "league"
-    },
-    {
-      "title": "How Wembanyama saw Draymond Green's flagrant foul coming - San Antonio Express-News",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNFBycTFiME9PNlEtUG94NUZXbk9ab1VKQ0dHaEJnRmZpckppWFgzNC1PWmVvMHA1djFWUTJLZ3JVX2Y0LUVKdWhXQUhkUzJOTnJudExja2lXRGZrdUtGZmRpSVA2NDAwMURtTEoxb1VCcGxhV2Z3UlNMX19fUXJoNXZUZmRXdzdKakM1VVlzMmEtdE5ZTDJydU1PN2JSaTBfMC1NNjhpTERYM2M?oc=5",
-      "source": "San Antonio Express-News",
-      "ts": 1794683926000,
       "tag": "league"
     },
     {
@@ -181,47 +209,14 @@
       "tag": "player"
     },
     {
-      "title": "Blockbuster NBA Trade Idea To Shake Up the Eastern Conference - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNWdvWWtYcElsazdzdkt2RXZrZkFDYkQyWWg0MWZKMVBONXRHVi0tXzBLVE13TUZQVTJZaUlpLUJlNHRzR1Q3VDVqRDZSZ0UzUkZ1dkw0MmRqMmFEU3U0eDhNMllQeUNZY0RwSFRya1I2Zk45TlV4TFJNbU9ycUVvbm9RWGNzNVZoRnRsY05ORmRQRUZuU1JTbGdSV3g?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1794663254000,
-      "tag": "league"
-    },
-    {
-      "title": "1 Word To Describe Every NBA Team After 3 Weeks - Bleacher Report",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPS2p3aWFaUkI1OHd1c2ZMUC1hUlRmRnB0SWlkdTFGdXFQNktmQjE5eVFCSXFrTVVTRVFjSnhJRjhfTHl2cGhwZ2lTYlJLUGs3QkloNkpyN0pfeVR0Qm1WZWQ0Z2tleDlXN3VvZU42SW80MndaYURnU3I2M1piUkI1MXEtdmxvM1NnSVN1aVJmcTVaZVE?oc=5",
-      "source": "Bleacher Report",
-      "ts": 1794663016000,
+      "title": "Hawks unable to outlast Bulls in overtime loss - Peachtree Hoops",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUhoT1R2R0ZIcldrMlg5TDhvV2V0b2ZoTjd5RUJweVBJRmxwcUJiYWpKVG1Kd3pRbGlNNzdSYTBlWmRqMDYyVVZpXzRDczZXVXNabHREckd1YlZtTXJaNUhZREwwdjlieXB0a3lKdG1mbHo2QWc4aTFfQ3E1Sk5pVzR6RHdvOVpTMDdSeUo3OEdLMGtGOHNvZkxkcnBFVVNZejRoZjU5QzZnTVdDUFlGd1J4UXkya1JENFVEUlAwdTAzU3drTjAw?oc=5",
+      "source": "Peachtree Hoops",
+      "ts": 1794668400000,
       "tag": "team"
-    },
-    {
-      "title": "Hawks vs Bucks Game Overview, Stats, Injuries, Records - NBA Game on November 15, 2026 - Covers.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Vc3J2c2s4blRHME83VjBFaDRGZzVnR1lGR3NuTU04QXN1SjlWeUhlOGxCMllNUXZlYUFEbmZlODFRbWdjUGFPRTJBWHdxbXI5cTI0U3ZCOW9iVFBheHUtOGkxTUtzWE9qX3c?oc=5",
-      "source": "Covers.com",
-      "ts": 1794657465000,
-      "tag": "team"
-    },
-    {
-      "title": "Chicago Bulls keep NBA Cup hopes alive \u2014 and snap 8-game skid. Takeaways from their OT win vs. Atlanta Hawks. - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZHpDc3hhVGxVbUxRNjROUVlDMGFqeGczT2VPNlV1dHJYTFJDQktEbFQ3cG80VXhnV2lWRVBIeW9yd2pGd0NKVHNxNEJHbWdtVTVMNG1FaUVwVkwydERaTlZBczRuX3RLMEhkQnJGVHRJeTdjOGxMS2VFdFUxbE9DMHlLTXA?oc=5",
-      "source": "Chicago Tribune",
-      "ts": 1794635868000,
-      "tag": "team"
-    },
-    {
-      "title": "Hawks\u2019 Jalen Johnson throws down nasty slam vs. Bulls in NBA Cup - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZHFVeEw1M3BIb3lyRnlmRWI1d0tJYWlSb3NBV0pYa2JzNUd3Z2hGOXJ5RjZtTmdlaFBQaC1rOVV1QWZGODBtODV0N0xEcVo3OEhyQTJlRjhjRGEycXJVMlBkbUdENTVLZXBHN1lqSVFLT01ER29oeHdtXzJ1eV9VT0Y5eEFONkU?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1794631140000,
-      "tag": "player"
     }
   ],
   "pushed": [
-    "isaiahstewartinjurytaggedquestionableforfridayrotowire",
-    "brandinpodziemskiinjuryquestionabletoplayfridayrotowire",
-    "collinsextonnewsleftoffinjuryreportrotowire",
-    "kalshipromocodeal55trade25geta55bonusforpatriotsvsbearsnbaal",
-    "tyresehaliburtonbreaksdownintearsonnbareturnfrombrutalachill",
     "cameronjohnsoninjuryfailstoreturnthursdayrotowire",
     "cameronjohnsoninjurysuffersanklesprainrotowire",
     "prophetxpromocodewtoptrade50get75bonusforbearspatriotsnbatra",
@@ -716,6 +711,11 @@
     "lakersvssunsinjuryreportbronnyjamescollinsextonjoinaustinrea",
     "duncanrobinsoninjurydoesnotreturnsaturdayrotowire",
     "5nbaoverreactionsthesepolarizingtradesareagingsurprisinglywe",
-    "scottiebarnesinjuryupdatecouldchangeknicksvsraptorssportsill"
+    "scottiebarnesinjuryupdatecouldchangeknicksvsraptorssportsill",
+    "scottiebarnesinjuryupgradedtoprobablesundayrotowire",
+    "easternconferenceteamemergesastradefitforsunsdevinbookeryaho",
+    "afterlionsdominantwinhowwillpatriotsgetbywithoutinjureddrake",
+    "lionsaidanhutchinsonsufferssignificantkneeinjuryonsackcelebr",
+    "jonathanisaacinjuryremainsoutmondayrotowire"
   ]
 }
