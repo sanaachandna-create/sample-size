@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:02:55+00:00",
+  "updated": "2026-11-16T17:51:06+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 29,
@@ -179,7 +179,7 @@
           "p": "Scotty Pippen Jr.",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-10"
+          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-16"
         },
         {
           "p": "Richie Saunders",
@@ -209,7 +209,7 @@
           "p": "GG Jackson",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-15): Jac"
+          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-16): Jac"
         },
         {
           "p": "Isaiah Stewart",
@@ -243,7 +243,7 @@
         },
         {
           "p": "Tre Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "WAS",
           "note": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic r"
         }
@@ -369,9 +369,15 @@
         },
         {
           "p": "Fred VanVleet",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the W"
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "GTD",
+          "team": "HOU",
+          "note": "Phillips (illness) is available for Wednesday's game against Dallas. Phillips will shake o"
         },
         {
           "p": "Pelle Larsson",
@@ -390,6 +396,12 @@
           "st": "AVA",
           "team": "MIA",
           "note": "Injury/Illness - Left Ankle Sprain (2026-11-16, HOU@MIA)."
+        },
+        {
+          "p": "Nikola Jovic",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Illness (2026-11-16, HOU@MIA). Prior reporting (2026-11-16): Jovic closed"
         }
       ],
       "lineups": {
@@ -611,12 +623,6 @@
           "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
         },
         {
-          "p": "Drew Timme",
-          "st": "GTD",
-          "team": "PHX",
-          "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com. After bein"
-        },
-        {
           "p": "Julian Strawther",
           "st": "OUT",
           "team": "DEN",
@@ -800,12 +806,6 @@
           "note": "Joe (hip) is out for Monday against the Wizards. Joe is missing a seventh consecutive cont"
         },
         {
-          "p": "Ugonna Onyenso",
-          "st": "GTD",
-          "team": "DET",
-          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
-        },
-        {
           "p": "Duncan Robinson",
           "st": "GTD",
           "team": "DET",
@@ -825,7 +825,7 @@
         },
         {
           "p": "De'Aaron Fox",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAS",
           "note": "Fox (hip) has been ruled out for Sunday's game against the Jazz. Fox has been dealing with"
         }
@@ -882,7 +882,7 @@
         },
         {
           "p": "Jaxson Hayes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Hayes (knee) has been ruled out for Sunday's game against the Spurs. Hayes left Friday's g"
         },
@@ -951,7 +951,7 @@
         },
         {
           "p": "Austin Reaves",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of La"
         }
@@ -986,7 +986,7 @@
           "p": "Scotty Pippen Jr.",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-10"
+          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-16"
         },
         {
           "p": "Richie Saunders",
@@ -1016,7 +1016,7 @@
           "p": "GG Jackson",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-15): Jac"
+          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-16): Jac"
         },
         {
           "p": "Isaiah Stewart",
@@ -1107,9 +1107,15 @@
         },
         {
           "p": "Fred VanVleet",
-          "st": "OUT",
+          "st": "GTD",
           "team": "HOU",
           "note": "VanVleet (right knee injury management) has been ruled out for Sunday's game against the W"
+        },
+        {
+          "p": "Julian Phillips",
+          "st": "GTD",
+          "team": "HOU",
+          "note": "Phillips (illness) is available for Wednesday's game against Dallas. Phillips will shake o"
         },
         {
           "p": "Johnny Furphy",
@@ -1170,7 +1176,7 @@
         },
         {
           "p": "Ryan Rollins",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Rollins (illness) is out for Sunday's game against the Hawks. Rollins will miss his first "
         },
@@ -1191,6 +1197,12 @@
           "st": "AVA",
           "team": "MIA",
           "note": "Injury/Illness - Left Ankle Sprain (2026-11-16, HOU@MIA)."
+        },
+        {
+          "p": "Nikola Jovic",
+          "st": "GTD",
+          "team": "MIA",
+          "note": "Injury/Illness - Illness (2026-11-16, HOU@MIA). Prior reporting (2026-11-16): Jovic closed"
         }
       ],
       "lineups": {
@@ -1407,7 +1419,7 @@
         },
         {
           "p": "Tre Johnson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "WAS",
           "note": "Johnson (back) won't play in Sunday's game against Houston, Josh Robbins of The Athletic r"
         },
@@ -1467,12 +1479,6 @@
           "st": "OUT",
           "team": "DET",
           "note": "Joe (hip) is out for Monday against the Wizards. Joe is missing a seventh consecutive cont"
-        },
-        {
-          "p": "Ugonna Onyenso",
-          "st": "GTD",
-          "team": "DET",
-          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
         },
         {
           "p": "Duncan Robinson",
@@ -1575,13 +1581,13 @@
         },
         {
           "p": "Kingston Flemings",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Flemings (back) has been ruled out for Sunday's game against the Bucks. Flemings left Frid"
         },
         {
           "p": "Jock Landale",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Landale (hip) is out for Sunday's game against Bucks, Brad Rowland of the Locked On Podcas"
         },
@@ -1698,19 +1704,19 @@
         },
         {
           "p": "Max Christie",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Christie (ankle) has been ruled out for Sunday's game against the Celtics. Christie will m"
         },
         {
           "p": "Santi Aldama",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Aldama (ankle) is out for Sunday's game against the Celtics. Aldama will miss Sunday's gam"
         },
         {
           "p": "Kyrie Irving",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Irving (knee) has been ruled out for Sunday's game against the Celtics. Irving was listed "
         }
@@ -1818,13 +1824,13 @@
         },
         {
           "p": "Jaxson Hayes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Hayes (knee) has been ruled out for Sunday's game against the Spurs. Hayes left Friday's g"
         },
         {
           "p": "Austin Reaves",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of La"
         }
@@ -1862,12 +1868,6 @@
           "note": "Williams underwent surgery Thursday to repair a torn labrum in his left shoulder and will "
         },
         {
-          "p": "Drew Timme",
-          "st": "GTD",
-          "team": "PHX",
-          "note": "The Suns claimed Timme off waivers Monday, per Michael Scotto of HoopsHype.com. After bein"
-        },
-        {
           "p": "Maxime Raynaud",
           "st": "OUT",
           "team": "SAC",
@@ -1881,19 +1881,19 @@
         },
         {
           "p": "Precious Achiuwa",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Achiuwa (ankle) has been ruled out for Sunday's game against the Thunder, Brenden Nunes of"
         },
         {
           "p": "De'Andre Hunter",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "Hunter (hip) is out for Sunday's game against the Thunder. Hunter was added to the injury "
         },
         {
           "p": "Zach LaVine",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAC",
           "note": "LaVine is out for Sunday's game against Oklahoma City due to illness, Brandon Rahbar of Da"
         }
@@ -1964,7 +1964,7 @@
           "p": "Scotty Pippen Jr.",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-10"
+          "note": "Injury/Illness - Lumbar Disc Herniation (2026-11-16, MEM@WAS). Prior reporting (2026-11-16"
         },
         {
           "p": "Richie Saunders",
@@ -1994,7 +1994,7 @@
           "p": "GG Jackson",
           "st": "OUT",
           "team": "MEM",
-          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-15): Jac"
+          "note": "Injury/Illness - Left Foot Injury (2026-11-16, MEM@WAS). Prior reporting (2026-11-16): Jac"
         },
         {
           "p": "Isaiah Stewart",
@@ -2061,7 +2061,7 @@
         },
         {
           "p": "Ryan Rollins",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Rollins (illness) is out for Sunday's game against the Hawks. Rollins will miss his first "
         }
@@ -2181,7 +2181,7 @@
         },
         {
           "p": "De'Aaron Fox",
-          "st": "OUT",
+          "st": "GTD",
           "team": "SAS",
           "note": "Fox (hip) has been ruled out for Sunday's game against the Jazz. Fox has been dealing with"
         }
