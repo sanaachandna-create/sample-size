@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:25:42+00:00",
+  "updated": "2026-11-16T19:40:10+00:00",
   "season": 2026,
   "label": "2026-27",
   "error": null,
@@ -8,14 +8,14 @@
       "r": 1,
       "ab": "BOS",
       "nm": "Celtics",
-      "w": 10,
+      "w": 11,
       "l": 2
     },
     {
       "r": 2,
       "ab": "PHI",
       "nm": "76ers",
-      "w": 10,
+      "w": 11,
       "l": 3
     },
     {
@@ -29,7 +29,7 @@
       "r": 4,
       "ab": "ATL",
       "nm": "Hawks",
-      "w": 7,
+      "w": 8,
       "l": 6
     },
     {
@@ -41,17 +41,17 @@
     },
     {
       "r": 6,
+      "ab": "NYK",
+      "nm": "Knicks",
+      "w": 7,
+      "l": 6
+    },
+    {
+      "r": 7,
       "ab": "CLE",
       "nm": "Cavaliers",
       "w": 7,
       "l": 7
-    },
-    {
-      "r": 7,
-      "ab": "NYK",
-      "nm": "Knicks",
-      "w": 6,
-      "l": 6
     },
     {
       "r": 8,
@@ -65,28 +65,28 @@
       "ab": "TOR",
       "nm": "Raptors",
       "w": 5,
-      "l": 7
+      "l": 8
     },
     {
       "r": 10,
       "ab": "IND",
       "nm": "Pacers",
       "w": 5,
-      "l": 8
+      "l": 9
     },
     {
       "r": 11,
       "ab": "CHA",
       "nm": "Hornets",
       "w": 4,
-      "l": 8
+      "l": 9
     },
     {
       "r": 12,
       "ab": "WAS",
       "nm": "Wizards",
       "w": 4,
-      "l": 9
+      "l": 10
     },
     {
       "r": 13,
@@ -107,7 +107,7 @@
       "ab": "MIL",
       "nm": "Bucks",
       "w": 1,
-      "l": 12
+      "l": 13
     }
   ],
   "west": [
@@ -115,21 +115,21 @@
       "r": 1,
       "ab": "LAL",
       "nm": "Lakers",
-      "w": 11,
+      "w": 12,
       "l": 2
     },
     {
       "r": 2,
       "ab": "SAS",
       "nm": "Spurs",
-      "w": 11,
+      "w": 12,
       "l": 2
     },
     {
       "r": 3,
       "ab": "HOU",
       "nm": "Rockets",
-      "w": 10,
+      "w": 11,
       "l": 3
     },
     {
@@ -155,22 +155,22 @@
     },
     {
       "r": 7,
+      "ab": "OKC",
+      "nm": "Thunder",
+      "w": 9,
+      "l": 5
+    },
+    {
+      "r": 8,
       "ab": "DEN",
       "nm": "Nuggets",
       "w": 7,
       "l": 4
     },
     {
-      "r": 8,
+      "r": 9,
       "ab": "GSW",
       "nm": "Warriors",
-      "w": 8,
-      "l": 5
-    },
-    {
-      "r": 9,
-      "ab": "OKC",
-      "nm": "Thunder",
       "w": 8,
       "l": 5
     },
@@ -179,53 +179,53 @@
       "ab": "DAL",
       "nm": "Mavericks",
       "w": 7,
-      "l": 6
+      "l": 7
     },
     {
       "r": 11,
       "ab": "PHX",
       "nm": "Suns",
       "w": 5,
-      "l": 6
+      "l": 7
     },
     {
       "r": 12,
+      "ab": "LAC",
+      "nm": "Clippers",
+      "w": 4,
+      "l": 8
+    },
+    {
+      "r": 13,
       "ab": "NOP",
       "nm": "Pelicans",
       "w": 4,
       "l": 10
     },
     {
-      "r": 13,
-      "ab": "LAC",
-      "nm": "Clippers",
-      "w": 3,
-      "l": 8
-    },
-    {
       "r": 14,
       "ab": "SAC",
       "nm": "Kings",
       "w": 1,
-      "l": 11
+      "l": 12
     },
     {
       "r": 15,
       "ab": "UTA",
       "nm": "Jazz",
       "w": 1,
-      "l": 12
+      "l": 13
     }
   ],
   "byTeam": {
     "BOS": {
-      "w": 10,
+      "w": 11,
       "l": 2,
       "seed": 1,
       "conf": "East"
     },
     "PHI": {
-      "w": 10,
+      "w": 11,
       "l": 3,
       "seed": 2,
       "conf": "East"
@@ -237,7 +237,7 @@
       "conf": "East"
     },
     "ATL": {
-      "w": 7,
+      "w": 8,
       "l": 6,
       "seed": 4,
       "conf": "East"
@@ -248,15 +248,15 @@
       "seed": 5,
       "conf": "East"
     },
-    "CLE": {
+    "NYK": {
       "w": 7,
-      "l": 7,
+      "l": 6,
       "seed": 6,
       "conf": "East"
     },
-    "NYK": {
-      "w": 6,
-      "l": 6,
+    "CLE": {
+      "w": 7,
+      "l": 7,
       "seed": 7,
       "conf": "East"
     },
@@ -268,25 +268,25 @@
     },
     "TOR": {
       "w": 5,
-      "l": 7,
+      "l": 8,
       "seed": 9,
       "conf": "East"
     },
     "IND": {
       "w": 5,
-      "l": 8,
+      "l": 9,
       "seed": 10,
       "conf": "East"
     },
     "CHA": {
       "w": 4,
-      "l": 8,
+      "l": 9,
       "seed": 11,
       "conf": "East"
     },
     "WAS": {
       "w": 4,
-      "l": 9,
+      "l": 10,
       "seed": 12,
       "conf": "East"
     },
@@ -304,24 +304,24 @@
     },
     "MIL": {
       "w": 1,
-      "l": 12,
+      "l": 13,
       "seed": 15,
       "conf": "East"
     },
     "LAL": {
-      "w": 11,
+      "w": 12,
       "l": 2,
       "seed": 1,
       "conf": "West"
     },
     "SAS": {
-      "w": 11,
+      "w": 12,
       "l": 2,
       "seed": 2,
       "conf": "West"
     },
     "HOU": {
-      "w": 10,
+      "w": 11,
       "l": 3,
       "seed": 3,
       "conf": "West"
@@ -344,19 +344,19 @@
       "seed": 6,
       "conf": "West"
     },
-    "DEN": {
-      "w": 7,
-      "l": 4,
+    "OKC": {
+      "w": 9,
+      "l": 5,
       "seed": 7,
       "conf": "West"
     },
-    "GSW": {
-      "w": 8,
-      "l": 5,
+    "DEN": {
+      "w": 7,
+      "l": 4,
       "seed": 8,
       "conf": "West"
     },
-    "OKC": {
+    "GSW": {
       "w": 8,
       "l": 5,
       "seed": 9,
@@ -364,37 +364,37 @@
     },
     "DAL": {
       "w": 7,
-      "l": 6,
+      "l": 7,
       "seed": 10,
       "conf": "West"
     },
     "PHX": {
       "w": 5,
-      "l": 6,
+      "l": 7,
       "seed": 11,
+      "conf": "West"
+    },
+    "LAC": {
+      "w": 4,
+      "l": 8,
+      "seed": 12,
       "conf": "West"
     },
     "NOP": {
       "w": 4,
       "l": 10,
-      "seed": 12,
-      "conf": "West"
-    },
-    "LAC": {
-      "w": 3,
-      "l": 8,
       "seed": 13,
       "conf": "West"
     },
     "SAC": {
       "w": 1,
-      "l": 11,
+      "l": 12,
       "seed": 14,
       "conf": "West"
     },
     "UTA": {
       "w": 1,
-      "l": 12,
+      "l": 13,
       "seed": 15,
       "conf": "West"
     }
