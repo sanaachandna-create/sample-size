@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-17T16:02:20+00:00",
+  "updated": "2026-11-17T17:19:56+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 30,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 237,
+  "injuryCount": 239,
   "games": [
     {
       "ha": "NYK",
@@ -167,7 +167,7 @@
           "p": "Duncan Robinson",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-16"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-17"
         },
         {
           "p": "Ronald Holland II",
@@ -788,6 +788,12 @@
           "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury"
         },
         {
+          "p": "Felix Okpara",
+          "st": "GTD",
+          "team": "WAS",
+          "note": "Okpara (illness) is available for Friday's game against Toronto. Okpara will shed his ques"
+        },
+        {
           "p": "Nate Bittle",
           "st": "OUT",
           "team": "TOR",
@@ -854,7 +860,7 @@
           "p": "Duncan Robinson",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-16"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-17"
         },
         {
           "p": "Ronald Holland II",
@@ -1835,7 +1841,7 @@
           "p": "Duncan Robinson",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-16"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-17, DET@SAS). Prior reporting (2026-11-17"
         },
         {
           "p": "Ronald Holland II",
@@ -1911,6 +1917,12 @@
           "st": "OUT",
           "team": "WAS",
           "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury"
+        },
+        {
+          "p": "Felix Okpara",
+          "st": "GTD",
+          "team": "WAS",
+          "note": "Okpara (illness) is available for Friday's game against Toronto. Okpara will shed his ques"
         },
         {
           "p": "Tobe Awaka",
