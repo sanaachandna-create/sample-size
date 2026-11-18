@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T14:34:28+00:00",
+  "updated": "2026-11-18T16:54:21+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 31,
@@ -128,7 +128,7 @@
           "p": "Julian Phillips",
           "st": "OUT",
           "team": "HOU",
-          "note": "G League - Two-Way (2026-11-18, HOU@IND). Prior reporting (2026-11-16): Phillips (illness)"
+          "note": "G League - Two-Way (2026-11-18, HOU@IND)."
         },
         {
           "p": "Amen Thompson",
@@ -549,13 +549,13 @@
         },
         {
           "p": "Ronald Holland II",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion. It's n"
         },
         {
           "p": "Taurean Prince",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Prince (knee) has been ruled out for Tuesday's game against the Spurs. Prince made just hi"
         },
@@ -933,19 +933,19 @@
         },
         {
           "p": "Jaxson Hayes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers. Hayes will miss a"
         },
         {
           "p": "Austin Reaves",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com re"
         },
         {
           "p": "Walker Kessler",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game aga"
         }
@@ -1170,7 +1170,7 @@
         },
         {
           "p": "Deni Avdija",
-          "st": "OUT",
+          "st": "GTD",
           "team": "POR",
           "note": "Avdija (foot) won't play Tuesday versus Minnesota. Avdija scored 27 points over 30 minutes"
         },
@@ -1251,13 +1251,13 @@
         },
         {
           "p": "Jonathan Kuminga",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Kuminga (shoulder) is out for Tuesday's game against Portland. Kuminga sustained a bruised"
         },
         {
           "p": "Zyon Pullin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Pullin (quadriceps) has been ruled out for Tuesday's game against Portland. Pullin will mi"
         }
@@ -1371,7 +1371,7 @@
         },
         {
           "p": "Grayson Allen",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CHA",
           "note": "Allen (concussion-like symptoms) has been ruled out for Tuesday's game against the Lakers."
         },
@@ -1656,13 +1656,13 @@
         },
         {
           "p": "Ronald Holland II",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Holland is out for Tuesday's game against San Antonio due to a left knee contusion. It's n"
         },
         {
           "p": "Taurean Prince",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Prince (knee) has been ruled out for Tuesday's game against the Spurs. Prince made just hi"
         }
@@ -1911,7 +1911,7 @@
         },
         {
           "p": "Jaxson Hayes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "UTA",
           "note": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers. Hayes will miss a"
         }
@@ -1952,7 +1952,7 @@
           "p": "Julian Phillips",
           "st": "OUT",
           "team": "HOU",
-          "note": "G League - Two-Way (2026-11-18, HOU@IND). Prior reporting (2026-11-16): Phillips (illness)"
+          "note": "G League - Two-Way (2026-11-18, HOU@IND)."
         },
         {
           "p": "Amen Thompson",
@@ -2055,13 +2055,13 @@
         },
         {
           "p": "Austin Reaves",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com re"
         },
         {
           "p": "Walker Kessler",
-          "st": "OUT",
+          "st": "GTD",
           "team": "LAL",
           "note": "Head coach JJ Redick said he expects Walker (leg) to be available for Wednesday's game aga"
         }
@@ -2199,7 +2199,7 @@
         },
         {
           "p": "Deni Avdija",
-          "st": "OUT",
+          "st": "GTD",
           "team": "POR",
           "note": "Avdija (foot) won't play Tuesday versus Minnesota. Avdija scored 27 points over 30 minutes"
         }
@@ -2379,13 +2379,13 @@
         },
         {
           "p": "Jonathan Kuminga",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Kuminga (shoulder) is out for Tuesday's game against Portland. Kuminga sustained a bruised"
         },
         {
           "p": "Zyon Pullin",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIN",
           "note": "Pullin (quadriceps) has been ruled out for Tuesday's game against Portland. Pullin will mi"
         }
