@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:38:15+00:00",
+  "updated": "2026-11-18T18:08:28+00:00",
   "season": 2026,
   "label": "2026-27",
   "error": null,
@@ -22,7 +22,7 @@
       "r": 3,
       "ab": "DET",
       "nm": "Pistons",
-      "w": 8,
+      "w": 9,
       "l": 4
     },
     {
@@ -43,7 +43,7 @@
       "r": 6,
       "ab": "NYK",
       "nm": "Knicks",
-      "w": 7,
+      "w": 8,
       "l": 6
     },
     {
@@ -62,15 +62,15 @@
     },
     {
       "r": 9,
-      "ab": "TOR",
-      "nm": "Raptors",
+      "ab": "IND",
+      "nm": "Pacers",
       "w": 5,
-      "l": 8
+      "l": 9
     },
     {
       "r": 10,
-      "ab": "IND",
-      "nm": "Pacers",
+      "ab": "TOR",
+      "nm": "Raptors",
       "w": 5,
       "l": 9
     },
@@ -79,7 +79,7 @@
       "ab": "CHA",
       "nm": "Hornets",
       "w": 4,
-      "l": 9
+      "l": 10
     },
     {
       "r": 12,
@@ -115,7 +115,7 @@
       "r": 1,
       "ab": "LAL",
       "nm": "Lakers",
-      "w": 12,
+      "w": 13,
       "l": 2
     },
     {
@@ -123,7 +123,7 @@
       "ab": "SAS",
       "nm": "Spurs",
       "w": 12,
-      "l": 2
+      "l": 3
     },
     {
       "r": 3,
@@ -134,29 +134,29 @@
     },
     {
       "r": 4,
+      "ab": "MIN",
+      "nm": "Timberwolves",
+      "w": 11,
+      "l": 4
+    },
+    {
+      "r": 5,
       "ab": "MEM",
       "nm": "Grizzlies",
       "w": 10,
       "l": 4
     },
     {
-      "r": 5,
-      "ab": "MIN",
-      "nm": "Timberwolves",
-      "w": 10,
-      "l": 4
-    },
-    {
       "r": 6,
-      "ab": "POR",
-      "nm": "Trail Blazers",
+      "ab": "OKC",
+      "nm": "Thunder",
       "w": 9,
-      "l": 4
+      "l": 5
     },
     {
       "r": 7,
-      "ab": "OKC",
-      "nm": "Thunder",
+      "ab": "POR",
+      "nm": "Trail Blazers",
       "w": 9,
       "l": 5
     },
@@ -200,21 +200,21 @@
       "ab": "LAC",
       "nm": "Clippers",
       "w": 4,
-      "l": 8
+      "l": 9
     },
     {
       "r": 14,
+      "ab": "UTA",
+      "nm": "Jazz",
+      "w": 2,
+      "l": 13
+    },
+    {
+      "r": 15,
       "ab": "SAC",
       "nm": "Kings",
       "w": 1,
       "l": 12
-    },
-    {
-      "r": 15,
-      "ab": "UTA",
-      "nm": "Jazz",
-      "w": 1,
-      "l": 13
     }
   ],
   "byTeam": {
@@ -231,7 +231,7 @@
       "conf": "East"
     },
     "DET": {
-      "w": 8,
+      "w": 9,
       "l": 4,
       "seed": 3,
       "conf": "East"
@@ -249,7 +249,7 @@
       "conf": "East"
     },
     "NYK": {
-      "w": 7,
+      "w": 8,
       "l": 6,
       "seed": 6,
       "conf": "East"
@@ -266,13 +266,13 @@
       "seed": 8,
       "conf": "East"
     },
-    "TOR": {
+    "IND": {
       "w": 5,
-      "l": 8,
+      "l": 9,
       "seed": 9,
       "conf": "East"
     },
-    "IND": {
+    "TOR": {
       "w": 5,
       "l": 9,
       "seed": 10,
@@ -280,7 +280,7 @@
     },
     "CHA": {
       "w": 4,
-      "l": 9,
+      "l": 10,
       "seed": 11,
       "conf": "East"
     },
@@ -309,14 +309,14 @@
       "conf": "East"
     },
     "LAL": {
-      "w": 12,
+      "w": 13,
       "l": 2,
       "seed": 1,
       "conf": "West"
     },
     "SAS": {
       "w": 12,
-      "l": 2,
+      "l": 3,
       "seed": 2,
       "conf": "West"
     },
@@ -326,25 +326,25 @@
       "seed": 3,
       "conf": "West"
     },
-    "MEM": {
-      "w": 10,
+    "MIN": {
+      "w": 11,
       "l": 4,
       "seed": 4,
       "conf": "West"
     },
-    "MIN": {
+    "MEM": {
       "w": 10,
       "l": 4,
       "seed": 5,
       "conf": "West"
     },
-    "POR": {
+    "OKC": {
       "w": 9,
-      "l": 4,
+      "l": 5,
       "seed": 6,
       "conf": "West"
     },
-    "OKC": {
+    "POR": {
       "w": 9,
       "l": 5,
       "seed": 7,
@@ -382,19 +382,19 @@
     },
     "LAC": {
       "w": 4,
-      "l": 8,
+      "l": 9,
       "seed": 13,
+      "conf": "West"
+    },
+    "UTA": {
+      "w": 2,
+      "l": 13,
+      "seed": 14,
       "conf": "West"
     },
     "SAC": {
       "w": 1,
       "l": 12,
-      "seed": 14,
-      "conf": "West"
-    },
-    "UTA": {
-      "w": 1,
-      "l": 13,
       "seed": 15,
       "conf": "West"
     }
