@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-17T19:59:43+00:00",
-  "count": 523,
+  "updated": "2026-11-18T19:33:31+00:00",
+  "count": 525,
   "error": null,
   "players": [
     {
@@ -1534,6 +1534,12 @@
       "pos": "G"
     },
     {
+      "id": 1059872205,
+      "name": "Jonas Aidoo",
+      "team": "UTA",
+      "pos": "C"
+    },
+    {
       "id": 229,
       "name": "Jonathan Isaac",
       "team": "ORL",
@@ -2534,6 +2540,12 @@
       "name": "RJ Barrett",
       "team": "TOR",
       "pos": "F-G"
+    },
+    {
+      "id": 1094642691,
+      "name": "Rafael Castro",
+      "team": "ATL",
+      "pos": "C"
     },
     {
       "id": 1057383369,
