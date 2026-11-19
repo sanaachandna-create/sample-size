@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T19:33:31+00:00",
+  "updated": "2026-11-19T19:36:52+00:00",
   "count": 525,
   "error": null,
   "players": [
@@ -2584,12 +2584,6 @@
       "pos": "G"
     },
     {
-      "id": 1028245994,
-      "name": "Riley Minix",
-      "team": "CLE",
-      "pos": "F"
-    },
-    {
       "id": 476,
       "name": "Robert Williams III",
       "team": "POR",
@@ -3121,6 +3115,12 @@
       "id": 268,
       "name": "Zach LaVine",
       "team": "SAC",
+      "pos": "G"
+    },
+    {
+      "id": 1057844738,
+      "name": "Zack Austin",
+      "team": "CLE",
       "pos": "G"
     },
     {
