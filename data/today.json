@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-19T14:41:00+00:00",
+  "updated": "2026-11-19T17:00:33+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 26,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 189,
+  "injuryCount": 194,
   "games": [
     {
       "ha": "GSW",
@@ -57,9 +57,15 @@
         },
         {
           "p": "Al Horford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday a"
+        },
+        {
+          "p": "Draymond Green",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Green (elbow) is available for Wednesday's game against the Mavericks. Green was deemed qu"
         },
         {
           "p": "Scotty Pippen Jr.",
@@ -87,7 +93,7 @@
         },
         {
           "p": "Isaiah Stewart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Stewart (illness) won't play Wednesday against the Cavs. This will be Stewart's second str"
         }
@@ -174,7 +180,7 @@
         },
         {
           "p": "Ryan Rollins",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Rollins (illness) has been ruled out for Wednesday's game at Miami. Rollins wasn't include"
         }
@@ -387,13 +393,13 @@
         },
         {
           "p": "Kingston Flemings",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Flemings (back) is out for Wednesday's game against the Thunder. Flemings is progressing w"
         },
         {
           "p": "Jock Landale",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Landale (hip) won't play Wednesday in Oklahoma City. This will be Landale's second straigh"
         },
@@ -453,6 +459,12 @@
           "st": "OUT",
           "team": "ORL",
           "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
+        },
+        {
+          "p": "Grant Nelson",
+          "st": "GTD",
+          "team": "BKN",
+          "note": "Nelson signed a two-way contract with the Nets on Friday, Michael Scotto of HoopsHype.com "
         }
       ],
       "lineups": {
@@ -501,7 +513,7 @@
         },
         {
           "p": "Andrew Nembhard",
-          "st": "OUT",
+          "st": "GTD",
           "team": "IND",
           "note": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com"
         },
@@ -525,13 +537,13 @@
         },
         {
           "p": "Peyton Watson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CLE",
           "note": "Watson (back) is out for Wednesday's game versus Memphis. Watson's next chance to play com"
         },
         {
           "p": "Jaylon Tyson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "CLE",
           "note": "Tyson (ankle) has been ruled out for Wednesday's game against Memphis. Tyson will miss a s"
         }
@@ -576,13 +588,13 @@
         },
         {
           "p": "Scottie Barnes",
-          "st": "OUT",
+          "st": "GTD",
           "team": "TOR",
           "note": "Barnes (injury management) has been ruled out for Wednesday's game against Washington, Esf"
         },
         {
           "p": "RJ Barrett",
-          "st": "OUT",
+          "st": "GTD",
           "team": "TOR",
           "note": "Barrett (hamstring) is out for Wednesday's game against the Wizards, Michael Grange of Spo"
         },
@@ -606,21 +618,27 @@
         },
         {
           "p": "Ronald Holland II",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Holland (knee) is out for Wednesday's game against the Pelicans. Holland bruised his knee "
         },
         {
           "p": "Taurean Prince",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Prince (knee) is out for Wednesday's game against the Pelicans. Right knee soreness contin"
         },
         {
           "p": "Cade Cunningham",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Cunningham (knee) won't play in Wednesday's game against New Orleans. Cunningham logged 37"
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "GTD",
+          "team": "DET",
+          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
         }
       ],
       "lineups": {
@@ -774,7 +792,7 @@
         },
         {
           "p": "Alex Caruso",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Caruso won't return to Wednesday's game against the Hawks due to right hip soreness, Cleme"
         }
@@ -954,7 +972,7 @@
         },
         {
           "p": "Ryan Rollins",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIL",
           "note": "Rollins (illness) has been ruled out for Wednesday's game at Miami. Rollins wasn't include"
         },
@@ -984,13 +1002,13 @@
         },
         {
           "p": "Dean Wade",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Wade (hamstring) is out for Wednesday's game in Orlando. With both Wade and Jaylen Brown ("
         },
         {
           "p": "Tyrese Maxey",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Maxey (foot) is out for Wednesday's game in Orlando, Ky Carlin of USA Today reports. Maxey"
         }
@@ -1140,7 +1158,7 @@
         },
         {
           "p": "Tobi Lawal",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin"
         }
@@ -1197,7 +1215,7 @@
         },
         {
           "p": "Isaiah Stewart",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Stewart (illness) won't play Wednesday against the Cavs. This will be Stewart's second str"
         },
@@ -1404,21 +1422,27 @@
         },
         {
           "p": "Ronald Holland II",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Holland (knee) is out for Wednesday's game against the Pelicans. Holland bruised his knee "
         },
         {
           "p": "Taurean Prince",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Prince (knee) is out for Wednesday's game against the Pelicans. Right knee soreness contin"
         },
         {
           "p": "Cade Cunningham",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Cunningham (knee) won't play in Wednesday's game against New Orleans. Cunningham logged 37"
+        },
+        {
+          "p": "Ugonna Onyenso",
+          "st": "GTD",
+          "team": "DET",
+          "note": "Onyenso agreed to a two-way contract with the Pistons on Thursday. The No. 53 overall pick"
         },
         {
           "p": "Henri Veesaar",
@@ -1440,13 +1464,13 @@
         },
         {
           "p": "Kingston Flemings",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Flemings (back) is out for Wednesday's game against the Thunder. Flemings is progressing w"
         },
         {
           "p": "Jock Landale",
-          "st": "OUT",
+          "st": "GTD",
           "team": "ATL",
           "note": "Landale (hip) won't play Wednesday in Oklahoma City. This will be Landale's second straigh"
         },
@@ -1509,13 +1533,13 @@
         },
         {
           "p": "Alex Caruso",
-          "st": "OUT",
+          "st": "GTD",
           "team": "OKC",
           "note": "Caruso won't return to Wednesday's game against the Hawks due to right hip soreness, Cleme"
         },
         {
           "p": "Myron Gardner",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MIA",
           "note": "Gardner (hamstring) is out for Wednesday's game against the Bucks. Gardner was already in "
         }
@@ -1692,7 +1716,7 @@
         },
         {
           "p": "Tobi Lawal",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Lawal is out for Wednesday's game against the Warriors due to tightness in his right groin"
         },
@@ -1761,7 +1785,7 @@
         },
         {
           "p": "Andrew Nembhard",
-          "st": "OUT",
+          "st": "GTD",
           "team": "IND",
           "note": "Nembhard (hip) won't play in Wednesday's game against the Rockets, Tony East of Forbes.com"
         },
@@ -1830,9 +1854,15 @@
         },
         {
           "p": "Al Horford",
-          "st": "OUT",
+          "st": "GTD",
           "team": "GSW",
           "note": "Horford (back) is out for Wednesday's game against the Mavericks, but will play Thursday a"
+        },
+        {
+          "p": "Draymond Green",
+          "st": "GTD",
+          "team": "GSW",
+          "note": "Green (elbow) is available for Wednesday's game against the Mavericks. Green was deemed qu"
         }
       ],
       "lineups": {
