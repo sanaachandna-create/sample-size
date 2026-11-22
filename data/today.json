@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-22T12:53:48+00:00",
+  "updated": "2026-11-22T15:52:34+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 29,
@@ -447,13 +447,13 @@
         },
         {
           "p": "Tobi Lawal",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Lawal (groin) is out for Saturday's game against the Clippers. Lawal will miss a second st"
         },
         {
           "p": "P.J. Washington",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers. W"
         },
@@ -597,19 +597,19 @@
       "injuries": [
         {
           "p": "Jayson Tatum",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Tatum (rest) has been ruled out for Saturday's game against the Kings. Tatum will be reste"
         },
         {
           "p": "Derrick White",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "White (shoulder) has been ruled out for Saturday's game against Sacramento. White drew the"
         },
         {
           "p": "Mitchell Robinson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith o"
         },
@@ -690,19 +690,19 @@
         },
         {
           "p": "Jerami Grant",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Grant (calf) is out for Saturday's game against the Timberwolves. Grant went down early in"
         },
         {
           "p": "Cameron Boozer",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain. The rooki"
         },
         {
           "p": "Javon Small",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Small won't play Saturday against the Timberwolves due to personal reasons. It's unclear e"
         },
@@ -795,13 +795,13 @@
         },
         {
           "p": "Jaylen Brown",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The"
         },
         {
           "p": "Dean Wade",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Wade (hamstring) won't play Saturday against the Bucks. Wade was able to get through a ful"
         }
@@ -1176,13 +1176,13 @@
         },
         {
           "p": "Trey Murphy III",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Murphy (knee) has been ruled out for Saturday's game against the Spurs. Murphy missed six "
         },
         {
           "p": "Zion Williamson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "NOP",
           "note": "Williamson is out for Saturday's game against the Spurs due to a left thigh contusion. Wil"
         }
@@ -1491,19 +1491,19 @@
       "injuries": [
         {
           "p": "Jayson Tatum",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Tatum (rest) has been ruled out for Saturday's game against the Kings. Tatum will be reste"
         },
         {
           "p": "Derrick White",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "White (shoulder) has been ruled out for Saturday's game against Sacramento. White drew the"
         },
         {
           "p": "Mitchell Robinson",
-          "st": "OUT",
+          "st": "GTD",
           "team": "BOS",
           "note": "Robinson (illness) has been ruled out for Saturday's game against the Kings, Keith Smith o"
         },
@@ -1584,13 +1584,13 @@
         },
         {
           "p": "Tobi Lawal",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Lawal (groin) is out for Saturday's game against the Clippers. Lawal will miss a second st"
         },
         {
           "p": "P.J. Washington",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DAL",
           "note": "Washington (illness/shoulder) is listed as out for Saturday's game against the Clippers. W"
         },
@@ -1683,13 +1683,13 @@
         },
         {
           "p": "Jaylen Brown",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Brown (hamstring) went through individual work during Friday's practice, Tony Jones of The"
         },
         {
           "p": "Dean Wade",
-          "st": "OUT",
+          "st": "GTD",
           "team": "PHI",
           "note": "Wade (hamstring) won't play Saturday against the Bucks. Wade was able to get through a ful"
         }
@@ -2007,19 +2007,19 @@
         },
         {
           "p": "Jerami Grant",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Grant (calf) is out for Saturday's game against the Timberwolves. Grant went down early in"
         },
         {
           "p": "Cameron Boozer",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Boozer is out for Saturday's game against Minnesota due to a right ankle sprain. The rooki"
         },
         {
           "p": "Javon Small",
-          "st": "OUT",
+          "st": "GTD",
           "team": "MEM",
           "note": "Small won't play Saturday against the Timberwolves due to personal reasons. It's unclear e"
         }
