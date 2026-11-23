@@ -1,639 +1,12 @@
 {
-  "updated": "2026-11-23T01:56:52+00:00",
+  "updated": "2026-11-23T05:24:48+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
-  "count": 29,
+  "count": 22,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 291,
+  "injuryCount": 194,
   "games": [
-    {
-      "ha": "DET",
-      "away": "Detroit Pistons",
-      "arec": "",
-      "arank": "",
-      "hh": "ATL",
-      "home": "Atlanta Hawks",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795379400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 107,
-      "ascore": 97,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Jalen Duren",
-          "st": "OUT",
-          "team": "DET",
-          "note": "Duren (hamstring) has begun on-court activity and will be re-evaluated in two weeks, Hunte"
-        },
-        {
-          "p": "Duncan Robinson",
-          "st": "OUT",
-          "team": "DET",
-          "note": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis o"
-        },
-        {
-          "p": "Taurean Prince",
-          "st": "OUT",
-          "team": "DET",
-          "note": "Prince (knee) underwent surgery to address lingering issues and has no timeline for a retu"
-        },
-        {
-          "p": "Ebuka Okorie",
-          "st": "GTD",
-          "team": "DET",
-          "note": "Okorie (oblique) is out for Sunday's game in Atlanta. This will be Okorie's second straigh"
-        },
-        {
-          "p": "Henri Veesaar",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, th"
-        },
-        {
-          "p": "Mouhamed Gueye",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Gueye (foot) is ready to begin on-court activities and will be re-evaluated in four weeks,"
-        },
-        {
-          "p": "Asa Newell",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he wi"
-        },
-        {
-          "p": "Jock Landale",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "Landale (hip) won't play Sunday against the Pistons. This will be Landale's fourth consecu"
-        },
-        {
-          "p": "CJ McCollum",
-          "st": "OUT",
-          "team": "ATL",
-          "note": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast N"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "OKC",
-      "away": "Oklahoma City Thunder",
-      "arec": "",
-      "arank": "",
-      "hh": "MIA",
-      "home": "Miami Heat",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795388400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "post",
-      "hscore": 123,
-      "ascore": 113,
-      "period": 4,
-      "clock": "Final",
-      "injuries": [
-        {
-          "p": "Cason Wallace",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be "
-        },
-        {
-          "p": "Jalen Williams",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula "
-        },
-        {
-          "p": "Chet Holmgren",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear a"
-        },
-        {
-          "p": "Thomas Sorber",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the pat"
-        },
-        {
-          "p": "Alex Caruso",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Caruso (hip) won't play Sunday against the Heat. Sunday will mark Caruso's second straight"
-        },
-        {
-          "p": "Nikola Topic",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Topic (hip) is listed as out for Sunday's game versus the Heat. Topic has appeared in only"
-        },
-        {
-          "p": "Shai Gilgeous-Alexander",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat. Gilgeo"
-        },
-        {
-          "p": "Jaylin Williams",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Williams (back) is listed as out for Sunday's game against Miami. Williams missed seven co"
-        },
-        {
-          "p": "Aday Mara",
-          "st": "OUT",
-          "team": "OKC",
-          "note": "Mara (shin) is listed as out for Sunday's game versus Miami. Mara is the latest Thunder pl"
-        },
-        {
-          "p": "Giannis Antetokounmpo",
-          "st": "OUT",
-          "team": "MIA",
-          "note": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza "
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "ORL",
-      "away": "Orlando Magic",
-      "arec": "",
-      "arank": "",
-      "hh": "WAS",
-      "home": "Washington Wizards",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795392000000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 103,
-      "ascore": 81,
-      "period": 4,
-      "clock": "Q4 9:07",
-      "injuries": [
-        {
-          "p": "Jonathan Isaac",
-          "st": "OUT",
-          "team": "ORL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-22, ORL@WAS). Prior reporting (2026-"
-        },
-        {
-          "p": "Izaiyah Nelson",
-          "st": "OUT",
-          "team": "ORL",
-          "note": "Injury/Illness - Left Ankle injury recovery (2026-11-22, ORL@WAS). Prior reporting (2026-1"
-        },
-        {
-          "p": "Noah Penda",
-          "st": "OUT",
-          "team": "ORL",
-          "note": "Injury/Illness - Right Partially torn hamstring (2026-11-22, ORL@WAS). Prior reporting (20"
-        },
-        {
-          "p": "Paolo Banchero",
-          "st": "OUT",
-          "team": "ORL",
-          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-22, ORL@WAS). Prior reporting (2026-10-2"
-        },
-        {
-          "p": "Tristan Vukcevic",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Injury/Illness - Left Hip Impingement (2026-11-22, ORL@WAS). Prior reporting (2026-11-16):"
-        },
-        {
-          "p": "Jamir Watkins",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Injury/Illness - Left ACL Repair / Surgery (2026-11-22, ORL@WAS). Prior reporting (2026-07"
-        },
-        {
-          "p": "Justin Champagnie",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-22, ORL@WAS). Prior reporting (2026-10-28): C"
-        },
-        {
-          "p": "Reece Beekman",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "Injury/Illness - Right AC Joint Sprain / Separation (2026-11-22, ORL@WAS). Prior reporting"
-        },
-        {
-          "p": "Felix Okpara",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "G League - Two-Way (2026-11-22, ORL@WAS)."
-        },
-        {
-          "p": "Deandre Ayton",
-          "st": "AVA",
-          "team": "WAS",
-          "note": "Injury/Illness - Illness (2026-11-22, ORL@WAS)."
-        },
-        {
-          "p": "Carlton Carrington",
-          "st": "AVA",
-          "team": "WAS",
-          "note": "Injury/Illness - Illness (2026-11-22, ORL@WAS)."
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "DEN",
-      "away": "Denver Nuggets",
-      "arec": "",
-      "arank": "",
-      "hh": "CHI",
-      "home": "Chicago Bulls",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795392000000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 103,
-      "ascore": 108,
-      "period": 4,
-      "clock": "Q4 9:29",
-      "injuries": [
-        {
-          "p": "Julian Strawther",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "Injury/Illness - Left Knee Sprain (2026-11-22, DEN@CHI). Prior reporting (2026-10-17): Str"
-        },
-        {
-          "p": "DaRon Holmes II",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - On Assignment (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Bryce Hopkins",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - Two-Way (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Cam Whitmore",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - Two-Way (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Tobe Awaka",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Caleb Wilson",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-22, DEN@CHI). Prior reporting (2026-11"
-        },
-        {
-          "p": "Jalen Smith",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Norman Powell",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-11-22, DEN@CHI). Prior reporting (2026-11-22"
-        },
-        {
-          "p": "Orlando Robinson",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Jaylin Sellers",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Patrick Williams",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Nicolas Claxton",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Injury/Illness - Illness (2026-11-22, DEN@CHI). Prior reporting (2026-11-22): Claxton (ill"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "DAL",
-      "away": "Dallas Mavericks",
-      "arec": "",
-      "arank": "",
-      "hh": "UTA",
-      "home": "Utah Jazz",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795392000000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 81,
-      "ascore": 96,
-      "period": 4,
-      "clock": "Q4 8:30",
-      "injuries": [
-        {
-          "p": "Dereck Lively II",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-22, DAL@UTA). Prior reporting (2026-11-20): H"
-        },
-        {
-          "p": "Tarik Biberovic",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-22, DAL@UTA). Prior reporting (2026-11-17): "
-        },
-        {
-          "p": "Sergio De Larrea",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-22, DAL@UTA). Prior reporting (2026-11-17): De"
-        },
-        {
-          "p": "Tobi Lawal",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Groin Strain (2026-11-22, DAL@UTA). Prior reporting (2026-11-22): L"
-        },
-        {
-          "p": "P.J. Washington",
-          "st": "OUT",
-          "team": "DAL",
-          "note": "Injury/Illness - Illness (2026-11-22, DAL@UTA). Prior reporting (2026-11-22): Washington ("
-        },
-        {
-          "p": "Walter Clayton Jr.",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Left Patellar Tendinitis (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Splint (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Jusuf Nurkic",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Injury/Illness - Right 2nd Plantar Plate Tear (2026-11-22, DAL@UTA). Prior reporting (2026"
-        },
-        {
-          "p": "Jaren Jackson Jr.",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Injury/Illness - Right MCL Tear (2026-11-22, DAL@UTA). Prior reporting (2026-10-27): Jacks"
-        },
-        {
-          "p": "Lauri Markkanen",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "Injury/Illness - Right Hand Fracture (2026-11-22, DAL@UTA). Prior reporting (2026-11-11): "
-        },
-        {
-          "p": "Jonas Aidoo",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Kobe Bufkin",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Harrison Ingram",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "IND",
-      "away": "Indiana Pacers",
-      "arec": "",
-      "arank": "",
-      "hh": "NYK",
-      "home": "New York Knicks",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795395600000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 42,
-      "ascore": 43,
-      "period": 2,
-      "clock": "Q2 5:26",
-      "injuries": [
-        {
-          "p": "Johnny Furphy",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-22, IND@NYK). Prior reporting (2026-1"
-        },
-        {
-          "p": "Ben Sheppard",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Injury/Illness - Left Meniscus Surgery (2026-11-22, IND@NYK). Prior reporting (2026-10-28)"
-        },
-        {
-          "p": "Tyrese Haliburton",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-22, IND@NYK). Prior reporting (2026-11-20)"
-        },
-        {
-          "p": "T.J. McConnell",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Soreness (2026-11-22, IND@NYK). Prior reporting (2026-11-2"
-        },
-        {
-          "p": "Pascal Siakam",
-          "st": "AVA",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hip Soreness / Tightness (2026-11-22, IND@NYK)."
-        },
-        {
-          "p": "OG Anunoby",
-          "st": "OUT",
-          "team": "NYK",
-          "note": "Injury/Illness - Left Calf Tightness (2026-11-22, IND@NYK). Prior reporting (2026-11-22): "
-        },
-        {
-          "p": "Jordan Clarkson",
-          "st": "OUT",
-          "team": "NYK",
-          "note": "Injury/Illness - Right Plantar Fasciitis (2026-11-22, IND@NYK). Prior reporting (2026-11-2"
-        },
-        {
-          "p": "Karl-Anthony Towns",
-          "st": "AVA",
-          "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-22, IND@NYK)."
-        },
-        {
-          "p": "Miles McBride",
-          "st": "OUT",
-          "team": "NYK",
-          "note": "Injury/Illness - Left Left Adductor Tightness (2026-11-22, IND@NYK). Prior reporting (2026"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
-    {
-      "ha": "BOS",
-      "away": "Boston Celtics",
-      "arec": "",
-      "arank": "",
-      "hh": "GSW",
-      "home": "Golden State Warriors",
-      "hrec": "",
-      "hrank": "",
-      "tip": 1795397400000,
-      "channel": "League Pass",
-      "national": false,
-      "status": "in",
-      "hscore": 20,
-      "ascore": 15,
-      "period": 1,
-      "clock": "Q1 3:51",
-      "injuries": [
-        {
-          "p": "Mitchell Robinson",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "Injury/Illness - Illness (2026-11-22, BOS@GSW). Prior reporting (2026-11-22): Robinson (il"
-        },
-        {
-          "p": "Paul George",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "Rest (2026-11-22, BOS@GSW). Prior reporting (2026-11-22): George (rest) has been ruled out"
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-22, BOS@GSW)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-22, BOS@GSW)."
-        },
-        {
-          "p": "Kristaps Porzingis",
-          "st": "OUT",
-          "team": "GSW",
-          "note": "Not With Team (2026-11-22, BOS@GSW). Prior reporting (2026-11-06): Porzingis announced on "
-        },
-        {
-          "p": "Jimmy Butler",
-          "st": "OUT",
-          "team": "GSW",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-22, BOS@GSW). Prior reporting (2026-1"
-        },
-        {
-          "p": "Moses Moody",
-          "st": "OUT",
-          "team": "GSW",
-          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-11-22, BOS@GSW). Prior report"
-        },
-        {
-          "p": "Brandon Williams",
-          "st": "OUT",
-          "team": "GSW",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-22, BOS@GSW). Prior reporting (2026-11-22)"
-        },
-        {
-          "p": "Stephen Curry",
-          "st": "OUT",
-          "team": "GSW",
-          "note": "Injury/Illness - Right Oblique Tear (2026-11-22, BOS@GSW). Prior reporting (2026-11-12): C"
-        }
-      ],
-      "lineups": {
-        "away": [],
-        "home": []
-      },
-      "players": [],
-      "ref": {},
-      "h2h": ""
-    },
     {
       "ha": "MEM",
       "away": "Memphis Grizzlies",
@@ -884,31 +257,25 @@
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-22, IND@NYK). Prior reporting (2026-1"
+          "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.co"
         },
         {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Meniscus Surgery (2026-11-22, IND@NYK). Prior reporting (2026-10-28)"
+          "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to "
         },
         {
           "p": "Tyrese Haliburton",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-22, IND@NYK). Prior reporting (2026-11-20)"
+          "note": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN"
         },
         {
           "p": "T.J. McConnell",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Soreness (2026-11-22, IND@NYK). Prior reporting (2026-11-2"
-        },
-        {
-          "p": "Pascal Siakam",
-          "st": "AVA",
-          "team": "IND",
-          "note": "Injury/Illness - Left Hip Soreness / Tightness (2026-11-22, IND@NYK)."
+          "note": "McConnell (hamstring) is listed as out for Sunday's game in New York. McConnell missed the"
         }
       ],
       "lineups": {
@@ -1142,52 +509,22 @@
           "note": "G League - Two-Way (2026-11-23, CLE@CHI)."
         },
         {
-          "p": "Tobe Awaka",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
           "p": "Caleb Wilson",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-22, DEN@CHI). Prior reporting (2026-11"
-        },
-        {
-          "p": "Jalen Smith",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
+          "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. The r"
         },
         {
           "p": "Norman Powell",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-11-22, DEN@CHI). Prior reporting (2026-11-22"
-        },
-        {
-          "p": "Orlando Robinson",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Jaylin Sellers",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Patrick Williams",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
+          "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated late"
         },
         {
           "p": "Nicolas Claxton",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Illness (2026-11-22, DEN@CHI). Prior reporting (2026-11-22): Claxton (ill"
+          "note": "Claxton (illness) won't play in Sunday's game against the Nuggets. Claxton will miss Sunda"
         }
       ],
       "lineups": {
@@ -1376,37 +713,25 @@
           "p": "Jusuf Nurkic",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right 2nd Plantar Plate Tear (2026-11-22, DAL@UTA). Prior reporting (2026"
+          "note": "Nurkic (foot) has been cleared for on-court work and will be re-evaluated in one week. Nur"
         },
         {
           "p": "Jaren Jackson Jr.",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right MCL Tear (2026-11-22, DAL@UTA). Prior reporting (2026-10-27): Jacks"
+          "note": "Jackson has been diagnosed with a torn MCL in his right knee and will be sidelined for 6-t"
         },
         {
           "p": "Lauri Markkanen",
           "st": "OUT",
           "team": "UTA",
-          "note": "Injury/Illness - Right Hand Fracture (2026-11-22, DAL@UTA). Prior reporting (2026-11-11): "
+          "note": "Markkanen has been diagnosed with a non-displaced fracture in his right hand and will be s"
         },
         {
-          "p": "Jonas Aidoo",
+          "p": "Jaxson Hayes",
           "st": "OUT",
           "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Kobe Bufkin",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Harrison Ingram",
-          "st": "OUT",
-          "team": "UTA",
-          "note": "G League - Two-Way (2026-11-22, DAL@UTA)."
+          "note": "Hayes (knee) has been ruled out for the remainder of Sunday's game against the Mavericks, "
         },
         {
           "p": "Austin Reaves",
@@ -1481,7 +806,7 @@
           "p": "Victor Wembanyama",
           "st": "GTD",
           "team": "SAS",
-          "note": "Injury/Illness - Bilateral Low Back Tightness (2026-11-23, SAS@SAC)."
+          "note": "Injury/Illness - Bilateral Low Back Tightness (2026-11-23, SAS@SAC). Prior reporting (2026"
         },
         {
           "p": "Maxime Raynaud",
@@ -1562,25 +887,25 @@
           "p": "Jonathan Isaac",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Knee Injury Management (2026-11-22, ORL@WAS). Prior reporting (2026-"
+          "note": "Isaac (knee) is out for Sunday's game against the Wizards. Isaac continues to deal with a "
         },
         {
           "p": "Izaiyah Nelson",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Left Ankle injury recovery (2026-11-22, ORL@WAS). Prior reporting (2026-1"
+          "note": "Head coach Sean Sweeney said Wednesday that Nelson (ankle) has been doing \"some on-court s"
         },
         {
           "p": "Noah Penda",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right Partially torn hamstring (2026-11-22, ORL@WAS). Prior reporting (20"
+          "note": "Penda (hamstring) is making progress but remains without a timetable to return to game act"
         },
         {
           "p": "Paolo Banchero",
           "st": "OUT",
           "team": "ORL",
-          "note": "Injury/Illness - Right High Ankle Sprain (2026-11-22, ORL@WAS). Prior reporting (2026-10-2"
+          "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
         }
       ],
       "lineups": {
@@ -1613,67 +938,37 @@
           "p": "Mitchell Robinson",
           "st": "OUT",
           "team": "BOS",
-          "note": "Injury/Illness - Illness (2026-11-22, BOS@GSW). Prior reporting (2026-11-22): Robinson (il"
+          "note": "Robinson (illness) has been ruled out for Sunday's game against Golden State, Justin Turpi"
         },
         {
           "p": "Paul George",
           "st": "OUT",
           "team": "BOS",
-          "note": "Rest (2026-11-22, BOS@GSW). Prior reporting (2026-11-22): George (rest) has been ruled out"
-        },
-        {
-          "p": "Dillon Mitchell",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-22, BOS@GSW)."
-        },
-        {
-          "p": "Amari Williams",
-          "st": "OUT",
-          "team": "BOS",
-          "note": "G League - Two-Way (2026-11-22, BOS@GSW)."
+          "note": "George (rest) has been ruled out for Sunday's game against Golden State, Justin Turpin of "
         },
         {
           "p": "Tristan Vukcevic",
           "st": "OUT",
           "team": "WAS",
-          "note": "Injury/Illness - Left Hip Impingement (2026-11-22, ORL@WAS). Prior reporting (2026-11-16):"
+          "note": "Vukcevic (hip) has been ruled out for Monday's game against Memphis. Vukcevic has yet to m"
         },
         {
           "p": "Jamir Watkins",
           "st": "OUT",
           "team": "WAS",
-          "note": "Injury/Illness - Left ACL Repair / Surgery (2026-11-22, ORL@WAS). Prior reporting (2026-07"
+          "note": "The Wizards announced Thursday that Watkins has undergone surgery for a torn ACL. Watkins,"
         },
         {
           "p": "Justin Champagnie",
           "st": "OUT",
           "team": "WAS",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-22, ORL@WAS). Prior reporting (2026-10-28): C"
+          "note": "Champagnie (foot) is expected to miss several months, per Josh Robbins of The Athletic. Th"
         },
         {
           "p": "Reece Beekman",
           "st": "OUT",
           "team": "WAS",
-          "note": "Injury/Illness - Right AC Joint Sprain / Separation (2026-11-22, ORL@WAS). Prior reporting"
-        },
-        {
-          "p": "Felix Okpara",
-          "st": "OUT",
-          "team": "WAS",
-          "note": "G League - Two-Way (2026-11-22, ORL@WAS)."
-        },
-        {
-          "p": "Deandre Ayton",
-          "st": "AVA",
-          "team": "WAS",
-          "note": "Injury/Illness - Illness (2026-11-22, ORL@WAS)."
-        },
-        {
-          "p": "Carlton Carrington",
-          "st": "AVA",
-          "team": "WAS",
-          "note": "Injury/Illness - Illness (2026-11-22, ORL@WAS)."
+          "note": "The Wizards announced Monday that Beekman sustained a right acromioclavicular joint injury"
         }
       ],
       "lineups": {
@@ -1706,67 +1001,37 @@
           "p": "Dereck Lively II",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Foot Surgery (2026-11-22, DAL@UTA). Prior reporting (2026-11-20): H"
+          "note": "Head coach Dusty May said Friday that Lively (foot) is moving well and progressing in his "
         },
         {
           "p": "Tarik Biberovic",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Heel Bursitis (2026-11-22, DAL@UTA). Prior reporting (2026-11-17): "
+          "note": "Biberovic (heel) is out for Wednesday's game against the Warriors. Biberovic has yet to de"
         },
         {
           "p": "Sergio De Larrea",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Knee Sprain (2026-11-22, DAL@UTA). Prior reporting (2026-11-17): De"
+          "note": "De Larrea (knee) is listed as out for Wednesday's game against the Warriors. De Larrea has"
         },
         {
           "p": "Tobi Lawal",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Right Groin Strain (2026-11-22, DAL@UTA). Prior reporting (2026-11-22): L"
+          "note": "Lawal (groin) has been ruled out for Sunday's game against the Jazz. Lawal will miss a thi"
         },
         {
           "p": "P.J. Washington",
           "st": "OUT",
           "team": "DAL",
-          "note": "Injury/Illness - Illness (2026-11-22, DAL@UTA). Prior reporting (2026-11-22): Washington ("
-        },
-        {
-          "p": "Walter Clayton Jr.",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Left Patellar Tendinitis (2026-11-22, DAL@UTA)."
-        },
-        {
-          "p": "Caleb Martin",
-          "st": "AVA",
-          "team": "DAL",
-          "note": "Injury/Illness - Right Thumb Splint (2026-11-22, DAL@UTA)."
+          "note": "Washington (illness) has been ruled out for Sunday's game against the Jazz. Washington is "
         },
         {
           "p": "Julian Strawther",
           "st": "OUT",
           "team": "DEN",
-          "note": "Injury/Illness - Left Knee Sprain (2026-11-22, DEN@CHI). Prior reporting (2026-10-17): Str"
-        },
-        {
-          "p": "DaRon Holmes II",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - On Assignment (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Bryce Hopkins",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - Two-Way (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Cam Whitmore",
-          "st": "OUT",
-          "team": "DEN",
-          "note": "G League - Two-Way (2026-11-22, DEN@CHI)."
+          "note": "Strawther (knee) was diagnosed with a left knee sprain Friday and will be re-evaluated in "
         }
       ],
       "lineups": {
@@ -1853,52 +1118,22 @@
       "clock": "",
       "injuries": [
         {
-          "p": "Tobe Awaka",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
           "p": "Caleb Wilson",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-22, DEN@CHI). Prior reporting (2026-11"
-        },
-        {
-          "p": "Jalen Smith",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
+          "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. The r"
         },
         {
           "p": "Norman Powell",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-11-22, DEN@CHI). Prior reporting (2026-11-22"
-        },
-        {
-          "p": "Orlando Robinson",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Jaylin Sellers",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
-        },
-        {
-          "p": "Patrick Williams",
-          "st": "AVA",
-          "team": "CHI",
-          "note": "- (2026-11-22, DEN@CHI)."
+          "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated late"
         },
         {
           "p": "Nicolas Claxton",
           "st": "OUT",
           "team": "CHI",
-          "note": "Injury/Illness - Illness (2026-11-22, DEN@CHI). Prior reporting (2026-11-22): Claxton (ill"
+          "note": "Claxton (illness) won't play in Sunday's game against the Nuggets. Claxton will miss Sunda"
         },
         {
           "p": "Kon Knueppel",
@@ -2009,25 +1244,19 @@
           "p": "OG Anunoby",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Left Calf Tightness (2026-11-22, IND@NYK). Prior reporting (2026-11-22): "
+          "note": "Anunoby (calf) won't play Sunday against the Pacers. Anunoby will miss a second straight g"
         },
         {
           "p": "Jordan Clarkson",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Right Plantar Fasciitis (2026-11-22, IND@NYK). Prior reporting (2026-11-2"
-        },
-        {
-          "p": "Karl-Anthony Towns",
-          "st": "AVA",
-          "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-22, IND@NYK)."
+          "note": "Clarkson (foot) has been ruled out for Sunday's game against Indiana. Clarkson will miss a"
         },
         {
           "p": "Miles McBride",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Left Left Adductor Tightness (2026-11-22, IND@NYK). Prior reporting (2026"
+          "note": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers. McBride will mi"
         }
       ],
       "lineups": {
@@ -2414,31 +1643,31 @@
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
-          "note": "Not With Team (2026-11-22, BOS@GSW). Prior reporting (2026-11-06): Porzingis announced on "
+          "note": "Porzingis announced on his social media that he's stepping away from basketball. Porzingis"
         },
         {
           "p": "Jimmy Butler",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-22, BOS@GSW). Prior reporting (2026-1"
+          "note": "Butler (knee) could return sometime between January and February as he continues recoverin"
         },
         {
           "p": "Moses Moody",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Left Patellar Tendon Repair / Surgery (2026-11-22, BOS@GSW). Prior report"
+          "note": "Moody (knee) is progressing toward a potential return between December and January after r"
         },
         {
           "p": "Brandon Williams",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-22, BOS@GSW). Prior reporting (2026-11-22)"
+          "note": "Williams (hamstring) is out for Sunday's game against the Celtics. Williams recently progr"
         },
         {
           "p": "Stephen Curry",
           "st": "OUT",
           "team": "GSW",
-          "note": "Injury/Illness - Right Oblique Tear (2026-11-22, BOS@GSW). Prior reporting (2026-11-12): C"
+          "note": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two we"
         }
       ],
       "lineups": {
@@ -2501,7 +1730,7 @@
           "p": "Victor Wembanyama",
           "st": "GTD",
           "team": "SAS",
-          "note": "Injury/Illness - Bilateral Low Back Tightness (2026-11-23, SAS@SAC)."
+          "note": "Injury/Illness - Bilateral Low Back Tightness (2026-11-23, SAS@SAC). Prior reporting (2026"
         },
         {
           "p": "Shaedon Sharpe",
