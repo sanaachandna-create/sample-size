@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T18:38:19+00:00",
-  "count": 525,
+  "updated": "2026-11-23T22:53:49+00:00",
+  "count": 526,
   "error": null,
   "players": [
     {
@@ -962,6 +962,12 @@
       "name": "GG Jackson",
       "team": "MEM",
       "pos": "F"
+    },
+    {
+      "id": 1603383,
+      "name": "Gabe Vincent",
+      "team": "SAC",
+      "pos": "G"
     },
     {
       "id": 2189,
