@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-23T16:18:39+00:00",
+  "updated": "2026-11-23T19:46:49+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 22,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 194,
+  "injuryCount": 199,
   "games": [
     {
       "ha": "MEM",
@@ -171,6 +171,12 @@
           "st": "GTD",
           "team": "PHI",
           "note": "Injury/Illness - Left Hamstring Injury Management (2026-11-23, POR@PHI). Prior reporting ("
+        },
+        {
+          "p": "Joel Embiid",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Injury/Illness - Illness (2026-11-23, POR@PHI). Prior reporting (2026-11-23): Embiid (knee"
         }
       ],
       "lineups": {
@@ -203,79 +209,85 @@
           "p": "Cason Wallace",
           "st": "OUT",
           "team": "OKC",
-          "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be "
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-23, OKC@IND). Prior reporting (2026-10-31)"
         },
         {
           "p": "Jalen Williams",
           "st": "OUT",
           "team": "OKC",
-          "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula "
+          "note": "Injury/Illness - Left Ankle Surgery (2026-11-23, OKC@IND). Prior reporting (2026-11-23): W"
         },
         {
           "p": "Chet Holmgren",
           "st": "OUT",
           "team": "OKC",
-          "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear a"
+          "note": "Injury/Illness - Right Knee/ Injury Recovery (2026-11-23, OKC@IND). Prior reporting (2026-"
         },
         {
           "p": "Thomas Sorber",
           "st": "OUT",
           "team": "OKC",
-          "note": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the pat"
+          "note": "Injury/Illness - Right Knee Surgery (2026-11-23, OKC@IND). Prior reporting (2026-11-18): S"
         },
         {
           "p": "Alex Caruso",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Caruso (hip) won't play Sunday against the Heat. Sunday will mark Caruso's second straight"
+          "note": "Injury/Illness - Right Hip Impingement (2026-11-23, OKC@IND). Prior reporting (2026-11-23)"
         },
         {
           "p": "Nikola Topic",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Topic (hip) is listed as out for Sunday's game versus the Heat. Topic has appeared in only"
-        },
-        {
-          "p": "Shai Gilgeous-Alexander",
-          "st": "GTD",
-          "team": "OKC",
-          "note": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat. Gilgeo"
+          "note": "Injury/Illness - Left Hip Strain (2026-11-23, OKC@IND). Prior reporting (2026-11-23): Topi"
         },
         {
           "p": "Jaylin Williams",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Williams (back) is listed as out for Sunday's game against Miami. Williams missed seven co"
+          "note": "Injury/Illness - Low Back Spasms (2026-11-23, OKC@IND). Prior reporting (2026-11-23): Will"
         },
         {
           "p": "Aday Mara",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Mara (shin) is listed as out for Sunday's game versus Miami. Mara is the latest Thunder pl"
+          "note": "Injury/Illness - Right Shin Contusion (2026-11-23, OKC@IND). Prior reporting (2026-11-23):"
         },
         {
           "p": "Johnny Furphy",
           "st": "OUT",
           "team": "IND",
-          "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.co"
+          "note": "Injury/Illness - Right ACL Repair / Surgery (2026-11-23, OKC@IND). Prior reporting (2026-1"
         },
         {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
-          "note": "Head coach Rick Carlise confirmed Sheppard will miss \"months\" after undergoing surgery to "
+          "note": "Injury/Illness - Left Meniscus Surgery (2026-11-23, OKC@IND). Prior reporting (2026-10-28)"
         },
         {
           "p": "Tyrese Haliburton",
           "st": "OUT",
           "team": "IND",
-          "note": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-23, OKC@IND). Prior reporting (2026-11-20)"
         },
         {
           "p": "T.J. McConnell",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Left Hamstring Soreness (2026-11-23, OKC@IND). Prior reporting (2026-11-2"
+        },
+        {
+          "p": "Aaron Nesmith",
+          "st": "OUT",
+          "team": "IND",
+          "note": "Injury/Illness - Right Foot Soreness (2026-11-23, OKC@IND). Prior reporting (2026-11-23): "
+        },
+        {
+          "p": "Pascal Siakam",
           "st": "GTD",
           "team": "IND",
-          "note": "McConnell (hamstring) is listed as out for Sunday's game in New York. McConnell missed the"
+          "note": "Injury/Illness - Left Hip Injury Management (2026-11-23, OKC@IND). Prior reporting (2026-1"
         }
       ],
       "lineups": {
@@ -306,9 +318,9 @@
       "injuries": [
         {
           "p": "Ousmane Dieng",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIL",
-          "note": "Injury/Illness - Left Finger Fracture (2026-11-23, MIL@TOR). Prior reporting (2026-11-22):"
+          "note": "- (2026-11-23, MIL@TOR)."
         },
         {
           "p": "Kam Jones",
@@ -345,6 +357,12 @@
           "st": "GTD",
           "team": "TOR",
           "note": "Concussion Protocol (2026-11-23, MIL@TOR). Prior reporting (2026-11-22): Murray-Boyles (co"
+        },
+        {
+          "p": "Jaden Bradley",
+          "st": "GTD",
+          "team": "TOR",
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-23, MIL@TOR). Prior reporting (2026-11-23): B"
         }
       ],
       "lineups": {
@@ -375,9 +393,9 @@
       "injuries": [
         {
           "p": "Grant Nelson",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-23, BKN@MIN). Prior reporting (2026-11-22): N"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-23, BKN@MIN)."
         },
         {
           "p": "Nolan Traor\u00e9",
@@ -512,19 +530,25 @@
           "p": "Caleb Wilson",
           "st": "OUT",
           "team": "CHI",
-          "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. The r"
+          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-23, CLE@CHI). Prior reporting (2026-11"
         },
         {
           "p": "Norman Powell",
           "st": "OUT",
           "team": "CHI",
-          "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated late"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-23, CLE@CHI). Prior reporting (2026-11-22"
         },
         {
           "p": "Nicolas Claxton",
           "st": "GTD",
           "team": "CHI",
-          "note": "Claxton (illness) won't play in Sunday's game against the Nuggets. Claxton will miss Sunda"
+          "note": "Injury/Illness - Illness (2026-11-23, CLE@CHI). Prior reporting (2026-11-23): Claxton (ill"
+        },
+        {
+          "p": "Jalen Smith",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Gastrointestinal Illness (2026-11-23, CLE@CHI). Prior reporting (2026-11-"
         }
       ],
       "lineups": {
@@ -561,9 +585,9 @@
         },
         {
           "p": "Ryan Dunn",
-          "st": "GTD",
+          "st": "AVA",
           "team": "PHX",
-          "note": "Injury/Illness - Right Quad Soreness (2026-11-23, PHX@NOP). Prior reporting (2026-11-22): "
+          "note": "Injury/Illness - Right Quad Soreness (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Trendon Watford",
@@ -573,9 +597,9 @@
         },
         {
           "p": "Bryce McGowens",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
-          "note": "Injury/Illness - Left Elbow Infection (2026-11-23, PHX@NOP). Prior reporting (2026-11-22):"
+          "note": "Injury/Illness - Left Elbow Infection (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Dejounte Murray",
@@ -591,9 +615,9 @@
         },
         {
           "p": "Trey Murphy III",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
-          "note": "Injury/Illness - Bilateral Patellar Tendinopathy (2026-11-23, PHX@NOP). Prior reporting (2"
+          "note": "Injury/Illness - Bilateral Patellar Tendinopathy (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Zion Williamson",
@@ -603,19 +627,19 @@
         },
         {
           "p": "Malik Dia",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Jaron Pierre Jr.",
-          "st": "GTD",
+          "st": "AVA",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Julian Reese",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NOP",
           "note": "G League - Two-Way (2026-11-23, PHX@NOP)."
         }
@@ -1089,6 +1113,12 @@
           "st": "GTD",
           "team": "PHI",
           "note": "Injury/Illness - Left Hamstring Injury Management (2026-11-23, POR@PHI). Prior reporting ("
+        },
+        {
+          "p": "Joel Embiid",
+          "st": "GTD",
+          "team": "PHI",
+          "note": "Injury/Illness - Illness (2026-11-23, POR@PHI). Prior reporting (2026-11-23): Embiid (knee"
         }
       ],
       "lineups": {
@@ -1121,19 +1151,25 @@
           "p": "Caleb Wilson",
           "st": "OUT",
           "team": "CHI",
-          "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. The r"
+          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-23, CLE@CHI). Prior reporting (2026-11"
         },
         {
           "p": "Norman Powell",
           "st": "OUT",
           "team": "CHI",
-          "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated late"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-23, CLE@CHI). Prior reporting (2026-11-22"
         },
         {
           "p": "Nicolas Claxton",
           "st": "GTD",
           "team": "CHI",
-          "note": "Claxton (illness) won't play in Sunday's game against the Nuggets. Claxton will miss Sunda"
+          "note": "Injury/Illness - Illness (2026-11-23, CLE@CHI). Prior reporting (2026-11-23): Claxton (ill"
+        },
+        {
+          "p": "Jalen Smith",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Gastrointestinal Illness (2026-11-23, CLE@CHI). Prior reporting (2026-11-"
         },
         {
           "p": "Kon Knueppel",
@@ -1319,55 +1355,49 @@
           "p": "Cason Wallace",
           "st": "OUT",
           "team": "OKC",
-          "note": "Wallace underwent surgery Friday to repair a torn labrum in his left shoulder and will be "
+          "note": "Injury/Illness - Left Shoulder Surgery (2026-11-23, OKC@IND). Prior reporting (2026-10-31)"
         },
         {
           "p": "Jalen Williams",
           "st": "OUT",
           "team": "OKC",
-          "note": "Williams (leg) underwent successful surgery Wednesday to \"address a fractured left fibula "
+          "note": "Injury/Illness - Left Ankle Surgery (2026-11-23, OKC@IND). Prior reporting (2026-11-23): W"
         },
         {
           "p": "Chet Holmgren",
           "st": "OUT",
           "team": "OKC",
-          "note": "Holmgren underwent a biological treatment Friday to address a small patellar tendon tear a"
+          "note": "Injury/Illness - Right Knee/ Injury Recovery (2026-11-23, OKC@IND). Prior reporting (2026-"
         },
         {
           "p": "Thomas Sorber",
           "st": "OUT",
           "team": "OKC",
-          "note": "Sorber underwent an arthroscopic knee procedure Tuesday to address inflammation at the pat"
+          "note": "Injury/Illness - Right Knee Surgery (2026-11-23, OKC@IND). Prior reporting (2026-11-18): S"
         },
         {
           "p": "Alex Caruso",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Caruso (hip) won't play Sunday against the Heat. Sunday will mark Caruso's second straight"
+          "note": "Injury/Illness - Right Hip Impingement (2026-11-23, OKC@IND). Prior reporting (2026-11-23)"
         },
         {
           "p": "Nikola Topic",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Topic (hip) is listed as out for Sunday's game versus the Heat. Topic has appeared in only"
-        },
-        {
-          "p": "Shai Gilgeous-Alexander",
-          "st": "GTD",
-          "team": "OKC",
-          "note": "Gilgeous-Alexander (back/neck) is listed as out for Sunday's game against the Heat. Gilgeo"
+          "note": "Injury/Illness - Left Hip Strain (2026-11-23, OKC@IND). Prior reporting (2026-11-23): Topi"
         },
         {
           "p": "Jaylin Williams",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Williams (back) is listed as out for Sunday's game against Miami. Williams missed seven co"
+          "note": "Injury/Illness - Low Back Spasms (2026-11-23, OKC@IND). Prior reporting (2026-11-23): Will"
         },
         {
           "p": "Aday Mara",
-          "st": "GTD",
+          "st": "OUT",
           "team": "OKC",
-          "note": "Mara (shin) is listed as out for Sunday's game versus Miami. Mara is the latest Thunder pl"
+          "note": "Injury/Illness - Right Shin Contusion (2026-11-23, OKC@IND). Prior reporting (2026-11-23):"
         }
       ],
       "lineups": {
@@ -1479,9 +1509,9 @@
       "injuries": [
         {
           "p": "Grant Nelson",
-          "st": "GTD",
+          "st": "AVA",
           "team": "BKN",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-23, BKN@MIN). Prior reporting (2026-11-22): N"
+          "note": "Injury/Illness - Right Ankle Sprain (2026-11-23, BKN@MIN)."
         },
         {
           "p": "Nolan Traor\u00e9",
@@ -1521,9 +1551,9 @@
         },
         {
           "p": "Ousmane Dieng",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIL",
-          "note": "Injury/Illness - Left Finger Fracture (2026-11-23, MIL@TOR). Prior reporting (2026-11-22):"
+          "note": "- (2026-11-23, MIL@TOR)."
         },
         {
           "p": "Kam Jones",
@@ -1572,9 +1602,9 @@
         },
         {
           "p": "Ryan Dunn",
-          "st": "GTD",
+          "st": "AVA",
           "team": "PHX",
-          "note": "Injury/Illness - Right Quad Soreness (2026-11-23, PHX@NOP). Prior reporting (2026-11-22): "
+          "note": "Injury/Illness - Right Quad Soreness (2026-11-23, PHX@NOP)."
         },
         {
           "p": "Quadir Copeland",
