@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-24T08:03:49+00:00",
+  "updated": "2026-11-24T19:17:33+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 23,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 147,
+  "injuryCount": 151,
   "games": [
     {
       "ha": "DET",
@@ -29,25 +29,25 @@
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-23"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Duncan Robinson",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-17"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Taurean Prince",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Right Knee Arthroscopy (2026-11-24, DET@ORL). Prior reporting (2026-11-20"
+          "note": "Injury/Illness - Right Knee Arthroscopy (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Ebuka Okorie",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Oblique Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-23): "
+          "note": "Injury/Illness - Left Oblique Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24): "
         },
         {
           "p": "Cade Cunningham",
@@ -171,6 +171,12 @@
           "st": "GTD",
           "team": "WAS",
           "note": "G League - Two-Way (2026-11-24, BOS@WAS)."
+        },
+        {
+          "p": "Tre Mann",
+          "st": "GTD",
+          "team": "WAS",
+          "note": "Injury/Illness - Illness (2026-11-24, BOS@WAS). Prior reporting (2026-11-24): Mann (illnes"
         }
       ],
       "lineups": {
@@ -266,7 +272,7 @@
           "p": "Giannis Antetokounmpo",
           "st": "GTD",
           "team": "MIA",
-          "note": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza "
+          "note": "Antetokounmpo (groin) participated in most of Tuesday's practice, Zachary Weinberger of Cl"
         },
         {
           "p": "Ariel Hukporti",
@@ -311,13 +317,37 @@
           "p": "Caleb Wilson",
           "st": "OUT",
           "team": "CHI",
-          "note": "Wilson (hand) is expected to miss four to six weeks, Shams Charania of ESPN reports. The r"
+          "note": "Injury/Illness - Right Metacarpal Fracture (2026-11-25, CHI@CHA). Prior reporting (2026-11"
         },
         {
           "p": "Norman Powell",
           "st": "OUT",
           "team": "CHI",
-          "note": "Powell has been diagnosed with a mild right hamstring strain and will be re-evaluated late"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-25, CHI@CHA). Prior reporting (2026-11-22"
+        },
+        {
+          "p": "Tobe Awaka",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "G League - Two-Way (2026-11-25, CHI@CHA)."
+        },
+        {
+          "p": "Orlando Robinson",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "Not With Team (2026-11-25, CHI@CHA)."
+        },
+        {
+          "p": "Jaylin Sellers",
+          "st": "OUT",
+          "team": "CHI",
+          "note": "G League - Two-Way (2026-11-25, CHI@CHA)."
+        },
+        {
+          "p": "Jalen Smith",
+          "st": "GTD",
+          "team": "CHI",
+          "note": "Injury/Illness - Gastrointestinal Illness (2026-11-25, CHI@CHA). Prior reporting (2026-11-"
         },
         {
           "p": "Kon Knueppel",
@@ -392,19 +422,19 @@
           "p": "OG Anunoby",
           "st": "GTD",
           "team": "NYK",
-          "note": "Anunoby (calf) won't play Sunday against the Pacers. Anunoby will miss a second straight g"
+          "note": "Anunoby (calf) did not participate in Tuesday's practice, Jared Schwartz of the New York P"
         },
         {
           "p": "Jordan Clarkson",
           "st": "OUT",
           "team": "NYK",
-          "note": "Clarkson (foot) has been ruled out for Sunday's game against Indiana. Clarkson will miss a"
+          "note": "Clarkson (foot) didn't participate in Tuesday's practice, Jared Schwartz of the New York P"
         },
         {
           "p": "Miles McBride",
           "st": "GTD",
           "team": "NYK",
-          "note": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers. McBride will mi"
+          "note": "McBride (groin) practiced Tuesday, per Jared Schwartz of the New York Post. McBride is pro"
         }
       ],
       "lineups": {
@@ -437,7 +467,7 @@
           "p": "Donte DiVincenzo",
           "st": "OUT",
           "team": "MIN",
-          "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon K"
+          "note": "DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a r"
         },
         {
           "p": "Anthony Edwards",
@@ -815,25 +845,25 @@
           "p": "Giannis Antetokounmpo",
           "st": "GTD",
           "team": "MIA",
-          "note": "Antetokounmpo (groin) won't play in Sunday's game against Oklahoma City, Clemente Almanza "
+          "note": "Antetokounmpo (groin) participated in most of Tuesday's practice, Zachary Weinberger of Cl"
         },
         {
           "p": "OG Anunoby",
           "st": "GTD",
           "team": "NYK",
-          "note": "Anunoby (calf) won't play Sunday against the Pacers. Anunoby will miss a second straight g"
+          "note": "Anunoby (calf) did not participate in Tuesday's practice, Jared Schwartz of the New York P"
         },
         {
           "p": "Jordan Clarkson",
           "st": "OUT",
           "team": "NYK",
-          "note": "Clarkson (foot) has been ruled out for Sunday's game against Indiana. Clarkson will miss a"
+          "note": "Clarkson (foot) didn't participate in Tuesday's practice, Jared Schwartz of the New York P"
         },
         {
           "p": "Miles McBride",
           "st": "GTD",
           "team": "NYK",
-          "note": "McBride (abdomen) has been ruled out for Sunday's game against the Pacers. McBride will mi"
+          "note": "McBride (groin) practiced Tuesday, per Jared Schwartz of the New York Post. McBride is pro"
         }
       ],
       "lineups": {
@@ -866,25 +896,25 @@
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Right Hamstring Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-23"
+          "note": "Injury/Illness - Right Hamstring Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Duncan Robinson",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-17"
+          "note": "Injury/Illness - Left Quadriceps Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Taurean Prince",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Right Knee Arthroscopy (2026-11-24, DET@ORL). Prior reporting (2026-11-20"
+          "note": "Injury/Illness - Right Knee Arthroscopy (2026-11-24, DET@ORL). Prior reporting (2026-11-24"
         },
         {
           "p": "Ebuka Okorie",
           "st": "OUT",
           "team": "DET",
-          "note": "Injury/Illness - Left Oblique Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-23): "
+          "note": "Injury/Illness - Left Oblique Strain (2026-11-24, DET@ORL). Prior reporting (2026-11-24): "
         },
         {
           "p": "Cade Cunningham",
@@ -944,12 +974,6 @@
           "note": "Embiid (illness) is out for Monday's game against Portland, Austin Krell of OnPattison.com"
         },
         {
-          "p": "Johnny Furphy",
-          "st": "OUT",
-          "team": "IND",
-          "note": "Furphy (knee) is practicing with the G League's Noblesville Boom, per Alex Golden of SI.co"
-        },
-        {
           "p": "Ben Sheppard",
           "st": "OUT",
           "team": "IND",
@@ -959,13 +983,13 @@
           "p": "Tyrese Haliburton",
           "st": "OUT",
           "team": "IND",
-          "note": "Haliburton (hamstring) is expected to miss at least two more weeks, Shams Charania of ESPN"
+          "note": "Haliburton (hamstring) was assigned to the G League's Noblesville Boom on Tuesday. Halibur"
         },
         {
           "p": "T.J. McConnell",
           "st": "GTD",
           "team": "IND",
-          "note": "McConnell is out for Monday's game against the Thunder due to left hamstring soreness. The"
+          "note": "McConnell (hamstring) was assigned to the G League's Noblesville Boom on Tuesday. McConnel"
         },
         {
           "p": "Aaron Nesmith",
@@ -1166,7 +1190,7 @@
           "p": "Donte DiVincenzo",
           "st": "OUT",
           "team": "MIN",
-          "note": "DiVincenzo (Achilles) remains confident that he'll return during the 2026-27 season, Jon K"
+          "note": "DiVincenzo (Achilles) has been cleared for team basketball activities and is targeting a r"
         },
         {
           "p": "Anthony Edwards",
