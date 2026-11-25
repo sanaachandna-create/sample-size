@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T17:38:41+00:00",
+  "updated": "2026-11-25T18:22:50+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 195,
+  "injuryCount": 197,
   "games": [
     {
       "ha": "MIA",
@@ -132,13 +132,13 @@
         },
         {
           "p": "Grayson Allen",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHA",
-          "note": "Concussion Protocol (2026-11-25, CHI@CHA). Prior reporting (2026-11-24): Allen (concussion"
+          "note": "Concussion Protocol (2026-11-25, CHI@CHA). Prior reporting (2026-11-25): Allen (concussion"
         },
         {
           "p": "Ryan Kalkbrenner",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHA",
           "note": "Injury/Illness - Left Hip Soreness / Tightness (2026-11-25, CHI@CHA). Prior reporting (202"
         },
@@ -231,7 +231,7 @@
         },
         {
           "p": "Miles McBride",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NYK",
           "note": "Injury/Illness - Left Adductor Tightness (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
         },
@@ -239,13 +239,19 @@
           "p": "Josh Hart",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-24)"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25)"
         },
         {
           "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
           "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
+        },
+        {
+          "p": "Jalen Brunson",
+          "st": "GTD",
+          "team": "NYK",
+          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Brunson (ill"
         }
       ],
       "lineups": {
@@ -756,7 +762,7 @@
         },
         {
           "p": "Miles McBride",
-          "st": "GTD",
+          "st": "OUT",
           "team": "NYK",
           "note": "Injury/Illness - Left Adductor Tightness (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
         },
@@ -764,13 +770,19 @@
           "p": "Josh Hart",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-24)"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25)"
         },
         {
           "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
           "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
+        },
+        {
+          "p": "Jalen Brunson",
+          "st": "GTD",
+          "team": "NYK",
+          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Brunson (ill"
         }
       ],
       "lineups": {
@@ -1608,13 +1620,13 @@
         },
         {
           "p": "Grayson Allen",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHA",
-          "note": "Concussion Protocol (2026-11-25, CHI@CHA). Prior reporting (2026-11-24): Allen (concussion"
+          "note": "Concussion Protocol (2026-11-25, CHI@CHA). Prior reporting (2026-11-25): Allen (concussion"
         },
         {
           "p": "Ryan Kalkbrenner",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHA",
           "note": "Injury/Illness - Left Hip Soreness / Tightness (2026-11-25, CHI@CHA). Prior reporting (202"
         },
