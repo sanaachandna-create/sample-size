@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T18:22:50+00:00",
+  "updated": "2026-11-25T23:58:58+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 197,
+  "injuryCount": 200,
   "games": [
     {
       "ha": "MIA",
@@ -19,17 +19,17 @@
       "tip": 1795644000000,
       "channel": "League Pass",
       "national": false,
-      "status": "pre",
-      "hscore": 0,
-      "ascore": 0,
-      "period": 0,
-      "clock": "",
+      "status": "in",
+      "hscore": 90,
+      "ascore": 81,
+      "period": 4,
+      "clock": "Q4 12:00",
       "injuries": [
         {
           "p": "Giannis Antetokounmpo",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Groin Tendinitis (2026-11-25, MIA@PHI). Prior reporting (2026-11-24"
+          "note": "Injury/Illness - Right Groin Tendinitis (2026-11-25, MIA@PHI)."
         },
         {
           "p": "Tre Donaldson",
@@ -57,9 +57,9 @@
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-24): Embiid (illn"
+          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-25): Embiid (illn"
         }
       ],
       "lineups": {
@@ -114,7 +114,7 @@
         },
         {
           "p": "Jalen Smith",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Gastrointestinal Illness (2026-11-25, CHI@CHA). Prior reporting (2026-11-"
         },
@@ -156,9 +156,9 @@
         },
         {
           "p": "Sion James",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHA",
-          "note": "Injury/Illness - Left Thigh Soreness (2026-11-25, CHI@CHA). Prior reporting (2026-11-24): "
+          "note": "Injury/Illness - Left Thigh Soreness (2026-11-25, CHI@CHA)."
         }
       ],
       "lineups": {
@@ -221,7 +221,7 @@
           "p": "OG Anunoby",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-25, CLE@NYK). Prior reporting (2026-11-24): Anu"
+          "note": "Injury/Illness - Left Calf Strain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Anu"
         },
         {
           "p": "Jordan Clarkson",
@@ -239,19 +239,19 @@
           "p": "Josh Hart",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25)"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK)."
         },
         {
           "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
+          "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK)."
         },
         {
           "p": "Jalen Brunson",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Brunson (ill"
+          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK)."
         }
       ],
       "lineups": {
@@ -393,6 +393,12 @@
         },
         {
           "p": "Nick Martinelli",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "G League - Two-Way (2026-11-25, LAC@MEM)."
+        },
+        {
+          "p": "Jalen Pickett",
           "st": "OUT",
           "team": "LAC",
           "note": "G League - Two-Way (2026-11-25, LAC@MEM)."
@@ -581,6 +587,12 @@
           "note": "G League - Two-Way (2026-11-25, SAC@GSW)."
         },
         {
+          "p": "Zach LaVine",
+          "st": "OUT",
+          "team": "SAC",
+          "note": "Injury/Illness - Right Knee Soreness (2026-11-25, SAC@GSW). Prior reporting (2026-11-25): "
+        },
+        {
           "p": "Kristaps Porzingis",
           "st": "OUT",
           "team": "GSW",
@@ -726,9 +738,9 @@
       "injuries": [
         {
           "p": "Giannis Antetokounmpo",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Groin Tendinitis (2026-11-25, MIA@PHI). Prior reporting (2026-11-24"
+          "note": "Injury/Illness - Right Groin Tendinitis (2026-11-25, MIA@PHI)."
         },
         {
           "p": "Tre Donaldson",
@@ -752,7 +764,7 @@
           "p": "OG Anunoby",
           "st": "OUT",
           "team": "NYK",
-          "note": "Injury/Illness - Left Calf Strain (2026-11-25, CLE@NYK). Prior reporting (2026-11-24): Anu"
+          "note": "Injury/Illness - Left Calf Strain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Anu"
         },
         {
           "p": "Jordan Clarkson",
@@ -770,19 +782,19 @@
           "p": "Josh Hart",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK). Prior reporting (2026-11-25)"
+          "note": "Injury/Illness - Right Shoulder Sprain (2026-11-25, CLE@NYK)."
         },
         {
           "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK). Prior reporting (2026-11-2"
+          "note": "Injury/Illness - Right Knee Inflammation (2026-11-25, CLE@NYK)."
         },
         {
           "p": "Jalen Brunson",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK). Prior reporting (2026-11-25): Brunson (ill"
+          "note": "Injury/Illness - Illness (2026-11-25, CLE@NYK)."
         }
       ],
       "lineups": {
@@ -837,7 +849,7 @@
         },
         {
           "p": "Cade Cunningham",
-          "st": "OUT",
+          "st": "GTD",
           "team": "DET",
           "note": "Cunningham (knee) is listed as out for Tuesday's game against Orlando. Cunningham was list"
         }
@@ -876,9 +888,9 @@
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-24): Embiid (illn"
+          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-25): Embiid (illn"
         },
         {
           "p": "Ben Sheppard",
@@ -1229,7 +1241,7 @@
           "p": "Austin Reaves",
           "st": "OUT",
           "team": "LAL",
-          "note": "Coach JJ Redick stated Monday that the team is optimistic Reaves (heel) will return for Fr"
+          "note": "Reaves (heel) was a full participant in Wednesday's practice, Daniel Starkand of LakersNat"
         },
         {
           "p": "Jayden Quaintance",
@@ -1377,6 +1389,12 @@
         },
         {
           "p": "Nick Martinelli",
+          "st": "OUT",
+          "team": "LAC",
+          "note": "G League - Two-Way (2026-11-25, LAC@MEM)."
+        },
+        {
+          "p": "Jalen Pickett",
           "st": "OUT",
           "team": "LAC",
           "note": "G League - Two-Way (2026-11-25, LAC@MEM)."
@@ -1644,9 +1662,9 @@
         },
         {
           "p": "Sion James",
-          "st": "GTD",
+          "st": "AVA",
           "team": "CHA",
-          "note": "Injury/Illness - Left Thigh Soreness (2026-11-25, CHI@CHA). Prior reporting (2026-11-24): "
+          "note": "Injury/Illness - Left Thigh Soreness (2026-11-25, CHI@CHA)."
         }
       ],
       "lineups": {
@@ -1731,7 +1749,7 @@
         },
         {
           "p": "Jalen Smith",
-          "st": "GTD",
+          "st": "OUT",
           "team": "CHI",
           "note": "Injury/Illness - Gastrointestinal Illness (2026-11-25, CHI@CHA). Prior reporting (2026-11-"
         }
@@ -1839,9 +1857,9 @@
         },
         {
           "p": "Joel Embiid",
-          "st": "GTD",
+          "st": "OUT",
           "team": "PHI",
-          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-24): Embiid (illn"
+          "note": "Injury/Illness - Illness (2026-11-25, MIA@PHI). Prior reporting (2026-11-25): Embiid (illn"
         },
         {
           "p": "Quadir Copeland",
