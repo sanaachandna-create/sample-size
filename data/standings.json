@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:12:59+00:00",
+  "updated": "2026-11-25T19:20:58+00:00",
   "season": 2026,
   "label": "2026-27",
   "error": null,
@@ -13,30 +13,30 @@
     },
     {
       "r": 2,
+      "ab": "BOS",
+      "nm": "Celtics",
+      "w": 12,
+      "l": 6
+    },
+    {
+      "r": 3,
       "ab": "ATL",
       "nm": "Hawks",
       "w": 11,
       "l": 6
     },
     {
-      "r": 3,
-      "ab": "BOS",
-      "nm": "Celtics",
-      "w": 11,
-      "l": 6
-    },
-    {
       "r": 4,
-      "ab": "NYK",
-      "nm": "Knicks",
+      "ab": "DET",
+      "nm": "Pistons",
       "w": 11,
       "l": 6
     },
     {
       "r": 5,
-      "ab": "DET",
-      "nm": "Pistons",
-      "w": 10,
+      "ab": "NYK",
+      "nm": "Knicks",
+      "w": 11,
       "l": 6
     },
     {
@@ -58,14 +58,14 @@
       "ab": "ORL",
       "nm": "Magic",
       "w": 7,
-      "l": 9
+      "l": 10
     },
     {
       "r": 9,
       "ab": "WAS",
       "nm": "Wizards",
       "w": 7,
-      "l": 11
+      "l": 12
     },
     {
       "r": 10,
@@ -148,23 +148,23 @@
     },
     {
       "r": 6,
-      "ab": "DEN",
-      "nm": "Nuggets",
-      "w": 10,
-      "l": 5
-    },
-    {
-      "r": 7,
       "ab": "POR",
       "nm": "Trail Blazers",
       "w": 11,
       "l": 6
     },
     {
+      "r": 7,
+      "ab": "DEN",
+      "nm": "Nuggets",
+      "w": 10,
+      "l": 6
+    },
+    {
       "r": 8,
       "ab": "DAL",
       "nm": "Mavericks",
-      "w": 10,
+      "w": 11,
       "l": 7
     },
     {
@@ -224,26 +224,26 @@
       "seed": 1,
       "conf": "East"
     },
-    "ATL": {
-      "w": 11,
+    "BOS": {
+      "w": 12,
       "l": 6,
       "seed": 2,
       "conf": "East"
     },
-    "BOS": {
+    "ATL": {
       "w": 11,
       "l": 6,
       "seed": 3,
       "conf": "East"
     },
-    "NYK": {
+    "DET": {
       "w": 11,
       "l": 6,
       "seed": 4,
       "conf": "East"
     },
-    "DET": {
-      "w": 10,
+    "NYK": {
+      "w": 11,
       "l": 6,
       "seed": 5,
       "conf": "East"
@@ -262,13 +262,13 @@
     },
     "ORL": {
       "w": 7,
-      "l": 9,
+      "l": 10,
       "seed": 8,
       "conf": "East"
     },
     "WAS": {
       "w": 7,
-      "l": 11,
+      "l": 12,
       "seed": 9,
       "conf": "East"
     },
@@ -338,20 +338,20 @@
       "seed": 5,
       "conf": "West"
     },
-    "DEN": {
-      "w": 10,
-      "l": 5,
+    "POR": {
+      "w": 11,
+      "l": 6,
       "seed": 6,
       "conf": "West"
     },
-    "POR": {
-      "w": 11,
+    "DEN": {
+      "w": 10,
       "l": 6,
       "seed": 7,
       "conf": "West"
     },
     "DAL": {
-      "w": 10,
+      "w": 11,
       "l": 7,
       "seed": 8,
       "conf": "West"
