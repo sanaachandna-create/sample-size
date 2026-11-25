@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-25T06:42:12+00:00",
+  "updated": "2026-11-25T17:38:41+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 25,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 196,
+  "injuryCount": 195,
   "games": [
     {
       "ha": "MIA",
@@ -105,12 +105,6 @@
           "st": "OUT",
           "team": "CHI",
           "note": "G League - Two-Way (2026-11-25, CHI@CHA)."
-        },
-        {
-          "p": "Orlando Robinson",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Not With Team (2026-11-25, CHI@CHA)."
         },
         {
           "p": "Jaylin Sellers",
@@ -1352,6 +1346,12 @@
           "note": "Mathurin (foot) has been ruled out for Friday's game against the Thunder. Mathurin will mi"
         },
         {
+          "p": "Julian Reese",
+          "st": "GTD",
+          "team": "NOP",
+          "note": "The Pelicans transferred Reese from the G League's Laketown Squadron, and he will be avail"
+        },
+        {
           "p": "Bradley Beal",
           "st": "OUT",
           "team": "LAC",
@@ -1710,12 +1710,6 @@
           "st": "OUT",
           "team": "CHI",
           "note": "G League - Two-Way (2026-11-25, CHI@CHA)."
-        },
-        {
-          "p": "Orlando Robinson",
-          "st": "OUT",
-          "team": "CHI",
-          "note": "Not With Team (2026-11-25, CHI@CHA)."
         },
         {
           "p": "Jaylin Sellers",
