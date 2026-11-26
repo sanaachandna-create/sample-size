@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-26T06:33:22+00:00",
+  "updated": "2026-11-26T17:15:54+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 26,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 159,
+  "injuryCount": 161,
   "games": [
     {
       "ha": "MIA",
@@ -80,7 +80,7 @@
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as "
+          "note": "Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday. Dur"
         },
         {
           "p": "Duncan Robinson",
@@ -743,6 +743,12 @@
           "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
         },
         {
+          "p": "Colin Castleton",
+          "st": "GTD",
+          "team": "ORL",
+          "note": "Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during "
+        },
+        {
           "p": "Tristan Vukcevic",
           "st": "OUT",
           "team": "WAS",
@@ -1292,10 +1298,16 @@
           "note": "Banchero is expected to be sidelined for the next four-to-six weeks due to a right high-an"
         },
         {
+          "p": "Colin Castleton",
+          "st": "GTD",
+          "team": "ORL",
+          "note": "Castleton totaled five points (2-4 FG, 1-1 3Pt) and four rebounds in seven minutes during "
+        },
+        {
           "p": "Jalen Duren",
           "st": "OUT",
           "team": "DET",
-          "note": "Duren (hamstring) is being assigned to the Motor City Cruise on Wednesday for practice as "
+          "note": "Detroit recalled Duren (hamstring) from the G League's Motor City Cruise on Wednesday. Dur"
         },
         {
           "p": "Duncan Robinson",
