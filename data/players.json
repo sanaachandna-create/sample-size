@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-26T20:30:33+00:00",
-  "count": 526,
+  "updated": "2026-11-27T20:16:39+00:00",
+  "count": 527,
   "error": null,
   "players": [
     {
@@ -1982,6 +1982,12 @@
       "name": "Lauri Markkanen",
       "team": "UTA",
       "pos": "F"
+    },
+    {
+      "id": 1057847334,
+      "name": "Lawson Lovering",
+      "team": "MEM",
+      "pos": "C"
     },
     {
       "id": 237,
