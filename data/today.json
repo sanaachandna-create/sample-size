@@ -1,11 +1,11 @@
 {
-  "updated": "2026-11-27T06:23:44+00:00",
+  "updated": "2026-11-27T16:52:54+00:00",
   "source": "BALLDONTLIE",
   "mode": "today+3",
   "count": 33,
   "error": null,
   "injuriesError": null,
-  "injuryCount": 293,
+  "injuryCount": 297,
   "games": [
     {
       "ha": "MIA",
@@ -45,9 +45,9 @@
         },
         {
           "p": "Andrew Wiggins",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-27, MIA@NYK). Prior reporting (2026-11-26): W"
+          "note": "Injury/Illness - Right Ankle Impingement (2026-11-27, MIA@NYK)."
         },
         {
           "p": "OG Anunoby",
@@ -69,9 +69,15 @@
         },
         {
           "p": "Andre Drummond",
+          "st": "OUT",
+          "team": "NYK",
+          "note": "Injury/Illness - Concussion Protocol (2026-11-27, MIA@NYK). Prior reporting (2026-11-27): "
+        },
+        {
+          "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Head (2026-11-27, MIA@NYK). Prior reporting (2026-11-26): Drummond (head)"
+          "note": "Injury/Illness - Right Abdominal Contusion (2026-11-27, MIA@NYK)."
         }
       ],
       "lineups": {
@@ -191,7 +197,7 @@
           "p": "Joel Embiid",
           "st": "GTD",
           "team": "PHI",
-          "note": "Injury/Illness - Illness (2026-11-27, PHI@IND). Prior reporting (2026-11-26): Embiid (illn"
+          "note": "Injury/Illness - Illness (2026-11-27, PHI@IND). Prior reporting (2026-11-27): Embiid (illn"
         },
         {
           "p": "Jaylen Brown",
@@ -209,7 +215,7 @@
           "p": "Tyrese Haliburton",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-27, PHI@IND). Prior reporting (2026-11-24)"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-27, PHI@IND). Prior reporting (2026-11-27)"
         },
         {
           "p": "T.J. McConnell",
@@ -750,6 +756,12 @@
           "st": "OUT",
           "team": "UTA",
           "note": "G League - Two-Way (2026-11-27, DEN@UTA)."
+        },
+        {
+          "p": "Mo Bamba",
+          "st": "GTD",
+          "team": "UTA",
+          "note": "Injury/Illness - Illness (2026-11-27, DEN@UTA). Prior reporting (2026-11-27): Bamba (illne"
         }
       ],
       "lineups": {
@@ -1118,7 +1130,7 @@
           "p": "Tyrese Haliburton",
           "st": "OUT",
           "team": "IND",
-          "note": "Injury/Illness - Left Hamstring Strain (2026-11-27, PHI@IND). Prior reporting (2026-11-24)"
+          "note": "Injury/Illness - Left Hamstring Strain (2026-11-27, PHI@IND). Prior reporting (2026-11-27)"
         },
         {
           "p": "T.J. McConnell",
@@ -1286,7 +1298,7 @@
           "p": "Joel Embiid",
           "st": "GTD",
           "team": "PHI",
-          "note": "Injury/Illness - Illness (2026-11-27, PHI@IND). Prior reporting (2026-11-26): Embiid (illn"
+          "note": "Injury/Illness - Illness (2026-11-27, PHI@IND). Prior reporting (2026-11-27): Embiid (illn"
         },
         {
           "p": "Jaylen Brown",
@@ -1341,9 +1353,9 @@
         },
         {
           "p": "Andrew Wiggins",
-          "st": "GTD",
+          "st": "AVA",
           "team": "MIA",
-          "note": "Injury/Illness - Right Ankle Sprain (2026-11-27, MIA@NYK). Prior reporting (2026-11-26): W"
+          "note": "Injury/Illness - Right Ankle Impingement (2026-11-27, MIA@NYK)."
         },
         {
           "p": "Evan Mobley",
@@ -1599,6 +1611,12 @@
           "st": "OUT",
           "team": "UTA",
           "note": "G League - Two-Way (2026-11-27, DEN@UTA)."
+        },
+        {
+          "p": "Mo Bamba",
+          "st": "GTD",
+          "team": "UTA",
+          "note": "Injury/Illness - Illness (2026-11-27, DEN@UTA). Prior reporting (2026-11-27): Bamba (illne"
         }
       ],
       "lineups": {
@@ -1782,9 +1800,15 @@
         },
         {
           "p": "Andre Drummond",
+          "st": "OUT",
+          "team": "NYK",
+          "note": "Injury/Illness - Concussion Protocol (2026-11-27, MIA@NYK). Prior reporting (2026-11-27): "
+        },
+        {
+          "p": "Karl-Anthony Towns",
           "st": "GTD",
           "team": "NYK",
-          "note": "Injury/Illness - Head (2026-11-27, MIA@NYK). Prior reporting (2026-11-26): Drummond (head)"
+          "note": "Injury/Illness - Right Abdominal Contusion (2026-11-27, MIA@NYK)."
         }
       ],
       "lineups": {
