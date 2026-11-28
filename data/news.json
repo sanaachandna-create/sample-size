@@ -1,29 +1,169 @@
 {
-  "updated": "2026-11-27T19:57:18+00:00",
+  "updated": "2026-11-28T02:25:42+00:00",
   "team": "Atlanta HAWKS",
   "count": 30,
   "pushed_this_run": 5,
   "error": null,
   "items": [
     {
+      "title": "Warriors receive good Steph Curry news amid oblique injury - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRHk5eFAxSVJUM0RMVDRhUkNCTm1JWUVRMWxnRVpfSVYtMUlEVndmaGxxZ29RcDNjNTY0Nkw2c0RZQXV5STdSSEREb2FQMU1QQmhzQTRPWWtJaVJvS19kYTFDTmJnSkV0ckxzTVZfbmgzOGExZmlQODBELXpJbjd5OTJyRFl2RFZnSUN0NnF1OA?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1795831380000,
+      "tag": "league"
+    },
+    {
+      "title": "Jalen Johnson with the and-1 bucket - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qSHRlMTlyczJBcFlKaVVETllxTFRkb0tnLTZqd0FDQ2VmdDRiTGhpeGIxTllBbGp3bG1tOXJNZ29UN0I4UzBDRVdtbXJKVFRpcTRkWnJoNjBGWEN3Q0l1MzNnUUh3TXhpcDJHblh1bzY3MjN5SkFF?oc=5",
+      "source": "ESPN",
+      "ts": 1795831025000,
+      "tag": "player"
+    },
+    {
+      "title": "Sam Hauser drains 3 vs. Atlanta Hawks - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdU5adGRCRFBYRmJycTN3QTg2MzVOM2RyazN0ME42cEgzaGVVbVlUTkdKd19GaG94QlNVX01sYmdfRHU4M3Y0cEtjcVBRMThya0NFSGxBaFliNG1zbXFDalRfVjRTRVpNTUwzaUxESElIcFdsS1BocTRqb3J1OGs5QWM2bFd6VDVKNXc?oc=5",
+      "source": "ESPN",
+      "ts": 1795830291000,
+      "tag": "team"
+    },
+    {
+      "title": "Hawks vs. Celtics (28 Nov, 2026) Live Score - ESPN Philippines",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tZ0tRNlRURlVHamM5NzhlR1lzNktBM3JTb0VHd3NaNlYyS3VfZHNCNW9WQmNxN0tFVDRjR2dQNVFHSDUzY3NDRHdyc3FILXZsWTk0M19xSEQ?oc=5",
+      "source": "ESPN Philippines",
+      "ts": 1795829559000,
+      "tag": "team"
+    },
+    {
+      "title": "Warriors seek offensive rhythm, defensive consistency as Stephen Curry mends - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DTzdhaEV1NVVfa25XN3AzMzlXSURweFMzY0RldEtpYWlJNEF4RUR0TWp5QVk5ZnFlejVkdm1LQzBxUVE2a0lfdkNlSVF3T2UzX2FGNEQ1cEx4aDRzemRYcWlXc0dEd18yeTRlNmRhTWo1ZmpH?oc=5",
+      "source": "NBA.com",
+      "ts": 1795828837000,
+      "tag": "league"
+    },
+    {
+      "title": "Golden State Warriors rule Steph Curry out for next 3 games with oblique injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSEQxYTYzajFKeHZ6bGdZWHNSbGpqclpod09STjNDUFhhaXUwZ0cxMVBJSTZwdmg2a0NGUnJwWTR2Tk93NGJjSGM4c1pFREQ5LTA2eDRScG84SGRCRjdmbHZuUFk4SmhWTlR2Um9IcnVjaWhQaXczeE5FQnBmdzd1SW93QlozZmJ1UmRQaXBtOWVNZUlUVlJ1Ul84YzU?oc=5",
+      "source": "ESPN",
+      "ts": 1795827540000,
+      "tag": "league"
+    },
+    {
+      "title": "Stephen Curry Injury Update \u2013 11/27/26 - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JbHpKRkZYSExlcWJUVjdRRlFILWtibGUxd2l3OW5FZlR0LWJEbGphd09mcElQS1JjRFd6d3J1azhjQjN2NGtXaVpybUcxWHBkckVIWWwwZDl4eFdqcEJzMmZxWlAxdTBmbzF1Z1RxMA?oc=5",
+      "source": "NBA.com",
+      "ts": 1795826700000,
+      "tag": "league"
+    },
+    {
+      "title": "Former NBA first-round pick Rob Dillingham, Wizards rookie Felix Okpara get into fight in G League - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPR2ltZWhHTTVEYWVMc2d5ZEk5SVF2WC1aOWw3R1FvY3JUakRnSnVmTkZiYVE1RklqeFg1SjZKWjRiQU9Vbi1hT0dWQWpRNHlNT0doSXRYUUVvb2xXWjg3VkkwQVZPZjlGT3Z1ckM0b2xkdDJENWxwSXp4enFsV1BtS3hTOFRQZHZSWHlTSHR5WkVTTmNzWWpWXy1oS28xdlFCalR6SG1NYWhBaTFhQXFIcGJ2ZnpsQWpzWk9NLTdIcmNiczBfQ1VrNExmZEUtRkJqd2k3eEV5UEtkSFpocHBKZjJpMA?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1795824900000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Cup Nov. 27: Live Scores, Standings & Clinching Scenarios - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xdUU3RVk0RzlrcWtnelFZa0FfaHNrYWVham9rbDNnQVFaOWV1ckhCWk56TGgwQm9QX1RMQk9OYk5LZnFGNFY0V0JwLV9vUGRPMHZtanpLT1pLSG1Lay1LZ2M4aE5WZTYzY19rSFNHMlp5UjBH?oc=5",
+      "source": "NBA.com",
+      "ts": 1795824294000,
+      "tag": "league"
+    },
+    {
+      "title": "Hawks at Celtics, NBA Cup: start time, TV, streaming, radio, game thread - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObVFZOW81TDNYY250WTJ0b1kxLXZLR2hMb1AwU1lIajN0VDMyUGNhZEFpVnFsSXpabUZSRDF0RlpyM2txbHZNSkZRNWRael9NN0dZaFIxZFNTTFp1UnUzc0NJcXBGbWRiYjY4RG1KamtyTGpfS21RZ1JiWXlEUmJfNjVqZC1BQWs?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1795824000000,
+      "tag": "team"
+    },
+    {
+      "title": "MRI on 76ers star Jaylen Brown's left hamstring showed no new injury - ESPN",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRlhTbWJqcVl6Z0NaX090c2RWa2RPc0xxRWZkVVlLZGVfcVJCMm04eG1iUW8ycGZ4bzBPTmUwamFSb0xEcWlXdWNjeHRpRFhzSzVUZy1nUUxDWHYzdkdUTjlKUUlWc0tQV3VHdXFzV0ZaLUdnNGp2bUp2cG1rb3ItWklHRnktNzZUYXZyaUdzamFVemVUQmpWa0Q5U3U?oc=5",
+      "source": "ESPN",
+      "ts": 1795822560000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA trade rumors: Lakers are buying, Clippers are selling and one backup big man has become a hot name - FanSided",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVldid095dlFBQ2x4VE1vb1gzZHpkZHh5YjluRDdGMXV5Vm0yNGRzdmZfYVNvd2Z1RG9ja3lwOVhkamhTSXhZVnNfY0s0QXhJN0R2aHhueHFXQ1BINEhIZWZRdlVnX0xPUHJITXZtUkotZmt0VENWRlI3akVfNlRoWVI1ZzR5eHpBNXlJOHZyemczdEdSX3ZuMndiVV9zZWdxTUQ2YnZhamM3eDJrbjVyMnJ5dHFsdE5DYWxzODJEdV9BWHc?oc=5",
+      "source": "FanSided",
+      "ts": 1795821874000,
+      "tag": "league"
+    },
+    {
+      "title": "LaMelo Ball to miss Friday's Emirates NBA Cup game with ankle sprain - NBA.com",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQ3JVeWRwOUpvdzZpX2doWF9kbFlkU0txSzM1MDdlcUl3VFlrUGtwTDNuQTU2SWh2Q2dQemZyb3Z0Nzc4QUJaVzdEWVhuWGE1SENZczFFR0tPRGQ4OHU2bjc3cE1iSWt1Mll5V3VPdWVBNVdV?oc=5",
+      "source": "NBA.com",
+      "ts": 1795821698000,
+      "tag": "league"
+    },
+    {
+      "title": "Aday Mara injury update: Will OKC Thunder rookie center return vs Milwaukee Bucks? - The Oklahoman",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc2Z0bTNzc3NpSUdmRjBQQ2ZUTTN1VzRUWGhCVDBCbWE4UFlaNjN2MG9wNUZmcDg5VEZRdThqZVUxaEpXcmZkU0c3bE5STkRIcW1rLWhFdEd5ckJ5UHNhYlA2a3lSMW1HYjNCTzZjWnJpM0Y5V2oyM3p5SG1RUGstNnRCOUk2Vk95NC1tYk5lVDN6QVJPZnFTNmZpbjh0M1J1U0VUQmE5TFQzbmRsZUpSU21yMXhGekwzSWNXV01XeDJTNU1qbjFXUDhudEFjZUpIZVRQWmVUZjFRWFFsY3FndEg4Wnd4Wlly?oc=5",
+      "source": "The Oklahoman",
+      "ts": 1795821480000,
+      "tag": "league"
+    },
+    {
+      "title": "Bucks vs. Pistons, injury report, starters, odds for NBA Cup game - Milwaukee Journal Sentinel",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPb2VGYWhRWFdHYldtdUQ5UjJOZWN5N2JNVHdXbXQ2cnpkWEYwWTctUU5GSUMzQU5JQXhhcGRhZGhvd0RCSml3UGtERjM3TXE0eGd2ZE9fTzhoYzhadkRSY2NUd2s5TmNWUV8zNDQ3VE9QQXRnbVRtdFFnWmFsLVh1RnpNQl9TZm1ZcG1aM1J1NWZuVi00dks4UC0wWDRYS1FsUFpfRVh1WkQ1R2M4MnJUU0Z5YkwyV2lJd0tDb29UTlpVbC0tbS01S21KTS1CTWxHNWdMZzVaM1BPTmtSakVCQg?oc=5",
+      "source": "Milwaukee Journal Sentinel",
+      "ts": 1795819800000,
+      "tag": "league"
+    },
+    {
+      "title": "NBA Trade Machine Rankings: Anthony Davis, Tyler Herro and more - HoopsHype",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRkkxRjJOQ1R6b3lxUFJGbVpVU0xQbjhuRWVzMmpRMFhQWlMtWG1fQl8zVXVZMEZGMFNBSm1McDdGR3RPbXJwaEtqQnZNakVSTkNNZ2ZyU3RCZkFrNmxjOUQ2NjhKVjRRejNLMEpscEswZnVMaGljaFBOWjRkdjQxeEh0WjgxQi1aOXZLM0lpRk1HbVFRMW1RdVdxckNoT0FESGJnMGdRcC1fdEE2R3JZOHJfMlZ4a19Fa25rZ0hvX0xsb3F6My0w?oc=5",
+      "source": "HoopsHype",
+      "ts": 1795818540000,
+      "tag": "league"
+    },
+    {
+      "title": "Jalen Johnson And Hawks Take On Celtics On Nov. 27 - FanDuel",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONEVwSjI3RmtTbkJxZUpyVi10NGdkS2VEVFRjNDlVNHM2Qy1rb0pJNk1zdHJIdTFZQjBmOXBoOGdqVmRHRjJZZk5FUlpxclNadDNPLTFnYlZlVVFaNHpWWkxUS3JZdXdlcDN4SFQxQXRvWngyWS1yNzlaX3A1MVBZQTJsZDFUcXNHZEhKa2ZzdHJYcDNOQXFvOFdaZm9IVThmRGh4NkVGWnBNeE5wakFva1VBQkVaMi1zUHc?oc=5",
+      "source": "FanDuel",
+      "ts": 1795817492000,
+      "tag": "player"
+    },
+    {
+      "title": "New NBA Trade Rumors on Kristaps Porzingis as Insider Updates State of Warriors' Talks - Bleacher Report",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTHBDNnFGQ2k1amlCYnVzdDdKdTY4clB1Rk5nUVdybUo1YmFqeGF3aU1LdjNvbkJQd3VPQTZLNGU2d3pEZWttVVozMlUwYVBYZjVWbEFrUW9fNEYxRF9BVlp0SnRZcHMxZ2JCQThkRXg3UUFDNWdQTTBYRnY4UElJa1JrQmF5OG9MUkVObFEtWHJqX0t1eVh0Z3FEUFZCZVA1WDI1WFphYng4NHZSRC1lb2RVZU9yLUplajZKMjRB?oc=5",
+      "source": "Bleacher Report",
+      "ts": 1795817440000,
+      "tag": "league"
+    },
+    {
+      "title": "Atlanta Hawks (11-6) at Boston Celtics (12-6) Game #19 11/27/26 - CelticsBlog",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUGJ5d3hDUjVKb213NDRvUzFwYXNZS1poMlRfNFh2TjFwMktKcHBLTmlYRFprQ3JpbmFTV1hRbkw1VGQ2anMtQ1BrTTM4c3RrNFBvbHQ5bUxjNy11M1JpUUNXS0RxWU51Ny1wb0x0SnlaNVJrSFplZ09Na3B3ejExTVJ2QzREQnpXX3BhNWlLRld1UFJFV3RabEd1V3ZGTlJWSWFVTU53UXhiOVNPNnBsOU8taVQ3RGFXcWNVOUxCVQ?oc=5",
+      "source": "CelticsBlog",
+      "ts": 1795816800000,
+      "tag": "team"
+    },
+    {
+      "title": "Atlanta Hawks @ Boston Celtics Odds - FanDuel Sportsbook",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYlhuRHpwX3lOMVNleFZISHBmbG9MRUxIeFhwVGo1Slg1c3V4dDhFY1ZrblRFODRua0NfRDFDbWxqaUs3QXUyMExWODFvc1A3ZTdZUkhTWlU3eEFpS0JIa0xwdVJNaVVCR0c2YndpdTJVMXVaOGNEQndRdktVWF85Uk54WE91YlpQQkRZSW93?oc=5",
+      "source": "FanDuel Sportsbook",
+      "ts": 1795815199000,
+      "tag": "team"
+    },
+    {
+      "title": "Bucks vs Pistons Injury Report: Cade Cunningham\u2019s Status Revealed - Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbExhYVNyRm9veGZ2OTdRX24wWU5USTM3R2tjZXdKd0lkQ1gtX0gzOXZMN3VSQi1INXRJbHBLUUpTV1JaSkhJR3JHRlBOclU5MXBFQ1dkTndFQTFqR0RfR05TSTFIY2FJMm1OcmlMOV8yaXE5Nkc1VjdMQUFsMHpKTjg2T0x5UGtYVFVJ?oc=5",
+      "source": "Yahoo Sports",
+      "ts": 1795810007000,
+      "tag": "league"
+    },
+    {
+      "title": "The Blazers are one of the NBA's best stories this season \u2014 now comes the hard part - OregonLive.com",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdDNjOG1NTVRLdlpQTWw0VF9Ed3VVcFRCVnphejktMTRYbTVlSlo4dEJSVm5xUW5ZWEhxQWs1MjlsZmZzbzFqUTRjbnh2Y2RsZE5lazdhalZiVXoyQlRrRlc0VFY4ZVpRUnNCQnl3S1l6emdUSm4zenhRYXpRZTJhTDZ5UGl3T1h0eEVaM2Rnb3Y2SHZFeHhlOF80Z281dFZNc0dkVU9pT09nSHFvdEJveW1GdFl2UEFVcXYwd1RZYTg1UkZ0NVRxRGdHeFFkQQ?oc=5",
+      "source": "OregonLive.com",
+      "ts": 1795809780000,
+      "tag": "league"
+    },
+    {
       "title": "5 NBA players OKC Thunder could target at 2027 NBA trade deadline - OKC Thunder Wire",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXlvU3VMNEhRVXliWlV5TVRDVmhyOEhwRnFfTERJeEFCdU5UVWtnTDA2R09BUTM4UlM2cnFDNGQyME1KWVdCeHd4M0lWSFcwU19WdV9RTkgwTUc5WnM0NlZKNE9BUV9MWkZRUE5rTFdidDlLT0FSU25pdmhrOGJ0cGtVbWdCd1FNcmxrQTVrT2RtUk1RcGhqNEktVDUxWnRrYXo4Vk5wbjlzNko3OExzLWNwd2dad3V2dWJJTEgtM2h6MDgwODNCWElzWnVQWm5QZnQ2V3Uyc01XR1Axdzc5TnpnQ2s?oc=5",
       "source": "OKC Thunder Wire",
       "ts": 1795807860000,
-      "tag": "league"
-    },
-    {
-      "title": "Timberwolves look to advance in NBA Cup - 5 EYEWITNESS NEWS",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMMXRudjVlR21nYW9rb1BTZjc4VmlwWm5ZZXVjTkxfWGwzMzJaaTNRR0U0SkZ1M0FqdkJxM1JuNHhwMmFqaTdjUF9OWl9FLVRQT1N6QjM4T0R2cUVLeHBmM25ESVpOVlEyTE5VYmxEaWxsSFJlcFAxbkhqZjlnLXc?oc=5",
-      "source": "5 EYEWITNESS NEWS",
-      "ts": 1795806056000,
-      "tag": "league"
-    },
-    {
-      "title": "\u201cWasn\u2019t as Dirty\u201d: Kevin Garnett Makes Case for Dennis Rodman After Steve Kerr Puts Draymond Green Over Bulls Legend - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxONjZ1S1NWV2phM0JIOFRqdGRnNU9UYlRGVVJoczNrYm5kLTlSQ2NidVp4VlZ1ZFJ4bWlIYTB4VkxyMEE4TjN0a3VwNExLb25WVHFXY3NYSmVCcE03VWhHc0FpajZiRkNHbk1ROGpTRklIeFZiaE1mWjBoRV9yV1pqVEh4Mk9yQQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1795805692000,
       "tag": "league"
     },
     {
@@ -34,46 +174,11 @@
       "tag": "team"
     },
     {
-      "title": "Hawks Face Celtics For NBA Cup Cash And Group C Top Spot - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcGN3d0JmY1ptWjZSZHdEWndnRUhkYThSYzgyUkV6bjlzM0dkVjNnMWd4allXMHBYUG5odDVoaU5ZRHZzWTdHdlBDSEIyMndnUlV5XzBoVnNHVEJfRk8tajh0dU9POG1vMTVuUlpLR3ZnUWs2Nll2MjVDMWhjSGlrUkxmd3Q4UQ?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1795804651000,
-      "tag": "team"
-    },
-    {
-      "title": "Mitchell Robinson Injury Report Adds Uncertainty For Celtics-Hawks Clash - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRm94Y19GU21rQ2NnRTNsakRIeW5LWnhLbzVVMG1QWDdwZjVpdk1CYUZMeFdHMXNVZUh6VDBZNkFDcEM5WlJwMWRHVjRyMkhtX1pWWGd1VzNiYkhHMnpvcV9JV0ZtWE5pZUN5NnBzMjBYRFBTcUd1T19wRExlZ2pBQWtDUFdkSm1RN3V0QllmRC03eEU?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1795804105000,
-      "tag": "team"
-    },
-    {
-      "title": "Fantasy adds, NBA bets to make for Friday: Day'Ron Sharpe filling the box score - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMWcwS2hvbTAwQW5FcnJuRlZGNDk1TlZuOGduWjNGUkdCSWg4Ymphc2RfQzh6YVJpbnRXVHRDd0ZHT2c3Vk0yR2VhUVdtbDVBUW1uRnpJYmlDcE5wa0pwV3cxTXhXbGpHNEU5bXk4OE5ER3VfcnVXV1AxTFFUNTMwQXdlUzREWC1tR1dTdFd2ZkdXSU9XRTdzWDVxWW55RXdQYTFJZWV6NWFxb2c?oc=5",
-      "source": "ESPN",
-      "ts": 1795802400000,
+      "title": "Best NBA Bets Today: Player Props & Picks, Nov. 27 - RotoWire",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWEtSMlRGa09jM2pzTmhGbTN3eC05TWN1YWpZRkU0RXBERlk2MzJuZGlhQkhaOHJGRTVqWUd1Y0syVTNwX3ZaNktFWUZFZG9TSDgzdEhsVzhELVpYWkpxcmRHVTlPbVZVNUtMOVNUMnpMd0lDdEpTU3I3QmhTZnVoSVc4T0hxdl92Sl9pMGdkME9ySF9DQjZBNW1vZ3hyZw?oc=5",
+      "source": "RotoWire",
+      "ts": 1795803960000,
       "tag": "league"
-    },
-    {
-      "title": "Celtics will be without key player against Hawks - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOd0d5S2hUVDJNYVFMR2tUa25mQ0tCcEVhOXZCSmpqb0JzNVIxVjFQbjlpMHRsUEc1ekpiNU0xVzI5YWhsVGMtb3EzNjVTbzdGNlFwa084WGtMaWxkcm9qWi1HbG1RQXZiTVRpb20zb1ZXUkNRbHNqRFIyLUxDakdUbHJJczlCUEY1ZWxBb3Rmb1M?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1795801397000,
-      "tag": "team"
-    },
-    {
-      "title": "Luka Don\u010di\u0107 reveals he 'wanted Walker' Kessler, helped push Lakers GM Rob Pelinka for big trade - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdFY3NzRBRFh2b0Y3OWlPbTBiSVNGWGNiVXB6X0xCNVVpblZfUU9ObjRVZEZneDdla3pONWl6OVduaVRUTWRJR01BU3hpb0YwdEVvd2hGdnd3dy1sdVVrUDFpdTlUdnZWTTVwcFBub2NIc29iQjlaWEZCUjQwVnFnMkZScWxBaGI4czM1Qm1QcGo?oc=5",
-      "source": "CBS Sports",
-      "ts": 1795801380000,
-      "tag": "league"
-    },
-    {
-      "title": "Experts release Celtics vs. Hawks prediction ahead of final NBA Cup Group Play matchup - MassLive",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWVc2ZFA3Ui1BcV9EejcxZXE1YnhSa284YVlvU0xsaTM5QWdsOGpaa1ZLcl85eVdxc1ZpeDNGMWN5UC12OUE3Sjg2cVRxUlA1ZXY2Tkd6NGNHcjNNREM0MDEwZFZTVWl6emdTS3VNUnVLdkNsS3JFUlMtUkh4a2xTQ0JBMm1Edms2a3pGUzNoenRWekE4bWlVWEsxb3BUYjNEWkdQOWJ0RGtjNEhoUWFiOFIteFFSWHBTMGJPQzVERERmTWE2UE5ud3Ixaw?oc=5",
-      "source": "MassLive",
-      "ts": 1795799700000,
-      "tag": "team"
     },
     {
       "title": "Tatum, Celtics Can Clinch NBA Cup Group vs. Rested Hawks: 3 Keys, Injury Report, Prediction - Sports Illustrated",
@@ -83,31 +188,17 @@
       "tag": "league"
     },
     {
-      "title": "Fantasy football Week 12 injury report: Last-minute pivots for Sunday and Monday - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPX0tZMU5jMVdDMk1RbkJHSUFOTk53ZWhHMTg3bkcxQWh0d2hwVUtnYWxhSjNjOFlWeDhucmNDRUtFR0FDM1JTY3JPbDhDeldsckJsNmtMRmVlOW9JRnJBQXNmUVY0SndVLXRZemQtSGd2Y1ZPY2FGZlQ4VlF0SU5JUlZIcFcyVWxXMVpwNkhST0lsTHFhYU5mdkN4S19aQ3pI?oc=5",
-      "source": "The New York Times",
-      "ts": 1795797984000,
+      "title": "Fantasy Basketball Weekend Streamers: Matisse Thybulle locking up on defense for Lakers - NBC Sports",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSjl6Wlh2TDF3ckxPaWI3LXRPS3daRGZwT3pXTlZPbXpjR1dmbGFZVVEtT2M1STE4ZTJfX3BWSFVWcFozNE1pNzE1VmpCam5XeW93MHlEU0x4emthVkk1dWhiZk44VXI1b3cycDI5anc1V25uZXN6ZW90V3BSUHlvdGp0MFZFU3lWZGdWTk11SVNTdFUtU3VzUGFZb3lRZ3NNdGI0N2ZtTk5laVNoUDVuRmw4NU5VYjlwakdmY1ZjME1fR0xUbFVVZmw2X0pWWm9VOVE?oc=5",
+      "source": "NBC Sports",
+      "ts": 1795793074000,
       "tag": "league"
     },
     {
-      "title": "Timberwolves shed light on LaMelo Ball's injury status - DAZN",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT09oeTZpU0lOX1VVaUhVcmE4eUotY0FyOUR3VTRwVy1GNmYxZGVNMDVJNmNjbVdtZFVCZDMzVkwtYUlrU0VGaHZ6MEJieTgtVUttaGc0NWYwQ185bUhtWjJ1UUkzYmc3WDV3MWNyYnNfTUp2bjlGNGpGN0xYZnl1MDBWakpGeHJpNC12Y1pTcFF3S2gwNk0xejVlbVNKd25qXzhnSWhqZzMwUXUxX2NMWEwweDhqUE4zN2c?oc=5",
-      "source": "DAZN",
-      "ts": 1795797775000,
-      "tag": "league"
-    },
-    {
-      "title": "3 NBA Draft Prospects to Watch in Today\u2019s College Basketball Action - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc2tlRzM3Wjhtb3lNNnpMUjRjUEl1cERobkRSZ3duYXhsbkhZdkpYOWhfMmxSbzE1QmhDbWpIZUxHVkpyenVkd0F3X3pIeW1RaHdqZmlQLThtOFFoREphSGM4d29QZm9NQVNZWmUyTFUwTlBybS1Bb0RHSldlSm93by1YaEhmdC1nT01XdTlkMkhDYWp5TmpFOUU0QlgxQU9xbzJUejdUc3E?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1795796609000,
-      "tag": "league"
-    },
-    {
-      "title": "The 15 Biggest Bargain Contracts in the NBA This Season - Sports Illustrated",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tRUJkdnQyZ0JPN3BQTWZrck9JY2Z4SWVZOS0zTGdiQlBQb0tfU3JRUElLSjQ3bV8wS0VXQy1GQVZHSC1wdUp2ZmZOZi1zTl9xNU0yNEZsR3UtLV82SVVBdzRHUmJiT18xeklFX09vOWtGS3dRUEE?oc=5",
-      "source": "Sports Illustrated",
-      "ts": 1795789449000,
+      "title": "Hawks vs Celtics Prediction, Picks & Best Bet for Tonight's NBA Game - Covers.com",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1pek9WeW5VRG5HTGZVeTdMMk1vWlFIeHRXT3NCLWt5d09mZXVkSkYzeHFYTjk3ZFRsT1BQaUlIanBXZW9vNW9YVmltNTBuNXA5OWlPM3MwZE9Sd3M1bGtTaWpLQ21TdHZQOVc2TTZUV0l6Z0gwSGx4T0hwQ0Q?oc=5",
+      "source": "Covers.com",
+      "ts": 1795790820000,
       "tag": "team"
     },
     {
@@ -118,110 +209,14 @@
       "tag": "team"
     },
     {
-      "title": "NBA Trade Rumors: Nikola Jokic Update, Anthony Davis Future, Karl-Anthony Towns & More - Heavy.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUVR5dl81SFVWSkxfVDhJM2EtT2xGa251QUxpZU1NS0c0cEg1THlJU1EzTFpFYTN3VmlUaDNKUE1pX2FWaS1CdHE3RUJadUNmb19ZTnBNX2p4TEUwOG16MEFNekozVU5CVWpIVFdabEdZeHZ0cE1EemVQeDVhZzFzN2x4eXpDQmdfM1hCRmo5ZHh2Vjd2dG5VT2RPNHZheGlaX0pyNy1oSWZfdmNqbk1IN1plSlp0REYzSEZMN3dXa0xwOVhsOWVWQS1OeGpYdw?oc=5",
-      "source": "Heavy.com",
-      "ts": 1795788668000,
-      "tag": "league"
-    },
-    {
       "title": "New NBA Power Rankings, Plus Something Every Team Can Be Thankful For - Bleacher Report",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZDBjWmtJYTFfXzU4VzJuMUVYTzlVOFlwYmpyQXU4MjJYQWd6WUt2QU9ISGNOenpLT0s1QmxpNkwtUWJLZnZHRHg1aWRjSDQyeUlaSTRFWkNub3hIX1dhWk9JM0ZGVzZfeXF2YlUzRW4wa2taRDF1TVNTT245cENWRnFaUjEySld6bjRBSFpCZGZXQks4dXpBVUVWVHhjQXRsaWc3MVFsZUFXZmtpMHc?oc=5",
       "source": "Bleacher Report",
       "ts": 1795787364000,
       "tag": "league"
-    },
-    {
-      "title": "Sixers vs Pacers: NBA Cup Clincher Friday Night in Indiana - NBA.com",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNWQ5UzFYemtCVlRYaEZLWjA5QzBxZ1BHMVZrX041NTF0d05wSkRORF9XWjY4NTh0MkdYdkxqN3huWDhaRmFVTUFvend3c1Q2UzJZOFVyZ19TYklXYnhPZGlxbHV0d0xuX0JKRHI2aGVOSWNCYmlTLUR2ZEtGMkp6UUoxMjlmUTRkc2hSQ1V1X1B3SVIxa3Z2dUpOcll1dk9sUEdIZUFn?oc=5",
-      "source": "NBA.com",
-      "ts": 1795787100000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks trade pitch for Wizards star Anthony Davis - Yardbarker",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTjhTM2RWQXlKWW1xclhXSjV0cXhoOFlFN0xoRHlfejFTODZVTTRwbDgzcUpWYm5DSXFXQ3R4U1czcWlSQ1lmdFVrMXpYTWgzanNlRThaR0Z2MGhnUC1lSzhlUVAzLVFmM0lLTWM0cmU4S1dPX0dvUGZZMnB6RE9oU1c2UGhaUGFtWmlFRGdfNXhJbWdGR29NZ2hXTFdydjA1M21KV0hMUlhjTnh0S0dGbThKc00?oc=5",
-      "source": "Yardbarker",
-      "ts": 1795785570000,
-      "tag": "team"
-    },
-    {
-      "title": "NBA team ETFs just got filed \u2014 here's what Knicks and Lakers fans would actually own - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZkJnWHlUMmNtRER0SjNRWjRQb3Fhei1kVUVkdTVtRzF4dTd4VTN6M3lsaV9YV29ZVHNkT044QlZJSGVUQnZ4OXlxVThHYm85M1o0a0dMdGFwQU9FY0o0ZVZLZlc0Q241dFlUVml6aDNLZnljcDdyN29mc0RXRjVoeW9jdnZtTDZsM0VMLTlvTkVRajlYSWdzR1R1bktna2dJUUlFWENLLV9Ob0I2QmRrZU1ab0ZCd05yaFZQM3M5c0NNS29IVXhKVzI5ZlFsbmtvYTlCVFZ3?oc=5",
-      "source": "Yahoo Finance",
-      "ts": 1795785555000,
-      "tag": "league"
-    },
-    {
-      "title": "Hawks at Celtics preview: Boston looks to secure top spot in NBA Cup group against Atlanta - The Boston Globe",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUUVjZzItcnZPT3czYU9IZGc2cVdKQnRianVsSU1ObVdLVm8yZVNXN1FLRHlSUGFZWGt4aUl1eW1VNVI0aVUxOVBzUVFSeXRrZDliOU50SW1yY1pMOGx5TVdRemszY0FORzBEbC1ibmdnSXV0S2tzN1NfRUtmSjRITlJuU29BUFk?oc=5",
-      "source": "The Boston Globe",
-      "ts": 1795772520000,
-      "tag": "team"
-    },
-    {
-      "title": "Yang Hansen knows China expects another Yao Ming. He just wants to show he belongs in the NBA - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTF9uMzBzN0VERVV1dl9PWmlWZ0dMRDJYeXpfWHpCYmdCQmc4SGFyeldsNTNWcFdrNWpjekphRDk4VUkyUnFrT3JGRm5LQzNFYmJTblBhU3B5TmswUHlKYTF1dVRiTWZ5M25HVVZKZGpiR2tjQy1GV2pSbmNGaF84cE9rUERJSW9C?oc=5",
-      "source": "The New York Times",
-      "ts": 1795762858000,
-      "tag": "league"
-    },
-    {
-      "title": "\"Give me a check for a penny\" - Jalen Brunson and Josh Hart reveal how the Knicks handle free meals in New York - Basketball Network",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUUFFRXR4aEtQS25lb0VxZGpmVzhrTjdvaU5jWHBXQzJsa25Bc0ZEVjFzeGZmeTZBSkNYWm5IVFFJUlUxdDJZcjFHa3c3cDJiTzJLR0pWd0xQekZUeTF0R00tSXJPNW9wQXluckVqLWtRMmhlS25TdHFlc25ZR3l3QjUyRHVYZjVueEVCNGI2V1hJY0lqaTlaZWpwc1ZRbEZaLUZSNEE3TWNTRXZDU29TdkZiaU4teHBTZVJpRWxKdEJOYXc?oc=5",
-      "source": "Basketball Network",
-      "ts": 1795760940000,
-      "tag": "league"
-    },
-    {
-      "title": "Atlanta Hawks vs Boston Celtics Prediction, Picks & Odds | NBA Friday - Sportsgambler",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWE5tQ19zY3lodzQ2dGxuamdQSjU5RmF3R2lMNWV0R2VaOFMwUVJVUVVzRkdjRmhGV3M4WHVieG5UMG5feU1kNmR2eXRMblhsQ0F4Y3BzM2I5R0FBNW1yWFZ3Mzc1dXhlVUlaOHR3QklMMS1pcG1CY3NUTE5STktzd2ppVkNwQkllQkh4UHlteVlrTzV0cVVWT2ZrQzdKR3dNUmNEYktNa0N2R0VwYUZZ?oc=5",
-      "source": "Sportsgambler",
-      "ts": 1795758251000,
-      "tag": "team"
-    },
-    {
-      "title": "Hawks, Celtics clash for NBA Cup East Group C title - CBS Sports",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd083VUVmLTZObk9sM0swSWY1V0xKTUlkZUdZeE90aFU3eU9GNm1GWm9hek9pbG9LQ3drTWtaS2lwTWRKUmU2MHBicnEweDdYVEpPdnhiM2xKdi1oTjh0dVRGczJabXVWbVZCS1hwSnZObXg4SGNUN25RWW80R1NXMjVpVWp4TUZSME95bFlOMA?oc=5",
-      "source": "CBS Sports",
-      "ts": 1795755240000,
-      "tag": "team"
-    },
-    {
-      "title": "LaMelo Ball Injury Update: Timberwolves Get Major News Before Grizzlies Game - Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTVY0MEUzRDJaSkpuU1JuSl9LU29ET2JJT3Q0a00yVFZNLTFFSm4wcWd2b1VuN1ZKUEcwUGdvTGRIbnpzM2dFRFhQQWRoUWt5QlllLWpyNzRnUXJLUmtLaFFSVnVoSkYxZnB5eUNZbnJCWEFQbHJyWG5uN1QweFRwaDh2YlpTR2hGUUxGSnFUVThBOHBI?oc=5",
-      "source": "Yahoo Sports",
-      "ts": 1795748160000,
-      "tag": "league"
-    },
-    {
-      "title": "Exclusive | The \u2018uniquely different\u2019 Quinn Ellis play that sold ESPN analyst on St. John\u2019s star\u2019s NBA potential - New York Post",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTFk3blBacFN3RmRCak5BLVBaMXRCMjdxdmtyQ3JNbmVHcy1BMzNwTXp6R082M293bWFrR29ENm9KOUJVNFJXSXNBVTdIRk8wdUtER0FEREFEblc2RWhxYzRzdnd2M1F5RDBHZWRieWxCaGViTFBfem5vVFBWWjBFLUZ4SUJfelB1RVhWWDRSOHhsZGhXMk1MeFhGcDZtVks0QU1CTlA3N0VOWE1jX3FwVlBFNA?oc=5",
-      "source": "New York Post",
-      "ts": 1795739700000,
-      "tag": "league"
-    },
-    {
-      "title": "Brown out again with hamstring injury for Sixers' last NBA Cup group game - NBC Sports Philadelphia",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQVhiNWtRclYtN2RGQTR2cFNNU003WEJfaTNUMmtCdUpnc2ktYVk1WmFmanlBMFVMOWZWWnhjQXJfRExxNlQ1a2VhNjU4ajhNT2k3eTBMQV80ZDdONUR6UVpmcmk3X25RSDdQVTd0dFBlTWhEQ01mOTg3UnRyZjd0cktDX1hQOFhRY0EtYTlZUXF0N2pkRDB0NXR5bkRpZnV0dmI5ekdRZTVtWkgtUXg4VkFfN0doRWREcVBmeUhNWdIBxwFBVV95cUxOZlJ3N2xxZ09vVkJKWmNLc2U1VlJVSzVpQll6aldaSnAzZXpjbXM0SGNKdVoyMEN4NEpwU1hrdEY0d2h3ekotWlVkTEo4ZXBLdlBYdVJVM3B3c2FObWp4RUc5cXpIVlZVWl9yVTdvc1d2TGE1RzVWWE9TalUxSm42Q0RRd0VfSHdINEFkUDkzc3diLUNOWlppeUNBdF9US2lUYXhiSW5ITm16QlBJa0UtTTJocldNQ3ZFUEF0dEpyeWljU2huUFhZ?oc=5",
-      "source": "NBC Sports Philadelphia",
-      "ts": 1795738927000,
-      "tag": "league"
-    },
-    {
-      "title": "Jaylen Brown out against Pacers; Joel Embiid (illness) questionable - ESPN",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcGNVcE0yTHlqUWtEOHRPUFZ0dF9EVkx6LXEzMXlNS3JSWldvM2NfYV9kSWN5emh5VEtSMFlNYWJidFF6cmlieVBvWVVIenRzM2RkeTZscjRpaHBKVW1zUGt6SHRnVjlJc2FPRGpJOGp0N3ktcWNmNzVNMUM4SEFhS2dQVm5DaWNhTFA5LTFMSkE?oc=5",
-      "source": "ESPN",
-      "ts": 1795731780000,
-      "tag": "league"
     }
   ],
   "pushed": [
-    "rumorokcthundercouldtradeforfamiliarfacetohelp202627seasonok",
-    "nbarumorsmarcsteinfloatsdreamthundertradetargetbutpriceiscur",
-    "atrademorecostcuttingwhereokccouldbeheadedthisseasonespn",
-    "nbatraderumorsmonitoringsunsstarlakerstaxissuetyjeromeheavyc",
-    "nbainsiderprovidesupdateonrocketstradeplanssportsillustrated",
     "rumorokcthundercouldlooktotradeforthisyoungkingsplayerokcthu",
     "nbasunprecedentedearlyseasoninjurycrisishasplayersandcoaches",
     "hawksvsheatpreviewinjuryreportandprojectedstartersfortonight",
@@ -716,6 +711,11 @@
     "mitchellrobinsoninjuryreportaddsuncertaintyforcelticshawkscl",
     "lukadon\u010di\u0107revealshewantedwalkerkesslerhelpedpushlakersgmrobp",
     "tatumcelticscanclinchnbacupgroupvsrestedhawks3keysinjuryrepo",
-    "fantasyfootballweek12injuryreportlastminutepivotsforsundayan"
+    "fantasyfootballweek12injuryreportlastminutepivotsforsundayan",
+    "warriorsreceivegoodstephcurrynewsamidobliqueinjuryyahoosport",
+    "goldenstatewarriorsrulestephcurryoutfornext3gameswithoblique",
+    "stephencurryinjuryupdate112726nbacom",
+    "mrion76ersstarjaylenbrownslefthamstringshowednonewinjuryespn",
+    "nbatraderumorslakersarebuyingclippersaresellingandonebackupb"
   ]
 }
